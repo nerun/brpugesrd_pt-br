@@ -11,8 +11,8 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #fff;
     border-radius: 50%;
     background-size: contain;
-    height: 192px;
     width: 192px;
+    height: 192px;
     margin: 0 auto 1rem auto; /* top right down left */
 }
 

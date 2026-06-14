@@ -37,7 +37,7 @@ Este produto está licenciado sob a Licença ORC registrada na Biblioteca do Con
 Se você usar nosso Conteúdo ORC, por favor, também nos dê crédito da seguinte forma:
 
 <figure style="margin-left:0;">
-    <!-- A imagem original (257 x 267 px) foi redimensionada para ficar do tamanho aproximado que ela aparece nos documentos PDF/RTF -->
+    <!-- A imagem original foi redimensionada para ficar do tamanho aproximado que ela aparece nos documentos PDF/RTF -->
     <a href="PbBRP.png">
         <img src="PbBRP.png" alt="Logotipo Powered by BRP" width="108" title="Logotipo Powered by BRP">
     </a>
