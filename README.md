@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">
+<h1 align="center">
     Basic Roleplaying: Universal Game Engine
     <br>
     — Documento de Conteúdo ORC —
@@ -13,8 +13,6 @@
   <img src="https://progress-bar.xyz/100/?title=tradução%20(pt-BR)">
   <img src="https://progress-bar.xyz/0/?title=formatação%20e%20revisão">
 </p>
-
----
 
 Em Abril de 2023, a editora _Chaosium Inc._ publicou a nova edição de seu aclamado jogo, o [Basic Roleplaying: Universal Game Engine](https://www.chaosium.com/brp-core/), e também disponibilizou o [Basic Roleplaying ORC Content Document](https://www.chaosium.com/getting-started-designing-games) para download em formato PDF e RTF.
 
