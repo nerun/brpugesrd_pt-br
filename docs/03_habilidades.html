@@ -1,0 +1,920 @@
+<!DOCTYPE HTML>
+<html lang="pt-BR" class="rust sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>❌ 3. Habilidades - Basic Roleplaying</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="shortcut icon" href="favicon-09f48f1b.png">
+        <link rel="stylesheet" href="css/variables-8adf115d.css">
+        <link rel="stylesheet" href="css/general-0392ca55.css">
+        <link rel="stylesheet" href="css/chrome-fc474251.css">
+        <link rel="stylesheet" href="css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="fonts/fonts-9644e21d.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="theme/custom-3cb5e639.css">
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "";
+            const default_light_theme = "rust";
+            const default_dark_theme = "rust";
+            window.path_to_searchindex_js = "searchindex-5d0029c5.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc-6382b2b7.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('rust')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Basic Roleplaying</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+                        <a href="https://github.com/nerun/brpugesrd_pt-br" title="Git repository" aria-label="Git repository">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <h1 id="3-habilidades"><a class="header" href="#3-habilidades">3. Habilidades</a></h1>
+<p>Seu personagem deve tomar muitas decisões, enfrentar muitos desafios e realizar muitas tarefas durante o jogo. As ações mais importantes são definidas como <strong>habilidades</strong> que seu personagem pode tentar. Esta seção lista as habilidades mais comuns, define-as e relaciona-as às tarefas que seu personagem pode realizar durante o jogo.</p>
+<p><strong>Habilidades de definição</strong></p>
+<p>Uma habilidade representa um conjunto específico de conhecimento e aptidão. Cada habilidade é classificada em uma escala de percentil de 0 a 100 (ou mais). Isso é chamado de <strong>classificação de habilidade</strong>. Quanto mais alta, melhor.</p>
+<p>A lista de habilidades deste livro está longe de ser completa: jogos diferentes podem exigir habilidades adicionais, e o mestre de jogo é incentivado a criar novas habilidades conforme desejar. Além disso, o mestre de jogo pode querer renomear ou reclassificar as habilidades, eliminando algumas, adicionar novas especialidades (descritas abaixo) ou removê-las, conforme apropriado.</p>
+<h3 id="especialidades-de-habilidades"><a class="header" href="#especialidades-de-habilidades"><strong>Especialidades de habilidades</strong></a></h3>
+<p>Muitas habilidades são amplas e exigem que você defina uma especialidade, um aspecto mais focado dessa habilidade. Arte, por exemplo, é uma categoria ampla, portanto, é dividida em especialidades como Desenho, Pintura, Escultura, Escrita etc. Elas são listadas após o nome da habilidade entre parênteses. Portanto, Arma corpo a corpo (espada) e Arma corpo a corpo (lança) são consideradas duas habilidades diferentes. A critério do mestre de jogo, se o seu personagem não tiver uma classificação de habilidade em uma especialidade apropriada, você pode usar uma habilidade relacionada ou a classificação da especialidade reduzida à metade (arredondando para cima) para fazer rolagens de habilidade.</p>
+<p>**Por exemplo, <em>seu personagem pode usar metade de sua classificação de habilidade em Ciência (Astronomia) para fazer rolagens de habilidade que normalmente exigiriam Ciência (Física) ou Ciência (Matemática), pois essas são habilidades relacionadas. No entanto, essa perspicácia astronômica é inútil se o gamemaster exigir uma rolagem de habilidade de Ciência (Biologia) ou Conhecimento (História).</em></p>
+<h2 id="habilidades-de-uso"><a class="header" href="#habilidades-de-uso"><strong>Habilidades de uso</strong></a></h2>
+<p>Sempre que seu personagem desejar realizar uma ação ou tarefa cujo resultado seja duvidoso, você deve declarar a ação desejada. O gamemaster solicitará uma rolagem de D100 contra a classificação de habilidade apropriada. Em termos gerais, uma rolagem de D100 igual ou inferior à classificação de habilidade modificada garante sucesso na tarefa, enquanto uma rolagem maior que a classificação falha.</p>
+<p>A dificuldade da tarefa ou outros modificadores circunstanciais podem ajustar a classificação de uma habilidade para cima ou para baixo. Os modificadores de dificuldade são <em>Automático</em> (não é necessário rolar), <em>Fácil</em> (a habilidade é dobrada), <em>Médio</em> (nenhuma modificação na habilidade), <em>Difícil</em> (a habilidade é reduzida à metade) e <em>Impossível</em> (sem rolar ou com 01% de chance, a critério do gamemaster). Consulte <strong>Modificação de rolagens de ação</strong> para obter mais informações. Se nenhum modificador for indicado, presuma que a rolagem está na dificuldade <em>Média</em>.</p>
+<p>Na maioria dos casos, a habilidade apropriada para uma determinada ação é óbvia. Entretanto, circunstâncias imprevistas podem levar a novos usos de uma habilidade. Você é incentivado a encontrar aplicações alternativas para as habilidades do seu personagem, mas todos esses usos de habilidades devem ter a aprovação do gamemaster.</p>
+<p>Embora muitas habilidades sejam orientadas para ações, elas também indicam conhecimento geral dos tipos de tarefas regidas por essa habilidade.</p>
+<p>**Por exemplo, um guerreiro medieval pode usar a habilidade Arma corpo a corpo (Espada) em vez de Avaliação para avaliar a qualidade de uma espada. A habilidade Martial Arts (Artes Marciais) também pode ser usada para saber sobre os diferentes dojos em uma cidade e quem são seus senseis.</p>
+<h3 id="rolagens-de-habilidades-secretas-ou-ocultas"><a class="header" href="#rolagens-de-habilidades-secretas-ou-ocultas">Rolagens de habilidades secretas ou ocultas</a></h3>
+<p>O mestre de jogo também pode fazer rolagens de perícia para o seu personagem, nos casos em que ele não quiser que você saiba o resultado dessa rolagem de perícia ou que você saiba que uma rolagem de perícia está sendo feita. O mestre de jogo pode querer manter uma cópia da sua ficha de personagem à mão ou pode pedir uma lista dos níveis atuais do seu personagem em habilidades relevantes (especialmente habilidades de Percepção) para que as rolagens secretas possam ser feitas sem alertar você e os outros jogadores de que seus personagens podem estar perdendo algo quando as rolagens de habilidade falharem. Esse método permite que o mestre do jogo use as rolagens que falharam para potencialmente enganar ou desviar você, o que é uma tática útil para rolagens baseadas em Percepção ou Mental.</p>
+<p>Algumas das rolagens de habilidade mais óbvias que podem ser realizadas em segredo, ou sem que você saiba o resultado, são as seguintes: Avaliação, Arte, Barganha, Comando, Artesanato, Disfarce, Etiqueta, Conversa Rápida, Jogo, Esconder-se, Percepção, Conhecimento, Linguagem, Ouvir, Alfabetização, Medicina, Navegar, Executar, Persuadir, Psicoterapia, Pesquisa, Ciência, Sentido, Perspicácia, Localizar, Status, Furtividade, Estratégia, Ensinar, Habilidade Técnica e Rastrear. Outras habilidades também podem ser realizadas secretamente, dependendo das circunstâncias.</p>
+<p>Esses lançamentos não precisam ser totalmente secretos, e o mestre de jogo pode informar que um lançamento está sendo feito contra uma habilidade específica. Dependendo do estilo de jogo, você e o mestre de jogo podem optar por fazer lançamentos ocultos, nos quais os dados são lançados em uma área em que não é possível ver como eles caem, como atrás de uma tela do mestre de jogo ou outro tipo de ocultação.</p>
+<p>Se a habilidade for bem-sucedida, o mestre de jogo deve informar que o seu personagem usou com sucesso a habilidade apropriada e permitir uma verificação de experiência, se aplicável. Se a rolagem da habilidade falhar, o mestre de jogo deve informar, desinformar ou abster-se de informar você (e seu personagem) sobre o resultado, conforme apropriado.</p>
+<h3 id="categorias-de-habilidades"><a class="header" href="#categorias-de-habilidades"><strong>Categorias de habilidades</strong></a></h3>
+<p>As habilidades são divididas em seis categorias de habilidades:</p>
+<ul>
+<li>As habilidades de <strong>Combate</strong> medem a proficiência com armas e manobras de combate.</li>
+<li>As habilidades de comunicação regem a conversação, a leitura e as trocas interpessoais.</li>
+<li>As habilidades de manipulação definem tarefas que exigem coordenação precisa entre mãos e olhos.</li>
+<li>As habilidades mentais medem o conhecimento específico e o julgamento individual.</li>
+<li>As habilidades de percepção coletam e interpretam informações do ambiente.</li>
+<li>As habilidades físicas governam os feitos de força, agilidade e atletismo.</li>
+</ul>
+<p>As categorias de habilidades servem como guias gerais para os tipos de ações que uma habilidade pode realizar, além de oferecer uma estrutura para que você e o gamemaster criem novas habilidades. As categorias de habilidades vinculam as classificações de habilidades do seu personagem às pontuações das características mais influentes por meio de bônus de categoria, um sistema opcional.</p>
+<h3 id="novas-habilidades"><a class="header" href="#novas-habilidades">Novas habilidades</a></h3>
+<p>Há linhas em branco na seção de habilidades da ficha de personagem. Elas são para novas habilidades que você ou o gamemaster podem criar. Por exemplo, o <em>Capítulo 4: Poderes</em> introduz uma nova habilidade opcional chamada Projeção, usada em conjunto com muitos poderes. Você pode sugerir e definir uma nova habilidade, mas somente o mestre de jogo pode permitir seu uso no jogo.</p>
+<h3 id="alterando-a-lista-de-habilidades"><a class="header" href="#alterando-a-lista-de-habilidades"><strong>Alterando a lista de habilidades</strong></a></h3>
+<p>Da mesma forma que você e o mestre de jogo podem criar novas habilidades, é possível renomear as habilidades para se adequarem a um ambiente específico. Por exemplo, Fine Manipulation (Manipulação fina) pode ser renomeada para Devise (Engenho) ou Pick Lock (Arrombamento) para um ambiente medieval ou de fantasia. Seu mestre de jogo também pode optar por eliminar completamente certas habilidades se elas não se adequarem ao seu estilo de jogo. É altamente recomendável que essas alterações sejam determinadas antes da criação do personagem e deixadas claras, para que você não selecione habilidades que possam ser descartadas ou alteradas pelo mestre de jogo.</p>
+<h3 id="bônus-por-categoria-de-habilidade"><a class="header" href="#bônus-por-categoria-de-habilidade">Bônus por categoria de habilidade</a></h3>
+<p>Conforme descrito em <strong>Bônus de categoria de habilidade</strong>, seu personagem recebe um bônus ou penalidade para categorias de habilidade com base em suas pontuações de características. Aplique o bônus de categoria a cada habilidade dessa categoria, além da chance básica listada, se houver, conforme listado na descrição da habilidade. Consulte a <strong>Tabela de bônus de categoria de habilidade</strong> para obter as fórmulas usadas para calcular os bônus de categoria de habilidade.</p>
+<h3 id="chances-de-base"><a class="header" href="#chances-de-base"><strong>Chances de base</strong></a></h3>
+<p>A maioria das pessoas razoavelmente saudáveis e em boa forma física consegue balançar um taco, subir em uma árvore ou falar sua língua nativa. Cada habilidade, portanto, tem uma chance básica associada a ela: presume-se que seu personagem tenha essa classificação básica na habilidade antes de qualquer ponto de habilidade adicional ser adicionado. Se os bônus de categoria de habilidade (consulte <strong>Bônus de categoria de habilidade</strong>) estiverem sendo usados, adicione-os (ou subtraia-os) da chance básica de cada habilidade.</p>
+<p>A chance básica de uma habilidade depende muito da época da campanha: os personagens de uma campanha ambientada na Europa medieval têm classificações básicas mais altas em Conhecimento (Religião) do que os cidadãos americanos modernos, enquanto os cidadãos americanos podem ter uma vantagem em habilidades médicas devido ao treinamento rudimentar em primeiros socorros nas escolas públicas e no local de trabalho. Cada descrição de habilidade lista várias chances básicas para diferentes épocas, conforme apropriado. O mestre de jogo deve se sentir à vontade para alterar as chances básicas das habilidades para se adequar a diferentes cenários.</p>
+<h3 id="agindo-sem-habilidade"><a class="header" href="#agindo-sem-habilidade">Agindo sem habilidade</a></h3>
+<p>Às vezes, seu personagem precisa tentar uma ação usando uma habilidade sem nenhuma classificação de habilidade (0%). Se o mestre de jogo concordar que é possível ser bem-sucedido na tarefa, faça uma rolagem usando uma destas opções:</p>
+<ul>
+<li>Bônus de categoria de habilidade:** Se estiver usando o sistema opcional de categoria de habilidade, use o modificador de categoria de habilidade como a chance básica. Às vezes, o talento bruto pode superar a falta de treinamento. Se for bem-sucedido e a habilidade puder ser aprimorada pela experiência, deverá ser feita uma verificação de experiência.</li>
+<li>Chance selvagem:** Tente, mas com apenas 1% de chance de sucesso ou um último esforço de “Ave Maria” de POW×1 se a sorte cega puder ser um fator, com a aprovação do gamemaster. Nenhuma verificação de experiência é permitida para isso, pois se trata de sorte cega contra qualquer tipo de habilidade ou talento natural.</li>
+</ul>
+<h3 id="medição-das-classificações-de-habilidades"><a class="header" href="#medição-das-classificações-de-habilidades">Medição das classificações de habilidades</a></h3>
+<p>As classificações de habilidade de seu personagem definem suas capacidades durante o jogo. Mas o que significa uma determinada classificação de habilidade em termos mais gerais? Use as seguintes diretrizes como um guia para a proficiência. Em determinados níveis de habilidade e em circunstâncias não críticas ou não dramáticas, talvez nem seja necessário rolar - em condições rotineiras, os personagens em um determinado nível de competência podem executar regularmente essas habilidades sem precisar rolar para obter sucesso, embora o sucesso <em>automático</em> não mereça verificações de experiência.</p>
+<p><strong>Tabela de classificação de habilidades</strong></p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Skill Rating</strong></th><th><strong>Competency</strong></th><th><strong>Description</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>00-05%</td><td>Novato</td><td>Um completo amador com pouca esperança de ser bem-sucedido mesmo em tarefas fáceis. Você deve rolar cada vez que seu personagem tentar essa habilidade, seja em uma situação de estresse ou em circunstâncias ideais.</td></tr>
+<tr><td>06-25%</td><td>Neófito</td><td>Iniciante ou com pouco conhecimento do assunto em questão. Como se costuma dizer, “sabe o suficiente para ser perigoso”. Ocasionalmente obtém sucesso e, como resultado, pode se tornar excessivamente confiante. Role sempre que seu personagem tentar essa habilidade, mesmo que a tarefa seja Fácil.</td></tr>
+<tr><td>26-50%</td><td>Amador</td><td>Um pouco de talento, algum treinamento ou um hobby. Seu personagem é pouco qualificado, mas pode ser encarregado de tarefas automáticas ou fáceis. Em situações sem estresse, seu personagem pode realizar atividades rotineiras usando essa habilidade sem precisar rolar.</td></tr>
+<tr><td>51-75%</td><td>Profissional</td><td>Com 51%, seu personagem pode ganhar a vida de forma confiável usando essa habilidade. Normalmente, ele não precisa se preocupar em falhar em tarefas fáceis e é experiente ou proficiente o suficiente para servir como líder ou gerente de outras pessoas. Um 51% é aproximadamente igual a um diploma de bacharel em uma disciplina específica. A maioria das habilidades não pode ser elevada acima de 75% somente por meio de educação ou treinamento: seu personagem deve avançar mais por meio do uso prático. Em geral, seu personagem pode realizar atividades rotineiras ou até mesmo complexas relacionadas à habilidade, e só é necessário rolar quando houver um elemento de risco ou quando a chance de fracasso for dramática.</td></tr>
+<tr><td>Expert</td><td>Conhecimento avançado no campo em questão: seu personagem tem uma chance razoável de ser bem-sucedido mesmo em tarefas difíceis. Somente profissionais dedicados alcançam tal domínio de uma determinada habilidade, e aqueles que o fazem são respeitados e confiados em sua experiência. As habilidades nessa faixa correspondem a um grau avançado (mestrado ou doutorado) ou a muitos anos de experiência. A maioria dos personagens comuns não pode começar o jogo com nenhuma habilidade superior a 75%. Seu personagem deve ser capaz de realizar ações complexas e desafiadoras relacionadas a essa habilidade em circunstâncias rotineiras sem rolar, desde que dedique tempo e tenha as instalações e/ou os equipamentos adequados disponíveis.</td><td></td></tr>
+<tr><td>91% ou mais</td><td>Mestre</td><td>Poucos atingem esse nível de domínio. Somente as tarefas mais difíceis estão além de suas habilidades, e sua perícia provavelmente tornou esses mestres famosos em seu campo e, às vezes, no mundo em geral. Em situações rotineiras, seu personagem pode realizar quase milagres, e você raramente precisará rolar os dados, exceto nas tarefas mais difíceis ou em circunstâncias terríveis. Se as regras opcionais de Sanidade estiverem sendo usadas em uma campanha, atingir uma classificação de 91% em uma habilidade restaura instantaneamente 2D6 pontos de SAN, representando a autoconfiança e a disciplina associadas ao domínio de uma habilidade (esse é um bônus único). Se seu personagem começar com essa classificação de habilidade ou superior, não haverá ganho de SAN.</td></tr>
+</tbody>
+</table>
+</div>
+<h2 id="lista-de-habilidades-por-categoria"><a class="header" href="#lista-de-habilidades-por-categoria"><strong>Lista de habilidades por categoria</strong></a></h2>
+<p>Segue uma lista completa das habilidades divididas por categoria.</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Combate</strong></th><th><strong>Comunicação</strong></th><th><strong>Manipulação</strong></th><th><strong>Mental</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>Artilharia (vários)</td><td>Pechincha</td><td>Arte (vários)</td><td>Avaliação</td></tr>
+<tr><td>Artilharia (vários)</td><td>Barganha</td><td>Arte (vários)</td><td>Avaliação</td></tr>
+<tr><td>Arma de energia (vários)</td><td>Disfarce</td><td>Demolição</td><td>Jogos</td></tr>
+<tr><td>Arma de fogo (vários)</td><td>Etiqueta (vários)</td><td>Manipulação fina</td><td>Conhecimento (vários)</td></tr>
+<tr><td>Conhecimento (vários)</td><td>Conhecimento (vários)</td><td>Grapple</td><td>Fast Talk</td></tr>
+<tr><td>Arma pesada (vários)</td><td>Linguagem (vários)</td><td>Reparo (vários)</td><td>Medicina</td></tr>
+<tr><td>Artes marciais</td><td>Performance</td><td>Perícia</td><td>Psicoterapia</td></tr>
+<tr><td>Persuadir</td><td>Ciência (vários)</td><td>Arma corpo a corpo (vários)</td><td></td></tr>
+<tr><td>Arma de mísseis (vários)</td><td>Status</td><td>Estratégia</td><td>Parry (vários)</td></tr>
+<tr><td>Habilidade técnica (várias)</td><td></td><td></td><td></td></tr>
+<tr><td>Escudo</td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+</div>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Percepção</strong></th><th><strong>Físico</strong></th><th><strong>Físico</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>Insight</td><td>Escalar</td><td>Projeção (opcional)</td></tr>
+<tr><td>Escutar</td><td>Esquivar-se</td><td>Andar (vários)</td></tr>
+<tr><td>Navegar</td><td>Dirigir (vários)</td><td>Furtividade</td></tr>
+<tr><td>Pesquisa</td><td>Voar</td><td>Nadar</td></tr>
+<tr><td>Sentir</td><td>Esconder-se</td><td>Arremessar</td></tr>
+<tr><td>Localizar</td><td>Pular</td><td>Pular</td></tr>
+<tr><td>Rastrear</td><td>Pilotar (vários)</td><td>Rastrear</td></tr>
+</tbody>
+</table>
+</div>
+<p>**Lista alfabética de habilidades</p>
+<p>Segue uma lista em ordem alfabética de todas as habilidades desta seção. Cada entrada lista a categoria da habilidade e sua chance básica.</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Skill</strong></th><th><strong>Category</strong></th><th><strong>Base %</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>Avaliação</td><td>Mental</td><td>15%</td></tr>
+<tr><td>Arte (várias)</td><td>Manipulação</td><td>05%</td></tr>
+<tr><td>Artilharia (vários)</td><td>Combate</td><td>por especialidade de arma</td></tr>
+<tr><td>Barganha</td><td>Comunicação</td><td>05%</td></tr>
+<tr><td>Briga</td><td>Combate</td><td>25%</td></tr>
+<tr><td>Escalada</td><td>Físico</td><td>40%</td></tr>
+<tr><td>Comando</td><td>Comunicação</td><td>05%</td></tr>
+<tr><td>Manipulação</td><td>05%</td><td>Demolição</td></tr>
+<tr><td>Demolição</td><td>Manipulação</td><td>01%</td></tr>
+<tr><td>Disfarce</td><td>Comunicação</td><td>01%</td></tr>
+<tr><td>Esquiva</td><td>Físico</td><td>DEX×2</td></tr>
+<tr><td>Arma de energia (vários)</td><td>Física</td><td>20% ou 01%</td></tr>
+<tr><td>Arma de energia (vários)</td><td>Combate</td><td>por especialidade de arma</td></tr>
+<tr><td>Etiqueta (vários)</td><td>Comunicação</td><td>05%</td></tr>
+<tr><td>Comunicação</td><td>Conversa rápida</td><td>Comunicação</td></tr>
+<tr><td>Manipulação fina</td><td>Manipulação</td><td>05%</td></tr>
+<tr><td>Arma de fogo (várias)</td><td>Combate</td><td>por especialidade de arma</td></tr>
+<tr><td>Primeiros socorros</td><td>Mental</td><td>30%</td></tr>
+<tr><td>Voo</td><td>Físico</td><td>DEXx4 ou 1/2 DEX</td></tr>
+<tr><td>Jogo</td><td>Mental</td><td>INT+POW</td></tr>
+<tr><td>Agarrar</td><td>Combate</td><td>25%</td></tr>
+<tr><td>Máquina pesada (vários)</td><td>Manipulação</td><td>01%</td></tr>
+<tr><td>Arma pesada (várias)</td><td>Combate</td><td>por especialidade de arma</td></tr>
+<tr><td>Esconderijo</td><td>Físico</td><td>10%</td></tr>
+<tr><td>Insight</td><td>Percepção</td><td>05%</td></tr>
+<tr><td>Salto</td><td>Físico</td><td>25%</td></tr>
+<tr><td>Conhecimento (vários)</td><td>Mental</td><td>05% ou 00%</td></tr>
+<tr><td>Conhecimento (vários)</td><td>Linguagem (vários)</td><td>Comunicação</td></tr>
+<tr><td>Escuta</td><td>Percepção</td><td>25%</td></tr>
+<tr><td>Alfabetização (opcional)</td><td>Mental</td><td>00% ou igual a Idioma</td></tr>
+<tr><td>Artes marciais</td><td>Combate</td><td>01%</td></tr>
+<tr><td>Medicina</td><td>Mental</td><td>05%</td></tr>
+<tr><td>Arma corpo a corpo (várias)</td><td>Combate</td><td>por especialidade de arma</td></tr>
+<tr><td>Arma de mísseis (vários)</td><td>Combate</td><td>por especialidade de arma</td></tr>
+<tr><td>Navegar</td><td>Percepção</td><td>10%</td></tr>
+<tr><td>Parry (vários)</td><td>Combate</td><td>por especialidade de arma</td></tr>
+<tr><td>Desempenho</td><td>Comunicação</td><td>05%</td></tr>
+<tr><td>Persuadir</td><td>Comunicação</td><td>15%</td></tr>
+<tr><td>Pilotar (vários)</td><td>Físico</td><td>01%</td></tr>
+<tr><td>Projeção</td><td>Física</td><td>DEX×2</td></tr>
+<tr><td>Psicoterapia</td><td>Mental</td><td>01% ou 00%</td></tr>
+<tr><td>Reparo (vários)</td><td>Manipulação</td><td>15%</td></tr>
+<tr><td>Pesquisa</td><td>Percepção</td><td>25%</td></tr>
+<tr><td>Cavalgar (vários)</td><td>Físico</td><td>05%</td></tr>
+<tr><td>Ciência (vários)</td><td>Mental</td><td>01%</td></tr>
+<tr><td>Sentido</td><td>Percepção</td><td>10%</td></tr>
+<tr><td>Escudo</td><td>Combate</td><td>por escudo</td></tr>
+<tr><td>Manipulação</td><td>05%</td><td>Sense</td></tr>
+<tr><td>Visão</td><td>Percepção</td><td>25%</td></tr>
+<tr><td>Status</td><td>Comunicação</td><td>15% ou vários</td></tr>
+<tr><td>Furtividade</td><td>Física</td><td>10%</td></tr>
+<tr><td>Estratégia</td><td>Mental</td><td>01%</td></tr>
+<tr><td>Nadar</td><td>Físico</td><td>25%</td></tr>
+<tr><td>Ensinar</td><td>Comunicação</td><td>10%</td></tr>
+<tr><td>Habilidade técnica (várias)</td><td>Mental</td><td>05%</td></tr>
+<tr><td>Arremesso</td><td>Físico</td><td>25%</td></tr>
+<tr><td>Pista</td><td>Percepção</td><td>10%</td></tr>
+</tbody>
+</table>
+</div>
+<h3 id="habilidades-adicionais-e-complementares"><a class="header" href="#habilidades-adicionais-e-complementares">Habilidades adicionais e complementares**</a></h3>
+<p>Algumas habilidades estão intimamente relacionadas a outras, e a especialização em um campo pode beneficiar outro. Com a permissão do gamemaster, seu personagem pode adicionar temporariamente 1/5 de sua classificação em uma <strong>habilidade complementar</strong> à sua classificação em outra habilidade para rolagens de habilidade. Muitos usos complementares são mencionados nas descrições de habilidades a seguir. Sem dúvida, você e os outros jogadores criarão mais.</p>
+<p>Apenas uma habilidade pode ser complementar a outra quando usada para ajudar em uma determinada rolagem. Se várias habilidades puderem ser aplicáveis ou forem usadas para tentar obter esse bônus, os benefícios não se acumulam - o jogador e o gamemaster devem escolher o bônus mais alto a ser usado, ou o que for mais apropriado para a situação em questão.</p>
+<p>Se a rolagem da habilidade principal for bem-sucedida, seu personagem receberá uma verificação de experiência somente para a habilidade principal, não para a habilidade complementar usada.</p>
+<p><strong>Por exemplo,</strong> <em>seu personagem tem uma habilidade de Medicina de 65% e uma Ciência (Farmácia) de 40%. Ele está tentando tratar um paciente doente. Desde que seu personagem tenha suprimentos médicos e medicamentos suficientes disponíveis, ele pode adicionar 8% (1/5 da classificação de Ciência (Farmácia)) à classificação da habilidade de Medicina, para uma classificação modificada de 73%. Seu personagem não pode adicionar 1/5 de sua habilidade de Primeiros Socorros ou Ciência (Biologia) além do bônus de Farmácia. Nesse caso, o mestre de jogo decide que a habilidade Science (Pharmacy) é a mais apropriada para o bônus.</em></p>
+<p>Um <strong>aumento</strong> de uma habilidade é semelhante, mas funciona de maneira ligeiramente diferente. Se o seu gamemaster permitir, você pode tentar uma rolagem de uma habilidade complementar para apoiar, ou aumentar, outra rolagem de habilidade primária.</p>
+<ul>
+<li>Se a rolagem da habilidade complementar for bem-sucedida, você poderá ajustar a dificuldade da habilidade primária em um passo, como, por exemplo, transformar uma rolagem <em>Difícil</em> em uma <em>Média</em> ou uma tarefa <em>Média</em> em <em>Fácil</em>.</li>
+<li>No entanto, isso não pode ser feito simultaneamente com um bônus de habilidade complementar, e somente um grau de ajuste é possível.</li>
+<li>Se o aumento falhar, a habilidade primária será ajustada em um passo na direção oposta, como, por exemplo, uma habilidade <em>Normal</em> se tornando <em>Difícil</em> devido a confusão ou informações conflitantes.</li>
+<li>Se a rolagem da habilidade de aumento for bem-sucedida, você poderá verificá-la para experiência normalmente, assim como com a habilidade primária. Se a rolagem primária falhar, a habilidade de aumento não receberá uma verificação de experiência.</li>
+</ul>
+<p>Não é possível aumentar uma habilidade e usar um bônus de habilidade complementar simultaneamente para a mesma rolagem de habilidade.</p>
+<h3 id="classificações-de-habilidades-acima-de-100"><a class="header" href="#classificações-de-habilidades-acima-de-100">Classificações de habilidades acima de 100%**</a></h3>
+<p>O bônus de experiência do seu personagem torna possível aumentar as classificações de habilidades acima de 100%. As habilidades acima de 100% usam os sistemas padrão para calcular as chances de sucessos especiais ou críticos, além de oferecer melhores chances de sucesso em tarefas <em>difíceis</em> ou em face de modificadores circunstanciais negativos. Além disso, se o seu personagem tiver uma habilidade de combate superior a 100%, ele poderá receber vários ataques em uma rodada de combate, conforme descrito em <strong>Ataques e defesas superiores a 100%</strong>.</p>
+<h3 id="descrevendo-os-resultados-dos-sucessos"><a class="header" href="#descrevendo-os-resultados-dos-sucessos">Descrevendo os resultados dos sucessos</a></h3>
+<p>Em geral, os resultados das rolagens de habilidade são óbvios, mas, em caso de dúvida, use as seguintes diretrizes para determinar os resultados:</p>
+<ul>
+<li>Um <strong>fumble</strong> geralmente significa que o oposto do resultado desejado foi alcançado, fornecendo informações enganosas, criando algum tipo de contratempo ou até mesmo colocando o personagem em desvantagem.</li>
+<li>Fracasso** significa que o resultado desejado não foi alcançado.</li>
+<li>Um <strong>sucesso</strong> normal significa que um objetivo razoável e médio foi alcançado. O gamemaster é o árbitro final dos resultados, mas o efeito deve ser óbvio.</li>
+<li>Um <strong>sucesso especial</strong> tem o dobro da eficácia de um sucesso normal e/ou fornece informações adicionais sobre o assunto.</li>
+<li>Um <strong>sucesso crítico</strong> tem o triplo da eficácia de um sucesso regular e/ou fornece informações consideráveis sobre o assunto.</li>
+</ul>
+<p>Conforme observado acima, as habilidades em que os resultados são muito específicos e em que são necessários detalhes, mantiveram o resultado definido.</p>
+<h2 id="descrições-de-habilidades"><a class="header" href="#descrições-de-habilidades"><strong>Descrições de habilidades</strong></a></h2>
+<p>Segue uma lista abrangente e alfabética de habilidades. Cada registro contém as seguintes informações:</p>
+<ul>
+<li>Nome da habilidade:** O nome da habilidade.</li>
+<li>Chance base:** A classificação de habilidade que todos os personagens têm na habilidade, especializada por era, se aplicável.</li>
+<li>Categoria:** A categoria de habilidade em que a habilidade se enquadra, para fins de classificação geral e bônus de categoria opcionais.</li>
+<li>Descrição:** Uma breve descrição dos tipos de tarefas que podem ser realizadas usando a habilidade.</li>
+<li>Especialidades:** Uma listagem das especialidades distintas da habilidade, se houver. Nem todas as habilidades com especialidades são elaboradas em uma lista com marcadores - somente aquelas de natureza mais mecânica, como as habilidades de combate, são detalhadas dessa maneira.</li>
+<li>Efeitos:** Os resultados de uma rolagem de habilidade, para cada grau de sucesso, quando necessário. Em resumo, o resultado de uma habilidade é um fumble (o pior resultado possível, geralmente uma rolagem de 99 ou 00), uma falha (uma rolagem acima de sua classificação de habilidade), um sucesso (igual ou abaixo de sua classificação de habilidade), um sucesso especial (1/5 ou menos de sua classificação de habilidade) ou um sucesso crítico (1/20 ou menos de sua classificação de habilidade). <em>O Capítulo 5: Sistema</em> explica isso em detalhes. Consulte também <strong>Descrição de resultados de sucesso</strong>.</li>
+<li>Notas de configuração:** Informações adicionais sobre a habilidade em diferentes configurações. Se essa entrada não estiver presente, a habilidade funcionará sem alterações em quase todas as configurações.</li>
+<li>Notas do sistema:** Regras ou sistemas relevantes, se houver.</li>
+</ul>
+<h3 id="avaliação"><a class="header" href="#avaliação"><strong>Avaliação</strong></a></h3>
+<p><strong>Chance base:</strong> 15%</p>
+<p><strong>Categoria:</strong> Mental</p>
+<p>Use essa habilidade para estimar o valor de um objeto, seja ele uma pintura antiga, uma pedra preciosa, uma arma ou um cavalo de montaria. Uma falha significa que não se tem ideia, enquanto uma falha produz uma informação falsa. Um especial ou crítico fornece informações adicionais.</p>
+<h3 id="arte-vários"><a class="header" href="#arte-vários"><strong>Arte (vários)</strong></a></h3>
+<p><strong>Chance básica:</strong> 05%</p>
+<p><strong>Categoria:</strong> Manipulação</p>
+<p>Use essa habilidade para criar uma obra de arte em pintura ou escultura, ou para compor uma história, um poema ou uma obra musical. Um sucesso crítico ou especial produz um clássico atemporal de valor e prestígio consideravelmente maiores, um fracasso é um trabalho medíocre e uma falha pode prejudicar a reputação do criador. Você usaria o Perform para atuar, dançar, cantar ou tocar um instrumento musical.</p>
+<p><strong>Especialidades:</strong> Caligrafia, Composição, Arte conceitual, Arte digital, Desenho, Pintura, Fotografia, Poesia, Escultura, Esboço, Composição de músicas, Escrita, etc.</p>
+<p><strong>Notas sobre o cenário:</strong> A arte é universal, embora possa ter especialidades específicas de uma época ou de um cenário.</p>
+<h3 id="artilharia-vários"><a class="header" href="#artilharia-vários"><strong>Artilharia (vários)</strong></a></h3>
+<p><strong>Chance básica:</strong> Conforme a especialidade da arma</p>
+<p><strong>Categoria:</strong> Combate</p>
+<p>Use essa habilidade para disparar peças de campo maciças e armas veiculares pesadas, essencialmente qualquer arma grande demais para ser movida ou manobrada por uma única pessoa, como um canhão, trebuchet ou balista.</p>
+<p><strong>Especialidades:</strong> As especialidades são equivalentes aos tipos. Consulte <strong>Artilharia</strong> no <em>Capítulo 8: Equipamento</em> para conhecer os tipos de artilharia.</p>
+<p><strong>Efeitos:</strong> Consulte a <strong>Matriz de ataque e defesa</strong> e a <strong>Tabela de erros de armas de mísseis</strong> para ver os efeitos específicos.</p>
+<p><strong>Notas de configuração:</strong> Adequado para muitas configurações, desde motores de cerco até artilharia moderna ou futurista e armas veiculares. Na maioria dos cenários, é necessário ter experiência militar para aprender essa habilidade.</p>
+<p><strong>Notas do sistema:</strong> Muitas armas grandes exigem uma equipe para serem operadas; tentar usá-las sozinho é uma ação <em>difícil</em> ou pode ser <em>impossível</em>. Pode levar várias rodadas ou até mesmo turnos para carregar e preparar um sistema de armas entre os disparos. Muitas armas de grande porte empregam fogo automático ou disparam explosivos. Consulte <strong>Fogo automático</strong> e <strong>Explosão</strong>. Todos os disparos vão para algum lugar; o mestre de jogo deve decidir onde os disparos perdidos de explosivos ou de energia impactam.</p>
+<h3 id="barganha"><a class="header" href="#barganha"><strong>Barganha</strong></a></h3>
+<p><strong>Chance básica:</strong> 05%</p>
+<p><strong>Categoria:</strong> Comunicação</p>
+<p>Use essa habilidade para pechinchar preços e sempre que opiniões opostas se encontrarem em negociações e compromissos. Use rolagens de habilidades opostas para decidir acordos importantes e rolagens de habilidades simples para tentativas triviais (economizar dinheiro em equipamentos ou acomodações, por exemplo). A barganha tem a ver com compromisso: use Fast Talk (conversa rápida) ou Persuade (persuasão) para resolver argumentos que são absolutamente ganhos ou perdidos. Uma falha pode significar transformar um comerciante em inimigo, o sucesso significa que você consegue um acordo, e melhores resultados geram descontos mais altos ou condições mais favoráveis para o seu lado.</p>
+<h3 id="brawl"><a class="header" href="#brawl"><strong>Brawl</strong></a></h3>
+<p><strong>Chance Base:</strong> 25%</p>
+<p><strong>Categoria:</strong> Combate</p>
+<p>Use essa habilidade para combate desarmado: chutes, socos, cabeçadas, etc.</p>
+<p><strong>Efeitos:</strong> Consulte a <strong>Matriz de Ataque e Defesa</strong> e a <strong>Tabela de Fumbles de Ataque e Defesa com Arma Natural</strong>.</p>
+<p><strong>Notas do sistema:</strong> A Contraventura pode ser usada para aparar (consulte Aparar), mas um aparar bem-sucedido causa dano mínimo de arma no braço ou na perna do aparador, conforme o caso. Usar Brawl contra um inimigo que tenha agarrado seu personagem (consulte Agarrar) é <em>Fácil</em>. Usado em conjunto com Artes Marciais e com os poderes Arma Natural e Combate Desarmado do <em>Capítulo 4: Poderes</em>.</p>
+<h3 id="escalada"><a class="header" href="#escalada">Escalada</a></h3>
+<p><strong>Chance Base:</strong> 40%</p>
+<p><strong>Categoria:</strong> Físico</p>
+<p>Use essa habilidade para subir ou descer paredes, árvores, penhascos ou qualquer outra superfície. Presume-se que haja amplos apoios para as mãos e para os pés: modifique a dificuldade com base nas condições ou na superfície que está sendo escalada. Tropeçar significa que você cairá com força (consulte <strong>Queda</strong>), falhar significa que você ficará preso ou cairá (escolha do gamemaster, com base nas circunstâncias) e sucessos superiores permitem que você escale mais rápido e mais longe.</p>
+<p><strong>Notas do sistema:</strong> Em geral, a escalada é feita a 1/5 da taxa de MOV, e os animais com habilidade natural de escalada podem se mover em sua taxa de MOV total. Subir escadas é <em>Automático</em>. Escadas ou árvores muito altas são <em>Fáceis</em>. Escalar sem usar os pés do personagem é <em>Difícil</em>. Para escaladas prolongadas, o gamemaster deve solicitar uma rolagem de habilidade a cada minuto ou 10 metros de escalada. Seu personagem não pode realizar nenhuma outra ação enquanto estiver escalando, e todas as ações realizadas enquanto estiver agarrado a uma superfície são <em>Difíceis</em>, sendo que qualquer erro causa uma queda.</p>
+<h3 id="comando"><a class="header" href="#comando"><strong>Comando</strong></a></h3>
+<p><strong>Chance básica:</strong> 05%</p>
+<p><strong>Categoria:</strong> Comunicação</p>
+<p>Use essa habilidade para inspirar, dirigir e coordenar subordinados, orientando-os em tarefas complexas e aumentando a eficácia do grupo. Oficiais militares, nobres, políticos e executivos de negócios são feitos ou desfeitos com base em sua capacidade de gerenciar e liderar. Personalidade, voz forte e vontade de ferro são ferramentas de comando inestimáveis. Uma falha incita a insurreição, o fracasso é pouco inspirador e confuso, e o sucesso permite adicionar 1/5 da sua habilidade de comando como um bônus de habilidade complementar a todos os seus subordinados para cada rodada em que você os comanda, desde que eles sigam suas ordens. Jogue a cada rodada em combate ou a cada turno em combate em massa.</p>
+<p><strong>Notas do sistema:</strong> Usado principalmente em combate, embora possa se estender a negociações corporativas, etc. Artilharia, Arma Pesada, Arma Corpo a Corpo, Arma de Mísseis e Estratégia são as habilidades mais apropriadas para receber esse benefício.</p>
+<h3 id="craft-vários"><a class="header" href="#craft-vários"><strong>Craft (vários)</strong></a></h3>
+<p><strong>Chance base:</strong> 05%</p>
+<p><strong>Categoria:</strong> Manipulação</p>
+<p>Use essa habilidade para construir ou fazer coisas, como uma cadeira, uma refeição ou uma casa. Muitas vezes, são necessárias ferramentas especializadas para essa habilidade, o que exige tempo e matérias-primas. Essa habilidade também pode ser usada para identificar como um objeto foi feito e possivelmente identificar o artesão que o fez. Um erro fatal destrói o material e não produz nada de útil; o sucesso significa que funciona e uma qualidade melhor de sucesso produz uma versão mais fina, mais resistente ou mais valiosa do objeto que está sendo fabricado, talvez com qualidades adicionais como +10% ou +20% de eficácia quando usado, pontos de vida mais altos etc. Trata-se de função e praticidade: a criação de objetos apenas para fins estéticos se enquadra em Arte.</p>
+<p><strong>Especialidades:</strong> Ferraria, Carpintaria, Cerâmica, Culinária, Couro, Serralheria, Metalurgia, Pedreiro e outras, conforme apropriado.</p>
+<p><strong>Notas do sistema:</strong> Usar o Craft sem as ferramentas adequadas é <em>difícil</em>. Consulte o <em>Capítulo 8: Equipamentos</em> para obter mais informações sobre como fazer, modificar ou consertar equipamentos. A posse de um bom item de vestuário ou equipamento pode até aumentar o CHA enquanto o item estiver sendo usado ou exibido.</p>
+<h3 id="demolição"><a class="header" href="#demolição"><strong>Demolição</strong></a></h3>
+<p><strong>Chance de base:</strong> 01%</p>
+<p><strong>Categoria:</strong> Manipulação</p>
+<p>Use essa habilidade para armazenar, transportar, colocar e detonar explosivos, desde barris de pólvora até dinamite, coquetéis molotov, explosivos plásticos avançados e bombas de antimatéria. Qualquer pessoa pode simplesmente detonar uma bomba: o objetivo é obter um efeito específico com a explosão; desmoronar um prédio com segurança, destruir uma ponte ou explodir a porta de um cofre sem danificar o conteúdo. A demolição também abrange o conhecimento de acessórios apropriados para explosivos, incluindo cabo de escorva, fusíveis e detonadores. Use Science (Chemistry) para produzir compostos explosivos ou Technical Skill (Habilidade Técnica) para criar outros explosivos. Uma falha significa que o efeito desejado não foi alcançado (uma falha de ignição ou dud) e sucessos superiores produzem resultados mais impressionantes, seja mais dano, menos dano colateral, efeitos especiais como Knockback, área de efeito adicional etc.</p>
+<p><strong>Notas do sistema:</strong> Com uma classificação de habilidade de 60%+, os usos normais dessa habilidade são automaticamente bem-sucedidos. Explosivos instáveis (dinamite suada) podem exigir uma Demolição a cada rodada em que estiverem sendo manuseados ou usados. Demolir uma estrutura maciça (ponte, barragem, bunker ou edifício) é <em>difícil</em>, a menos que seu personagem tenha acesso a plantas ou planos do alvo. Tentar usar essa habilidade sem as ferramentas apropriadas (fusíveis, etc.) ou usar explosivos fora do campo normal de especialização do seu personagem pode ser <em>difícil</em> ou até <em>impossível</em>. Alguns tipos de explosivos, como granadas, podem ser usados sem essa habilidade. Consulte o <em>Capítulo 8: Equipamento</em> para saber mais sobre explosivos e seus efeitos.</p>
+<h3 id="disfarce"><a class="header" href="#disfarce"><strong>Disfarce</strong></a></h3>
+<p><strong>Chance de base:</strong> 01%</p>
+<p><strong>Categoria:</strong> Comunicação</p>
+<p>Use essa habilidade para empregar postura, figurino, voz e outros truques para parecer uma pessoa diferente, ou um tipo diferente de pessoa. Luz fraca, maquiagem teatral e alterações faciais significativas (um corte de cabelo ou peruca, barbas falsas ou um barbear rápido) podem adicionar um bônus de +20%, a critério do gamemaster. Os espectadores que examinam seu personagem disfarçado ou conversam com ele podem fazer um teste de habilidade de Spot ou Insight contra a rolagem de Disfarce do seu personagem para ver através do ardil. Seu personagem disfarçado pode usar a habilidade Fast Talk (Conversa Rápida) para a verificação de oposição se ele envolver o espectador em uma conversa, distraindo-o do escrutínio minucioso. Uma falha é flagrantemente óbvia, um fracasso não engana ninguém que dê uma segunda olhada, e sucessos superiores podem até mesmo adicionar um bônus complementar às rolagens de Comunicação contra aqueles que estão sendo enganados ou dificultar a detecção.</p>
+<p><strong>Notas do sistema:</strong> Usar essa habilidade para se passar por um tipo específico de pessoa (soldado, policial etc.) é uma ação normal. Fazer-se passar por alguém muito diferente (outra espécie, tipo de corpo alternativo, outro gênero etc.) ou por uma pessoa conhecida específica (um nobre, uma celebridade etc.), ou tentar um disfarce sem roupas ou adereços apropriados é <em>difícil</em>. O mestre do jogo pode atribuir penalidades adicionais para barreiras culturais ou de idioma, ou se várias condições <em>difíceis</em> se aplicarem. Um esforço muito grande pode ser simplesmente <em>Impossível</em>.</p>
+<p><strong>Dodge</strong></p>
+<p><strong>Chance base:</strong> DEX×2</p>
+<p><strong>Categoria:</strong> Físico</p>
+<p>A melhor defesa em um combate, como qualquer combatente sabe, é não estar lá. A esquiva permite que seu personagem se esquive dos ataques recebidos, usando a agilidade para evitar ou minimizar os ferimentos.</p>
+<p><strong>Efeitos:</strong> Uma rolagem de Esquiva bem-sucedida modifica o resultado de um ataque bem-sucedido, transformando-o em um fracasso. Um resultado especial para uma rolagem de Esquiva modifica um ataque em dois passos (um sucesso especial se torna uma falha) e um sucesso crítico em uma rolagem de Esquiva modifica um ataque bem-sucedido em três passos (um ataque crítico se torna uma falha). Consulte a <strong>Matriz de Ataque e Defesa</strong> e a <strong>Tabela de Fumbles de Ataque e Parry de Armas Naturais</strong> para ver os efeitos específicos. Uma rolagem de Esquiva bem-sucedida não pode reduzir o sucesso de um ataque recebido abaixo de falha.</p>
+<p><strong>Notas do sistema:</strong> Conforme descrito em <strong>Desquiva</strong> no <em>Capítulo 6: Combate</em>, seu personagem pode se esquivar ou aparar em uma rodada de combate, mas não pode fazer as duas coisas. Se o seu personagem for atacado por muitos inimigos, ele poderá fazer várias tentativas de Esquiva em uma rodada, mas cada rolagem após a primeira é feita com uma penalidade cumulativa de -30% na classificação da habilidade. Alguns ataques de mísseis são <em>difíceis</em> ou <em>impossíveis</em> de se esquivar (consulte <em>Desviar de armas de mísseis</em>).</p>
+<h3 id="drive-vários"><a class="header" href="#drive-vários"><strong>Drive (vários)</strong></a></h3>
+<p><strong>Chance básica:</strong> 20% ou 01% (veja abaixo)</p>
+<p><strong>Categoria:</strong> Físico</p>
+<p>Use Drive para dirigir, manobrar e controlar um veículo terrestre, seja ele puxado por animais ou movido por um motor. Para veículos comuns, a chance básica é de 20%; para veículos desconhecidos/não comuns, é de 01%. Uma falha ao dirigir normalmente significa que o veículo pode não dar partida, ou uma colisão ou acidente. Sucesso significa que seu personagem chega aonde está indo ou consegue corrigir uma condição ruim (como uma derrapagem ou um giro), e sucessos superiores significam mais distância percorrida em menos tempo, menos combustível usado ou algum outro benefício.</p>
+<p><strong>Especialidades:</strong> Automóvel, bicicleta, carruagem, carroça, charrete, trenó puxado por cães, motocicleta, caminhão, trenó etc.</p>
+<p><strong>Notas de configuração:</strong> Ajuste a chance básica de acordo com a familiaridade do usuário, quando apropriado, mas, em caso de dúvida, presuma que os princípios básicos se aplicam.</p>
+<p><strong>Notas do sistema:</strong> A maior parte da condução cotidiana é uma tarefa <em>Automática</em> - uma rolagem de Drive só é necessária em condições adversas ou para uma condução extraordinária (acelerar em uma área movimentada do centro da cidade, perseguir outro veículo, etc.). Para perseguir outro veículo sem ser notado, use uma rolagem de Drive oposta contra o Spot do outro motorista. Para resolver perseguições de veículos, consulte <strong>Perseguições</strong>.</p>
+<h3 id="arma-de-energia-vários"><a class="header" href="#arma-de-energia-vários"><strong>Arma de energia (vários)</strong></a></h3>
+<p><strong>Chance básica:</strong> Conforme a especialidade da arma</p>
+<p><strong>Categoria:</strong> Combate</p>
+<p>Use isso para disparar qualquer tipo de arma portátil de energia direcionada ou feixe (lasers, blasters, disruptores, etc.).</p>
+<p><strong>Especialidades:</strong> Pistola de energia, Rifle de energia, etc. As especialidades são equivalentes aos tipos. Consulte <strong>Classes de armas</strong> no <em>Capítulo 8: Equipamento</em> para saber os tipos de armas de fogo.</p>
+<p><strong>Efeitos:</strong> Veja a <strong>Matriz de Ataque e Defesa</strong> e a <strong>Tabela de Tropeços de Armas de Mísseis</strong> para efeitos específicos. As armas de energia geralmente empalam.</p>
+<p><strong>Notas de configuração:</strong> As armas de energia geralmente só aparecem em cenários futuristas. Qualquer pessoa de uma cultura que não as tenha deve fazer uma rolagem de Ideia <em>Difícil</em> para descobrir como usar uma, e talvez somente depois de vê-la sendo usada. Falhas ou erros podem ser desastrosos, tanto para a arma quanto para o usuário! Pode ser necessário um histórico militar para aprender essa habilidade.</p>
+<p><strong>Notas do sistema:</strong> Algumas armas de energia têm um requisito mínimo de STR e DEX para usar a arma, de acordo com as tabelas de armas no <em>Capítulo 8: Equipamento</em>. As armas de energia não usam modificadores de dano, mas podem ser usadas para ataques direcionados. Elas não podem ser desviadas, embora o movimento e a orientação do alvo possam impor penalidades ao tiro, conforme descrito em <em>Desviar de armas de mísseis</em>. Bloquear tiros de energia com a habilidade Escudo é <em>Difícil</em>.</p>
+<h3 id="etiqueta-vários"><a class="header" href="#etiqueta-vários"><strong>Etiqueta (vários)</strong></a></h3>
+<p><strong>Chance básica:</strong> 05%</p>
+<p><strong>Categoria:</strong> Comunicação</p>
+<p>A maioria das culturas, castas ou grupos tem regras sociais e códigos de comportamento. Vestimentas adequadas, modos de falar, comportamentos específicos, linguagem corporal ou até mesmo julgamentos por combate podem fazer parte da etiqueta de um grupo. Use essa habilidade sempre que seu personagem precisar se comportar adequadamente, seja em um jantar vitoriano, em uma entrevista de emprego importante ou ao entrar em uma família do crime organizado. As rolagens de etiqueta podem conseguir uma audiência com um personagem não-jogador importante ou impressionar os outros com seu conhecimento dos costumes sociais deles. Uma falha representa uma gafe desastrosa, um fracasso não impressiona, e um sucesso ou melhor produz resultados superiores e melhora a recepção.</p>
+<p>Especialidade: Por grupo. Para aprender as maneiras de um segundo grupo, aprenda uma segunda habilidade de Etiqueta com essa especialidade.</p>
+<p><strong>Notas do sistema:</strong> O mestre do jogo só deve solicitar rolagens de etiqueta em circunstâncias importantes: por exemplo, na primeira vez em que interagir com um grupo importante, em uma ocasião significativa ou ao tentar subir de status dentro do grupo.</p>
+<h3 id="fast-talk"><a class="header" href="#fast-talk"><strong>Fast Talk</strong></a></h3>
+<p><strong>Chance básica:</strong> 05%</p>
+<p><strong>Categoria:</strong> Comunicação</p>
+<p>Arma preferida de vendedores, espiões ou vigaristas, use essa habilidade para convencer rapidamente um alvo de algo em que ele talvez não acredite ou para convencê-lo a tomar uma decisão rápida contra seu bom senso. Use-a para blefar ao passar por um porteiro ou para fazer uma venda difícil passar rapidamente. O Fast Talk é rápido de usar e, em geral, temporário: alguns minutos e uma rolagem de Ideia bem-sucedida depois, e o alvo pode voltar a si. Para realmente mudar a opinião de alguém, use as habilidades Bargain (Barganha) ou Persuade (Persuadir). Uma falha geralmente atrai hostilidade, um fracasso não leva a lugar algum, e um sucesso ou algo melhor aumenta a eficácia ou até convence alguém permanentemente de sua posição.</p>
+<p><strong>Notas do sistema:</strong> Uma boa interpretação e/ou um argumento eficaz podem tornar uma tentativa de Fast Talk <em>Fácil</em>, assim como uma interpretação ruim e/ou um argumento frágil podem torná-la <em>Difícil</em>. Tentar falar rápido com um alvo depois que a primeira tentativa de barganhar, falar rápido ou persuadir falhar é <em>difícil</em>.</p>
+<h3 id="manipulação-fina"><a class="header" href="#manipulação-fina">Manipulação fina</a></h3>
+<p><strong>Chance base:</strong> 05%</p>
+<p><strong>Categoria:</strong> Manipulação</p>
+<p>Medida de firmeza e coordenação mão-olho, essa habilidade abrange qualquer uso cuidadoso das mãos e dos dedos. Use-a para abrir fechaduras, desarmar uma armadilha, amarrar ou desamarrar nós e desmontar dispositivos mecânicos. Uma falha atrapalha as coisas, talvez quebrando ou emperrando o item que está sendo manipulado. Sucessos superiores levam menos tempo, facilitam o trabalho no futuro, não mostram sinais de adulteração ou algum outro benefício semelhante.</p>
+<p><strong>Notas do sistema:</strong> Usar essa habilidade sem as ferramentas adequadas, quando necessário, é <em>difícil</em>.</p>
+<h3 id="arma-de-fogo-várias"><a class="header" href="#arma-de-fogo-várias"><strong>Arma de fogo (várias)</strong></a></h3>
+<p><strong>Chance básica:</strong> Conforme a especialidade da arma</p>
+<p><strong>Categoria:</strong> Combate</p>
+<p>Essa habilidade mede a precisão com armas de fogo e proporciona familiaridade com o manuseio, a manutenção e os reparos básicos.</p>
+<p><strong>Especialidades:</strong> Metralhadora, Pistola, Revólver, Rifle, Espingarda, Submetralhadora. As especialidades são equivalentes aos tipos. Consulte <strong>Weapon Classes</strong> no <em>Capítulo 8: Equipamento</em> para conhecer os tipos de armas de fogo.</p>
+<p><strong>Efeitos:</strong> Consulte a <strong>Matriz de ataque e defesa</strong> e a <strong>Tabela de erros de armas de mísseis</strong> para ver os efeitos específicos. As armas de fogo geralmente empalam (consulte o <em>Capítulo 8: Equipamento</em> para obter detalhes).</p>
+<p><strong>Notas de configuração:</strong> Qualquer personagem que não esteja familiarizado com armas de fogo deve fazer uma rolagem de Ideia <em>Difícil</em> para descobrir como usar uma arma se não a tiver visto em uso. Falhas ou erros podem ser desastrosos, tanto para a arma quanto para o usuário!</p>
+<p><strong>Notas do sistema:</strong> Algumas armas de fogo têm um requisito mínimo de STR e DEX, de acordo com as tabelas de armas no <em>Capítulo 8: Equipamento</em>. As armas de fogo não usam modificadores de dano e podem ser usadas para ataques direcionados.</p>
+<h3 id="primeiros-socorros"><a class="header" href="#primeiros-socorros">Primeiros socorros</a></h3>
+<p><strong>Chance base:</strong> 30%</p>
+<p><strong>Categoria:</strong> Mental</p>
+<p>Use essa habilidade para estancar sangramentos, fazer curativos em ferimentos e tratar queimaduras leves, fixar um membro quebrado, ressuscitar alguém que esteja se afogando ou reanimar uma pessoa inconsciente. Ela se estende à triagem e aos cuidados médicos rudimentares, mas tem pouco efeito sobre venenos, doenças ou males físicos sutis: esses devem ser tratados com a habilidade Medicina, embora o seu mestre de jogo possa permitir uma rolagem difícil para o tratamento emergencial de veneno ou doença. Os primeiros socorros levam uma rodada completa de combate e não podem ser realizados normalmente durante o combate. Se for interrompida, a tentativa deve ser reiniciada.</p>
+<p><strong>Efeitos:</strong> Os primeiros socorros têm efeitos específicos:</p>
+<ul>
+<li>Erro:** O paciente recebe 1 ponto de vida geral de dano e sua condição permanece inalterada.</li>
+<li>Fracasso:** Nenhum efeito, e nenhuma outra tentativa de Primeiros Socorros pode ser feita.</li>
+<li>Êxito:** Uma das seguintes opções (escolha do jogador): * Cura 1D3 pontos de vida em um único ferimento ou lesão. * Um personagem com 0 ou pontos de vida negativos nesta rodada ou na anterior pode ser restaurado à vida se o total de pontos de vida for aumentado para 1+. * Reviver um personagem inconsciente. * Parar o dano de sangramento causado por um sucesso especial de sangramento ou qualquer outro dano contínuo a um local atingido
+(consulte <strong>Pontos de vida por local de vida</strong>).</li>
+<li>Especial:** Como acima, mas curando 2D3 pontos de vida.</li>
+<li>Crítico:** Como acima, mas curando 3+1D3 pontos de vida.</li>
+</ul>
+<p><strong>Notas do sistema:</strong> Mantenha o controle de ferimentos individuais, pois os Primeiros Socorros podem ser usados em cada ferimento, potencialmente curando-o até a quantidade de pontos de vida que o ferimento infligiu. Somente uma tentativa pode ser feita por ferimento. Condições perigosas ou insalubres podem tornar as rolagens <em>difíceis</em>. Seu personagem pode adicionar 1/2 de sua classificação de habilidade em Medicina e 1/5 de sua classificação de habilidade em Ciência (Farmácia) como um bônus temporário às rolagens de Primeiros Socorros. Equipamentos médicos modernos (analgésicos, bandagens ou remédios) podem adicionar um bônus de até +20% às classificações de habilidade, enquanto a tecnologia médica futurista (pele artificial em spray, scanners médicos, curandeiros nanotecnológicos) pode tornar todas as rolagens de Primeiros Socorros <em>Fáceis</em>.</p>
+<h3 id="fly"><a class="header" href="#fly"><strong>Fly</strong></a></h3>
+<p><strong>Chance de base:</strong> DEX×4 ou 1/2 DEX (veja abaixo)</p>
+<p><strong>Categoria:</strong> Físico</p>
+<p>Para seres com asas, o equipamento apropriado (cinto antigravitacional, botas de foguete etc.) ou poderes de voo, use essa habilidade para manobrar no ar sem um veículo. Use Fly para realizar manobras aéreas ou acrobacias sem perder o controle, superar um inimigo em combate aéreo ou voar em condições climáticas adversas. A chance básica é DEX×4 para criaturas aladas; 1/2 DEX para todas as outras. Para jet packs, asas-delta etc., use a habilidade Pilot (Piloto). Consulte <strong>Aerial Combat</strong> e <strong>Chases</strong> para obter mais informações.</p>
+<p><strong>Efeitos:</strong> A mosca tem efeitos específicos:</p>
+<ul>
+<li>Tropeço:** Atropele e talvez até caia. Os personagens alados devem fazer uma rolagem bem-sucedida de Stamina ou sofrer 1D3-1 pontos de dano por entorse ou distensão. Um dispositivo trava ou falha e não consegue manter o personagem no ar. O voador cai uma rodada por nível de altitude acima do solo. Faça uma rolagem de Fly <em>Difícil</em> para se manter no ar - a falha significa uma queda (consulte <strong>Queda</strong>).</li>
+<li>Falha:** Fora de curso ou cai em uma altitude indesejável. Não vai a lugar algum.</li>
+<li>Sucesso: Conclui a manobra desejada ou mantém a posição em uma perseguição</li>
+<li>Especial: conclui a manobra desejada e ganha um bônus de +10% na próxima rolagem de Esquiva, Voar ou Ataque feita em combate aéreo.</li>
+<li>Crítico:** Completa a manobra desejada e ganha um bônus de +25% na próxima rolagem de Esquiva, Voo ou ataque feita em combate aéreo.</li>
+</ul>
+<p><strong>Notas do sistema:</strong> Voos curtos e sem intercorrências em condições normais ou moderadas são <em>Automáticos</em>. Consulte <strong>Condições climáticas</strong> para saber os modificadores de voo. São necessárias rolagens de resistência para voos de longo alcance, com o multiplicador de características diminuindo em um a cada quatro horas ou fração delas passadas no ar. O voo normal não gasta pontos de fadiga, enquanto a manobra ou o voo estressante é uma atividade extenuante. Voar enquanto estiver usando armadura ou equipamento pesado incorre em uma penalidade igual ao total atual de ENC do personagem (consulte <strong>Encumbramento</strong>). Um personagem voador que estiver carregando um objeto pesado deve igualar sua força de resistência contra o tamanho do objeto carregado na tabela de resistência para permanecer no ar.</p>
+<h3 id="jogos"><a class="header" href="#jogos">Jogos</a></h3>
+<p><strong>Chance Base:</strong> INT+POW%</p>
+<p><strong>Categoria:</strong> Mental</p>
+<p>Use essa habilidade ao jogar jogos, desde xadrez ou gamão até competições de apostas envolvendo cartas, dados ou outros elementos aleatórios ou estratégicos. Os apostadores ganham a vida usando essa habilidade, mas para a maioria das pessoas ela é apenas uma fonte de entretenimento. Um erro o deixa de fora e, possivelmente, o coloca em dívida, o fracasso significa que você perde a rodada, o sucesso rende uma pequena vitória e sucessos superiores colhem benefícios maiores e talvez até melhorem o status da pessoa.</p>
+<p><strong>Notas do sistema:</strong> Use isso para resolver jogos em que a habilidade e a estratégia desempenham algum papel, com outros jogadores fazendo uma rolagem oposta. Para trapacear, use Sleight of Hand ou Fast Talk, com a oposição de Observe ou Insight. Resultados totalmente aleatórios usam rolagens de Sorte.</p>
+<h3 id="grapple"><a class="header" href="#grapple"><strong>Grapple</strong></a></h3>
+<p><strong>Chance base:</strong> 25%</p>
+<p><strong>Categoria:</strong> Combate</p>
+<p>Use essa habilidade para luta livre ou qualquer luta em que o objetivo seja subjugar um alvo sem causar danos. Normalmente, isso não é letal, mas pode ser usado para causar danos reais.</p>
+<p><strong>Efeitos:</strong> O Grappling tem efeitos específicos:</p>
+<ul>
+<li>Tropeço:** Role na <strong>Tabela de Tropeço de Armas Naturais</strong>.</li>
+<li>Falha:** O alvo escapa de ser agarrado ou uma tentativa de fuga falha.</li>
+<li><strong>Sucesso:</strong> O alvo é agarrado, o atacante pode aplicar um efeito de agarrar (veja <strong>Efeitos de agarrar</strong> abaixo) na próxima rodada se o aperto for mantido.</li>
+<li>Especial: O atacante é automaticamente bem-sucedido em sua próxima rolagem de Grapple para manter o aperto e ganha um bônus de característica de +3 em quaisquer rolagens de resistência para efeitos de grapple feitas nessa rodada.</li>
+<li>Crítico:** O atacante é automaticamente bem-sucedido em sua próxima rolagem de Grapple para manter o domínio, e as características do alvo são reduzidas à metade em quaisquer rolagens de resistência para efeitos de grapple durante o restante dessa rodada de combate.</li>
+</ul>
+<p><strong>Notas do sistema:</strong> O atacante deve fazer um Grapple (agarrar) com sucesso para estabelecer um controle sobre o alvo. Os ataques bem-sucedidos agarram um local de acerto aleatório (se esse sistema for usado). Os Grapples podem ser aparados com a habilidade Grapple: se o defensor aparar com uma arma ou escudo, o atacante automaticamente agarra o braço da arma ou o braço do escudo se a rolagem do Grapple for bem-sucedida. Uma vez estabelecido o aperto, o atacante deve fazer uma rolagem de Grapple bem-sucedida a cada rodada para manter o aperto. A realização de qualquer ação que não seja um dos efeitos do Grapple quebra o controle. Uma vez preso, o alvo pode atacar o atacante se tiver um membro livre, usando Brawl ou qualquer arma pequena (facas ou revólveres). Se ambas as mãos estiverem livres, o alvo pode tentar se agarrar de volta.</p>
+<p>Vários atacantes podem tentar agarrar um único alvo, embora não mais do que dois atacantes possam segurar um único local. Combine as classificações de STR de ambos os atacantes em todos os testes contestados.</p>
+<h4 id="efeitos-de-arrasto"><a class="header" href="#efeitos-de-arrasto"><strong>Efeitos de arrasto</strong></a></h4>
+<p>Um atacante que tenha agarrado seu alvo pode tentar qualquer um dos efeitos a seguir, um por rodada, começando na rodada seguinte à do Grapple. Alguns efeitos só podem ser usados se o atacante tiver agarrado uma parte específica do corpo (veja abaixo). Como alguns efeitos envolvem locais de acerto específicos, o mestre de jogo pode precisar interpretar os resultados.</p>
+<ul>
+<li>Change Hold (Any):** Combine DEX vs. DEX na tabela de resistência. Se for bem-sucedido, o atacante transfere o domínio para um local de acerto diferente de sua escolha. Se não for bem-sucedido, o alvo poderá realizar uma ação, embora o atacante ainda tenha um controle sobre o local original.</li>
+<li>Desarmar o alvo (braço):** O atacante combina STR+SIZ vs. STR do alvo na tabela de resistência. Se o atacante for bem-sucedido, o alvo deixa cair tudo o que estiver em sua mão, e o braço permanece imobilizado. Se não for bem-sucedido, o alvo se agarra ao(s) item(ns) segurado(s), embora seu braço permaneça imobilizado. O atacante mantém o controle.</li>
+<li>Agarrar um segundo local (braço/perna):** O atacante tenta agarrar e segurar outro local de ataque de sua escolha. Compare a DEX do atacante com a DEX+SIZ do alvo na tabela de resistência. Se o atacante vencer, ele agarrará o segundo local e manterá preso o membro já segurado. Se não for bem-sucedido, o alvo imediatamente iguala sua força de resistência contra a força de resistência do atacante na tabela de resistência para quebrar todas as prisões. O atacante pode segurar tantos locais quanto tiver mãos.</li>
+<li>Ferir o alvo (Cabeça/Tórax/Abdômen):** O atacante dá cotoveladas, arranca ou aperta, infligindo 1D3 de dano mais seu modificador de dano ao alvo (geral ou no local atingido). O alvo pode imediatamente igualar sua força de resistência contra a força de resistência do atacante na tabela de resistência para quebrar a imobilização.</li>
+<li>Imobilizar membro (braço/perna):** Combine a força de resistência do atacante com a força de resistência do alvo na tabela de resistência. Se o atacante vencer, nenhuma ação poderá ser realizada com esse membro até que a imobilização seja quebrada. Se não for bem-sucedido, o alvo poderá realizar uma ação, embora o atacante ainda tenha um controle sobre o membro.</li>
+<li>Imobilizar o alvo (cabeça/tórax/abdômen):** Combine a força de resistência do atacante com a força de resistência do alvo na tabela de resistência. Se o atacante vencer, o alvo não poderá realizar nenhuma ação até que a imobilização seja quebrada. Se não for bem-sucedido, o alvo ainda poderá realizar ações, embora o atacante ainda tenha um controle.</li>
+<li><strong>Knockdown Target (Head/Chest/Abdomen):</strong> O atacante automaticamente domina o alvo, arrastando ambos os personagens para a posição de bruços. O alvo deve fazer uma rolagem de Agilidade ou sofrerá 1 ponto de dano geral (ou em um local de acerto aleatório).</li>
+<li>Estrangular o alvo (cabeça):** O alvo deve fazer uma rolagem de CON×1% a cada rodada ou sofrerá 1D3 de dano em seus pontos de vida gerais. O alvo pode imediatamente igualar sua força de resistência contra a força de resistência do personagem do atacante na tabela de resistência para quebrar o estrangulamento. Quando o atacante começar a estrangular, ele não precisará fazer mais rolagens de Grapple a cada rodada para manter o aperto. O alvo deve tentar se libertar (consulte <strong>Sufocamento, afogamento e asfixia</strong>).</li>
+<li>Arremessar o alvo (especial):** Combine o STR+DEX do atacante com o SIZ+DEX do alvo na tabela de resistência. Arremessar um alvo libera qualquer retenção. Se o atacante for bem-sucedido, o alvo será arremessado 1D6 metros, será automaticamente derrubado e deverá fazer uma rolagem de Agilidade ou sofrerá 1D6 de dano geral (ou em um local de acerto aleatório). Uma rolagem de DEX×1% permite que ele aterrisse de pé sem sofrer dano. Se a rolagem não for bem-sucedida, o alvo não é arremessado e pode realizar uma ação, embora o atacante mantenha o controle. Um arremesso pode ser tentado com qualquer membro segurado, mas uma rolagem bem-sucedida com a cabeça simplesmente inflige 1D6 pontos de dano geral (ou ao local do golpe na cabeça) e não resulta em um arremesso.</li>
+</ul>
+<h3 id="máquina-pesada-vários"><a class="header" href="#máquina-pesada-vários"><strong>Máquina pesada (vários)</strong></a></h3>
+<p><strong>Chance de base:</strong> 01%</p>
+<p><strong>Categoria:</strong> Manipulação</p>
+<p>Use essa habilidade para operar qualquer máquina maior do que uma pessoa e qualquer veículo com rodas mais pesado do que uma van em movimento, como uma empilhadeira, tanque, escavadeira, guindaste, locomotiva ou operar os motores de uma grande embarcação marítima. Máquina pesada também abrange cuidados básicos e manutenção preventiva, embora, quando uma máquina pesada falha, seja necessária uma habilidade de reparo para consertá-la. Para aeronaves, use a habilidade Piloto. Uma falha resulta em um acidente, problemas no motor e/ou danos à propriedade, enquanto uma falha significa que a máquina não realiza a tarefa desejada. Os sucessos e os sucessos superiores indicam maior eficácia.</p>
+<p><strong>Especialidades:</strong> Por tipo de veículo (veículos blindados, caldeiras, escavadeiras, guindastes, motores, turbinas, etc.).</p>
+<p><strong>Notas do sistema:</strong> Em geral, as máquinas pesadas não podem participar de perseguições, mas certos tipos de máquinas podem ser usados como armas, causando danos de 3D6 a 6D6, com base no tamanho do dispositivo. O uso dessa habilidade fora do desempenho normal é <em>difícil</em>, assim como a operação e a manutenção em condições extremas.</p>
+<p><strong>Arma pesada (vários)</strong></p>
+<p><strong>Chance básica:</strong> Conforme a especialidade da arma</p>
+<p><strong>Categoria:</strong> Combate</p>
+<p>Use essa habilidade para operar armas explosivas ou grandes armas de fogo direto que ultrapassam os limites da portabilidade, como bazucas, lançadores de foguetes, metralhadoras pesadas, canhões a laser montados em tripés e outros. Use a habilidade Artillery (Artilharia) para artilharia mais pesada, como canhões, motores de cerco ou armas montadas em veículos ou cavaletes.</p>
+<p><strong>Especialidades:</strong> As armas pesadas estão entre as armas tradicionais e a artilharia e costumam ser usadas para distribuir explosivos. As especialidades são por tipo de arma e incluem bazuca, lança-chamas, mini pistola, lançador de foguetes etc. Consulte <strong>Classes de armas</strong> no <em>Capítulo 8: Equipamentos</em> para obter mais detalhes.</p>
+<p><strong>Efeitos:</strong> Consulte a <strong>Matriz de ataque e defesa</strong> e a <strong>Tabela de erros de armas de mísseis</strong> para ver os efeitos específicos. Armas pesadas geralmente empalam ou causam repulsão.</p>
+<p><strong>Notas sobre o sistema:</strong> A maioria das armas pesadas emprega fogo automático ou dispara munição explosiva. Consulte <strong>Fogo automático</strong> e <strong>Explosões</strong>. Todos os tiros perdidos vão para algum lugar; o mestre de jogo deve decidir onde os tiros explosivos perdidos impactam.</p>
+<h3 id="ocultar"><a class="header" href="#ocultar"><strong>Ocultar</strong></a></h3>
+<p><strong>Chance Base:</strong> 10%</p>
+<p><strong>Categoria:</strong> Físico</p>
+<p>A arte de ocultar um objeto ou a si mesmo da vista. Seu personagem deve usar essa habilidade para escapar durante uma perseguição, manter um objeto longe de detecção fácil ou evitar vigilância. Uma falha significa que a rolagem de Spot para encontrar o ocultador se torna <em>Fácil</em>, um sucesso requer uma rolagem de Spot para ser encontrado e sucessos superiores tornam a rolagem de Spot <em>Difícil</em> ou <em>Impossível</em>.</p>
+<p><strong>Notas do sistema:</strong> As verificações de esconderijo sofrem oposição do Spot de um observador ou pesquisador. A cobertura adequada é essencial; esconder-se em uma cobertura escassa é <em>difícil</em>, e a ausência total de cobertura (campo aberto, em plena luz do dia) torna isso <em>impossível</em>. Roupas ou equipamentos especiais (pintura facial, roupas camufladas etc.) podem adicionar um bônus de até +20%, dependendo da qualidade. As condições ambientais podem oferecer bônus adicionais. Uma pessoa que se esconde deve se manter o mais imóvel possível; mover-se enquanto usa Hide <em>Difícil</em>, e mover-se mais de um metro em uma rodada de combate exige lançamentos de Hide e Stealth. Esconder-se só é eficaz contra a detecção visual e auditiva; sensores avançados podem encontrar um personagem escondido pelo calor do corpo ou um faro apurado pode encontrá-lo usando a habilidade Sense.</p>
+<h3 id="insight"><a class="header" href="#insight"><strong>Insight</strong></a></h3>
+<p><strong>Chance básica:</strong> 05%</p>
+<p><strong>Categoria:</strong> Percepção</p>
+<p>Use essa habilidade para avaliar o caráter, o estado emocional e os motivos de outra pessoa com base na linguagem corporal, nos padrões de fala e em outros fatores intangíveis. A percepção permite que um apostador perceba um blefe ou que um detetive detecte uma mentira. Uma falha fornece informações enganosas, o fracasso não produz nada, o sucesso permite que você saiba o que o alvo pode estar pensando e sucessos superiores revelam seus pensamentos mais íntimos (dentro do razoável).</p>
+<p><strong>Notas do sistema:</strong> Essa habilidade pode ser contraposta por Etiquette (Etiqueta), Fast Talk (Conversa rápida) ou até mesmo Persuade (Persuadir). Usar essa habilidade em amigos íntimos, membros da família ou cônjuges é Fácil. Se estiver usando o sistema <strong>Traços de personalidade</strong>, o Insight pode determinar a força desses traços em termos gerais (como “Muito egoísta”, por exemplo).</p>
+<h3 id="jump"><a class="header" href="#jump"><strong>Jump</strong></a></h3>
+<p><strong>Chance Base:</strong> 25%</p>
+<p><strong>Categoria:</strong> Físico</p>
+<p>Use essa habilidade para pular em altura ou distância e saltar sobre obstáculos. Em circunstâncias normais, um humano em boa forma física pode saltar a sua altura horizontalmente e metade de sua altura verticalmente a partir de uma posição em pé, e cerca de três metros horizontalmente com um início de corrida. Uma falha resulta em uma queda (1D6 de dano geral em pontos de vida ou em um local atingido), um sucesso resulta em um salto conforme descrito acima, um sucesso especial aumenta a quantidade em 50% e um sucesso crítico a duplica. O salto também pode reduzir o dano de queda em 1D6 por nível de sucesso (sucesso normal em -1D6, especial em -2D6, crítico em -3D6).</p>
+<p><strong>Notas do sistema:</strong> Um salto em pé requer 1 nível de DEX. Um salto de corrida usa o mesmo nível de DEX que o movimento normal de corrida. A execução de saltos chamativos ou vistosos (cambalhotas, flips, etc.) é <em>difícil</em>.</p>
+<h3 id="conhecimento-vários"><a class="header" href="#conhecimento-vários"><strong>Conhecimento (vários)</strong></a></h3>
+<p><strong>Chance básica:</strong> 05% ou 00% (veja abaixo)</p>
+<p><strong>Categoria:</strong> Mental</p>
+<p>Essa habilidade representa a experiência ou o estudo acadêmico de um ramo do conhecimento. Use uma habilidade de Conhecimento para lembrar-se de fatos pertinentes, analisar ou identificar pistas, fazer suposições lógicas e lembrar-se de curiosidades impressionantes. Para obter informações mais científicas, consulte Ciência. Um erro resulta em falsidades enganosas e imprecisas, enquanto os acertos produzem informações mais úteis e detalhadas.</p>
+<p><strong>Especialidades:</strong> Contabilidade, Antropologia, Arqueologia, História, Direito, Ocultismo, Religião, etc. (veja a lista ao lado) O mestre de jogo deve determinar se a habilidade Conhecimento tem uma chance básica de 05% para especialidades comuns ou 00% para aquelas que exigem pesquisa e estudo para se ter um entendimento rudimentar.</p>
+<p><strong>Notas de cenário:</strong> Em cenários históricos e de fantasia, existe apenas um pequeno subconjunto de especialidades. À medida que os cenários se tornam mais modernos, as especialidades aumentam.</p>
+<p><strong>Notas do sistema:</strong> A característica opcional EDU e o rolamento de Conhecimento abrangem a maioria dos conhecimentos comuns - as informações especializadas são representadas por uma especialidade apropriada de uma habilidade de Conhecimento.</p>
+<h4 id="especialidades-de-conhecimento"><a class="header" href="#especialidades-de-conhecimento"><strong>Especialidades de conhecimento</strong></a></h4>
+<p>A lista de especialidades a seguir não é de forma alguma abrangente e deve ser ampliada conforme necessário. Algumas especialidades têm subespecialidades, focos específicos em um único assunto dentro desse campo. Escreva-as assim em sua ficha de personagem: Knowledge (Group/Templars) (Conhecimento (Grupo/Templários)) ou Knowledge (Templars) (Conhecimento (Templários)), conforme desejado.</p>
+<p><strong>Conhecimento Acadêmico (somente em Eras Antigas):</strong> Em eras em que todo o conhecimento escrito pode estar contido em uma única biblioteca, isso representa o grau de “erudição” de uma pessoa. Use-o como uma rolagem de Conhecimento para praticamente qualquer área de conhecimento.</p>
+<p><strong>Contabilidade:</strong> Use-o para analisar a contabilidade, a análise financeira (dívida, falência, riqueza, patrimônio líquido etc.) e para identificar irregularidades financeiras (gastos estranhos, desvio de dinheiro ou ganhos inesperados).</p>
+<p><strong>Antropologia:</strong> O estudo das culturas, incluindo costumes, arte e comportamento. Use-a para identificar a cultura nativa de uma pessoa ou artefato ou para determinar os costumes e comportamentos sociais de uma cultura.</p>
+<p><strong>Arqueologia:</strong> O estudo de culturas antigas e desaparecidas. Use-a para identificar um artefato de uma cultura morta, identificar uma falsificação ou conduzir uma escavação e fazer inferências razoáveis sobre a história de um local ou região.</p>
+<p><strong>História da arte:</strong> O estudo da arte de várias épocas e lugares, incluindo estilo, artistas famosos e obras específicas. Use-a para identificar a origem de uma obra de arte, identificar uma falsificação ou atribuir uma obra a um mestre conhecido.</p>
+<p><strong>Conhecimento Blasfemo:</strong> O estudo de segredos ocultos horríveis e males antigos. Quanto mais conhecimento seu personagem tiver, menor será seu controle sobre a sanidade. Consulte as regras opcionais de Sanidade para obter mais informações. A habilidade Blasphemous Lore começa em 0%, não em 05%, e não pode ser aumentada com experiência.</p>
+<p><strong>Negócios:</strong> O estudo de práticas empresariais, regulamentos de guildas, leis corporativas e técnicas de gerenciamento para uma empresa comercial. Use-o para identificar os principais participantes de um campo ou mercado, prever tendências econômicas e obter lucro.</p>
+<p><strong>Espionagem:</strong> Conhecimento de organizações de espionagem, espiões e agentes famosos ou notórios; metodologia, figuras notáveis, organizações, táticas etc. Use-o para conhecer as agências e seu modus operandi. A quebra de código é tratada com Ciência (Criptografia).</p>
+<p><strong>Folclore:</strong> Conhecimento dos costumes, histórias, letras de música, contos e lendas de um determinado povo ou região. Use essa habilidade para identificar ou lembrar elementos de um conto popular ou fábula, seja ele rústico ou sobrenatural.</p>
+<p><strong>Grupo/Subespecialidade:</strong> Informações gerais sobre uma determinada cultura, nacionalidade, grupo, clube ou classe social. Use essa habilidade para identificar um membro desse grupo, saber “quem é quem” dentro desse grupo e lembrar-se dos costumes e hábitos sociais do grupo.</p>
+<p><strong>História:</strong> O estudo de eventos e épocas passadas. Use essa habilidade para lembrar o significado de qualquer lugar, pessoa, evento ou objeto, ou para adivinhar corretamente quando um objeto ou documento foi feito.</p>
+<p><strong>Direito:</strong> O estudo da prática jurídica e dos precedentes. Use essa habilidade para julgar a legalidade de uma ação proposta, encontrar precedentes legais, livrar-se de problemas com as autoridades ou construir um caso a favor ou contra um criminoso.</p>
+<p><strong>Linguística:</strong> O estudo da linguagem em si, desde os fundamentos da gramática e do vocabulário até como as sociedades moldam os idiomas. Use essa habilidade para identificar idiomas desconhecidos, decifrar algumas palavras ou entender um significado básico, embora essa habilidade não substitua a habilidade de Idioma apropriada.</p>
+<p><strong>Literatura:</strong> O estudo de prosa, poesia e ensaios significativos, geralmente de uma única cultura. Use essa habilidade para identificar corretamente uma citação ou alusão a uma obra específica, identificar quando e onde um fragmento desconhecido pode ter sido escrito, atribuir uma obra misteriosa a um autor conhecido, identificar uma falsificação literária ou citar passagens sinistramente apropriadas de obras famosas da literatura.</p>
+<p><strong>Ocultismo:</strong> Conhecimento de magia, lendas obscuras e a chamada “história secreta” que abrange tudo, desde filosofias arcanas até teorias modernas de conspiração. Use essa habilidade para entender o significado de símbolos alquímicos ou astrológicos, identificar qual tradição mágica criou um espaço de trabalho ritual, saber os nomes de espíritos poderosos ou identificar as facções secretas que conspiram para manipular uma situação.</p>
+<p><strong>Filosofia:</strong> O estudo da existência e seu significado, da lógica básica ao existencialismo, niilismo e muito mais. Use essa habilidade para lembrar os preceitos de uma determinada filosofia, identificar as tendências filosóficas do argumento de um autor ou palestrante e participar de um debate filosófico.</p>
+<p><strong>Política:</strong> O estudo e o conhecimento de sistemas políticos ou outros meios de governança impostos ou eleitos pelos cidadãos. Use essa habilidade para entender os principais blocos de poder em uma área, como influenciar a estrutura política e como os cidadãos reagirão a mudanças ou influências políticas.</p>
+<p><strong>Região/Subespecialidade:</strong> Informações gerais sobre uma cidade, região ou nação específica, incluindo pessoas importantes, pontos de referência locais e história regional. Use essa habilidade para encontrar acomodações baratas em uma cidade movimentada, lembrar-se da melhor pousada de beira de estrada da província, entender a política local ou encontrar comerciantes ou negociantes específicos.</p>
+<p><strong>Religião/Subespecialidade:</strong> Detalhes dos mitos, da liturgia e das práticas de uma religião específica. Use essa habilidade para evitar a violação de tabus, relembrar as leis e obrigações de uma fé, debater com sucesso pontos de teologia, identificar regalias ou textos religiosos, diferenciar ortodoxia de heresia ou conduzir adequadamente uma cerimônia religiosa.</p>
+<p><strong>Conhecedor das ruas:</strong> Conhecimento dos segmentos mais obscuros de uma sociedade, desde os protocolos dos pobres até os caminhos do submundo do crime. Use essa habilidade para encontrar um esconderijo, identificar uma cerca para mercadorias roubadas ou saber a quem pedir outros favores semi-legais ou ilegais.</p>
+<h3 id="idioma-vários"><a class="header" href="#idioma-vários"><strong>Idioma (vários)</strong></a></h3>
+<p><strong>Chance básica:</strong> INT×5 (ou EDUx5) ou 00% (veja abaixo)</p>
+<p><strong>Categoria:</strong> Comunicação</p>
+<p>A capacidade de se comunicar verbalmente em um idioma, seja o idioma nativo ou outro. Outros idiomas podem ser aprendidos em casa, na escola, nas ruas ou na escola, dependendo da cultura e da educação. A maioria dos personagens começa a conhecer seu próprio idioma em INT×5. Os personagens bilíngues devem ter gasto pontos de habilidade em outra habilidade de idioma. A conversação cotidiana em seu próprio idioma é <em>automática</em> e não exige rolagem de habilidade. As rolagens de perícia só são necessárias ao comunicar conceitos difíceis ou em situações difíceis e incomuns, como tradução. Essa habilidade abrange a comunicação verbal - a leitura e a escrita usam a Alfabetização. Uma falha significa um desastroso mal-entendido, enquanto os sucessos produzem uma comunicação suave e, às vezes, eloquente.</p>
+<p><strong>Especialidades:</strong> Por idioma. Cada especialidade se aplica a um único idioma; se você quiser que o personagem aprenda um idioma adicional, ele deverá desenvolver uma habilidade adicional de idioma.</p>
+<p><strong>Notas do sistema:</strong> Se a regra opcional EDU for usada, escolha a maior de INT×5 ou EDU×5 para a chance básica. A compreensão de dialetos obscuros ou variedades antigas de um idioma é <em>difícil</em>. Documentos ou conversas complexas ou longas com vários pontos importantes podem exigir vários lançamentos de idioma para serem compreendidos, um para cada ponto. Consulte a <strong>Tabela de fluência de idioma</strong> para obter detalhes sobre como a classificação da habilidade afeta a comunicação e a fluência.</p>
+<h4 id="tabela-de-fluência-em-idiomas"><a class="header" href="#tabela-de-fluência-em-idiomas"><strong>Tabela de fluência em idiomas</strong></a></h4>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Skill Rating</strong></th><th><strong>Fluency</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>01-05</td><td>Conhece apenas algumas dezenas de palavras, sabe contar até 10. Pode comunicar apenas ideias simples. A comunicação complexa (barganha, persuasão etc.) está fora de questão. Por exemplo, “Comida. Por favor, me venda.”</td></tr>
+<tr><td>Consegue atender a solicitações simples, o suficiente para ser compreendido e sobreviver no dia a dia. A comunicação complexa (barganha, persuasão, etc.) é difícil. Por exemplo, “Quanto custa essa perna de cordeiro?”</td><td></td></tr>
+<tr><td>26-50 Comunicação segura. O orador pode falar melhor do que uma criança, conseguindo transmitir a maioria das ideias. As habilidades de comunicação não são restritas, mas certas ações ainda podem ser <em>difíceis</em>. <strong>Por exemplo,</strong> * *“Quanto custa? Mas este cordeiro estava muito mais barato ontem!</td><td></td></tr>
+<tr><td>Permite que o falante conte histórias, sagas, músicas, etc. As expressões idiomáticas e as piadas tornam-se acessíveis. Pode se passar por um nativo. As comunicações complexas agora são roladas com a classificação de habilidade completa do locutor. **Por exemplo, *“Veja esse corte! O cordeiro estava podre antes de ser abatido e claramente não vale nem o suor do trabalhador que o carregou até aqui.</td><td></td></tr>
+<tr><td>76-00 O idioma dos poetas, filósofos, cientistas e diplomatas. O falante não apenas pode se passar por nativo, mas também pode imitar um ou mais dialetos locais. O jargão e as formas obscuras de falar surgem facilmente. **Por exemplo: *“Certamente a avaliação desse espécime de provisão poderia ser reavaliada à luz de seu avançado estado de decomposição.</td><td></td></tr>
+</tbody>
+</table>
+</div>
+<h3 id="ouvir"><a class="header" href="#ouvir"><strong>Ouvir</strong></a></h3>
+<p><strong>Chance Base:</strong> 25%</p>
+<p><strong>Categoria:</strong> Percepção</p>
+<p>Use essa habilidade para ouvir, interpretar e compreender sons, sejam eles murmúrios atrás de uma porta fechada, sussurros furtivos, passos furtivos e galhos estalando. Use essa habilidade para ver se um ruído acorda um personagem que está dormindo ou para ver se ele consegue reconhecer um som ou uma voz específica. O alcance normal para ouvir uma voz humana falando em um volume educado é de 15 metros - as vozes mais altas são mais longe e as mais baixas têm um alcance menor. Uma falha significa um mal-entendido ou ignorância completa de um som, enquanto os sucessos geram consciência e informações sobre sua fonte.</p>
+<p><strong>Notas do sistema:</strong> Ouvir é uma habilidade ativa e passiva: seu personagem pode tentar Ouvir ruídos suspeitos, ou o mestre do jogo pode solicitar rolagens de Ouvir quando apropriado. Oponha Ouvir com Furtividade para resolver tentativas de passar furtivamente por um ouvinte cauteloso ou desavisado. O mestre do jogo pode optar por fazer rolagens de Escuta secretamente e informá-lo do resultado, para evitar revelar algo se a rolagem falhar.</p>
+<h3 id="alfabetização-vários"><a class="header" href="#alfabetização-vários"><strong>Alfabetização (vários)</strong></a></h3>
+<p><strong>Chance básica:</strong> 00% ou igual ao idioma (próprio/outro) (veja abaixo)</p>
+<p><strong>Categoria:</strong> Mental</p>
+<p>A capacidade de ler e escrever é um dado adquirido na era moderna: em eras anteriores, a leitura e a escrita eram produtos da educação de elite e sinais de distinção ou status. Nas sociedades modernas, a chance básica de alfabetização é igual ao idioma básico do personagem (próprio) ou (outro), a menos que se deseje o contrário. Um erro significa um mal-entendido desastroso, um fracasso significa que o significado foi perdido, os sucessos geram informações ou nuances críticas e até mesmo renome pelo trabalho produzido.</p>
+<p><strong>Especialidades:</strong> Por idioma. Cada especialidade se aplica a um único idioma escrito; idiomas adicionais são especialidades de alfabetização separadas. Nas sociedades modernas, a alfabetização é sempre igual à sua habilidade de idioma.</p>
+<p><strong>Notas do sistema:</strong> Compreender dialetos obscuros ou variedades antigas de um idioma escrito é <em>difícil</em>. Documentos complexos ou longos (como livros) com vários pontos de destaque podem exigir várias rolagens de alfabetização, uma para cada ponto.</p>
+<h3 id="artes-marciais"><a class="header" href="#artes-marciais">Artes marciais</a></h3>
+<p><strong>Chance de base:</strong> 01%</p>
+<p><strong>Categoria:</strong> Combate</p>
+<p>Isso representa o estudo e o domínio de um estilo de luta específico. Use essa habilidade para fazer movimentos e golpes específicos que causem o máximo de dano ao alvo. As artes marciais são sempre usadas em combinação com outra habilidade: Brawl, Melee Weapons, Missile Weapons ou Grapple, conforme apropriado. Essa habilidade não é necessária para fazer esses ataques - ela representa um nível maior de treinamento que permite maior eficácia.</p>
+<p><strong>Especialidades:</strong> Por tradição de artes marciais: boxe, capoeira, esgrima, esgrima, jeet kune do, karatê, kenjutsu, kickboxing, kung fu, kyujutsu, pugilismo, savate etc. O mestre de jogo pode limitar os tipos de habilidades de combate que podem ser combinadas com uma arte marcial, como permitir apenas armas de mísseis (arco) com kyujutsu, por exemplo.</p>
+<p><strong>Efeitos:</strong> A habilidade de artes marciais não é rolada separadamente quando se faz um ataque. Role contra a habilidade primária e compare o resultado com a habilidade de Artes Marciais. Os resultados têm os seguintes efeitos:</p>
+<ul>
+<li>Fumble:** Use o resultado de fumble apropriado (consulte as tabelas de ataque e fumble no <em>Capítulo 6: Combate</em>).</li>
+<li>Falha:** Se o resultado da rolagem for superior à classificação da habilidade de artes marciais, mas ainda igual ou inferior à habilidade de combate, o ataque acerta normalmente. Os ataques rolados acima da habilidade de combate falham, independentemente da classificação da habilidade de artes marciais.</li>
+<li>Sucesso: Se o resultado da rolagem for menor ou igual à habilidade de artes marciais e à habilidade de combate, role duas vezes para o dano básico e some o resultado. O modificador de dano de seu personagem nunca é dobrado.</li>
+<li>Especial:** Como acima. Para um sucesso especial, a rolagem de dano básico adicional é adicionada aos efeitos do resultado especial da habilidade de combate, se houver.</li>
+<li>Crítico:** Como acima. Se a rolagem de combate for um sucesso crítico, a proteção de armadura do alvo (natural ou usada) é ignorada e a rolagem de dano base adicional é adicionada aos efeitos do resultado especial da habilidade de combate, se houver.</li>
+</ul>
+<p><strong>Notas do sistema:</strong> A habilidade Martial Arts (Artes marciais) funciona em conjunto com uma outra habilidade de combate e, normalmente, com uma gama restrita de especialidades para essa habilidade. Esse poder pode ser usado em conjunto com a mutação Natural Weaponry (Armas naturais) e o poder Unarmed Combat (Combate desarmado).</p>
+<p>Se vários ataques forem feitos em uma rodada, o atacante deve alocar a habilidade de artes marciais de acordo com a necessidade, dividindo-a como desejar entre os vários ataques ou aplicando-a somente a um único ataque.</p>
+<p>**Por exemplo, se o seu personagem tiver Brawl 120% e Martial Arts 46% e estiver fazendo dois ataques com 60% de alcance, você deve escolher dividir a habilidade Martial Arts entre esses dois ataques (23% cada, ou alguma combinação igual a 46%) ou escolher que ela se aplique a apenas um dos ataques.</p>
+<p>Devido ao seu poder relativo, o mestre de jogo pode determinar que a classificação inicial dessa habilidade seja limitada, que os aumentos dessa habilidade sejam limitados ao treinamento em vez de à experiência normal, que o treinamento seja incrivelmente difícil de obter ou todas essas três condições.</p>
+<h3 id="medicina"><a class="header" href="#medicina"><strong>Medicina</strong></a></h3>
+<p><strong>Chance básica:</strong> 05%</p>
+<p><strong>Categoria:</strong> Mental</p>
+<p>Essa habilidade é usada para diagnosticar e tratar lesões graves, tratar doenças, combater envenenamentos e fazer recomendações gerais de saúde, bem como realizar cirurgias e aconselhar cuidados de longo prazo para condições crônicas de saúde.</p>
+<p><strong>Efeitos:</strong> Os medicamentos têm resultados específicos:</p>
+<ul>
+<li>Erro:** O paciente sofre 1 ponto de vida geral (para ferimentos) durante o tratamento dos ferimentos ou perde um ponto característico (para venenos ou doenças), e sua condição permanece inalterada.</li>
+<li>Fracasso:** A condição do paciente não se altera, e uma segunda tentativa só pode ser realizada no dia seguinte.</li>
+<li>Sucesso:** Escolha um dos seguintes efeitos (escolha do jogador): * Qualquer efeito de uma rolagem de Primeiros Socorros bem-sucedida. * A taxa de cura do paciente dobra de 1D3 para 2D3 pontos de vida por semana. * O dano contínuo de característica ou de pontos de vida causado por veneno ou doença é interrompido. * Um personagem envenenado ou doente é estabilizado e recupera 1D3-1 pontos de vida ou pontos característicos por semana. Esse resultado só pode ser obtido uma vez por semana de tratamento.</li>
+<li>Especial:** Como acima, mas um ferimento é curado em 2D3 pontos de vida ou 1D3 pontos característicos são recuperados.</li>
+<li>Crítico:** Como acima, mas um ferimento ou lesão é curado em 1D3+3 pontos de vida ou 1D3+1 pontos característicos são recuperados.</li>
+</ul>
+<p><strong>Notas do sistema:</strong> Cada uso de Medicine se aplica a uma única enfermidade: uma vez que ela tenha sido tratada e esteja completamente curada, outras rolagens de Medicine bem-sucedidas não terão efeito. Entretanto, outros ferimentos ou males podem ser tratados. Condições inseguras ou insalubres podem tornar as rolagens de Medicina <em>difíceis</em>. Equipamentos ou medicamentos especiais podem acrescentar até +20% à classificação da habilidade, enquanto a tecnologia médica futurista (pele artificial em spray, scanners médicos, curandeiros nanotecnológicos) torna as rolagens de Medicina fáceis. O tratamento de doenças comuns e sem risco de morte é <em>Automático</em>.</p>
+<h3 id="arma-de-combate-várias"><a class="header" href="#arma-de-combate-várias"><strong>Arma de combate (várias)</strong></a></h3>
+<p><strong>Chance de base:</strong> Conforme a arma</p>
+<p><strong>Categoria:</strong> Combate</p>
+<p>Use essa habilidade para manejar um tipo específico de arma em combate corpo a corpo, seja atacando ou aparando.</p>
+<p><strong>Especialidades:</strong> As especialidades são equivalentes às classes de armas. Consulte <strong>Classes de armas</strong> no <em>Capítulo 8: Equipamento</em>. Cada especialidade se aplica somente a armas dessa categoria de arma, mas o mestre de jogo pode permitir o uso de uma classe de arma semelhante como se fosse <em>difícil</em>. Se for bem-sucedido, faça uma verificação de experiência. Se a rolagem de experiência for bem-sucedida, inicie uma nova habilidade com uma especialidade com essa classificação, mais a experiência adquirida.</p>
+<p><strong>Efeitos:</strong> Consulte a <strong>Matriz de ataque e defesa</strong> e a <strong>Tabela de falhas de ataque com arma de combate</strong> e a <strong>Tabela de falhas de apartação com arma de combate</strong> no <em>Capítulo 6: Combate</em> para ver os efeitos específicos.</p>
+<p><strong>Notas do sistema:</strong> Seu personagem pode tentar mais de um aparar por rodada, mas cada rolagem após a primeira é feita com uma penalidade cumulativa de -30%. A critério do mestre de jogo, seu personagem pode empunhar uma arma de uma categoria relacionada ou semelhante, com a rolagem sendo <em>Difícil</em>.</p>
+<h3 id="arma-de-mísseis-vários"><a class="header" href="#arma-de-mísseis-vários"><strong>Arma de mísseis (vários)</strong></a></h3>
+<p><strong>Chance de base:</strong> Conforme a arma</p>
+<p><strong>Categoria:</strong> Combate</p>
+<p>Use isso para empunhar qualquer arma de mísseis automotora portátil, como arcos, bestas, machados de arremesso, lanças, estrelas de arremesso, dardos, zarabatanas, armas de lança ou até bumerangues. Para granadas, use Throw (Arremesso).</p>
+<p><strong>Especialidades:</strong> As especialidades são equivalentes às classes de armas. Consulte <strong>Classes de armas</strong> no <em>Capítulo 8: Equipamento</em>. Cada especialidade se aplica somente a armas daquela categoria de arma, mas o mestre de jogo pode permitir o uso de uma classe de arma semelhante como se fosse <em>difícil</em>. Se for bem-sucedido, faça uma verificação de experiência. Se a rolagem de experiência for bem-sucedida, inicie uma nova habilidade com uma especialidade com essa classificação, mais a experiência adquirida.</p>
+<p><strong>Efeitos:</strong> Consulte a <strong>Matriz de ataque e defesa</strong> e a <strong>Tabela de tropeços de armas de mísseis</strong> para ver os efeitos específicos. As flechas e as armas pontiagudas geralmente empalam. Se quiser saber para onde vai um ataque perdido de arma de mísseis, consulte a habilidade Throw (Arremesso).</p>
+<p><strong>Notas do sistema:</strong> Todas as armas de mísseis têm um mínimo de STR e DEX necessário para usar a arma, conforme listado no <em>Capítulo 8: Equipamento</em>. Normalmente, o modificador de dano do atacante é reduzido à metade para armas de mísseis e, para armas totalmente autopropulsadas (zarabatanas, bestas etc.), o modificador de dano não é aplicado. A arma de mísseis pode ser usada para ataques direcionados.</p>
+<h3 id="navegar"><a class="header" href="#navegar"><strong>Navegar</strong></a></h3>
+<p><strong>Chance Base:</strong> 10%</p>
+<p><strong>Categoria:</strong> Percepção</p>
+<p>Use essa habilidade para encontrar o caminho para um destino, seja com uma bússola, cartas náuticas, as estrelas ou simplesmente usando a percepção, a memória e a intuição como guia. Um erro significa que a pessoa está irremediavelmente perdida e a rolagem subsequente de qualquer pessoa para se livrar da perda é <em>difícil</em>. O fracasso significa atrasos e um ritmo de viagem mais lento, enquanto o sucesso significa encontrar o caminho de forma eficaz e até mesmo fazer um progresso melhor do que o esperado.</p>
+<p><strong>Notas do sistema:</strong> Tente uma rolagem da habilidade Navigate (Navegar) a cada quatro horas de uma jornada em andamento. O uso de um mapa ou bússola pode melhorar a classificação da habilidade em até +20%. Navegar em uma paisagem sem características (no mar, na escuridão ou com mau tempo, em um deserto ou em uma selva densa) sem instrumentos ou mapas é <em>difícil</em>. Auxílios avançados de navegação (tecnologia de serviço de posicionamento global, etc.) ou familiaridade com a área tornam as tentativas de navegação <em>Fáceis</em>.</p>
+<h3 id="parry"><a class="header" href="#parry"><strong>Parry</strong></a></h3>
+<p><strong>Chance de base:</strong> Conforme a arma</p>
+<p><strong>Categoria:</strong> Combate</p>
+<p>Use essa habilidade para usar uma arma ou escudo para aparar ou bloquear um ataque. Essa habilidade é abordada em detalhes no <em>Capítulo 6: Combate</em>. Consulte a <strong>Matriz de ataque e defesa</strong> para obter mais informações. O gamemaster pode determinar que um determinado ataque não pode ser aparado, como o de um atacante muito maior (o dobro ou mais do tamanho do defensor, por exemplo) ou quando o atacante estiver usando um ataque em área ou de varredura.</p>
+<p><strong>Especialidades:</strong> As especialidades são equivalentes às classes de armas ou escudos. Consulte <strong>Classes de armas</strong> no <em>Capítulo 8: Equipamento</em>. Cada especialidade se aplica somente a armas ou escudos dessa categoria de arma, mas o gamemaster pode permitir o uso de uma classe de arma semelhante como se fosse Difícil. Se for bem-sucedido, faça uma verificação de experiência. Se a rolagem de experiência for bem-sucedida, inicie uma nova habilidade com uma especialidade com essa classificação, mais a experiência adquirida.</p>
+<p><strong>Efeitos:</strong> Consulte a <strong>Matriz de Ataque e Defesa</strong> e as <strong>Tabelas de Fumbles de Parry de Arma de Malha</strong> no <em>Capítulo 6: Combate</em> para ver os efeitos específicos.</p>
+<p><strong>Notas do sistema:</strong> Seu personagem pode tentar mais de um aparar por rodada, mas cada rolagem após a primeira é feita com uma penalidade cumulativa de -30%. A critério do gamemaster, seu personagem pode se defender com uma arma ou escudo de uma categoria relacionada ou semelhante, com a rolagem sendo <em>Difícil</em>.</p>
+<h3 id="performance-vários"><a class="header" href="#performance-vários"><strong>Performance (vários)</strong></a></h3>
+<p><strong>Chance básica:</strong> 05%</p>
+<p><strong>Categoria:</strong> Comunicação</p>
+<p>Use essa habilidade para se apresentar, seja atuando, dançando, tocando um instrumento, cantando ou exibindo alguma outra forma de expressão artística. Uma falha é uma humilhação, o fracasso é pouco inspirador, enquanto o sucesso gera atenção positiva, aplausos e, talvez, aclamação da crítica e recompensas financeiras. Se for gravado e distribuído, pode continuar a inspirar e render muito depois da apresentação original.</p>
+<p><strong>Especialidades:</strong> Atuar, reger orquestra, dançar, fazer malabarismo, orar, tocar instrumento (subespecialidade), recitar, fazer rituais, cantar etc.</p>
+<p><strong>Notas do sistema:</strong> O uso bem-sucedido da habilidade Executar (Ritual) pode aumentar um poder mágico ou fazer com que ele tenha benefícios adicionais, a critério do mestre de jogo.</p>
+<h3 id="persuadir"><a class="header" href="#persuadir">Persuadir</a></h3>
+<p><strong>Chance base:</strong> 15%</p>
+<p><strong>Categoria:</strong> Comunicação</p>
+<p>Use essa habilidade para convencer alguém de que uma determinada ideia ou crença é certa, correta ou aceitável, independentemente de sua opinião original (se houver), seja por meio da lógica socrática, do debate estruturado, da oratória inflamada, da empatia ou da intimidação bruta. Os ouvintes podem ser convencidos a agir ou atender a uma solicitação. Como no Fast Talk, a verdade é irrelevante. Diferentemente do Fast Talk, os efeitos da persuasão bem-sucedida duram indefinidamente, até que outra rolagem de Persuade ou uma experiência dramática mude a opinião do sujeito. Uma falha significa que o sujeito pode se tornar hostil, abraçando o oposto da opinião desejada. O fracasso não é convincente. O sucesso influencia sua opinião, e sucessos superiores produzem resultados ainda melhores.</p>
+<p><strong>Notas do sistema:</strong> Usar Persuadir através de uma barreira linguística (se ambos os falantes tiverem menos de 50% no idioma) é <em>difícil</em>, assim como convencer alguém de algo que vai contra sua personalidade ou crenças fundamentais. O gamemaster pode recompensar argumentos eficazes ou uma boa interpretação com um bônus de até +20%. Dependendo das circunstâncias, Persuade pode levar minutos, horas ou até dias, e esforços prolongados podem exigir várias rolagens para serem concluídos.</p>
+<h3 id="piloto-vários"><a class="header" href="#piloto-vários"><strong>Piloto (vários)</strong></a></h3>
+<p><strong>Chance de base:</strong> 01%</p>
+<p><strong>Categoria:</strong> Físico</p>
+<p>Use essa habilidade para dirigir, manobrar e controlar um veículo no ar, sobre ou sob a água ou no espaço. Veículos maiores podem exigir vários pilotos, e uma rolagem deve ser feita a cada quatro horas quando não estiverem em combate, e uma vez por rodada durante o combate ou ao realizar manobras veiculares.</p>
+<p><strong>Especialidades:</strong> Avião, dirigível, balão, barco, helicóptero, hovercraft, aeronave a jato, jetpack, nave estelar, submarino etc. A critério do gamemaster, um piloto pode pilotar uma embarcação com uma especialidade semelhante como se fosse <em>Difícil</em>. Se for bem-sucedido, faça uma verificação de experiência. Se a rolagem de experiência for bem-sucedida, inicie uma nova habilidade com uma especialidade com essa classificação, mais a experiência adquirida.</p>
+<p><strong>Efeitos:</strong> A maior parte da pilotagem cotidiana é <em>Automática</em> - role apenas em condições adversas ou em situações extraordinárias. Um erro quase inevitável faz com que o motor pare ou até mesmo trave; falhar significa que o destino não foi alcançado no prazo desejado; o sucesso leva aonde se deseja; e sucessos superiores geram resultados e pilotagem mais especializados. Consulte <strong>Aerial Combat</strong> e <strong>Chases</strong> para obter mais informações, e a <strong>Chase Trouble Table</strong> para os contratempos.</p>
+<h3 id="projeção"><a class="header" href="#projeção"><strong>Projeção</strong></a></h3>
+<p><strong>Chance base:</strong> DEX×2%</p>
+<p><strong>Categoria:</strong> Físico</p>
+<p>Essa habilidade opcional é usada por personagens que usam poderes para direcionar ataques baseados em poderes. Ela é descrita no <em>Capítulo 4: Poderes</em> e só é usada em jogos com poderes apropriados.</p>
+<h3 id="psicoterapia"><a class="header" href="#psicoterapia"><strong>Psicoterapia</strong></a></h3>
+<p><strong>Chance básica:</strong> 01% ou 00% (veja abaixo)</p>
+<p><strong>Categoria:</strong> Mental</p>
+<p>Use essa habilidade para avaliar e tratar doenças mentais ou traumas, especialmente para restaurar pontos perdidos de Sanidade. Em termos práticos, a psicoterapia pode ser usada para prescrever drogas e medicamentos que, com o tempo, podem suspender, tratar e até reverter psicoses debilitantes ou doenças mentais. A medicação e o questionamento intensivo podem sondar as profundezas de uma psique danificada e trazer de volta a esperança do terror e do desespero. Consulte <strong>Sanidade</strong> para obter mais informações.</p>
+<p><strong>Efeitos:</strong> A psicoterapia tem efeitos específicos:</p>
+<ul>
+<li><strong>Fumble:</strong> Ocorre uma das seguintes situações (escolha do gamemaster): * O paciente deve fazer uma nova rolagem de Sanidade, com perda de 1/1D3 de SAN. * Uma forma de insanidade existente se torna mais intensa, desenvolve algum novo sintoma, etc. * O paciente troca um tipo de insanidade por outro: uma fobia pode diminuir, mas ao custo de um vício em drogas estabilizadoras do humor.</li>
+<li>Fracasso:** O tratamento não tem efeito. O paciente continua o mesmo e não recupera nenhuma RAS perdida nem se cura de nenhum trauma.</li>
+<li>Êxito:** O tratamento é bem-sucedido, com um dos seguintes efeitos: * Após um mês de tratamento, o paciente recupera 1D3-1 SAN. Essa habilidade não pode aumentar a SAN do paciente acima de POW×5 menos quaisquer penalidades apropriadas por conhecimento de horror blasfemo ou indescritível. Consulte <strong>Sanidade máxima</strong> para obter detalhes. * A causa subjacente de uma insanidade é diagnosticada corretamente. * Uma vez diagnosticada a origem de uma insanidade, ela pode ser tratada. Devem ser feitas rolagens separadas para cada doença mental tratada.</li>
+<li>Especial:** Como acima, mas o ganho de SAN é de 1D3.</li>
+<li>Crítico:** Como acima, mas o ganho de SAN é de 1D3+1.</li>
+</ul>
+<p><strong>Notas do sistema:</strong> Essa habilidade destina-se principalmente a jogos em que a Sanidade é usada. O tratamento requer de quatro a cinco horas de terapia por mês por insanidade indefinida. A critério do mestre do jogo, a Psicoterapia pode ser usada para manipular um traço de personalidade como se fosse uma pontuação de SAN, alterando-a positiva ou negativamente pelo mesmo número de pontos com base no resultado rolado acima.</p>
+<p><strong>Notas de configuração:</strong> O aconselhamento psiquiátrico é um conceito relativamente moderno. Para cenários em que não existe tratamento psicológico, a chance básica é de 00%.</p>
+<h3 id="reparo-vários"><a class="header" href="#reparo-vários"><strong>Reparo (vários)</strong></a></h3>
+<p><strong>Chance base:</strong> 15%</p>
+<p><strong>Categoria:</strong> Manipulação</p>
+<p>Equipamentos e outros objetos são danificados ou param de funcionar. Use o Repair para consertá-los ou fazer pequenas modificações e adaptações.</p>
+<p><strong>Especialidades:</strong> Elétrica, Eletrônica, Engenharia, Hidrelétrica, Mecânica, Estrutural, Quântica, etc.</p>
+<p><strong>Efeitos:</strong> Uma falha danifica ainda mais o item e pode até mesmo ferir a pessoa que está fazendo a tentativa de reparo (1D3 pontos de vida para qualquer um dos dois, por exemplo) e torna os reparos posteriores <em>difíceis</em>. O fracasso não leva a nada, o sucesso restaura 1D3 pontos de vida e o item se torna utilizável novamente ou volta a funcionar. Sucessos superiores geram benefícios semelhantes, talvez usando a habilidade de primeiros socorros e o julgamento do mestre de jogo como guia. Um crítico pode até melhorar o item de alguma forma pequena, como aumentar o total de pontos de vida, pontos de armadura ou adicionar um pequeno bônus quando ele for utilizado.</p>
+<h3 id="pesquisa"><a class="header" href="#pesquisa"><strong>Pesquisa</strong></a></h3>
+<p><strong>Chance base:</strong> 25%</p>
+<p><strong>Categoria:</strong> Percepção</p>
+<p>Use essa habilidade para localizar e identificar possíveis fontes de informação em uma biblioteca, arquivo ou rede. As jogadas bem-sucedidas produzem as informações desejadas de livros, documentos, artigos, bancos de dados, arquivos ou sites, sendo que os sucessos superiores concedem informações adicionais ou mais específicas. Apesar da grande variedade de tipos de recursos, os princípios são os mesmos. Normalmente, uma tentativa dessa habilidade leva quatro horas, embora os métodos eletrônicos sejam muito mais rápidos. Uma falha leva a um mal-entendido desastroso e resulta em informações incorretas. O fracasso desperdiça tempo sem nenhum resultado sólido ou fornece o mínimo de informações após o dobro do tempo normal.</p>
+<p><strong>Notas do sistema:</strong> O mestre de jogo é aconselhado a fazer com que uma rolagem de investigação fracassada demore mais tempo, forneça informações ligeiramente enganosas ou complicadas, desperte algum tipo de alarme ou atenção indesejada ou algum outro contratempo que não seja simplesmente não produzir nenhum resultado. O fracasso raramente é agradável em jogos e, no caso de mistérios, pistas inacessíveis são um beco sem saída dramático.</p>
+<h3 id="ride-vários"><a class="header" href="#ride-vários"><strong>Ride (vários)</strong></a></h3>
+<p><strong>Chance base:</strong> 05%</p>
+<p><strong>Categoria:</strong> Físico</p>
+<p>Use essa habilidade para montar, manejar e cuidar de um tipo específico de animal vivo. Com Ride, seu personagem pode conduzir uma montaria em manobras especiais ou em terrenos acidentados, persuadi-la a atingir a velocidade máxima ou manter o controle se ela se retrair ou tropeçar. Um erro fatal causa a perda de controle da montaria, talvez resultando no arremesso ao chão, causando 1D6 pontos de dano (geral ou em um local aleatório). Uma rolagem de Jump bem-sucedida subtrai 1D6 do total de dano, enquanto a montaria galopa em alta velocidade. O fracasso faz com que o animal se esquive, e os sucessos fazem com que ele tenha o desempenho desejado ou até mesmo supere as expectativas. Sucessos superiores podem gerar bônus para ações de combate enquanto estiver montado.</p>
+<p><strong>Especialidades:</strong> Por tipo de animal. Consulte o <em>Capítulo 11: Criaturas</em> para ver exemplos de montarias. A critério do gamemaster, um tipo semelhante de animal pode ser montado como se fosse <em>Difícil</em>. Se for bem-sucedido, faça uma verificação de experiência. Se a rolagem de experiência for bem-sucedida, inicie uma nova habilidade com uma especialidade com essa classificação, mais a experiência adquirida.</p>
+<p><strong>Notas do sistema:</strong> Resolva corridas entre as mesmas raças de animais usando verificações opostas de Cavalgada. As habilidades de Combate e de Cavalgada devem ser 50%+ para lutar normalmente em combate montado. Se a habilidade Ride for inferior a 50%, será necessário fazer um teste de Ride a cada rodada para manter o controle da montaria. Se a habilidade de combate for inferior a 50%, todos os ataques serão difíceis. Mesmo que ambas as habilidades sejam superiores a 50%, use a menor das duas classificações de habilidade para ataques e defesas. Se a montaria cair, desmoronar ou morrer, trate o cavaleiro como se ele tivesse sido arremessado. Consulte <strong>Mounted Combat</strong> para obter mais informações.</p>
+<h3 id="ciência-vários"><a class="header" href="#ciência-vários"><strong>Ciência (vários)</strong></a></h3>
+<p><strong>Chance básica:</strong> 01%</p>
+<p><strong>Categoria:</strong> Mental</p>
+<p>Use essa habilidade para conhecer informações e princípios científicos de um campo específico, observar fenômenos e tirar conclusões baseadas em dados. As informações relacionadas incluem a história da ciência, a familiaridade com o equipamento e a metodologia e a consciência de figuras significativas e escolas de pensamento nessa especialidade.</p>
+<p><strong>Especialidades:</strong> Astronomia, Ciências do Comportamento, Biologia, Botânica, Química (ou Alquimia), Criptografia, Genética, Geologia, Matemática, Meteorologia, História Natural, Farmacologia, Física, Planetologia, Psicologia, Mecânica Quântica, Xenobiologia, Zoologia etc. A critério do gamemaster, a habilidade com uma especialidade relacionada pode ser rolada como se fosse <em>Difícil</em>, embora um rolamento bem-sucedido não gere uma verificação de experiência ou a chance de iniciar uma nova habilidade com essa especialidade.</p>
+<p><strong>Notas do sistema:</strong> Muitas especialidades científicas exigem equipamentos especializados, instrumentos de medição, computadores ou até mesmo um laboratório. As rolagens de ciências podem levar de 30 minutos a semanas ou meses, a critério do gamemaster: quatro horas para um experimento é uma boa média. Tentar uma rolagem de Science sem tempo ou equipamento suficiente é <em>Difícil</em> ou <em>Impossível</em>.</p>
+<h3 id="senso"><a class="header" href="#senso"><strong>Senso</strong></a></h3>
+<p><strong>Chance Base:</strong> 10%</p>
+<p><strong>Categoria:</strong> Percepção</p>
+<p>A habilidade rege principalmente o paladar, o tato e o olfato, mas pode se estender a alguns dos outros sentidos menos conhecidos (orientação física, gravidade, pressão e equilíbrio, temperatura etc.). Use-a para perceber ou identificar um tipo específico de estímulo que não seja visual (Spot) ou sonoro (Listen), como encontrar um item no escuro pelo tato, identificar um odor misterioso ou um gosto fraco, sentir uma fratura na linha do cabelo etc. A critério do gamemaster, isso pode se estender até mesmo a um “sexto sentido” ou intuição. Uma falha é desastrosamente enganosa ou revela total ignorância do estímulo, o fracasso é simplesmente não perceber e vários graus de sucesso produzem uma percepção mais precisa.</p>
+<p><strong>Notas do sistema:</strong> Assim como Listen e Spot, Sense é ativo e passivo: você pode solicitar que seu personagem faça uma rolagem de Sense, ou o gamemaster pode solicitar uma rolagem em situações apropriadas. Estímulos fortes ou familiares são rolagens <em>Fáceis</em> para Sense, enquanto estímulos fracos ou desconhecidos são <em>Difíceis</em>.</p>
+<h3 id="escudo"><a class="header" href="#escudo"><strong>Escudo</strong></a></h3>
+<p><strong>Chance de base:</strong> Conforme o tipo de escudo</p>
+<p><strong>Categoria:</strong> Combate</p>
+<p>Use essa habilidade para bloquear ataques recebidos com um escudo ou outro instrumento apropriado. Todos os bloqueios com escudo seguem as mesmas regras de aparar: consulte <strong>Escudos</strong> e <strong>Pararry</strong> no <em>Capítulo 6: Combate</em>. É possível atacar com um escudo, tratando essa habilidade como se fosse uma habilidade de Arma corpo a corpo. As classificações de dano são fornecidas para escudos nas listas de armas. Os escudos esmagam resultados especiais, podem causar repulsões e podem ser usados para ataques direcionados.</p>
+<p><strong>Efeitos:</strong> Consulte a <strong>Matriz de ataque e defesa</strong> e a <strong>Tabela de erros de apartação de armas de combate</strong>.</p>
+<p><strong>Notas do sistema:</strong> Os bloqueios de escudo são parries. Um personagem pode fazer mais de uma rolagem de escudo em uma rodada, mas cada rolagem adicional incorre em uma penalidade de -30% na classificação da habilidade de escudo ou de aparar. Escudos grandes podem fornecer cobertura contra ataques de mísseis ou até mesmo de armas de fogo.</p>
+<h3 id="sleight-of-hand"><a class="header" href="#sleight-of-hand"><strong>Sleight of Hand</strong></a></h3>
+<p><strong>Chance básica:</strong> 05%</p>
+<p><strong>Categoria:</strong> Manipulação</p>
+<p>Usar sua habilidade para manipular pequenos objetos (dados, cartas, moedas, carteiras, cartas etc.) de forma enganosa ou sem chamar a atenção, como ao abrir bolsos, trapacear nas cartas ou fazer mágica. Uma falha é óbvia: se o item cair ou se o possível ladrão for pego com a mão no bolso do alvo. O fracasso significa que nada foi realizado, e um alvo desavisado que obtenha sucesso em uma rolagem de Ideia pode perceber que está sendo enganado.</p>
+<p><strong>Notas do sistema:</strong> A habilidade tem a oposição de Spot quando apropriado. Depois que um objeto tiver sido colocado na palma da mão ou pego, use Hide (Esconder) para ocultá-lo de uma busca combinada.</p>
+<h3 id="spot"><a class="header" href="#spot"><strong>Spot</strong></a></h3>
+<p><strong>Chance base:</strong> 25%</p>
+<p><strong>Categoria:</strong> Percepção</p>
+<p>Use essa habilidade para vasculhar uma sala em busca de detalhes potencialmente importantes, encontrar um compartimento escondido, observar um detalhe fugaz, reconhecer um inimigo disfarçado ou detectar inimigos em uma emboscada. Uma falha é um erro de percepção ou uma impressão equivocada que causa grande distração, e diferentes graus de sucesso produzem informações mais úteis e pertinentes.</p>
+<p><strong>Notas do sistema:</strong> Spot é uma habilidade ativa e passiva: seu personagem pode fazer uma rolagem de Spot para procurar ou examinar ativamente, ou o gamemaster pode solicitar uma rolagem de Spot para ver se seu personagem percebe um detalhe fugaz. Ocultação ou dissimulação deliberada requer um teste oposto de Spot vs. Hide para ser resolvido. O Spot também costuma ser oposto a um teste de Disfarce ou Astúcia. Na escuridão total, Spot é <em>Impossível</em>, e pouca luz ou neblina espessa o torna <em>Difícil</em>.</p>
+<h3 id="status"><a class="header" href="#status"><strong>Status</strong></a></h3>
+<p><strong>Chance base:</strong> 15%</p>
+<p><strong>Categoria:</strong> Comunicação</p>
+<p>O status é uma medida de reputação, credenciais profissionais, classe social, prosperidade, fama e até mesmo honra pessoal. Use essa habilidade para influenciar os outros, como convencer um banco a fazer um empréstimo em dinheiro ou perdoar uma dívida, intimidar um personagem não-jogador a conceder um favor, convencer um vendedor a se contentar com um I.O.U. ou pressionar as autoridades a manter um assunto em segredo. Uma falha é uma gafe da maior magnitude, causando vergonha, chamando atenção indesejada e tendo o efeito absolutamente oposto ao desejado. Os sucessos produzem os resultados desejados ou até mesmo favores e consideração adicionais. No entanto, status não é riqueza e, embora muitas vezes estejam conectados, não estão intrinsecamente ligados um ao outro.</p>
+<p><strong>Especialidades:</strong> Cada especialidade representa uma única classe social, profissão, grupo social ou área de influência.</p>
+<p><strong>Notas do sistema:</strong> O status só funciona em uma determinada área, por especialidade, e usá-lo fora da área de influência é <em>difícil</em>. O status não é aprimorado com experiência, treinamento ou outra melhoria. O mestre de jogo deve oferecer o status como recompensa por serviço leal, ações ousadas ou mérito extraordinário entre cenários. Um ponto por aventura é razoável, com feitos ou conquistas extraordinárias aumentando o ganho para 1D3, 1D4 ou possivelmente até 1D6 pontos. Da mesma forma, falhas, escândalos, delitos e impropriedades sociais podem diminuir o status. O status pode ser usado para impressionar, mas também para servir como um meio de determinar o renome. Seu personagem rola contra o Status de outro para identificá-lo, e um personagem não jogador pode rolar contra o Status de seu personagem para determinar o que ele sabe sobre o personagem, se é que sabe alguma coisa.</p>
+<p>**Habilidade de status, status social e riqueza de caráter</p>
+<p>Conforme descrito em <strong>Criando um personagem</strong> e <strong>Profissões de personagem</strong>, o status pode afetar drasticamente a posição social e a riqueza. Abaixo estão três tabelas que atribuem uma classificação social e riqueza média com base no status, com uma riqueza máxima para esse status. À medida que alguém ganha status, sua posição e fortuna provavelmente melhorarão. Seu gamemaster deve revisar essas tabelas ou criar novas, conforme desejar.</p>
+<p><strong>Status pré-histórico</strong></p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Status</strong></th><th><strong>Social Rank</strong></th><th><strong>Wealth Rating</strong></th><th><strong>Maximum Wealth</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>01-15</td><td>Escravo (classe baixa)</td><td>Pobre</td><td>Pobre</td></tr>
+<tr><td>16-95</td><td>Pessoa da tribo (classe média)</td><td>Pobre</td><td>Média</td></tr>
+<tr><td>96-00</td><td>Nobreza (classe alta)</td><td>Afluente</td><td>Rico</td></tr>
+</tbody>
+</table>
+</div>
+<p>**Status antigo/da Idade das Trevas/Medieval/Imperial</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Status</strong></th><th><strong>Social Rank</strong></th><th><strong>Wealth Rating</strong></th><th><strong>Maximum Wealth</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>01-39</td><td>Classe baixa</td><td>Indigente</td><td>Indigente</td></tr>
+<tr><td>40-43</td><td>Classe média baixa</td><td>Pobre</td><td>Média</td></tr>
+<tr><td>44-47</td><td>Classe média</td><td>Média</td><td>Média</td></tr>
+<tr><td>48-49 Classe média alta Média Média</td><td></td><td></td><td></td></tr>
+<tr><td>50-75</td><td>Classe alta</td><td>Afluente</td><td>Afluente</td></tr>
+<tr><td>76-95</td><td>Nobreza</td><td>Afluente</td><td>Rico</td></tr>
+<tr><td>96-00</td><td>Monarquia</td><td>Rico</td><td>Rico</td></tr>
+</tbody>
+</table>
+</div>
+<p>**Status vitoriano/ocidental/polpudo/moderno</p>
+<p>| <strong>Status</strong> | <strong>Social Rank</strong> | <strong>Wealth Rating</strong> | <strong>Wealth Cap</strong> | |
+|————|––––––––––|—————––|––––––––|
+| 01-14 | Classe baixa | Indigente | Pobre |
+| 15-29 | Classe baixa | Pobre | Média |
+| 30-39 Classe média baixa Média Afluente
+| 40-75 | Classe média | Média | Afluente
+| 76-95 | Classe média alta | Afluente | Rico
+96-00 | Classe alta | Rico | Rico | Rico |</p>
+<p>O status também pode afetar o equipamento inicial com o qual seu personagem começa. A critério do gamemaster, você pode fazer rolagens de status para determinar se o seu personagem começa com um equipamento melhor do que o indicado pelo seu nível de riqueza e profissão. Consulte Equipamento inicial no <em>Capítulo 8: Equipamento</em>. As rolagens de status feitas antes do jogo não são elegíveis para verificações de experiência.</p>
+<p><strong>Stealth</strong></p>
+<p><strong>Chance Base:</strong> 10%</p>
+<p><strong>Categoria:</strong> Físico</p>
+<p>Use essa habilidade para se esgueirar por uma área sem chamar a atenção. Não é necessário se proteger, mas é preciso andar com passos leves, confiança e disciplina. Para evitar ser visto enquanto estiver imóvel, use Hide. Uma falha significa que nenhum progresso foi feito e que o personagem é óbvio para qualquer um que olhe, enquanto os sucessos oferecem graus sucessivos de ocultação.</p>
+<p><strong>Notas do sistema:</strong> A furtividade pressupõe movimento lento. Mover-se mais longe do que 1/2 de seu MOV em uma rodada de combate é <em>difícil</em>. Fatores ambientais (ruído ambiente, tapetes grossos, pisos rangentes etc.) ou equipamentos (sapatos de sola macia, armadura barulhenta, equipamentos volumosos etc.) podem modificar as rolagens de Furtividade, a critério do gamemaster. A furtividade tem a oposição de Spot ou Listen, conforme apropriado.</p>
+<h3 id="estratégia"><a class="header" href="#estratégia"><strong>Estratégia</strong></a></h3>
+<p><strong>Chance de base:</strong> 01%</p>
+<p><strong>Categoria:</strong> Mental</p>
+<p>Use essa habilidade para guiar forças em batalha, desde um pequeno esquadrão até um exército ou frota maciça, organizar e coordenar a logística de um exército, planejar e executar um empreendimento militar de grande escala e determinar o que outro estrategista pode estar pensando. Essa habilidade também pressupõe um conhecimento básico da história e das táticas militares e de suas figuras significativas. Uma falha representa um desastre militar e pode levar à derrota total, enquanto vários graus de sucesso geram vantagens estratégicas e podem significar bônus para o moral e a eficácia do combate.</p>
+<p><strong>Notas do sistema:</strong> Engajamentos militares maciços devem ser resolvidos de forma abstrata, com uma rolagem de estratégia oposta entre os líderes adversários influenciando o resultado (várias rolagens podem ser necessárias para engajamentos maiores ou mais longos). Usar a estratégia em condições desfavoráveis (em menor número, com pouco suprimento etc.) é <em>difícil</em>. Essa habilidade é frequentemente usada junto com Command (Comando): A estratégia representa o plano, o comando é a clareza com que ele é transmitido àqueles que devem executá-lo.</p>
+<h3 id="swim"><a class="header" href="#swim"><strong>Swim</strong></a></h3>
+<p><strong>Chance Base:</strong> 25%</p>
+<p><strong>Categoria:</strong> Físico</p>
+<p>Use essa habilidade para se mover através ou sob a água. Em geral, os Swim rolls só devem ser usados em situações perigosas ou estressantes. Flutuar, remar com cães e pisar na água em condições normais são <em>Automáticos</em>. Um erro grave significa que você começa a se afogar (consulte <em>Sufocamento, afogamento e asfixia</em>). Quando o personagem começa a se afogar, somente uma rolagem de natação <em>difícil</em> ou ajuda externa pode levá-lo de volta à superfície para respirar novamente. Um sucesso significa manobras normais na água, enquanto sucessos superiores significam velocidade e capacidade de manobra adicionais.</p>
+<p><strong>Notas do sistema:</strong> Em águas calmas, as rolagens de natação são necessárias apenas uma vez por turno. Nadar em águas agitadas requer uma verificação de natação a cada rodada. Nadar carregando algo requer um teste de esforço ou um teste de resistência de STR, dependendo da situação. Equipamentos especializados (flutuadores, nadadeiras, etc.) oferecem modificadores de até +20%. Nadar ativamente custa 1 ponto de fadiga por turno. Resolva corridas na água como rolagens de Swim opostas, custando 1 ponto de fadiga por rodada. Subtraia qualquer ENC que um nadador tenha de sua classificação de Swim. Se o ENC exceder o STR, ele afunda e precisa perder peso ou se afogar. Personagens com armadura têm uma penalidade aplicada ao Swim (consulte <strong>Armadura</strong>). Para remover a armadura na água, faça uma rolagem de natação uma vez por rodada de combate por ponto do valor mais alto da armadura (rolagem máxima se forem usados valores aleatórios de armadura). A armadura natural ou a armadura conferida por um poder não tem penalidade na água.</p>
+<p>No combate corpo a corpo subaquático, o atacante usa a menor de suas classificações de habilidade de combate ou de natação para resolver os ataques, e tentar se esquivar é <em>difícil</em>. Somente armas de empalamento são úteis - todas as outras causam 1D3-1 pontos de dano por acerto. A resistência à água também adiciona 3 pontos de valor de armadura a qualquer alvo. Consulte <strong>Underwater Combat</strong> para obter mais informações.</p>
+<h3 id="ensinar"><a class="header" href="#ensinar">Ensinar</a></h3>
+<p><strong>Chance Base:</strong> 10%</p>
+<p><strong>Categoria:</strong> Comunicação</p>
+<p>Use essa habilidade sempre que seu personagem tentar treinar ou ensinar informações ou técnicas a outra pessoa, por meio de palestras, exercícios ou luta física. Um fracasso é retrógrado e faz com que os alunos talvez percam 1D2 pontos de habilidade se não fizerem uma rolagem de Ideia para reconhecer o ensino de má qualidade, enquanto o sucesso ensina de acordo com as regras normais de treinamento e sucessos superiores melhoram o treinamento de habilidades para 1D6 (especial) e 1D6+2 (crítico).</p>
+<p><strong>Notas do sistema:</strong> Para ensinar uma determinada habilidade, o professor deve ter o dobro da classificação de habilidade do aluno ou uma classificação de habilidade de 50% (o que for menor). Consulte <strong>Treinamento de habilidade</strong> para obter mais detalhes.</p>
+<h3 id="habilidade-técnica-várias"><a class="header" href="#habilidade-técnica-várias"><strong>Habilidade técnica (várias)</strong></a></h3>
+<p><strong>Chance base:</strong> 05%</p>
+<p><strong>Categoria:</strong> Mental</p>
+<p>Use essa habilidade para operar e manter dispositivos tecnológicos avançados, como sistemas de computador, robôs ou outros dispositivos de alta tecnologia. Ela também pode ser usada para modificar dispositivos para melhorar seu desempenho ou usá-los para uma nova finalidade fora de seus parâmetros. Uma falha pode quebrar o dispositivo ou emperrá-lo de alguma forma, enquanto os sucessos e sucessos superiores fazem com que o mecanismo funcione conforme projetado ou além das expectativas.</p>
+<p><strong>Especialidades:</strong> Relógios, computadores, cibernética, eletrônica, robótica, sensores, motores de cerco, armadilhas, etc.</p>
+<p><strong>Notas de configuração:</strong> A habilidade Técnica em cenários históricos ou de fantasia abrange armadilhas, dispositivos de relógio ou de engrenagem, motores de cerco, etc.</p>
+<h3 id="arremesso"><a class="header" href="#arremesso"><strong>Arremesso</strong></a></h3>
+<p><strong>Chance base:</strong> 25%</p>
+<p><strong>Categoria:</strong> Físico</p>
+<p>Use essa habilidade para acertar um alvo com um objeto arremessado ou para arremessar uma arma que, de outra forma, não seria balanceada para arremesso (como arremessar uma espada grande ou um escudo). Isso abrange objetos arremessados improvisados, granadas, bastões de dinamite, armas que normalmente não são arremessadas ou outras armas. Lassos também são abrangidos por essa habilidade, assim como itens de captura. Se a arma for feita para ser arremessada, use Missile Weapon (Arma de mísseis).</p>
+<p><strong>Efeitos:</strong> O arremesso tem efeitos específicos:</p>
+<ul>
+<li>Fumble:** O objeto é derrubado ou perdido. Em combate, use a <strong>Tabela de erros de armas de mísseis</strong>.</li>
+<li>Falha:** O objeto erra e percorre 1D6 metros em uma direção aleatória.</li>
+<li>Êxito: O objeto cai no local pretendido. Role o dano normalmente, se houver.</li>
+<li>Especial:** O objeto aterrissa no local pretendido e causa o tipo de dano especial apropriado à sua forma (consulte <strong>Sucessos especiais</strong>).</li>
+<li>Crítico:** O objeto cai no local pretendido com resultados excepcionais, ignorando a armadura e causando dano crítico, se for o caso.</li>
+</ul>
+<p><strong>Notas do sistema:</strong> Adicione 1/2 modificador de dano (arredondado para cima) ao dano básico de uma arma arremessada. A maioria dos itens pode ser arremessada com a força de resistência do arremessador em metros, e o alcance além disso é <em>difícil</em>. Os objetos arremessados podem ser mirados.</p>
+<h3 id="track"><a class="header" href="#track"><strong>Track</strong></a></h3>
+<p><strong>Chance Base:</strong> 10%</p>
+<p><strong>Categoria:</strong> Percepção</p>
+<p>Use essa habilidade para identificar rastros ou seguir um rastro - seja de uma pessoa, veículo ou animal - sobre o solo, através de arbustos, neve e em terrenos quebrados. Um erro perde o rastro e talvez o próprio rastreador. Vários graus de sucesso geram melhores resultados, incluindo a possibilidade de avaliar informações sobre o indivíduo que está sendo rastreado ou prever com precisão para onde ele está indo.</p>
+<p><strong>Notas do sistema:</strong> Uma rolagem de rastreamento leva 1D3 minutos, e uma tentativa prolongada de rastreamento pode exigir várias rolagens. Dependendo do ambiente, a rolagem pode ser <em>Difícil</em> (uma noite chuvosa) ou <em>Fácil</em> (um dia claro e com neve). Se uma trilha for perdida, encontrá-la novamente é <em>Difícil</em>. A tentativa de ocultar os rastros é uma rolagem de trilha oposta. Equipamentos avançados podem adicionar até +20% à classificação da habilidade.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="02_personagens.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                            </a>
+
+                            <a rel="next prefetch" href="04_poderes.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="02_personagens.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                    </a>
+
+                    <a rel="next prefetch" href="04_poderes.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                    </a>
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr-ef4e11c1.min.js"></script>
+        <script src="mark-09e88c2c.min.js"></script>
+        <script src="searcher-09f2665d.js"></script>
+
+        <script src="clipboard-1626706a.min.js"></script>
+        <script src="highlight-abc7f01d.js"></script>
+        <script src="book-458fa6dc.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>

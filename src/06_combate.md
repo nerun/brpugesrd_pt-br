@@ -1,0 +1,717 @@
+# 6. Combate
+
+O combate é uma parte importante de muitas aventuras. Em combate, é importante saber exatamente o que acontece quando, quem pode agir em um determinado momento e quais ações são possíveis no período de tempo fornecido. Esta seção aborda a grande variedade de ações que ocorrem durante uma rodada de combate.
+
+Conforme descrito em **Time Scales** (Escalas de tempo**), a rodada de combate mede o tempo em uma situação de combate ou ação. Uma rodada de combate dura 12 segundos e, nela, seu personagem pode realizar ações e reagir a outras ações em uma ordem normalmente determinada pela característica DEX; personagens com DEX maior agem antes de personagens com DEX menor. Assim como nas habilidades, as ações em combate são determinadas pela rolagem de D100 para determinar o sucesso ou o fracasso de ataques, defesas e outras ações.
+
+**Fases da rodada de combate
+
+Uma rodada de combate consiste em quatro fases: **Declarações**, **Poderes**, **Ação** e **Resolução**. Elas sempre ocorrem na mesma ordem e são repetidas a cada nova rodada de combate até que o combate termine. Cada fase é descrita a seguir.
+
+**Declarações
+
+Primeiro, o mestre de jogo e os jogadores cujos personagens estão envolvidos em uma rodada de combate anunciam o que planejam fazer. Essa é a **declaração de intenção**. As ações podem ser tentadas na ordem de DEX, a mais alta primeiro. Não é necessário anunciar as ações defensivas - tentativas de defesa ou esquivas - a menos que você opte por uma postura totalmente defensiva.
+
+As declarações de intenção devem ser razoáveis e baseadas no que seu personagem sabe.
+
+*Por exemplo, você não pode declarar um ataque a um oponente que seu personagem não conheça, independentemente do que você saiba como jogador.
+
+As declarações de intenção são tratadas na ordem do **DEX rank** de todos os envolvidos. Os jogadores com níveis altos de DEX fazem suas declarações de intenção antes daqueles com níveis baixos de DEX. Normalmente, o mestre do jogo fará a contagem regressiva, do nível mais alto de DEX para o mais baixo, chamando cada jogador para declarar suas ações pretendidas nos momentos apropriados.
+
+O gamemaster não é obrigado a declarar como os personagens não-jogadores agirão em uma rodada, mas é considerado justo fazê-lo se as ações forem de natureza física ou puderem afetar o comportamento dos personagens jogadores durante a rodada de combate.
+
+**Por exemplo, se um grupo de personagens que não são jogadores parecer que vai se retirar pacificamente, o jogador deve saber disso antes que seu personagem ataque.
+
+Caso contrário, se não houver uma maneira de os jogadores saberem o que os personagens não jogadores farão, suas ações permanecerão desconhecidas até que eles ajam.
+
+Qualquer pessoa pode optar por adiar sua ação até mais tarde, com a última ação ocorrendo no nível 1 de DEX. Se você adiar mais do que isso, seu personagem não realizará nenhuma ação nessa rodada de combate (a não ser a defensiva). O mesmo se aplica a personagens não jogadores.
+
+Se houver necessidade de determinar quem age primeiro quando os níveis de DEX estiverem empatados, use a habilidade relevante para determinar quem age primeiro. O personagem com a classificação de habilidade mais alta age primeiro. Se ainda estiverem empatados, as ações ocorrerão simultaneamente.
+
+**Alternativas às Declarações de Intenção (Opções)**
+
+A seguir, apresentamos três métodos alternativos para lidar com a ordem das ações em uma rodada de combate. Eles podem ser usados conforme desejado e até mesmo combinados para atender às preferências de seu grupo.
+
+**Remoção da Declaração de Intenção (Opção)**
+
+A declaração de intenção pode ser totalmente eliminada para agilizar o jogo. Nesse caso, pule diretamente para a fase de poderes e depois para a fase de ação. Esse modo simplificado de jogo faz com que o mestre do jogo conte os níveis de DEX na fase de ação e cada jogador faça declarações de ação e role imediatamente para determinar o resultado.
+
+**Declaração de Intenção de Pedido Reverso (Opção)**
+
+A inversão da declaração de intenção permite um estilo de jogo mais tático, permitindo que aqueles com níveis mais altos de DEX possam responder melhor às ações de outros personagens, sejam eles adversários ou aliados. O mestre do jogo começa com o nível de DEX 1 e conta para cima, permitindo que todas as partes anunciem suas ações, como de costume. Isso permite que os personagens com DEX mais alto tenham a capacidade de agir com pleno conhecimento do que acontecerá na rodada de combate, permitindo que tomem decisões táticas de acordo. Quando a fase de declaração de intenção termina, o mestre de jogo faz a contagem regressiva da rodada normalmente. Esse método cria a oportunidade de integrar fintas e outras possíveis manobras de falsificação no combate, permitindo um ambiente mais rico e tático para qualquer jogador ou gamemaster que goste desse estilo de jogo.
+
+**Rolos de iniciativa (opção)
+
+No início de uma rodada de combate, todos os personagens jogadores e não jogadores rolam um D10 e o adicionam à sua DEX, criando um novo e variável nível de DEX. As ações ainda ocorrem na ordem do nível de DEX. Para poderes, use um D10 mais INT e use esse valor junto com os níveis de DEX. Esse valor de iniciativa (DEX+D10) pode ser mantido durante todo o combate.
+
+O mestre de jogo rola para cada personagem não-jogador e, por conveniência, pode rolar 1D10 para representar um grupo de personagens não-jogadores, se desejar, ou até mesmo dividir grandes grupos de personagens não-jogadores em grupos menores com diferentes rolagens de iniciativa. Um líder ou personagem não-jogador excepcional pode ter suas próprias rolagens para se distinguir da multidão.
+
+Como observação, é mais provável que os personagens consigam realizar a segunda ou terceira ação em uma rodada usando esse método, o que tornará as rodadas de combate um pouco mais longas.
+
+**Poderes
+
+Os poderes funcionam de várias maneiras, mas em combate eles são tratados da mesma forma. Se o seu personagem estiver usando um poder instantâneo, o poder será ativado durante essa fase, na ordem da INT dos personagens envolvidos, da maior para a menor. Isso é chamado de **INT rank**. Os poderes que não são instantâneos são ativados no início da próxima rodada de combate nessa fase de poderes, a menos que seja indicado o contrário.
+
+Qualquer pessoa pode adiar o uso de seu poder até um nível de INT posterior. O último nível de INT é 1 e, assim como no nível de DEX, se uma ação for adiada além desse nível, ela não ocorrerá nessa rodada de combate. Se os níveis de INT estiverem empatados, use a habilidade relevante (se houver) como critério de desempate, com o nível de habilidade mais alto passando primeiro. Se não houver uma habilidade relevante, o POW mais alto será o primeiro. Se ainda houver empate, os poderes ocorrerão simultaneamente.
+
+Seu personagem pode ativar um poder por rodada de combate. O uso de um poder na fase de poderes de uma rodada de combate conta como a ação do seu personagem por uma rodada. Ele não pode atacar com uma arma durante seu nível de DEX, mas pode se mover, se desejar, e se esquivar ou aparar, se necessário. A maioria dos poderes requer exatamente uma rodada de combate completa para ser preparada e usada, com seus efeitos ocorrendo no início da próxima rodada de combate durante a fase de poderes. As exceções a isso são apresentadas nas descrições dos poderes.
+
+Os pontos de energia usados para poderes são gastos no nível de INT em que são usados.
+
+**Poderes na fase de ação (opção)
+
+Normalmente, o uso do poder é feito durante a fase de poderes, antes de qualquer ação física. Para agilizar as coisas e equilibrar o campo de jogo, o uso de poderes pode ocorrer durante os níveis normais de DEX, como em um ataque normal. A fase de poderes da rodada de combate continua sendo o período em que os poderes não instantâneos lançados durante a rodada de combate anterior entram em vigor, mas, na fase de ação, os níveis de INT e os níveis de DEX ocorrem lado a lado, combinando as duas contagens regressivas. Seu personagem ainda está limitado a uma ação, com base no que está fazendo: um poder vai para o nível de INT, uma ação física para o nível de DEX. Os empates são resolvidos usando a outra característica (se a INT estiver empatada, a DEX mais alta vai primeiro) ou o nível de habilidade/poder mais alto, se aplicável. Se ainda houver empate, os poderes acontecem simultaneamente.
+
+**Ação
+
+Um personagem em combate está **engajado** ou **desengajado**. Um personagem engajado está a uma distância de alcance de seus oponentes e está pronto para atacar ou defender quando possível. Normalmente, qualquer pessoa envolvida em um combate pode agir contra qualquer outra pessoa nesse combate sem penalidade ou necessidade de qualquer movimento significativo. Um personagem não engajado ainda está agindo durante o combate, mas realizando outras ações e fora do alcance do combate corpo a corpo (ou está nele, mas não ativamente envolvido).
+
+Da mesma forma que as declarações de intenção, as ações ocorrem nos níveis de DEX de seu personagem. As ações podem ser ataques, defesas, esquivas ou outras ações realizadas por personagens não engajados.
+
+Em um determinado nível de DEX, os ataques geralmente são feitos por ordem de tipo de arma. Considera-se que os atacantes armados com armas de mísseis (arcos, pistolas etc.) agem antes daqueles em combate corpo a corpo. Depois deles, vêm os personagens armados com armas longas (lanças, lanças etc.), depois aqueles com armas de comprimento médio (espadas, machados etc.) e, por fim, aqueles com armas curtas (adagas etc.) ou que estejam desarmados. As defesas e esquivas relacionadas ao ataque ocorrem no mesmo nível de DEX do ataque original.
+
+Se o seu personagem puder realizar mais de uma ação em uma rodada (algumas armas permitem ataques múltiplos e os níveis de habilidade de combate acima de 100% também permitem ataques múltiplos), cada ataque deve ser separado por 5 níveis de DEX. A primeira ação tem o nível de DEX completo; a segunda, o nível de DEX -5; a terceira, o nível de DEX -10; etc. Seu personagem não pode agir no nível 0 de DEX, portanto, todas as ações que ocorreriam abaixo do nível 1 de DEX são perdidas.
+
+A seguir, há um resumo dos resultados das ações em uma rodada de combate. Mais adiante neste capítulo, os resultados para diferentes níveis de sucesso (sucessos críticos e especiais) e diferentes tipos de ataques serão descritos em detalhes adicionais.
+
+**Ações de combate
+
+Em uma rodada de combate, seu personagem pode realizar qualquer uma das seguintes ações de acordo com seu nível de DEX:
+
+- Movimentação
+- Atacar
+- Ação de não combate
+- Engajar
+- Desvencilhar-se
+
+A qualquer momento durante a rodada de combate, seu personagem pode:
+
+- Aparar ou se esquivar
+- Lutar na defensiva
+- Falar
+
+**Mudança**
+
+Se o seu personagem não estiver engajado, ele poderá se mover cerca de 30 metros em um turno de combate se não realizar nenhuma ação além de se defender (aparar ou esquivar). Mover-se entre 6 e 15 metros significa que seu personagem age com 1/2 de seu nível normal de DEX. Mover-se entre 16 e 29 metros em uma rodada de combate significa que o personagem age com 1/4 de sua classificação normal de DEX. Esses níveis de DEX modificados são cumulativos com penalidades para ações adicionais, sendo que os modificadores de movimento para o nível de DEX são aplicados primeiro.
+
+**Ataque
+
+Seu personagem pode fazer um ataque contra um alvo no nível de DEX dele, além de se mover até 5 metros. A menos que seja modificado de outra forma, esse ataque é realizado com a classificação total da habilidade. Conforme observado acima, se uma determinada arma permitir vários ataques, cada ataque sucessivo deve ser feito com 5 níveis de DEX a menos do que o ataque anterior.
+
+**Ação de não combate
+
+Um personagem não engajado pode tentar usar uma habilidade ou poder ou realizar alguma outra ação que não exija uma verificação de habilidade, como sacar uma arma ou abrir uma porta. Use o bom senso quanto às ações que podem ser razoavelmente executadas nesse período de tempo e dentro do grau de movimento permitido. Essas ações, se combinadas com ações de combate ou várias ações que não sejam de combate, incorrem em uma penalidade de nível de DEX de 5 por ação, a menos que seu mestre de jogo diga que elas devem demorar mais.
+
+**Engajamento
+
+Um personagem não engajado pode se mover até 5 metros e fazer uma ação de ataque e/ou defesa sem penalidade, entrando em combate.
+
+**Desengate
+
+Um personagem engajado pode optar por deixar o combate declarando, durante a fase de declaração, que está se desengajando. Em geral, ele não realiza nenhuma ação de ataque, limitando-se apenas a esquivas, defesas e ações de movimento. Se o seu personagem for bem-sucedido em todas as esquivas ou defesas feitas durante essa rodada de combate, ele terá se desengajado do combate e poderá se afastar da batalha com toda a sua velocidade de movimento. Se qualquer uma dessas rolagens falhar, seu personagem ainda estará envolvido em combate. Outras opções são abordadas em **Desengajamento**.
+
+**Parry**
+
+Qualquer pessoa armada com uma arma ou escudo de desvio (ou usando o próprio corpo) pode bloquear o dano de um ataque. Role contra a habilidade de combate relevante para bloquear um golpe. Não é necessário anunciar isso de antemão, e isso é feito em reação a uma rolagem de ataque bem-sucedida de outro combatente.
+
+Um aparar bem-sucedido geralmente desvia todo o dano do ataque recebido (a menos que você esteja aparando com seu próprio corpo como forma de artes marciais), reduzindo os ataques bem-sucedidos a erros ou reduzindo a gravidade de ataques especiais ou críticos de acordo. Os pontos de armadura do escudo e os pontos de vida (AP/HP) são usados somente quando se lida com o dano causado diretamente ao escudo, como em um ataque para tentar destruir um escudo ou uma arma de aparar; quando se resiste ao dano versus os pontos de armadura do escudo na tabela de resistência ao aparar um golpe esmagador, ou quando 2 ou 4 pontos de vida são causados à arma ou ao escudo de aparar na **Matriz de Ataque e Defesa**.
+
+Cada tentativa sucessiva de aparar após a primeira é modificada em -30% da classificação da habilidade, cumulativamente. Se a chance de aparar um ataque cair abaixo de 1%, seu personagem não poderá tentar aparar. Na maioria das circunstâncias, seu personagem só pode aparar armas de mísseis com um escudo, com a chance básica do escudo (consulte **Escudos e disparos de mísseis**). Se tentar aparar uma arma lançada com uma arma de mão, a chance de aparar deve ser um sucesso especial (1/5 da classificação normal da habilidade).
+
+Da mesma forma, se o seu personagem estiver usando armas improvisadas ou armas que geralmente não são usadas para aparar, a chance de aparar é metade da classificação de habilidade da arma ou 20% se a arma não for usada normalmente para aparar ou se não estiver em seu treinamento. Isso pode ser modificado com base nas classificações de habilidade em habilidades semelhantes, a critério do mestre de jogo.
+
+**Por exemplo,** \*ao disparar um rifle, seu personagem tem 58% de chance de ataque, mas ao aparar um ataque com o rifle, sua chance é \*Difícil*, ou 29%, porque a maioria dos treinamentos militares modernos com rifles engloba o uso do rifle como arma de aparar. Outro personagem, como um caçador, por outro lado, com a mesma habilidade de ataque de 58%, tem 20% de chance de aparar com um rifle, a chance padrão de aparar com uma arma de mísseis. Da mesma forma, um soldado pode usar uma ferramenta de entrincheiramento (uma pequena pá dobrável) como arma de apartação com 1/2 de sua habilidade com um machado, uma arma de tamanho e forma semelhantes.*
+
+O gamemaster pode determinar que um determinado ataque não pode ser aparado, como o de um atacante muito maior (o dobro ou mais do tamanho do defensor, por exemplo) ou quando o atacante estiver usando um ataque de área ou de varredura.
+
+**Por exemplo, um personagem com SIZ 15 não pode aparar um ataque de um brontossauro de SIZ 72. Em vez disso, o ataque deve ser esquivado ou evitado de outra forma.
+
+**Dodge
+
+Algumas armas e ataques não podem ser aparados e, em vez disso, devem ser esquivados. As esquivas podem ser tentadas contra todos os ataques corpo a corpo ou armas de arremesso. Assim como as defesas, as esquivas não precisam ser anunciadas antes da rolagem de ataque, mas são tentadas em reação a uma rolagem de ataque bem-sucedida de outro personagem (consulte Esquiva). Cada tentativa de esquiva sucessiva após a primeira tem um modificador de -30% na classificação da habilidade, cumulativo. Se a chance de se esquivar de um ataque cair abaixo de 1%, seu personagem não poderá tentar se esquivar.
+
+Normalmente, um personagem não pode se esquivar de balas ou armas de projétil de alta velocidade (flechas, lasers etc.). Em vez disso, presume-se que ele esteja se esquivando da direção para a qual a arma está sendo apontada. Nesse caso, seu personagem só poderá tentar uma Esquiva contra a primeira arma de míssil desse tipo em uma rodada de combate e somente se o atacante e a arma estiverem visíveis. Essas tentativas são *difíceis*. Certos gêneros ou níveis de poder podem permitir mais liberdade para se esquivar de disparos de mísseis (consulte **Desviar de armas de mísseis**).
+
+**Luta defensiva
+
+Seu personagem perde a capacidade de atacar durante uma rodada de combate para obter uma tentativa extra de Esquiva no lugar desse ataque ou ataques. Essa Esquiva não incorre na penalidade cumulativa subsequente de -30% para outras tentativas de Esquiva ou aparar (consulte **Luta Defensiva**).
+
+**Fale
+
+A fala é uma ação livre, e uma conversa normal ou comandos gritados não custam nenhum nível de DEX nem limitam as ações de seu personagem de forma significativa. No entanto, se o seu personagem estiver falando por algum tempo ou se uma conversa entre dois personagens estiver ocorrendo em meio à ação, o seu mestre de jogo poderá pedir que você mantenha as conversas breves durante as rodadas de combate ou sequências de ação. Isso pode variar de acordo com o cenário: embora seja perfeitamente normal que solilóquios sejam proferidos durante uma briga em um jogo de super-heróis, eles estariam fora de lugar em um tiroteio no Velho Oeste.
+
+**Partidas e esquivas**
+
+As defesas e esquivas não podem ser combinadas em uma rodada, a menos que o personagem esteja em um estado completamente defensivo. Nesse caso, os modificadores de -30% para ações defensivas sucessivas incluem tanto as defesas quanto as esquivas.
+
+**Resolução**
+
+Para atacar, aparar ou se esquivar, role os dados de percentil e compare o resultado com a habilidade do seu personagem com a arma ou o escudo que está sendo usado. Os ataques podem provocar uma esquiva ou um aparar, rolados da mesma forma. O sucesso ou fracasso dessas rolagens é comparado com a **Matriz de Ataque e Defesa** para ver o resultado das ações combinadas do atacante e do defensor.
+
+**Tabela de localização de acerto de machado (opção)
+
+Conforme descrito em **Hit Points per Hit Location**, o total de pontos de vida do seu personagem é dividido entre as partes do corpo, além de ser registrado como um total. Quando um ataque for bem-sucedido, role um D20 e use o resultado para consultar a tabela de locais de acerto apropriada. Os humanos usam a tabela de locais de acerto padrão, e outros tipos de corpo têm suas tabelas de locais de acerto fornecidas em **Tabelas de locais de acerto não humanos** no *Capítulo 11: Criaturas*. Se o seu personagem não for humanoide, o mestre de jogo deve indicar a tabela de locais de acerto correta que deve ser usada.
+
+**Locais de sucesso
+
+| **D20 Roll** | **Resultado** | **Descrição** |
+|--------------|------------|--------------------------------------|
+| 1-4 | Perna direita | Perna direita do quadril até a parte inferior do pé
+| 5-8 | Perna esquerda | Perna esquerda do quadril até a parte inferior do pé
+| 8-11 Abdômen: articulação do quadril até a parte inferior da caixa torácica
+| 12 | Tórax | Caixa torácica até o pescoço e os ombros
+| 13-15 Braço direito: todo o braço direito
+| 16-18 | Braço esquerdo | Todo o braço esquerdo
+| 19-20 | Cabeça | Pescoço e cabeça
+
+Algumas situações, como cobertura ou personagens montados vs. personagens não montados, modificam os locais de acerto disponíveis para serem atingidos em combate (consulte as entradas relevantes no *Capítulo 7: Regras de local*).
+
+**Resumo do combate
+
+| **Rolagem de Ataque** | **Rolagem de Transporte ou Esquiva** | **Resultado** | |
+|-----------------|-------------------------|--------------------------------------------------------------------|
+| Sucesso | Sucesso | O golpe do atacante é desviado ou esquivado.                            |
+| Sucesso | Falha | O defensor é atingido e pode perder pontos de vida.                           |
+| Falha | Não é necessário rolar | O defensor mantém a guarda e não precisa rolar.                   |
+| Fumbles | Não é necessário rolar | Como na falha do atacante acima, mais o atacante rola na tabela de fumble. |
+
+**Níveis de sucesso e fracasso
+
+Assim como acontece com as habilidades, em combate, muitas vezes é essencial saber não apenas se um ataque ou defesa foi bem-sucedido ou falhou, mas também se foi bem-sucedido ou mal-sucedido.
+
+**Sucesso crítico**
+
+A melhor rolagem possível! Um resultado de D100 igual a 1/20 da classificação de habilidade de seu personagem. Um ataque crítico significa que a arma causa o dano máximo possível para a arma usada (6 para 1D6, 9 para 1D8+1, etc.) mais o modificador de dano normal rolado. A menos que seja contra-atacado com um aparar crítico, o resultado de um ataque crítico sempre ignora a armadura, mesmo que essa armadura seja abrangente. Um aparar crítico pode danificar a arma de ataque.
+
+**Por exemplo, se o seu personagem tiver uma classificação de habilidade de arma de 60%, ele obterá um sucesso crítico em uma rolagem de 01-03. Quando isso é rolado, seu personagem simplesmente recebe o dano máximo que a arma pode infligir, rola o modificador de dano normalmente e ignora qualquer armadura que o alvo possa estar usando, seja ela natural ou elétrica. Se o sucesso crítico for com uma espada curta que causa 1D6+1 de dano e o modificador de dano de seu personagem for 1D4, o dano crítico será 7+1D4 (6+1=7), ignorando a armadura do alvo. Se a arma for uma pistola que causa 1D10 de dano, o dano é 10 e ignora a armadura do alvo.*
+
+Seus mestres de jogo podem permitir que seu personagem inflija um sucesso especial (abaixo) a um alvo no lugar de um sucesso crítico, se desejar.
+
+**Sucesso especial
+
+Uma rolagem excepcional. Um resultado de D100 igual a 1/5 da classificação de habilidade de seu personagem. Em geral, um ataque especial significa que a arma causa dano normal, além de um resultado especial baseado no tipo de arma.
+
+*Por exemplo, uma arma contundente, como um porrete, tem um efeito de repulsão/abatimento.
+
+Um parry especial pode causar dano a uma arma de ataque.
+
+**Por exemplo, com Arma de fogo 60%, seu personagem obtém um sucesso especial em uma rolagem de 04-12. Isso causa dano normal (1D8, por exemplo), mas, no caso de uma arma de fogo, também causa dano de empalamento.*
+
+**Sucesso**
+
+Uma boa rolagem. Esse é um resultado de D100 igual ou menor que a classificação de habilidade do seu personagem, mas maior que o resultado necessário para um sucesso especial ou crítico. Os ataques são bem-sucedidos se não forem aparados ou esquivados, e o dano é rolado normalmente, sem causar dano à arma atacante ou aparadora.
+
+**Por exemplo, com uma habilidade de Arma de fogo de 60%, seu personagem obtém um sucesso normal em uma rolagem de 13-60. Para uma arma de fogo que causa 1D8 pontos de dano, o dano normal é rolado.*
+
+**Falha**
+
+Uma rolagem ruim. Um resultado de D100 maior do que a classificação de habilidade do seu personagem, mas menor do que a maior chance de 1/20 de fracasso (consulte Fumble, abaixo). Falhar em uma rolagem de combate significa que a tentativa falhou, mas seu personagem pode tentar novamente mais tarde na mesma rodada de combate ou em uma rodada seguinte.
+
+**Por exemplo, com uma habilidade de arma de fogo de 60%, seu personagem falha em uma rolagem de 61-97. Nenhum dano é rolado e seu alvo não precisa tentar se esquivar ou aparar o ataque.
+
+**Tropeço
+
+Uma rolagem desastrosa! Um resultado da maior 1/20 da chance de fracasso, geralmente variando de 96-100 para níveis de habilidade mais baixos a uma rolagem de 100 quando os níveis de habilidade do personagem estão acima de 100%. Em geral, um fumble indica um acidente dramático de algum tipo e, muitas vezes, força uma rolagem na tabela de fumble relevante. Consulte as tabelas de Fumbles de **Ataques com armas brancas**, **Paradas com armas brancas**, **Ataques com armas de mísseis** e **Ataques naturais e paradas**.
+
+**Por exemplo, com uma habilidade de arma de fogo de 60%, seu personagem erra em uma rolagem de 98-00. Nenhum dano é rolado, mas você deve rolar na* **Tabela de Erros de Armas de Mísseis** *para determinar o resultado desse ataque fracassado*.
+
+Algumas armas têm sua chance de apresentar mau funcionamento (emperrar, travar etc.), expressa como um resultado alto.
+
+**Por exemplo, um mosquete sempre funciona mal em uma rolagem de 95-00, independentemente da habilidade do usuário.
+
+Dependendo do resultado da mesma rolagem infeliz e da classificação de habilidade do seu personagem, é possível que ele se atrapalhe e tenha um defeito na arma; tenha um defeito na arma sem se atrapalhar; ou se atrapalhe sem ter um defeito na arma.
+
+**Por exemplo,** *seu personagem tem uma habilidade de 60% com um mosquete e rola 99 ao disparar. Como a arma apresenta mau funcionamento em uma rolagem de 95-00 e seu personagem normalmente erra em uma rolagem de 98-00, esse ataque é, infelizmente, tanto um erro fatal quanto um mau funcionamento da arma. Se a rolagem tivesse sido 95, 96 ou 97, teria sido apenas um mau funcionamento da arma.*
+
+Se o resultado de um fumble especificar um ataque a um alvo que não seja o pretendido e um mau funcionamento causar um atolamento, o ataque ocorrerá antes do mau funcionamento (consulte **Malfunctions**).
+
+**Matriz de ataque e defesa
+
+| **Attack Roll** | **Parry Roll** | **Dodge Roll** | **Result** | |
+|-----------------|----------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| O defensor aparta ou se esquiva do dano, sem nenhum outro resultado.                                                                                                                                                                                                      |
+| Crítico | Especial | Especial | O ataque é parcialmente desviado ou esquivado e obtém sucesso. O atacante atinge o defensor e rola o dano normalmente. O valor da armadura do defensor é subtraído do dano. A arma ou o escudo do defensor recebe 2 pontos de dano.
+| Crítico | Sucesso | Sucesso | O ataque é desviado marginalmente e obtém um sucesso especial. O ataque causa dano total\*\* mais o modificador de dano normal e o resultado especial apropriado. O valor da armadura do defensor é subtraído do dano. A arma ou o escudo do defensor recebe 4 pontos de dano.
+| Crítico | Falha | Falha | O ataque obtém um sucesso crítico. O ataque causa dano total\*\* mais o modificador de dano normal (ou o atacante pode escolher um sucesso especial). O valor de armadura do defensor é ignorado.                                                                      |
+| Crítico | Fumble | Fumble | O ataque obtém um sucesso crítico. O ataque causa dano total\*\* mais o modificador de dano normal (ou o atacante pode escolher um sucesso especial). O valor de armadura do defensor não se aplica. O defensor rola na tabela apropriada de fumble.                   |
+| O defensor aparta ou se esquiva do ataque; nenhum outro resultado. Se o ataque for aparado, a arma atacante sofre 1 ponto de dano.
+Especial | Especial | Especial | Especial | O defensor aparta ou se esquiva do ataque, sem outro resultado.                                                                                                                                                                                                      |
+| Especial | Sucesso | Sucesso | O ataque é parcialmente aparado ou esquivado e obtém um sucesso normal. O valor da armadura do defensor é subtraído do dano. A arma ou o escudo aparador recebe 2 pontos de dano.
+| Especial | Falha | Falha | O ataque obtém um sucesso especial. O ataque causa dano total\*\* mais o modificador de dano normal e o resultado especial apropriado. O valor de armadura do defensor é subtraído do dano.                                                                                |
+| Especial | Fumble | Fumble | O ataque obtém um sucesso especial. O ataque causa dano total\*\* mais o modificador de dano normal e o resultado especial apropriado. O valor de armadura do defensor é subtraído do dano. O Defensor rola na tabela de fumbles apropriada.                                |
+| Sucesso | Crítico | Crítico | O defensor bloqueia ou se esquiva do dano; nenhum outro resultado. Se for aparteado em combate corpo a corpo, a arma do atacante recebe 2 pontos de dano.
+| Sucesso | Especial | Especial | O defensor bloqueia ou se esquiva do dano; nenhum outro resultado. Se for aparada em combate corpo a corpo, a arma do atacante sofre 1 ponto de dano.
+Sucesso | Sucesso | Sucesso | Sucesso | O defensor bloqueia ou se esquiva do dano, sem outro resultado.                                                                                                                                                                                                       |
+| Sucesso | Falha | Falha | O ataque atinge o defensor e rola o dano normalmente. O valor da armadura do defensor é subtraído do dano.                                                                                                                                                        |
+| Sucesso | Fumble | Fumble | O ataque atinge o defensor e rola o dano normalmente. O valor de armadura do defensor é subtraído do dano. O defensor rola na tabela apropriada de fumble.                                                                                                        |
+| Falha | - | - | Nenhum dano; nenhum efeito.                                                                                                                                                                                                                                    |
+| Fumble | - | - | O ataque erra completamente e o atacante rola na tabela de fumble apropriada. O defensor não foi ferido.                                                                                                                                                          |
+
+\* Se a arma ou o escudo de defesa for destruído durante a tentativa de defesa, role o dano normal da arma de ataque e subtraia os pontos de dano usados para destruir a arma ou o escudo de defesa. O dano restante penetra na tentativa de aparar para causar dano ao defensor (a armadura ainda protege). Se a arma de ataque for destruída durante um ataque bem-sucedido, o dano ainda será infligido ao defensor e a arma será quebrada nesse momento.
+
+\*\* Esse é o dano que esse tipo de ataque normalmente causaria. Isso não é o mesmo que "dano máximo". Para uma espada grande, o dano total é de 2D8 em um sucesso normal, 2D8 de dano por sangramento em um sucesso especial e, em um sucesso crítico, ele causa 16 de dano, ignorando a armadura. O modificador de dano, em todos os casos, é rolado separadamente e adicionado posteriormente.
+
+**Tabela de erros de ataque com arma de combate
+
+| **D100** | **Resultado** |
+|----------|-------------------------------------------------------------------------------------------------|
+| 01-15 | Perde a próxima rodada de combate e fica efetivamente indefeso.                                        |
+| 16-25 | Perde as próximas 1D3 rodadas de combate e fica efetivamente indefeso.                                   |
+| 26-40 | Cai de bruços.                                                                                     |
+| 41-50 | Largar a arma que está sendo usada.                                                                     |
+| 51-60 | Arremessar a arma a 1D10 metros de distância.                                                                  |
+| 61-65 | Perde 1D10 pontos de vida da arma.                                                        |
+| 66-75 | Visão obscurecida, modifique todas as habilidades apropriadas em -30% por 1D3 rodadas de combate.                   |
+| 76-85 | Atingir o aliado mais próximo com dano normal ou usar o resultado 41-50 se não houver aliado por perto.                       |
+| 86-90 | Atingir o aliado mais próximo com dano especial ou usar o resultado 51-60 se nenhum aliado estiver por perto.                      |
+| 91-98 | Acertar o aliado mais próximo para causar dano crítico ou usar o resultado 61-65 se nenhum aliado estiver por perto.                     |
+| 99 | Explodir; role mais duas vezes nessa tabela (cumulativo se esse resultado for rolado novamente).             |
+| 00 | Explodir; role três vezes mais nesta tabela (cumulativo se esse resultado for rolado novamente). |
+
+**Tabela de erros de apartação de armas de combate
+
+| **D100** | **Resultado** |
+|----------|---------------------------------------------------------------------------------------------------------|
+| 01-20 | Perde a próxima rodada de combate (ou esta, se nenhuma ação tiver sido realizada) e fica efetivamente indefeso. |
+| 21-40 | Cai de bruços.                                                                                             |
+| 41-50 | Largar a arma que está sendo usada.                                                                                 |
+| 51-60 | Arremessar a arma a 1D10 metros de distância.                                                                          |
+| 61-75 | Visão obscurecida; modifique todas as habilidades apropriadas em -30% por 1D3 rodadas de combate.                           |
+| 76-85 | Visão aberta; o inimigo é atingido automaticamente com um golpe normal.                                                      |
+| 86-90 | Bem aberto; o inimigo acerta automaticamente com um golpe especial.                                                     |
+| 91-93 | Bem aberto; o inimigo acerta automaticamente com um golpe crítico.                                                    |
+| 94-98 | Explodir; role mais duas vezes nessa tabela (cumulativo se esse resultado for rolado novamente).                     |
+| 99-00 | Explodir; role três vezes mais nesta tabela (cumulativo se esse resultado for rolado novamente).         |
+
+**Tabela de erros de ataque de armas de mísseis
+
+| **D100** | **Resultado** |
+|----------|-------------------------------------------------------------------------------------------------|
+| Perder o próximo ataque ou outra atividade.                                                         |
+| 16-25 | Perder as próximas 1D3 rodadas de combate ou outra atividade.                                              |
+| 26-40 | Cai de bruços.                                                                                     |
+| 41-55 | Visão obscurecida; modifique todas as habilidades apropriadas em -30% por 1D3 rodadas de combate.                   |
+| 56-65 | Largar a arma; ela desliza ou salta 1D6-1 metros de distância.                                         |
+| 66-80 | Causa 1D6 de dano aos pontos de vida da arma (ou use o resultado 81-85 se a arma não tiver pontos de vida).     |
+| 81-85 | Quebra a arma, independentemente dos pontos de vida atuais da arma.                                        |
+| 86-90 | Atinge o aliado mais próximo com dano normal ou usa o resultado 56-65 se não houver aliado por perto.                       |
+| 91-95 | Atingir o aliado mais próximo com dano especial ou usar o resultado 66-80 se não houver aliado por perto.                      |
+| 96-98 | Acertar o aliado mais próximo para causar dano crítico ou usar o resultado 81-85 se nenhum aliado estiver por perto.                     |
+| 99 | Explodir; role mais duas vezes nessa tabela (cumulativo se esse resultado for rolado novamente).             |
+| 00 | Explodir; role três vezes mais nesta tabela (cumulativo se esse resultado for rolado novamente). |
+
+**Tabela de erros de ataque e defesa com armas naturais**
+
+| **D100** | **Resultado** |
+|----------|----------------------------------------------------------------------------------------------------------|
+| Perca a próxima rodada de combate (ou esta, se nenhuma ação tiver sido executada).                                |
+| 26-30 | Perder as próximas 1D3 rodadas de combate (incluindo esta, se nenhuma ação tiver sido realizada).                |
+| 31-50 | Cair de bruços.                                                                                              |
+| 51-60 | Cair de bruços e torcer o tornozelo; modificar o MOV em -1 MOV por 1D10 turnos completos (e todos os turnos de combate dentro deles). |
+| 61-75 | Visão obscurecida; modifique todas as habilidades apropriadas em -30% por 1D3 rodadas de combate.                            |
+| 76-85 | Errar e esticar algo; perder 1 ponto de vida (no membro atacante se os locais de acerto estiverem sendo usados).     |
+| 86-90 | Atingir o aliado mais próximo com dano normal ou usar o resultado 76-85 se não houver aliado por perto.                                |
+| 91-94 | Atingir o aliado mais próximo com dano especial ou usar o resultado 76-85 se não houver aliado por perto.                               |
+| 95-98 | Atingir superfície dura; causar dano normal a si mesmo (no membro atacante se os locais de acerto estiverem sendo usados).      |
+| 99 | Explodir; role mais duas vezes nessa tabela (cumulativo se esse resultado for rolado novamente).                      |
+| 00 | Explodir; role três vezes mais nessa tabela (cumulativo se esse resultado for rolado novamente).          |
+
+**Sucessos e danos especiais
+
+Diferentes tipos de armas causam diferentes tipos de dano em caso de sucessos especiais. Há cinco tipos de dano especial: sangramento, esmagamento, enredamento, empalamento e nocaute.
+
+- Sangramento:** Um ferimento que resulta em um corte profundo de tecido em artérias ou órgãos principais. Armas com bordas afiadas causam danos por sangramento.
+- Esmagamento:** Ferimento que envolve um trauma contundente na vítima, geralmente quebrando ossos e atordoando o alvo. Paus, golpes desarmados e outras armas contundentes podem causar danos por esmagamento.
+- Emaranhamento: Prender ou enredar os membros ou o corpo do alvo. Armas flexíveis, redes, cordas e aquelas com pontas curtas e irregulares causam ataques de enredamento.
+- Ferimento profundo que perfura órgãos vitais ou atravessa completamente o corpo do alvo. Armas de fogo, flechas e outras armas pontiagudas causam dano de empalamento.
+- Nocaute: Um ferimento que desequilibra e possivelmente faz com que o alvo se espalhe para trás. Algumas formas de ataques desarmados e ataques com escudo causam repulsão.
+
+Esses cinco tipos de danos são descritos nas seções abaixo.
+
+**Sangramento
+
+Um sucesso especial com uma arma cortante inflige dano hemorrágico ao alvo, que agora tem uma veia ou artéria principal cortada e está perdendo sangue rapidamente. Isso causa 1 ponto de dano adicional no nível 1 de DEX de cada rodada após a rodada em que o ferimento foi infligido. Se forem usados pontos de fadiga, o alvo perderá 1 ponto de fadiga adicional a cada rodada em que estiver sangrando. A armadura protege contra o ataque inicial, mas não contra os efeitos do sangramento.
+
+Durante o combate, o alvo pode tentar estancar o sangramento uma vez por rodada, basicamente colocando uma mão vazia sobre o ferimento e aplicando pressão. No final de cada rodada, o alvo pode tentar uma rolagem de Stamina para determinar se o sangramento parou. Se for bem-sucedido, o ferimento é mantido fechado e o alvo não sofrerá mais dano por sangramento. Enquanto estiver fazendo isso, todos os ataques, defesas ou ações físicas que ele tentar serão *difíceis*. A tentativa de se esquivar cancela a tentativa de estancar o sangramento. Se não for bem-sucedido, o sangramento continuará e, se o alvo se esquivar ou fizer qualquer atividade extenuante, o sangramento começará novamente.
+
+A maneira mais confiável de parar o sangramento é fazer uma rolagem bem-sucedida de Primeiros Socorros no ferimento. O sucesso significa que o sangramento para e não recomeça. A falha nessa rolagem de Primeiros Socorros significa que o sangramento continua até que o alvo receba atenção médica bem-sucedida (na forma de um poder ou outra habilidade, como Medicina) ou morra por perda de sangue quando atingir 0 pontos de vida.
+
+Se o sangramento for interrompido por cinco rodadas de combate, ele parará completamente por conta própria.
+
+**Esmagamento
+
+Um sucesso especial com uma arma de esmagamento - uma clava, bastão, maça ou um golpe desarmado particularmente sortudo - causa dano de esmagamento ao alvo. Esse é um golpe particularmente poderoso, muitas vezes causando hematomas enormes ou até ossos quebrados e, com frequência, atordoamento.
+
+Um sucesso especial de esmagamento dobra o modificador de dano normalmente aplicado ao ataque. Se o atacante tiver um modificador de dano negativo, isso se tornará nenhum modificador de dano e, se não houver modificador de dano, será +1D4 (consulte a **Tabela de modificadores de dano**). O dano da arma é rolado normalmente, mas o modificador de dano é aumentado.
+
+O alvo que sofrer um sucesso especial de esmagamento também deverá fazer uma rolagem de resistência bem-sucedida ou ficará atordoado por 1D3 rodadas. Ficar atordoado é uma experiência vertiginosa e desorientadora, pois as estrelas dançam nos olhos do alvo e sua cabeça nada com a dor do golpe repentino. Um alvo atordoado não pode atacar enquanto estiver atordoado e só pode tentar se esquivar ou aparar um ataque se fizer uma rolagem de Ideia bem-sucedida para cada tentativa. Além disso, todos os ataques contra o alvo são *Fáceis*. O alvo atordoado pode tentar fugir, mas para isso é necessário fazer uma rolagem de Ideia bem-sucedida para discernir um caminho de fuga e uma rolagem de Agilidade bem-sucedida para sair do perigo.
+
+Se o alvo se defender com sucesso de um ataque especial de sucesso esmagador, ele corre o risco de quebrar sua arma ou escudo. O atacante rola o dano e o modificador de dano aumentado e compara o dano rolado com os pontos de vida atuais do item que está aparando na tabela de resistência. O valor ativo é o dano infligido, e o valor passivo são os pontos de vida normais do item. Se a rolagem ativa for bem-sucedida, o item aparador recebe todo o dano do golpe e qualquer dano restante é infligido ao alvo aparador. O alvo pode subtrair a proteção da armadura do dano causado pelo golpe esmagador, mas não pode mais se esquivar ou aparar esse ataque - ele acerta automaticamente e o restante do dano é infligido ao alvo. Se o alvo receber dano, ele estará sujeito às regras de atordoamento (acima).
+
+Se a rolagem passiva dos pontos de vida do item de proteção for bem-sucedida, ele receberá o dano normal do ataque diretamente em seus pontos de vida. Se o item de proteção receber mais dano do que seus pontos de vida, ele será destruído pelo ataque - quebrado ou despedaçado, o que for apropriado -, mas o golpe não continuará a atingir o alvo.
+
+Se locais de acerto específicos estiverem sendo usados e o item de aparar for um escudo, esse dano adicional será automaticamente aplicado ao braço em que o alvo usou o escudo, permitindo a proteção da armadura, se aplicável. Se o item de aparar for uma arma, o dano adicional será aplicado a um local de acerto aleatório, rolado pelo mestre de jogo. Como mencionado acima, a proteção da armadura ainda é à prova do golpe contínuo.
+
+**Emaranhamento
+
+Um sucesso especial com uma arma de enredamento - chicote, rede, corrente, corda, pegador de homem, etc. - enreda o alvo. Um ataque de enredamento não pode ser feito a curta distância e deve ser feito com pelo menos três metros de espaço entre o atacante e o alvo (embora o garrote possa ser usado a curta distância). Um emaranhamento bem-sucedido impede o movimento do alvo pelo resto da rodada de combate e na rodada de combate seguinte. Isso dá ao atacante tempo para se aproximar do alvo ou subjugá-lo de outra forma.
+
+Isso pode impedir ataques do alvo. Com base na natureza do ataque de enredamento, o mestre de jogo pode permitir que um alvo enredado role a Sorte para determinar se ele pode atacar.
+
+**Por exemplo, um chicote enrolado em um braço pode permitir que o outro braço e a outra perna sejam atacados livremente, enquanto um laço pode imobilizar os dois braços.
+
+Isso deve ser tratado caso a caso. No entanto, são poucos os ataques de enredamento que não permitem algum método de ataque, seja um chute ou uma cabeçada.
+
+Se o atacante ainda tiver controle sobre a arma emaranhada (por exemplo, um chicote permite isso, enquanto as bolas não), o atacante pode tentar um ou mais efeitos na próxima rodada, conforme descrito na habilidade Grapple. Os efeitos permitidos incluem: imobilizar o membro, imobilizar o alvo, arremessar o alvo, derrubar o alvo, desarmar o alvo, ferir o alvo e estrangular o alvo, conforme apropriado. Se os locais de acerto estiverem sendo usados, isso pode não permitir determinados ataques.
+
+**Por exemplo, um chicote que enreda a perna não pode desarmar uma arma de mão.
+
+Na rodada seguinte a um ataque bem-sucedido de emaranhamento, o alvo pode tentar uma rolagem de Agilidade para se libertar ou fazer uma rolagem de resistência de STR vs. STR para tentar puxar a arma de emaranhamento da(s) mão(s) do atacante. Alternativamente, se o alvo enredado puder, ele pode tentar um ataque contra a própria arma enredada, cortando-a, se tiver uma arma cortante equipada.
+
+Para ataques de enredamento que empregam armas flexíveis, como redes, cordas, correntes e chicotes, uma rolagem bem-sucedida de resistência de STR vs. STR permite que a arma de enredamento arranque uma arma de defesa das mãos do alvo.
+
+Uma rolagem de Esquiva ou de Luta livre bem-sucedida nega um emaranhamento bem-sucedido, mas só pode ser tentada na próxima rodada de combate. Um aparar crítico nega um emaranhamento crítico, mas um aparar comum bem-sucedido não tem efeito.
+
+**Impaling**
+
+Um sucesso especial com uma arma pontiaguda ou de empunhadura inflige dano de empalamento ao alvo, perfurando profundamente a carne e podendo atingir órgãos internos. Um empalamento dobra os dados e o modificador do dano normal rolado pela arma.
+
+**Por exemplo,** * *uma espada curta normalmente causa 1D6+1 pontos de dano, enquanto um empalamento com a mesma arma causa o dobro disso, ou seja, 2D6+2 pontos de dano.*
+
+Somente o dano da arma é dobrado. Se o atacante tiver um modificador de dano, o modificador de dano não será dobrado, mas será rolado normalmente e adicionado ao dano.
+
+Uma arma de empalamento continua alojada no corpo do alvo até ser removida. Se a arma for uma arma de mão, o atacante pode tentar imediatamente um rolamento de habilidade de arma *Difícil* com a arma de empalamento. Se for bem-sucedido, o atacante poderá retirar a arma depois que o ataque de empalamento atingir o alvo. Caso contrário, a arma fica presa no corpo do alvo.
+
+Se a arma do agressor ainda estiver no ferimento e o agressor quiser recuperá-la, ele deverá tentar recuperá-la. Nesse caso, o atacante deve se concentrar em retirar a arma do ferimento. Isso aumenta a chance de recuperação para a chance total de ataque do atacante com a arma, mas todos os ataques contra o atacante são considerados *Fáceis* e, obviamente, ele não pode se defender ou se esquivar enquanto tenta extrair a arma do alvo.
+
+Para armas arremessadas, como dardos, adagas ou até mesmo flechas, o atacante deve se aproximar do alvo e ser bem-sucedido em uma rolagem de Agilidade *Difícil* para pegar a arma. A chance de remover a arma nas rodadas seguintes é a habilidade completa do atacante se ele desejar ignorar qualquer ataque naquela rodada e se concentrar em recuperar a arma, conforme descrito acima.
+
+Um alvo empalado não pode ser curado até que a arma de empalamento seja removida, se ela for maior que uma faca. Itens minúsculos, como pontas de flechas ou balas, podem ser deixados no ferimento, embora isso possa apresentar complicações mais tarde, a critério do mestre de jogo. Se for empalado com uma arma como uma lança ou espada, sempre que o alvo se mover de forma significativa, ele receberá metade do dano da arma (role novamente, sem o modificador de dano ou a proteção da armadura) novamente (para o mesmo local de acerto, se usado) porque a arma extrusora está se prendendo em superfícies próximas, movendo-se dentro delas e ampliando o ferimento etc.
+
+Um alvo empalado com uma arma e que esteja tentando removê-la deve fazer uma rolagem de resistência de sua força de resistência versus a quantidade de dano causado até o momento pela arma. O sucesso significa que a arma foi liberada e está nas mãos do alvo, enquanto o fracasso significa que ele não poderá liberá-la naquela rodada de combate e sofrerá 1D3 pontos de vida adicionais de dano (no mesmo local de acerto, se usado) da atividade. Essa ação dura uma rodada completa e termina com o alvo segurando a arma que o empalou anteriormente.
+
+O gamemaster pode impor dificuldades adicionais ou reduzir a STR efetiva pela metade se a arma de empalamento estiver em uma posição difícil de alcançar ou inacessível, como nas costas.
+
+Outra forma de lidar com uma arma de empalamento é quebrá-la ou danificá-la para que não cause mais sofrimento e possa ser removida posteriormente. Isso geralmente é feito com flechas, removendo as hastes para que não causem mais problemas. Dependendo da arma e do método de danificá-la, isso exigirá uma rolagem na tabela de resistência da força de resistência do alvo ferido em relação aos pontos de vida da arma ou um ataque direto à própria arma.
+
+Fora de combate, qualquer tentativa de remover uma arma de empalamento é *Fácil*, seja com a rolagem de resistência ou usando Primeiros Socorros.
+
+**Nocaute
+
+Um sucesso especial em um arremesso desarmado ou em um ataque com escudo fez o alvo recuar. O dano total rolado (antes da subtração da armadura) é comparado com o tamanho do alvo em uma rolagem de resistência. O gamemaster pode reduzir o SIZ efetivo do alvo para refletir o desnível do solo, a inclinação ou a condição do alvo (fatigado, atordoado etc.). Se não for bem-sucedido, o alvo é empurrado um metro para trás para cada 5 pontos de dano rolado (antes da armadura) e o atacante deve se aproximar novamente e enfrentar o alvo em combate corpo a corpo se tiver sido previamente empurrado para fora do alcance do combate corpo a corpo. Se o alvo do knockback também atingir um obstáculo em seu caminho, ele sofrerá 1D6 de dano para cada três metros ou fração de distância que ainda tiver para percorrer. O alvo também deve fazer uma rolagem de Agilidade bem-sucedida ou cair de bruços (consulte **Prone**).
+
+Se o alvo vencer a rolagem de resistência, ele não será movido e, se seu tamanho for maior do que o tamanho do atacante, o atacante cambaleará um metro para trás.
+
+**Luta defensiva
+
+Se o seu personagem renunciar a todos os ataques em uma rodada para lutar defensivamente, ele pode substituir o ataque por uma tentativa de Esquiva gratuita e pode continuar a fazer tentativas de Esquiva ou Aparar. Normalmente, cada tentativa subsequente de Esquiva ou aparar tem um modificador cumulativo de -30%, mas, enquanto estiver lutando defensivamente, seu personagem pode substituir uma tentativa de habilidade de Esquiva por um ataque sem incorrer na penalidade de -30%. Se ele já tiver feito tentativas de esquiva e de aparar e estiver com um modificador negativo, o modificador não aumentará. Essencialmente, é uma tentativa de esquiva gratuita que não incorre em penalidade na próxima tentativa de esquiva ou de aparar.
+
+A única restrição nesse caso é que seu personagem não pode se esquivar e aparar dentro do mesmo nível de DEX. Se o seu personagem puder normalmente fazer vários ataques por rodada (como ter uma habilidade acima de 100%), ele poderá fazer uma segunda Esquiva ou aparar gratuitamente sem incorrer na penalidade cumulativa.
+
+Em nenhuma circunstância a luta defensiva pode ser combinada com qualquer ataque ou ação ofensiva, mesmo que seja a **Ação Desesperada**.
+
+**Erros em combate
+
+Fumbles em combate são eventos infelizes ou contratempos, atribuíveis à má sorte ou à inexperiência. Quando um fumble for rolado, role D100 na tabela apropriada e aplique o resultado. O mestre de jogo rola para os personagens que não são jogadores. Se o resultado da rolagem for inadequado, o mestre de jogo deverá adaptá-lo a algo que faça sentido ou refazer a rolagem.
+
+Há quatro tabelas de fumble; use a mais apropriada para a ação. Embora a **Tabela de ataques e defesas com armas naturais** tenha o objetivo de orientar as ações de humanoides inteligentes, ela também pode ser útil para animais naturais, como ursos, lobos etc., com critério. Mais uma vez, o mestre do jogo é incentivado a adaptar ou substituir resultados improváveis.
+
+Algumas armas podem apresentar **falha**. Isso ocorre além de qualquer falha se o resultado do rolamento ultrapassar os intervalos de falha e mau funcionamento (consulte **Malfunções**).
+
+**Regras de combate variantes (opção)
+
+Essas regras opcionais modificam o combate para simular melhor o combate em diferentes gêneros, com algumas recomendações e conselhos sobre como essas regras afetam a jogabilidade.
+
+**Ataques e defesas acima de 100% (opção)
+
+Seu personagem pode ter habilidades acima de 100%, permitindo maiores chances de resultados críticos, sucessos especiais e, com habilidades de combate, vários ataques em uma rodada.
+
+Uma classificação de habilidade de combate de 100% ou mais permite que seu personagem divida o ataque em vários ataques, embora cada ataque deva ser de pelo menos 50%. Esses totais não precisam ser iguais. **Por exemplo, com uma classificação de habilidade de 101%, seu personagem pode dividir os ataques em um ataque de 51% e um ataque de 50%. Com uma classificação de habilidade de 151%, seu personagem pode dividir os ataques em dois ataques de 75% e 76%, um de 92% e outro de 59%, ou três de 50%, 50% e 51%, etc. Você não pode criar frações e arredondar para cima - atribua toda a classificação de habilidade aos ataques*.
+
+Seu personagem pode então fazer ataques separados com a mesma arma, resolvendo cada um usando uma das classificações de habilidade divididas. O nível de DEX para o primeiro ataque é normal; o nível de DEX para o segundo é 5 níveis de DEX mais baixo; o terceiro é 5 níveis de DEX depois disso, etc. Se isso reduzir um ataque para o nível de DEX 0 ou inferior, ele não poderá ser tentado.
+
+**Exceder 100% em uma habilidade** fornece informações sobre como seu personagem pode alcançar habilidades superiores a 100%.
+
+**Descarte de armas de mísseis (opção)**
+
+Normalmente, seu personagem só pode se esquivar de armas de mísseis com uma penalidade ou não pode se esquivar (consulte **Dodge**), mas em um jogo mais heroico, seu personagem pode se esquivar com sua classificação de habilidade total, supondo que ele tenha a chance de ver o atacante e possa sair do caminho. Isso pode até incluir esquivar-se de ataques de área.
+
+Além disso, seu personagem pode tentar desviar de armas de mísseis com armas de mão. É necessário um sucesso especial ou crítico para aparar com sucesso uma arma de mísseis com uma arma de mão e, se o resultado for um sucesso normal ou até mesmo uma falha, o ataque atinge automaticamente seu personagem.
+
+Seu personagem também pode tentar pegar uma arma de projétil, como uma flecha, lança ou outra arma arremessada, com um sucesso especial ou crítico em uma rolagem de habilidade de Agilidade ou Arremesso. Nesse caso, seu personagem pegou a arma e escapou de ferimentos e pode se desfazer dela ou utilizá-la em combate, como achar melhor. Se a rolagem for bem-sucedida, mas não for um sucesso especial ou crítico, seu personagem não a pegou, mas está ileso. Se a rolagem for um fracasso, seu personagem deverá fazer uma rolagem de Sorte bem-sucedida para evitar ser ferido; caso contrário, ele sofrerá o dano normal rolado da arma de mísseis. Se o rolamento for um fumble, o seu personagem recebe automaticamente o dano rolado da arma de mísseis (na mão/braço se os locais de acerto estiverem sendo utilizados). A proteção da armadura é permitida contra esse ataque.
+
+Seu personagem também pode desviar de mísseis de alta velocidade (flechas, balas etc.) livremente com escudos, tentando um teste de Spot antes. Se a rolagem for bem-sucedida, seu personagem poderá aparar livremente com o escudo no nível máximo de habilidade. Se a rolagem de Spot falhar, a rolagem de Parry será *Difícil* ou a classificação de habilidade terá como padrão as chances básicas fornecidas em **Escudos e disparos de mísseis**.
+
+**Dying Blows (Opção)**
+
+A capacidade de atacar um inimigo pela última vez, apesar de um ferimento fatal, pode ser um final dramático e heroico para o seu personagem se ele for mortalmente ferido ou um ataque final desanimador de um oponente odiado. O alvo de um golpe fatal (consulte **Dano e Cura**) pode tentar uma ação de combate adicional se fizer uma rolagem de Vigor bem-sucedida. Essa ação deve ocorrer no próximo nível de DEX disponível em que ele puder agir ou, se for mais tarde, ele deve fazer uma rolagem de Vigor adicional para cada rodada em que o golpe fatal for adiado. A falha em qualquer uma dessas rolagens resulta em morte antes que o golpe mortal seja desferido.
+
+O gamemaster é incentivado a permitir que o golpe fatal de um personagem seja executado com sua classificação de habilidade total, menos quaisquer modificadores situacionais, como estar deitado. A critério do gamemaster, o golpe fatal não precisa ser uma ação de combate, mas pode ser o uso final de um poder, uma habilidade ou até mesmo uma ação mundana. Recomenda-se que uma ação de morte seja apenas uma tarefa simples e direta. Dizer as últimas palavras a outro personagem é uma ação de morte e requer uma rolagem de Sorte bem-sucedida para cada informação relevante.
+
+Quando um golpe de morte é desferido ou uma ação de morte é executada, o personagem morre imediatamente, tendo cumprido seu dever final no mundo. Nesse caso, o mestre de jogo pode determinar que a atenção médica posterior falhará automaticamente. O golpe da morte foi o arremate final de uma morte heróica ou de um fim vil.
+
+Esse sistema substitui a regra de ponto **Desperate Action**.
+
+**Armadura
+
+A armadura é tradicionalmente uma forma de roupa grossa e resistente o suficiente para proteger contra ataques. Historicamente, era feita de couro, osso, madeira e metal apropriados para a época. No mundo moderno, a armadura é feita de fibras cerâmicas e balísticas, metais leves e outras substâncias resistentes à base de plástico e, em eras futuras, a armadura provavelmente será feita de materiais semelhantes de alta tecnologia ou até mesmo de proteção baseada em energia. Embora seu uso possa causar fadiga, a armadura convencional não exige rolagem de habilidade ou esforço para ser utilizada. Se um ataque não for aparado ou esquivado, a armadura é tudo o que separa seu personagem de um ferimento.
+
+O aspecto mais importante da armadura é seu **valor de armadura (AV)**. Quanto maior o valor da armadura, melhor ela protege o usuário. O valor da armadura é subtraído do dano infligido por um ataque bem-sucedido. O alvo do ataque tem o dano restante removido de seus pontos de vida. Se o resultado após a subtração do valor da armadura for 0 ou um número negativo, nenhum dano será sofrido.
+
+Alguns tipos de armadura podem ser colocados em camadas umas sobre as outras para aumentar a eficácia. Quando os escudos também são usados, um aparamento bem-sucedido do escudo pode não ser suficiente para impedir um golpe, e o dano do ataque pode passar pelo valor de armadura do escudo e chegar ao seu portador. Nesses casos, os valores de armadura do escudo e da armadura são subtraídos antes de o personagem que está aparando receber o dano.
+
+**Desvantagens da armadura
+
+Apesar de todas as vantagens, há aspectos negativos no uso da armadura. Os aspectos a seguir são os mais significativos, embora o mestre de jogo possa enfatizar alguns deles mais do que outros, reduzir a ênfase em alguns desses aspectos ou até mesmo introduzir novas condições com base no cenário:
+
+- Penalidades de habilidade:** A armadura pode inibir determinadas habilidades, especialmente a rolagem de Agilidade ou outras habilidades do grupo de habilidades Físicas, como Escalar, Saltar, Furtividade e Nadar. Além disso, o uso de um capacete pode limitar certas habilidades de Percepção. Algumas descrições de armaduras no *Capítulo 8: Equipamento* incluem modificadores negativos para essas habilidades. As habilidades com armas não são afetadas pelo uso da armadura, pois a armadura é criada especificamente para ser usada em combate.
+- Desconforto físico:** A armadura é pesada, desconfortável e inflexível, ou pelo menos mais do que as roupas normais, e o peso da armadura pode cansar e/ou sobrecarregar o usuário. A fadiga e a sobrecarga abrangem a falta de jeito ou qualquer cansaço causado pelo uso da armadura. No deserto ou em outros ambientes quentes, a armadura pode ser ainda mais desconfortável (consulte **Frio, exposição, fome e sede** e **Fogo e calor**).
+- Problemas sociais: Muitos tipos de armadura são difíceis de esconder e podem ser interpretados como hostis em muitas sociedades ou culturas. Algumas habilidades de comunicação podem se tornar *difíceis* de acordo com a situação, pois muitas vezes é difícil persuadir ou manipular alguém quando se aparenta estar pronto para a violência. Outras habilidades de comunicação podem se tornar *Fáceis* pelo mesmo motivo. Essas situações devem ser julgadas pelo gamemaster.
+- Acesso: Dois outros aspectos práticos limitam o uso da armadura em um cenário de jogo: a disponibilidade da armadura e se ela serve. A disponibilidade deve ser avaliada pelo mestre de jogo e com base no cenário. Por exemplo, uma camisa de malha de qualidade pode ser cara, mas relativamente fácil de obter em um cenário histórico medieval, enquanto uma camisa de malha prática e utilizável pode ser quase impossível de encontrar em um cenário pré-histórico ou de futuro distante. Em alguns cenários, a disponibilidade pode parecer ilimitada (o mundo moderno, por exemplo), e o acesso à armadura real pode ser tão fácil quanto um pedido on-line. Entretanto, a probabilidade de a armadura ser de qualidade suficiente para resistir ao combate não é garantida, e a entrega pode ser restringida por leis e regulamentos regionais.
+
+*O Capítulo 8: Equipamento* aborda todas as vantagens e desvantagens específicas da armadura e fornece exemplos de vários tipos de armadura, desde túnicas de couro cru até campos de força pessoais. Além disso, vários poderes podem modificar o valor da armadura de seu personagem. Eles são discutidos no *Capítulo 4: Poderes*.
+
+**Armadura e tamanho
+
+Por fim, nem todas as armaduras podem ser usadas por todos. A armadura geralmente é classificada de acordo com o TAMANHO para o qual foi criada, sendo que a armadura mais confortável é a mais ajustada à forma. Uma armadura frouxa e mal ajustada é tão incômoda de usar quanto uma armadura muito apertada. Cada tipo de armadura tem uma classificação "Fits SIZ", expressa como um ± que determina a faixa de SIZ do personagem acima e abaixo do SIZ padrão de uma determinada armadura. Presume-se que um personagem possua ou compre uma armadura adequada ao seu próprio tamanho, se puder escolher. Se o tamanho do seu personagem estiver fora da faixa de tamanho da armadura, ela não poderá ser usada.
+
+Em geral, quanto maior o valor da armadura, menor a probabilidade de ela servir em um personagem de outro tamanho. Se o seu personagem tiver um SIZ extremo de uma forma ou de outra (abaixo de 8 ou acima de 16), ele pode não conseguir usar muita armadura "de prateleira" (se existir) e ser forçado a pagar mais por uma armadura sob medida ou buscar fontes alternativas de equipamento defensivo.
+
+**Escudos
+
+A maneira mais fácil de pensar em um escudo é que ele é uma arma cujo objetivo principal é se colocar entre o personagem e o atacante. Os escudos não cobrem todo o corpo, mas são mais leves do que a armadura corporal e muito mais baratos e fáceis de manusear. Em geral, os escudos não perdem pontos de vida quando atingidos por golpes normais e não são muito fáceis de serem liberados das mãos de um defensor. Normalmente, apenas golpes poderosos (sucessos especiais ou melhores) danificam um escudo, e a única maneira de perder um escudo é por meio de um erro grave.
+
+Os diferentes tipos de escudos são descritos no *Capítulo 8: Equipamento*. Ao contrário dos tipos de armas, todos os escudos usam a mesma habilidade de escudo, e a mesma classificação de habilidade se aplica a qualquer escudo usado. Seu personagem aparta ataques corpo a corpo com o escudo da mesma forma que faria com uma arma de mão. Contra armas de mísseis, um escudo pequeno ou pela metade tem uma chance básica de 15% de bloquear um míssil, um escudo completo tem 30% de chance de bloquear um míssil e um escudo grande tem 60% de chance. Se o seu personagem se ajoelhar atrás dele, um escudo completo tem 60% de chance de bloquear um míssil e um escudo grande tem 90% de chance. Esses valores são usados no lugar da classificação de habilidade do seu personagem. Consulte **Armas de mísseis** e **Escudos e disparos de mísseis**.
+
+Na maioria das circunstâncias, os escudos não podem bloquear com eficácia armas de mísseis extremamente rápidas, como armas de fogo ou armas de energia, e são de uso limitado contra armas de propulsão manual, como flechas, fundas e lanças. Nesses casos, uma chance padrão é substituída em vez da habilidade do seu personagem, mas, se permitido, consulte **Desviar armas de mísseis**.
+
+Seu personagem também pode usar um escudo para atacar um oponente. A chance é a mesma que a classificação da habilidade de escudo do seu personagem, pois o treinamento com escudo geralmente incorpora o uso ofensivo e o defensivo. Em geral, os escudos usam o recuo como seu sucesso especial, embora alguns tipos de escudos sejam pontiagudos e possam usar os sucessos especiais de empalamento.
+
+Se um atacante desejar destruir a arma ou o escudo de defesa de um oponente, ele deve fazer um ataque normalmente. Se o alvo não estiver tentando se defender, o ataque será um **Ataque com Mira**. Se o ataque for bem-sucedido e for aparado com sucesso, ou se o ataque atingir o escudo com sucesso como um ataque direcionado, o dano será rolado normalmente (modificado se for um sucesso especial ou crítico). O valor da armadura do escudo é subtraído do dano causado. Qualquer dano excedente é causado ao escudo. Se o escudo for reduzido a 0 pontos de vida, o restante do dano continuará a atingir o defensor. A armadura protegerá contra isso e, se o sistema opcional de localização de acerto for usado, o dano será causado à arma ou ao braço do escudo do defensor.
+
+**Valores de armadura aleatórios (opção)
+
+Às vezes, a armadura não é confiável e pode não proteger seu personagem de forma confiável toda vez que ele for atingido em combate. A armadura tem lacunas, espaços que são menos blindados e algumas partes do corpo do personagem podem nem mesmo ser blindadas. Em vez de um valor de armadura fixo, o valor de armadura aleatório simula essa imprevisibilidade com um intervalo de dados, rolado sempre que um ataque que causaria dano atinge seu personagem com sucesso. Esse valor de armadura determinado aleatoriamente é rolado e subtraído de qualquer dano recebido. O valor da armadura é rolado separadamente para cada ataque que atinge o personagem, mesmo na mesma rodada. *O Capítulo 8: Equipamento* aborda a armadura em detalhes e fornece intervalos para valores de armadura aleatórios.
+
+Em jogos que usam valor de armadura aleatório, recomenda-se que a armadura seja genérica em vez de específica para o local de acerto, para minimizar a contabilidade por local.
+
+**Armas de mísseis**
+
+Uma arma que é lançada ou arremessada em um alvo é uma **arma de mísseis**. Isso inclui dardos, pedras, facas de arremesso, bumerangues, dardos e até machadinhas. As armas que usam algum tipo de mecanismo para projetar um elemento causador de dano em um alvo, incluindo armas de fogo, arcos, catapultas e até mesmo armas de energia, também são armas de mísseis.
+
+As armas de mísseis são descritas no *Capítulo 8: Equipamento*. Alguns tipos de armas de mísseis, como arcos e bestas, atacam em um ritmo mais lento do que o seu personagem pode usar uma arma corpo a corpo, enquanto as armas de fogo e outras armas de autopropulsão geralmente atacam em um ritmo mais rápido. A coluna ataques por rodada (Attk) nas tabelas de armas mostra a frequência com que os ataques podem ser feitos com cada tipo de arma de mísseis. Para uma taxa de tiro maior (ataques por rodada mais altos), consulte **Volley Fire**.
+
+Veja a seguir os modificadores de alcance para armas de mísseis:
+
+- À queima-roupa:** Se o alvo estiver dentro da DEX/3 metros (arredondado para cima) do atacante (mesmo que o alvo esteja de bruços), a habilidade é *Fácil*.
+- Alcance normal:** Não modificado se o alvo estiver dentro do alcance padrão listado da arma.
+- Alcance médio: se o alvo estiver com o dobro do alcance padrão listado da arma, o ataque será *difícil*.
+- Longo alcance: se o alvo estiver no quádruplo do alcance padrão listado da arma, o ataque terá 1/5 da chance de habilidade normal (equivalente a um sucesso especial, mas se for rolado, o resultado será um sucesso normal).
+- Alvo em movimento rápido:** -50%
+- Visão difícil:** Sombras claras -10%, neblina clara -25%, na escuridão as habilidades são *difíceis* (consulte **Escuridão**).
+- Ocultação:** Se o alvo estiver coberto ou parcialmente oculto, as habilidades são *difíceis* (consulte **Ocultação**).
+- Prone at Distance:** Se o alvo estiver prostrado a uma distância maior que a DEX/3 metros do atacante (arredondar para cima), o ataque é *Difícil*.
+- Equipamento de mira: o uso de óculos de longo alcance, uma luneta, mira a laser ou outro sistema de mira divide os modificadores de alcance em 1/2 se uma rodada de combate for usada para mirar.
+- Suporte:** Se a arma usar um suporte fixo (um bipé ou tripé, uma funda suspensa, etc.), adicione +40% para o primeiro ataque se for necessário um turno para mirar, depois +20% para os turnos subsequentes.
+
+Os disparos de armas de mísseis geralmente não podem ser desviados ou aparados com armas de mão. O único método de defesa contra disparos de armas de mísseis é aparar com um escudo se o míssil for lento o suficiente para ser visto em voo. Armas de fogo e outros projéteis são rápidos demais para isso, enquanto flechas, dardos e outras armas de propulsão manual podem ser aparados com um escudo (consulte **Escudos e disparos de mísseis**). Se estiver usando a regra opcional para esquivar e aparar disparos de armas de mísseis sem restrição ou impedimento, consulte **Desviar armas de mísseis**.
+
+**Danos e cura**
+
+Os pontos de vida medem a quantidade de ferimentos que seu personagem pode sofrer e sobreviver. Quando seu personagem perde pontos de vida devido a ferimentos, isso é chamado de **dano**. Você começa com pontos de vida baseados em suas características CON e SIZ, e esses pontos são reduzidos pela quantidade de dano que você recebe. Feridas ou outros ferimentos, venenos, doenças e outras formas de ataque podem custar ao seu personagem pontos de vida em danos. Você deve riscar os pontos de vida perdidos do total atual de pontos de vida mostrado em sua ficha de personagem, registrando cada ferimento separadamente. Ou circule a quantidade atual com base em cada perda.
+
+Veneno e doença são tipos especiais de ferimentos; eles podem atacar aleatoriamente e seus efeitos podem ser retardados. Algumas custam pontos de vida, enquanto outras visam pontos característicos ou têm outros efeitos. As habilidades de Primeiros Socorros e Medicina podem atenuar ou curar ferimentos e lesões menores. Vários poderes e equipamentos também podem restaurar pontos de vida dos personagens.
+
+As feridas são classificadas como **menor**, **maior** ou **fatal** e são descritas abaixo.
+
+**Ferimentos leves
+
+Um **ferimento leve** é um ferimento único que custa ao seu personagem até metade do total de pontos de vida. Pode ser retratado como um corte, uma entorse, um envenenamento leve, uma pequena fratura ou quebra, uma concussão leve ou um ferimento que fecha rapidamente. Os ferimentos leves não prejudicam a DEX nem afetam a capacidade do personagem de pensar e lutar.
+
+Seu personagem pode sofrer vários ferimentos leves no mesmo dia. Se o total de pontos de vida perdidos for igual ao valor de um ferimento maior, seu personagem deverá fazer uma rolagem de Sorte bem-sucedida ou cairá inconsciente. Isso não significa que o total de ferimentos leves cause um ferimento grave: não role na **Tabela de Ferimentos Graves** para vários ferimentos leves. Isso significa que seu personagem sofreu um ferimento equivalente a um ferimento maior, mas não foi realmente infligido com um. Além disso, se seu personagem sofrer ferimentos leves o suficiente para reduzi-lo a 1 ou 2 pontos de vida, isso o deixará inconsciente por até uma hora. Cada ferimento leve é um ferimento separado e pode ser tratado separadamente por tratamento médico, conforme descrito em **Cura**.
+
+**Ferimentos graves
+
+Quando seu personagem sofrer um ferimento igual ou superior à metade do total de pontos de vida do personagem, ele sofreu um **ferimento grave**. Ao receber um ferimento grave, o personagem corre o risco de sofrer uma lesão permanente. Quando seu personagem receber um ferimento grave, role na **Tabela de Ferimentos Graves** ou escolha um resultado apropriado se forem usados locais de acerto. Conforme observado em **Locais de acerto**, os ferimentos graves são incompatíveis com os locais de acerto sem uma interpretação considerável do gamemaster.
+
+O efeito de um ferimento grave é imediato. Dependendo da gravidade dos ferimentos de seu personagem, ele pode não ser capaz de lutar após a rodada de ferimentos. Consulte a **Tabela de ferimentos graves** para obter mais detalhes sobre isso.
+
+Mesmo que seu personagem ainda possa lutar ou tenha recebido algum tipo de atendimento médico imediato, se tiver sofrido um ferimento grave, ele entrará em choque. Por causa disso, seu personagem pode lutar apenas por rodadas de combate iguais aos pontos de vida restantes.
+
+**Por exemplo, se o seu personagem tiver sofrido um ferimento grave e tiver 3 pontos de vida restantes, ele ficará inconsciente em três rodadas.
+
+Um personagem com 2 ou menos pontos de vida após sofrer um ferimento grave entra em colapso imediatamente devido ao choque e à perda de sangue e fica inconsciente por uma hora. Para o mestre de jogo, a inconsciência provocada por um ferimento grave geralmente oferece uma maneira segura para que os personagens não jogadores abandonem os personagens como mortos ou os capturem em vez de matá-los completamente.
+
+Os ferimentos graves e seus efeitos se aplicam a personagens jogadores e não jogadores, bem como a animais, monstros e outras criaturas. Eles não se aplicam a equipamentos, objetos inanimados ou outros seres que não tenham uma musculatura padrão (robôs, imateriais, gelatinosos etc.). Esses seres podem sofrer danos estruturais ou dificuldades operacionais, mas isso fica a critério do seu mestre de jogo.
+
+Se o seu personagem tiver sofrido um ferimento grave, tente um teste de Sorte imediatamente. Se for bem-sucedido, o ferimento grave será curado sem problemas e não causará nenhuma perda permanente de pontos característicos. Se o rolamento da Sorte falhar, o ferimento ou a ferida será permanente. Seu personagem sofre o ferimento completo conforme descrito abaixo, subtraindo os pontos de característica indicados.
+
+Cada descrição de ferimento tem várias causas ou especificidades, permitindo que o mestre de jogo selecione a mais apropriada para a situação. Por meio de treinamento ou outros meios diversos, seu personagem pode recuperar os pontos característicos perdidos em ferimentos graves, mas provavelmente ficará com uma cicatriz significativa (se aplicável). Quando a perda de pontos característicos decorrente do ferimento grave for recuperada, todos os efeitos do ferimento grave serão eliminados. Se seu personagem não recuperar o(s) ponto(s) de característica perdido(s), a perda de característica imposta pelo ferimento grave será permanente. Você deve recalcular imediatamente as rolagens de características, os pontos de vida, o modificador de dano, os pontos de fadiga etc. do seu personagem com os novos totais de características.
+
+Quando um membro não for especificado, role 1D6: um resultado de 1-3 é esquerdo, 4-6 é direito.
+
+**Tabela de feridas principais
+
+| **1D100** | **Result** |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Os tendões das pernas rompidos causam claudicação; os ossos do tornozelo fundidos causam claudicação; os músculos das costas ou os danos aos nervos espinhais inclinam o tronco para a esquerda ou para a direita; um joelho quebrado não pode se dobrar; ou invente um novo efeito de ferimento. Perca 1D3 de DEX e reduza o MOV na mesma proporção. O personagem ainda é capaz de lutar.                                                                                                                                                                                                                                                  |
+| Grande parte do nariz foi cortada; várias cicatrizes desfiguram ambas as mãos; uma orelha foi cortada; uma cicatriz lívida confere uma aparência maligna; ou invente um novo efeito de ferimento. Perde 1D3 de CHA. A deformidade visível e desagradável não pode ser disfarçada. O personagem ainda é capaz de lutar.                                                                                                                                                                                                                                                   |
+| 21-30 | Dano no pulso ou na mão; um pedaço do músculo do braço ou do ombro foi cortado; um pedaço foi arrancado dos músculos da coxa ou da panturrilha; os nervos espinhais foram danificados; vários dedos das mãos ou dos pés foram cortados; ou invente um novo efeito de ferimento. Perda de 1D3 de STR; essa perda pode alterar as armas que podem ser usadas. O personagem ainda é capaz de lutar com uma arma, mas não com um escudo.                                                                                                                                                                                         |
+| Um pulmão perfurado leva a um sistema respiratório enfraquecido; feridas profundas no estômago tornam-se cronicamente reinfectadas ou feridas na barriga enfraquecem a digestão e a saúde em geral; os rins e o fígado são danificados; ou invente um novo efeito de ferimento. Perca 1D3 CON; reduza o MOV na mesma proporção e os pontos de vida podem ser reduzidos. O personagem ainda é capaz de lutar.                                                                                                                                                                                                 |
+| A concussão prejudica a audição e limita as habilidades de Ouvir e Perspicácia a um máximo de 65%; ferimentos na cabeça exigem rolagens de Sorte toda vez que for usar qualquer habilidade Mental; golpes ou cortes que afetem a percepção de profundidade deixam as classificações de habilidade de arma de mísseis em um máximo de 65%; ferimentos múltiplos no rosto e no pescoço limitam as habilidades de qualquer habilidade de Comunicação a um máximo de 65%; ou invente um novo efeito de ferimento. Perda de 1D3 INT; essa perda pode afetar a capacidade do personagem de usar quaisquer poderes, como feitiçaria. O personagem ainda é capaz de lutar. |
+| 51-60 | Consulte 01-10, mas ampliado para a perda de um ou ambos os braços ou pernas. Perde 1D6 de DEX e reduz o máximo de MOV na mesma proporção. O personagem é incapaz de lutar.                                                                                                                                                                                                                                                                                                                                                                                 |
+| 61-70 | Consulte 11-20, mas o ferimento grave agora inclui mutilações piores. Perde 1D6 de CHA; cria uma ou mais deformidades visíveis que não podem ser disfarçadas. O personagem ainda é capaz de lutar.                                                                                                                                                                                                                                                                                                                                                     |
+| Consulte 21-30 para ver exemplos de cortes e perdas mutilantes. Perca 1D6 de FÍS, talvez ajustando o modificador de dano. O personagem ainda é capaz de lutar.                                                                                                                                                                                                                                                                                                                                                                                                |
+| 81-90 | Consulte 31-40 para ver vários ferimentos nos órgãos vitais. Perda de 1D6 CON; pode afetar os pontos de vida e o modificador de dano e reduz o MOV igual à perda de CON. O personagem é incapaz de lutar.                                                                                                                                                                                                                                                                                                                                                                |
+| 91-92 | Ferimentos graves no rosto e nas cordas vocais. Perde 1D6 CHA. O personagem ainda é capaz de lutar.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 93-94 | Ossos quebrados e gânglios cortados. Perde 1D6 DEX; de agora em diante, o personagem só poderá usar armas brancas com uma mão. O personagem ainda é capaz de lutar usando o braço restante.                                                                                                                                                                                                                                                                                                                                                                 |
+| 95-96 | Dano nervoso no braço esquerdo ou direito. Perca 1D6 de DEX; de agora em diante, seu personagem só poderá usar armas ou equipamentos no braço não danificado. O personagem ainda poderá lutar usando o braço restante.                                                                                                                                                                                                                                                                                                                                            |
+| 97-98 | Dano nervoso em ambos os braços. Perda de 1D6 de DEX; embora as pernas estejam bem, nem os braços nem as mãos podem manejar nada. O personagem é incapaz de lutar, a menos que use as pernas ou cabeçadas.                                                                                                                                                                                                                                                                                                                                                           |
+| 99 | Mutilado com ferimentos graves. Perde 1D3 pontos de CHA, DEX e CON cada. O personagem é incapaz de lutar.                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 00 | Deliberadamente mutilado após entrar em colapso. Remova 1D4 pontos de cada uma das quatro características (a critério do gamemaster). O personagem é incapaz de lutar.                                                                                                                                                                                                                                                                                                                                                                                           |
+
+**Ferimentos fatais
+
+Um **ferimento fatal** é aquele que causa mais pontos de vida em dano do que seu personagem tem atualmente. Se um ferimento reduzir seu personagem a 0 ou a pontos de vida negativos, ele sofreu um ferimento fatal. Seu personagem fica imediatamente **propenso**, mas incapaz de realizar qualquer tipo de ação.
+
+Os ferimentos fatais levam à morte, embora possam ser evitados com assistência médica imediata e bem-sucedida. Se um personagem fatalmente ferido receber atendimento médico (Primeiros Socorros, Medicina, um poder, um item etc.) na rodada em que recebeu o ferimento fatal ou na rodada imediatamente posterior, e seus pontos de vida forem aumentados para 1 ou mais, ele quase morreu, mas sobreviveu a esse ferimento específico.
+
+**Locais de danos e golpes (opção)
+
+Se o sistema opcional de localização de acerto for usado, os pontos de acerto do personagem serão distribuídos entre várias áreas do corpo, mas também serão registrados como um único "conjunto" de pontos de acerto. Esse sistema é incompatível com **Major Wounds** e os dois sistemas não devem ser usados juntos.
+
+Os pontos de vida individuais por local somam mais do que o total normal de pontos de vida de seu personagem. Registre cada ferimento e cada local separadamente, mas também mantenha um total contínuo de todos os danos de pontos de vida que seu personagem sofreu. Independentemente de quantos pontos permaneçam em locais de acerto individuais, se a perda combinada de pontos de acerto for suficiente para reduzir seu personagem a 1 ou 2 pontos de acerto, ele ficará inconsciente e, com 0, morrerá se não receber atendimento médico imediato.
+
+Conforme observado na seção inicial sobre locais de acerto, um local de acerto pode receber até seus pontos de acerto em danos sem inconvenientes. **Por exemplo, se o seu personagem tiver 5 pontos de vida no local de acerto da perna, ele poderá receber até 4 pontos de vida de dano em uma perna sem ficar incapacitado.* Entretanto, quando um local de acerto recebe todos ou mais do que seus pontos de vida em dano, os efeitos podem ser debilitantes ou até mesmo fatais.
+
+A referência à "atenção médica" pode ser as habilidades de Primeiros Socorros ou Medicina, magia ou tecnologia de cura, ou o uso de um poder apropriado.
+
+**Dano igual ou superior aos pontos de vida do local**
+
+- Perna:** O membro fica temporariamente inútil e o personagem cai de bruços. Ele fica incapaz de agir pelo resto da rodada, mas pode agir enquanto estiver prostrado nas rodadas seguintes. Consulte **Prone** para ver os efeitos.
+- Abdômen:** Ambas as pernas ficam temporariamente inúteis. Seu personagem fica prostrado, mas pode agir enquanto estiver prostrado nas rodadas de combate corpo a corpo subsequentes. Se o seu personagem tiver meios de se curar, ele poderá fazê-lo. Se não for curado ou tratado com First First, ele poderá se curar. Se não for curado ou tratado com Primeiros Socorros dentro de dez minutos (dois turnos), seu personagem sangrará até a morte, perdendo 1 ponto de vida por rodada se não fizer uma rolagem de Vigor para estancar o sangramento.
+- Peito:** Seu personagem cai e está ocupado demais tossindo sangue para realizar qualquer ação, inclusive a cura. Ele sangrará até a morte em dez minutos (dois turnos), perdendo 1 ponto de vida por rodada, a menos que receba atendimento médico ou estanque o sangramento com um rolamento de Stamina bem-sucedido.
+- Braço: O membro fica temporariamente inútil, e qualquer coisa que não esteja presa ao braço é descartada. Seu personagem pode continuar de pé e lutar com os membros que ainda estiverem funcionando.
+- Cabeça: Seu personagem fica inconsciente e precisa receber atendimento médico em cinco minutos (um turno) ou fazer uma rolagem de Stamina bem-sucedida para se estabilizar. Se isso não acontecer, ele morre.
+
+**O dano é igual ou superior ao dobro dos pontos de vida do local**
+
+- Membro:** Seu personagem não pode receber mais do que o dobro dos pontos de dano possíveis em um braço ou perna com um único golpe. **Por exemplo, um braço de 2 pontos atingido por 5 pontos tira apenas 4 pontos de dano do total de pontos de vida: o 1 ponto de dano restante não tem efeito. No entanto, outros golpes nesse braço afetam o total de pontos de vida do seu personagem.* Entretanto, um personagem tão danificado por um único golpe está funcionalmente incapacitado: ele não pode mais lutar até ser curado e está em choque. Ele pode tentar se curar sozinho. O sangramento ocorre a uma taxa de 1 ponto de vida por rodada até que receba atendimento médico bem-sucedido ou uma rolagem de resistência *difícil*.
+- Cabeça, tórax ou abdômen: Se a cabeça, o tórax ou o abdômen sofrerem mais do que o dobro de dano do que os pontos de vida nesse local, o personagem ficará inconsciente e começará a perder 1 ponto de vida por rodada de combate corpo a corpo, a menos que receba atendimento médico ou faça uma rolagem de resistência *difícil* bem-sucedida.
+
+**O dano é igual ou superior ao triplo dos pontos de vida do local**
+
+- Um membro atingido por três vezes mais pontos do que pode suportar em um único golpe é cortado ou irrevogavelmente mutilado. **Por exemplo, se o seu personagem tiver um braço de 2 pontos e for atingido por 8 pontos, ele receberá apenas 4 pontos de dano contra o total de pontos de vida. Entretanto, o braço fica mutilado. Nesses casos, seu personagem também está funcionalmente incapacitado.
+- Um golpe na cabeça, no tórax ou no abdômen que cause três vezes mais dano do que o número de pontos de vida nesse local resulta em morte instantânea.
+
+**Membros decepados e mutilados
+
+- Somente cuidados médicos drásticos podem restaurar um membro decepado, desde que todas as partes estejam disponíveis, como magia extremamente poderosa, tecnologia ou cirurgia séria seguida de meses de recuperação.
+- A mutilação ou o corte de um membro pode causar danos permanentes. Se o seu personagem não tiver mais parte de um membro, ele perderá 1 ponto de vida naquele local. O mestre de jogo deve trabalhar com você para discutir as opções apropriadas para o cenário, seja cibernética, magia poderosa ou medidas mais drásticas.
+- Use as diretrizes para **Ferimentos Graves** para determinar qualquer perda de característica.
+
+**Cura Natural
+
+A maioria das criaturas vivas se cura naturalmente, com tempo suficiente e um ambiente relativamente livre de estresse. Seu personagem normalmente cura 1D3 pontos de vida por semana de jogo. Essa é a taxa de cura normal. Normalmente, o mestre do jogo rola os dados de taxa de cura e informa os resultados. A cada semana, faça uma rolagem diferente para determinar quantos pontos de vida são restaurados. Como a taxa de cura pode variar de acordo com cada personagem, o resultado do dado pode mudar de semana para semana. Seu personagem continuará se curando a cada semana até que todos os pontos de vida tenham sido restaurados.
+
+O resultado da cura da semana é concedido no final da semana (que consiste em sete dias), mas, se o tempo for essencial, o mestre de jogo pode optar por dividir a taxa de cura entre os dias da semana, como, por exemplo, dividir a semana pelo resultado do lançamento do dado e anunciar que cada ponto de vida é restaurado nesse número de dias (arredondado para cima).
+
+Remova os pontos de vida recuperados dos ferimentos existentes, distribuindo a cura entre os vários ferimentos da forma mais homogênea possível. As habilidades de Primeiros Socorros, Medicina ou outros remédios podem acelerar a recuperação. Uma rolagem bem-sucedida de Primeiros Socorros restaura imediatamente 1D3 pontos de vida por ferimento ou lesão. A habilidade Medicina pode ser usada para compensar os efeitos de ferimentos graves (descritos anteriormente) e pode ser usada para restaurar pontos de vida perdidos por outros meios que não sejam ferimentos. Uma grande variedade de equipamentos médicos e outros meios (como poderes de cura) podem ser utilizados para ajudar no processo de cura.
+
+Por fim, a qualidade do atendimento médico que o paciente recebe a cada semana pode aumentar significativamente sua taxa de cura. A Tabela de Condições de **Cuidados Médicos** oferece diretrizes para várias condições e o efeito sobre a taxa de cura.
+
+**Condições de atendimento médico
+
+| Condições médicas** | Efeito na taxa de cicatrização**
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| O paciente está em movimento e se esforça muito (combate, viagens difíceis, etc.) ou não está recebendo nenhum tipo de assistência médica. | O cuidador (médico, enfermeiro, curandeiro, você mesmo, etc.) deve ser bem-sucedido em uma rolagem de *Difícil* de Primeiros Socorros ou Medicina para que ocorra qualquer cura. Se for bem-sucedido, o paciente se cura normalmente (1D3 pontos de vida/semana); se não for bem-sucedido, não haverá cura. Um fumble inflige 1D3 pontos de vida adicionais em dano. |
+| Condições decentes e higiênicas, ambiente tranquilo, cuidados prestados, esforço físico apenas moderado.                                                                                | O paciente cura 1D3 pontos de vida naturalmente.                                                                                                                                                                                                                                                 |
+| Excelentes condições e equipamentos utilizados, ambiente propício à cura e à restauração, repouso e terapia completos, atendimento médico de alta qualidade em tempo integral.              | O paciente cura 1D3 pontos de vida naturalmente; o uso bem-sucedido da habilidade de Primeiros Socorros ou Medicina permite uma possível cura adicional.                                                                                                                                                        |
+
+**Miniaturas, mapas e mesas virtuais
+
+O movimento e o posicionamento no combate corpo a corpo são elementos desafiadores a serem monitorados nos jogos de interpretação de papéis. Embora alguns jogadores e gamemasters não se preocupem tanto com os detalhes durante o combate, alguns sentem a necessidade de acompanhar as posições relativas dos personagens jogadores e seus adversários. O uso de figuras, fichas ou marcadores em um mapa pode responder a qualquer pergunta, apresentando um meio concreto de determinar o que está acontecendo e onde.
+
+As miniaturas de RPG são pequenas estatuetas de plástico ou metálicas com cerca de vários centímetros de altura, disponíveis na maioria das lojas de jogos e hobby ou on-line. Há uma enorme variedade de tipos de personagens, trajes, gêneros, períodos históricos e poses, e colecionar, montar e pintar miniaturas é um hobby agradável.
+
+Para manter o controle do movimento, mapas com grades de quadrados ou hexágonos costumam ser úteis. Eles vêm em folhas de vários tamanhos feitas de papel ou de materiais mais resistentes. As lojas que vendem figuras em miniatura provavelmente também têm esses mapas. Alguns jogadores não gostam de grades por considerá-las rígidas, limitadoras ou mecanicistas e preferem observar as distâncias e negociar o movimento, usando réguas ou fitas métricas como último recurso. Talvez você queira fazer experiências para ver o que lhe convém. Um mestre de jogo que usa miniaturas ou mapas precisará de algumas folhas de papel maiores para esboçar plantas baixas e criar mapas simples. Os jogadores podem achar o papel quadriculado útil para mapear ruínas ou edifícios. Os programas de criação de mapas especializados em jogos de interpretação de papéis tornam isso cada vez mais fácil, e mapas pré-fabricados e conjuntos de peças estão prontamente disponíveis.
+
+Os tabletops on-line permitem que sessões inteiras de jogo sejam jogadas on-line, com ferramentas de mestre de jogo, armazenamento de fichas de personagens pelos jogadores e mapas de batalha que também têm efeitos sonoros, iluminação, aplicativos de rolagem de dados e muito mais, permitindo que os mestres de jogo e os jogadores automatizem esse aspecto do jogo e possibilitem um jogo imersivo com os jogadores em qualquer lugar em que possam usar seus computadores. Eles variam de programas de mapas simples de cima para baixo a ambientes 3D, personalizáveis pelo mestre de jogo, com "módulos" de conteúdo disponíveis, incluindo aventura e outros aspectos úteis para o jogo.
+
+**Um exemplo de combate
+
+O exemplo a seguir se passa em um mundo de fantasia e descreve como a guerreira Yvarre roubou um amuleto de valor inestimável da câmara do tesouro de um culto sinistro de adoradores de serpentes e está tentando escapar do templo para onde seu aliado Kallistor está esperando.
+
+**Primeira rodada de combate**
+
+Colocando o enorme amuleto dourado cravejado de joias na cintura, Yvarre sai da sala do tesouro do culto e segue silenciosamente pela passagem, esperando não ser notada até chegar ao local onde seu amigo Kallistor a espera com alguns cavalos.
+
+Enquanto ela se move pelo corredor, uma adaga é atirada em Yvarre por trás. O mestre de jogo obtém sucesso e diz que Yvarre foi atingida no alto de seu ombro esquerdo (o sistema opcional de localização de acertos não está sendo usado.) O mestre de jogo rola 1D4+2+1D2, o dano que a adaga causa mais metade do modificador de dano do lançador. Felizmente para Yvarre, o mestre de jogo obtém um 4 na rolagem de dano, o menor resultado possível.
+
+Yvarre usa uma túnica de couro macio (valor de armadura 1) e tem 17 pontos de vida. Sua armadura a protege de 1 ponto de dano, portanto, Yvarre perde 3 pontos de vida, não 4. Ela agora tem 14 pontos de vida, então seu jogador risca cuidadosamente os números 17, 16 e 15 e circula o 14 na ficha de personagem de Yvarre.
+
+Ela olha para trás e vê um sacerdote da serpente sacando outro punhal da manga enquanto se aproxima.
+
+**Segunda rodada de combate
+
+Amaldiçoando sua má sorte, Yvarre entra na câmara e tranca a porta atrás de si, depois se aproxima para examinar seu ferimento. Felizmente, o ataque não foi de empalamento, portanto a lâmina não está presa profundamente em seu ombro. Em seguida, ela tenta tratar o ferimento com Primeiros Socorros. A habilidade de Primeiros Socorros de Yvarre é de 47%: seu jogador rola um 99 - uma falha!
+
+Não é necessário rolar na tabela de erros: a penalidade para um erro grave com Primeiros Socorros é sempre a perda de 1 ponto de vida de dano. O mestre do jogo diz que Yvarre causou um ponto extra de dano a si mesma ao puxar o ferimento, devido à localização incômoda. A ferida está mais larga agora, e o sangue que sai dela encharca a parte de trás de sua túnica de couro macio (mais uma vez, isso não é resultado de um resultado de dano especial: é apenas um detalhe para ajudar os jogadores a visualizarem a cena).
+
+O jogador de Yvarre suspira e risca mais um ponto de vida. Yvarre agora tem 13 pontos de vida.
+
+**Terceira rodada de combate
+
+Batidas abafadas vêm da porta trancada. Yvarre gira e vai até a janela pela qual entrou. Ela segura a corda que havia pendurado ali, preparando-se para descer. O mestre de jogo levanta a mão para interromper a descrição do jogador e acrescenta: "Yvarre percebe que a corda parece muito leve. Ela quer ver por quê?".
+
+O jogador diz que sim e pede para Yvarre puxar a corda. A corda de fuga de Yvarre termina um metro abaixo do parapeito. Ela foi cortada, provavelmente por alguém que se inclinou para fora da janela abaixo.
+
+Yvarre está presa, a menos que decida pular para a rua. O mestre do jogo diz: "Faça uma rolagem de Spot para descobrir se Yvarre percebe alguma coisa". Nesse caso, o "algo" a que o mestre do jogo está se referindo é um assassino do culto no telhado em frente a Yvarre, preparando seu arco para um ataque.
+
+O jogador rola D100 para a habilidade Spot de Yvarre e falha. Como Yvarre não percebe o culto assassino, o mestre de jogo rola 43, um acerto, e então rola para dano, 1D8+1, mas sem modificador de dano. O mestre de jogo rola 9 de dano, que será reduzido em 1 por causa da armadura de Yvarre. "Isso é suficiente para um ferimento grave?", pergunta o mestre de jogo. A jogadora acena com a cabeça sem graça. Ela marca mais 8 pontos de vida em sua ficha de personagem, reduzindo seus pontos de vida restantes para 5.
+
+O jogador de Yvarre rola na tabela de ferimentos graves, obtendo um resultado de 27, e o mestre de jogo diz que a flecha atingiu Yvarre no braço esquerdo. A rolagem de Sorte de Yvarre é bem-sucedida, portanto o ferimento não se tornará permanente. Yvarre se sente enfraquecida, diz o mestre de jogo. Ela ficará inconsciente em quatro rodadas de combate, uma rodada para cada ponto de vida que possui atualmente.
+
+Na outra extremidade da sala, a porta do corredor está começando a se estilhaçar. Yvarre poderia usar a próxima rodada para tentar aplicar os Primeiros Socorros a esse novo ferimento, mas não tem tempo para isso.
+
+**Quarta rodada de combate
+
+Se Yvarre permanecer na sala, logo estará à mercê do culto de adoração à serpente, o que não é algo muito agradável. São 6 metros até o chão, e o jogador de Yvarre percebe que, na condição dela, a queda poderia matá-la. Entretanto, o jogador também sabe que a própria Yvarre jamais hesitaria. "Eu pulo", diz ela. O arqueiro dá outro tiro. Os mísseis não podem ser desviados, então Yvarre espera pelo melhor. Ela está com sorte - a flecha erra.
+
+"Faça sua rolagem de salto, por favor". O resultado é 21, um sucesso. "Muito bem", diz o gamemaster, "agora role 1D6 para a redução de dano". Ela obtém um 3, a ser subtraído de qualquer dano sofrido na queda que virá. "E agora role 2D6 para o dano da queda." O total de seus dados é 5. Yvarre tinha 5 pontos de vida. Ela perde 5, mas a rolagem bem-sucedida de Jump salva 3. Yvarre agora tem 2 pontos de vida restantes.
+
+Com 2 pontos de vida, Yvarre fica inconsciente automaticamente. Isso não é mais do que a metade de seus pontos de vida totais, portanto não há novo ferimento grave.
+
+**Quinta rodada de combate
+
+No beco escuro da noite, o amigo de Yvarre, Kallistor, a ouve bater no chão e a encontra imóvel sobre os paralelepípedos. Ao ouvir os gritos que se aproximavam, o jogador de Kallistor decide jogar Yvarre na sela de um cavalo e montar no outro, fugindo imediatamente.
+
+**Sexta rodada de combate
+
+A algumas ruas de distância, Kallistor se sente seguro o suficiente para parar para uma rodada. Ele usa o feitiço mágico Cura 1 no ferimento de faca de Yvarre. O feitiço de Kallistor restaura 3 pontos de vida de Yvarre (um rolamento de 3 em 1D6) e o mestre de jogo decide que Yvarre agora está consciente e pode cavalgar, mas está muito fraco. O jogador de Kallistor marca 3 pontos de poder pelo uso do feitiço (que custa 3 pontos de poder por nível usado). Kallistor tem 14 pontos de poder, o que o reduz para 11.
+
+**Várias rodadas de combate depois
+
+Depois de algumas manobras evasivas pela cidade para evitar seguidores, o mestre de jogo diz que não há perseguição evidente. Os dois aventureiros chegam ao esconderijo. Lá dentro, seguro por enquanto, Kallistor usa Primeiros Socorros para tentar curar o ferimento da flecha, aumentando seus pontos de vida para 7.
+
+**Próxima rodada de combate
+
+Yvarre também sofreu dano de queda. Os Primeiros Socorros de Kallistor foram para o ferimento da faca, mas a rolagem de Primeiros Socorros de Yvarre funciona para os hematomas gerais da queda. Os 2 pontos de dano de queda são apagados. O ferimento ainda está presente, mas não tem mais consequências práticas. Agora Yvarre está com 9 pontos de vida.
+
+**Próxima rodada de combate depois disso**
+
+A tentativa malsucedida de Kallistor de prestar Primeiros Socorros não conseguiu curar o dano causado pela adaga, assim como a tentativa anterior de Yvarre.
+
+**Mais uma rodada de combate
+
+Kallistor usa Cura 2 no ferimento da flecha de Yvarre, restaurando 4 pontos de um total de 12 possíveis. Yvarre está agora com 13 pontos de vida e Kallistor está com mais 6 pontos de energia, o que o deixa com 5 pontos de energia no total. Nenhum deles está em péssimo estado, mas Yvarre não está com todos os pontos de vida e Kallistor usou vários pontos de energia.
+
+O ferimento da adaga será curado naturalmente em uma semana, e o dano restante do ferimento da flecha levará pelo menos duas semanas. Kallistor quer manter alguns pontos de energia de reserva em caso de emergência. Ele tentará o feitiço mais tarde, quando tiver mais pontos de energia ou quando a costa estiver livre.
+
+**Após o combate
+
+Nesse ponto, há poucos motivos para continuar usando o tempo de combate, então todos passam para o tempo de narrativa, no qual o comportamento do jogador e a narração do mestre de jogo se tornam mais relaxados.
+
+Com seus ferimentos e lesões tratados no momento, Yvarre enfia a mão no cós da calça para tirar o amuleto. Ele parece se torcer em suas mãos, então ela o solta. Ao atingir o chão, o amuleto se quebra em dezenas de pequenas cobras douradas com olhos de joias que caem no chão e se afastam.
+
+Tudo isso e de graça!

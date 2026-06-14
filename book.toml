@@ -1,0 +1,16 @@
+[book]
+title = "Basic Roleplaying"
+authors = ["Jason Durall", "Steve Perrin"]
+language = "pt-BR"
+src = "src"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "rust"
+mathjax-support = true
+fold = { enable = true, level = 0 }
+additional-css = ["theme/custom.css"]
+git-repository-url = "https://github.com/nerun/brpugesrd_pt-br"
+
+[build]
+build-dir = "docs"

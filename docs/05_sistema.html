@@ -1,0 +1,694 @@
+<!DOCTYPE HTML>
+<html lang="pt-BR" class="rust sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>❌ 5. Sistema - Basic Roleplaying</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="shortcut icon" href="favicon-09f48f1b.png">
+        <link rel="stylesheet" href="css/variables-8adf115d.css">
+        <link rel="stylesheet" href="css/general-0392ca55.css">
+        <link rel="stylesheet" href="css/chrome-fc474251.css">
+        <link rel="stylesheet" href="css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="fonts/fonts-9644e21d.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="theme/custom-3cb5e639.css">
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "";
+            const default_light_theme = "rust";
+            const default_dark_theme = "rust";
+            window.path_to_searchindex_js = "searchindex-5d0029c5.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc-6382b2b7.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('rust')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Basic Roleplaying</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+                        <a href="https://github.com/nerun/brpugesrd_pt-br" title="Git repository" aria-label="Git repository">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <h1 id="5-sistema"><a class="header" href="#5-sistema">5. Sistema</a></h1>
+<p>Todo o objetivo de um sistema de jogo é responder a duas perguntas: “Como os jogadores determinam se são bem-sucedidos ou fracassam?” e “Até que ponto eles são bem-sucedidos ou fracassam?” O Basic Roleplaying responde a essas perguntas com um sistema limpo e intuitivo que usa rolagens de dados para simular a probabilidade de uma ação ser bem-sucedida ou não, e qualidades de sucesso para determinar uma gama de resultados possíveis.</p>
+<p>As ações rotineiras em situações rotineiras sem desafios quase sempre devem ser bem-sucedidas. Entretanto, quando a ação se torna dramática ou extraordinária, é hora de rolar os dados para a resolução. Você vai querer saber se as habilidades são bem-sucedidas quando o perigo ameaça ou se elas falham miseravelmente diante do estresse. Os dados permitem que as crises e os pontos de decisão sejam resolvidos de forma imparcial, sem a necessidade constante de intervenção do seu mestre de jogo.</p>
+<p>Algumas habilidades, especialmente as habilidades com armas, são inerentemente dramáticas e perigosas, e sempre são roladas, assim como os acidentes, como quedas. Todas as rolagens para determinar o sucesso ou o fracasso usam dados de porcentagem (D100s), sendo que o menor valor é melhor. Outros tipos de dados estabelecem o dano causado por várias armas ou determinam outras informações de apoio. *Capítulo 6: Combat (Combate) discute o ataque e a defesa em combate. *Capítulo 7: Spot Rules (Regras pontuais) contém diretrizes para cobrir uma variedade de condições e situações.</p>
+<p>Normalmente, o mestre do jogo lhe diz quando rolar e que tipo de rolagem fazer - seja uma rolagem de habilidade, uma rolagem da tabela de resistência, uma rolagem de característica etc. -, mas este capítulo é útil para todos que querem saber como o jogo funciona.</p>
+<p><strong>Ações</strong></p>
+<p>Independentemente do gênero, todas as boas histórias (e aventuras de RPG) têm uma coisa em comum: conflito. Os personagens são chamados a realizar todos os tipos de coisas contra as probabilidades, desde encontrar e interpretar pistas até vencer inimigos em um combate mortal.</p>
+<p>As rolagens de percentil determinam o sucesso ou o fracasso de ações cujo resultado é duvidoso. Outros dados podem ajudar a definir os resultados de uma rolagem (dano, etc.), mas as rolagens de percentil são o núcleo do sistema. Para ver se uma ação é bem-sucedida, role o D100 e compare o resultado com a chance, determinada pelo tipo de rolagem e seus possíveis modificadores. Se a rolagem de percentil for igual ou menor que a meta, a ação será bem-sucedida. Rolagens maiores que a chance de sucesso falham.</p>
+<p><strong>Ações automáticas ou impossíveis</strong></p>
+<p>Nem todas as ações exigem o lançamento de um dado. As atividades de rotina realizadas em condições normais geralmente são bem-sucedidas, a menos que estejam fora da capacidade dos personagens. Não é necessário rolar o D100 para qualquer ação que seu mestre de jogo considere simples ou rotineira, sem desafio ou conflito.</p>
+<p>Por outro lado, seu gamemaster pode decidir que tarefas realmente esmagadoras, como realizar uma cirurgia cardíaca sem treinamento médico ou construir um computador a partir de cocos, estão além das habilidades até mesmo dos especialistas mais talentosos. Se o seu mestre de jogo decidir que uma tarefa é <em>Impossível</em>, nenhuma rolagem de dado será suficiente - todas as tentativas falharão.</p>
+<p><strong>Avaliando o sucesso ou o fracasso</strong></p>
+<p>Às vezes, os esforços de seu personagem podem ter resultados muito diferentes: um bom arremesso de dardos acertará o tabuleiro, enquanto um arremesso de sorte ou excepcional acertará o alvo. Há cinco graus de sucesso para qualquer tipo de rolagem de ação. Classificados do pior para o melhor, eles são os seguintes:</p>
+<p>**Tropeço</p>
+<p>A má sorte ou a incompetência às vezes conspiram para produzir o pior resultado possível, uma falha espetacular chamada de fumble. A chance de fracassar em um lançamento de ação é igual a 5% (1/20) da chance de fracasso, geralmente na faixa de 96 a 00. Uma rolagem de 00 é sempre um fumble, independentemente da classificação da habilidade. Os erros nunca produzem resultados benéficos e sempre acabam impedindo ou até mesmo prejudicando seu personagem e/ou aliados por meio de resultados desastrosos ou não intencionais. <em>O Capítulo 3: Habilidades</em> e o Capítulo 6: Combate* discutem as consequências específicas de rolagens com erros.</p>
+<p><strong>Falha</strong></p>
+<p>Rolagens maiores que a chance básica falham. A menos que uma ação seja automática, sempre há alguma chance de fracasso: não importa o quão alta seja a chance básica modificada, as rolagens fracassam com resultados de 96 ou mais. Algumas falhas não custam nada além de um pouco de dignidade, enquanto outras podem ser caras em termos de tempo, dinheiro ou danos físicos. Consulte o <em>Capítulo 3: Habilidades</em> para saber as consequências de rolagens com falha. A exceção são as rolagens de resistência, em que uma diferença de 10 pontos de característica é suficiente para fazer com que apenas uma rolagem de 00 seja uma falha.</p>
+<p><strong>Sucesso</strong></p>
+<p>Qualquer rolagem igual ou inferior à chance básica é qualificada como um sucesso. Os sucessos realizam a ação com resultados médios. As habilidades com armas que obtiverem sucesso infligem os dados de dano listados, e outras habilidades têm os resultados sugeridos no <em>Capítulo 3: Habilidades</em>.</p>
+<p>**Sucesso especial</p>
+<p>Alguns resultados são melhores que a média e geram benefícios extras. As ações obtêm sucesso especial se a rolagem for igual ou inferior a 1/5 da classificação da habilidade. Em combate, um ataque que obtiver um sucesso especial pode infligir um knockdown ou impale com base no tipo de arma (consulte o <em>Capítulo 6: Combate</em> para obter mais detalhes), enquanto as descrições de habilidades no <em>Capítulo 3: Habilidades</em> fornecem orientação para sucessos especiais.</p>
+<p><strong>Sucesso crítico</strong></p>
+<p>Às vezes, seu personagem executará uma ação tão bem que alcançará resultados extraordinários. Rolos iguais ou inferiores a 1/20 da classificação da habilidade são um sucesso crítico. Um sucesso crítico produz o melhor de todos os resultados possíveis. As armas que atingem um acerto crítico ignoram totalmente a armadura do alvo e causam o dano máximo (mais o modificador de dano normalmente rolado); enquanto os rolamentos de habilidade obtêm resultados muito melhores do que o normal. Consulte o <em>Capítulo 3: Habilidades</em> para ver os resultados críticos sugeridos.</p>
+<p><strong>Tabela de resultados de habilidades</strong></p>
+<p>Esses são os intervalos para sucesso crítico, sucesso especial e fumbles. Os resultados para sucessos especiais incorporam o intervalo de números para sucessos críticos. Sempre que um resultado de rolagem estiver no intervalo de um sucesso crítico e especial, os resultados do sucesso crítico (se apropriado) devem ser aplicados, e não ambos.</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Base Chance</strong></th><th><strong>Critical</strong></th><th><strong>Special</strong></th><th><strong>Fumble</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>01-05</td><td>01</td><td>01</td><td>96-00</td></tr>
+<tr><td>06-10</td><td>01</td><td>01-02</td><td>96-00</td></tr>
+<tr><td>11-15</td><td>01</td><td>01-03</td><td>96-00</td></tr>
+<tr><td>16-20</td><td>01</td><td>01-04</td><td>96-00</td></tr>
+<tr><td>21-25</td><td>01-02</td><td>01-05</td><td>97-00</td></tr>
+<tr><td>26-30</td><td>01-02</td><td>01-06</td><td>97-00</td></tr>
+<tr><td>31-35</td><td>01-02</td><td>01-07</td><td>97-00</td></tr>
+<tr><td>36-40</td><td>01-02</td><td>01-08</td><td>97-00</td></tr>
+<tr><td>41-45</td><td>01-03</td><td>01-09</td><td>98-00</td></tr>
+<tr><td>46-50</td><td>01-03</td><td>01-10</td><td>98-00</td></tr>
+<tr><td>51-55</td><td>01-03</td><td>01-11</td><td>98-00</td></tr>
+<tr><td>56-60</td><td>01-03</td><td>01-12</td><td>98-00</td></tr>
+<tr><td>61-65</td><td>01-04</td><td>01-13</td><td>99-00</td></tr>
+<tr><td>66-70</td><td>01-04</td><td>01-14</td><td>99-00</td></tr>
+<tr><td>71-75</td><td>01-04</td><td>01-15</td><td>99-00</td></tr>
+<tr><td>76-80</td><td>01-04</td><td>01-16</td><td>99-00</td></tr>
+<tr><td>81-85</td><td>01-05</td><td>01-17</td><td>00</td></tr>
+<tr><td>86-90</td><td>01-05</td><td>01-18</td><td>00</td></tr>
+<tr><td>91-95</td><td>01-05</td><td>01-19</td><td>00</td></tr>
+<tr><td>96-00</td><td>01-05</td><td>01-20</td><td>00</td></tr>
+<tr><td>101-105</td><td>01-06</td><td>01-21</td><td>00</td></tr>
+<tr><td>106-110</td><td>01-06</td><td>01-22</td><td>00</td></tr>
+<tr><td>111-115</td><td>01-06</td><td>01-23</td><td>00</td></tr>
+<tr><td>116-120</td><td>01-06</td><td>01-24</td><td>00</td></tr>
+<tr><td>Cada +5</td><td>Etc.</td><td>Etc.</td><td>00</td></tr>
+</tbody>
+</table>
+</div>
+<p>**Rolos de habilidade</p>
+<p>A maioria das ações que seu personagem tenta realizar é resolvida com rolagens de habilidade. Aqui, a rolagem de percentil usa a classificação do seu personagem na habilidade apropriada como a chance de sucesso. Qualquer habilidade que normalmente tenha uma chance básica de 5% ou mais sempre é bem-sucedida em uma rolagem de 01-05 de chance de sucesso, mesmo que a dificuldade, os modificadores condicionais ou outros fatores reduzam a classificação da habilidade para menos de 5%. Consulte <strong>Modificação de rolagens de ação</strong>. Consulte o <em>Capítulo 3: Habilidades</em> para obter mais informações sobre cada habilidade.</p>
+<p><strong>Rolos de características</strong></p>
+<p>Algumas ações não são facilmente vinculadas a uma habilidade específica: puxar-se por uma corda, por exemplo. Para essas situações, use uma rolagem de característica, com uma chance da característica do seu personagem multiplicada por um número. CON, INT, DEX e CHA são características comuns a serem usadas, e a maioria das rolagens de características tem um multiplicador de ×5. Suas rolagens de características básicas foram definidas na criação do personagem. Dependendo da dificuldade da ação, seu gamemaster pode usar um multiplicador maior ou menor. Consulte <strong>Modificadores de dificuldade</strong>.</p>
+<p>**Rolos de resistência</p>
+<p>Algumas ações exigem mais do que habilidade ou capacidade natural: é preciso superar obstáculos para ter sucesso. Nesses casos, os chefes de jogo devem consultar a tabela de resistência e solicitar uma rolagem de resistência. As rolagens de resistência nunca envolvem habilidades, em vez disso, colocam características ou outras quantidades mensuráveis umas contra as outras. Consulte <strong>Rolos de habilidade opostos</strong> para saber como lidar com disputas de habilidade contra habilidade.</p>
+<p>Para fazer uma rolagem de resistência, compare o fator ativo com o fator passivo na tabela de resistência. O fator ativo é o grupo ou a força que está tentando influenciar o fator passivo. Os exemplos a seguir são todos de rolagens de resistência:</p>
+<ul>
+<li>O veneno de potência 17 (ativo) envenena seu personagem com uma CON 15 (passiva). O veneno está tentando infligir dano ao seu personagem, portanto o veneno está ativo.</li>
+<li>Seu personagem tem STR 18 (ativa) e tenta mover uma pedra de SIZ 25 (passiva). O seu personagem está tentando mover a pedra, portanto, sua FÍS está ativa.</li>
+</ul>
+<p>A chance básica de uma rolagem de resistência é igual a 50% + (característica ativa × 5) - (característica passiva × 5). Se os fatores ativo e passivo forem iguais, o fator ativo terá 50% de chance de êxito. Cada ponto em que o fator ativo excede o fator passivo modifica a chance de sucesso em +5%, enquanto os fatores passivos superiores aos fatores ativos modificam a chance básica em -5% para cada ponto de diferença. Diferenças de 10 pontos ou mais resultam em sucesso ou fracasso automático, embora o seu mestre de jogo possa permitir que uma rolagem de 01 ou 00 seja bem-sucedida ou fracassada, respectivamente, onde os resultados seriam automáticos.</p>
+<p>Alguns usos específicos da tabela de resistência incluem:</p>
+<ul>
+<li>Pontos de poder versus pontos de poder:** Os poderes que tentam influenciar ou controlar um alvo geralmente envolvem disputas de pontos de poder: o total atual de pontos de poder de seu personagem deve superar os pontos de poder atuais do alvo para que o poder tenha efeito.</li>
+<li>Potência vs. CON:** Todas as doenças e venenos são medidos em termos de potência (POT) e comparam essa classificação com o CON do alvo para determinar os efeitos. Dependendo do veneno ou da doença, até mesmo uma falha na rolagem pode prejudicar o alvo.</li>
+<li>POW vs. POW:** Uma disputa clássica de força de vontade. Além de vencer a rolagem de resistência, o sucesso em uma disputa de POW vs. POW dá ao personagem ativo a oportunidade de aumentar sua pontuação de POW se vencer contra um oponente de POW mais alto.</li>
+<li>STR vs. STR:** Usado em braço de ferro, bem como em tentativas de abrir à força uma porta emperrada ou dobrar uma barra de ferro. Essas competições envolvem obstáculos inflexíveis, não pesados.</li>
+<li>Dano vs. CON**: Ataques de nocaute e golpes na cabeça comparam o dano rolado com a CON do alvo para determinar se o alvo está atordoado ou nocauteado.</li>
+<li>STR+SIZ vs. STR+SIZ:** Ataques de prepotência tentam usar a massa e a força do atacante para derrubar o alvo.</li>
+</ul>
+<p>Seu mestre de jogo pode querer sempre permitir uma chance de fracasso quando um resultado de 00 for rolado, independentemente da classificação da habilidade. Da mesma forma, um 01 pode ser um sucesso, mesmo que improvável, embora isso deva estar dentro das capacidades de seu personagem.</p>
+<p>**A Mesa de Resistência</p>
+<p>O eixo superior é para a característica ativa e o eixo esquerdo é para a característica passiva.</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th></th><th><strong>1</strong></th><th><strong>2</strong></th><th><strong>3</strong></th><th><strong>4</strong></th><th><strong>5</strong></th><th><strong>6</strong></th><th><strong>7</strong></th><th><strong>8</strong></th><th><strong>9</strong></th><th><strong>10</strong></th><th><strong>11</strong></th><th><strong>12</strong></th><th><strong>13</strong></th><th><strong>14</strong></th><th><strong>15</strong></th><th><strong>16</strong></th><th><strong>17</strong></th><th><strong>18</strong></th><th><strong>19</strong></th><th><strong>20</strong></th><th><strong>21</strong></th><th><strong>22</strong></th><th><strong>23</strong></th><th><strong>24</strong></th></tr>
+</thead>
+<tbody>
+<tr><td><strong>1</strong></td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>2</strong></td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>3</strong></td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>4</strong></td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>05</strong></td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>06</strong></td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>07</strong></td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>08</strong></td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>09</strong></td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>10</strong></td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>11</strong></td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>12</strong></td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td><strong>13</strong></td><td>-</td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td><td>-</td></tr>
+<tr><td><strong>14</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>95</td><td>-</td></tr>
+<tr><td><strong>15</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td><td>85</td></tr>
+<tr><td><strong>16</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td><td>90</td></tr>
+<tr><td><strong>17</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td><td>85</td></tr>
+<tr><td><strong>18</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td><td>80</td></tr>
+<tr><td><strong>19</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td><td>75</td></tr>
+<tr><td><strong>20</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td><td>70</td></tr>
+<tr><td><strong>21</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td><td>65</td></tr>
+<tr><td><strong>22</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td><td>60</td></tr>
+<tr><td><strong>23</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td><td>55</td></tr>
+<tr><td><strong>24</strong></td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>05</td><td>10</td><td>15</td><td>20</td><td>25</td><td>30</td><td>35</td><td>40</td><td>45</td><td>50</td></tr>
+</tbody>
+</table>
+</div>
+<p>Para obter sucesso, role 1D100 igual ou menor que o número indicado. Alterações abaixo de 05% estão na faixa de falha automática e acima de 95% na faixa de sucesso automático.</p>
+<p>**Resultados críticos, sucessos especiais e erros nas jogadas de resistência</p>
+<p>Normalmente, as rolagens de resistência têm resultados do tipo sim/não - sucesso ou fracasso -, mas o mestre de jogo pode optar por caracterizar os resultados de forma mais granular nos casos de um sucesso especial ou crítico (veja abaixo) ou de um fracasso drástico com um fumble. A natureza disso fica a critério do seu mestre de jogo, usando as diretrizes para níveis de sucesso e fracasso com habilidades.</p>
+<p>**Rolagens de habilidades especiais</p>
+<p>Circunstâncias especiais podem exigir algo diferente de uma rolagem de habilidade padrão. Esses casos surgem quando dois personagens trabalham juntos, trabalham um contra o outro ou tentam fazer duas coisas ao mesmo tempo.</p>
+<p>**Rolagens de habilidades cooperativas</p>
+<p>Dois ou mais personagens podem tentar trabalhar juntos em uma ação, se for razoável. Esse é um tipo de aumento. Seu gamemaster pode impor restrições sobre quantos personagens podem contribuir para uma determinada atividade, pois isso pode ser limitado por questões físicas ou outras questões práticas. Algumas tarefas simplesmente não podem ser auxiliadas, dependendo das circunstâncias.</p>
+<p>Sempre que trabalharem juntos em uma ação, escolha um personagem como líder. Todos os outros personagens que estiverem participando devem fazer rolagens de habilidade. Pegue o melhor resultado ou um “fumble”, se ocorrer.</p>
+<ul>
+<li>Sucesso crítico: modifica a classificação da habilidade do personagem principal em +50%.</li>
+<li>Sucesso especial:** Modifica a classificação da habilidade em +30%.</li>
+<li>Sucesso:** Modifica a classificação da habilidade em +20%.</li>
+<li>Fracasso:** Se nenhum ajudante for bem-sucedido, a classificação de habilidade do personagem principal será modificada em -10%.</li>
+<li>Fumble:** Um fumble de qualquer ajudante é tão perturbador que a habilidade primária é modificada em -50%.</li>
+</ul>
+<p>Um motivo para o uso cooperativo de habilidades é aumentar a chance de sucesso do personagem principal, bem como a chance de sucessos especiais e críticos.</p>
+<p>Se a rolagem de habilidade primária for bem-sucedida, todos os envolvidos que fizeram uma rolagem de habilidade bem-sucedida poderão fazer uma verificação de experiência. Caso contrário, ninguém recebe uma verificação de experiência.</p>
+<p>Outro motivo para o uso de habilidades cooperativas é quando a assistência direta não é possível, como ajudar a fornecer orientação à distância.</p>
+<p><strong>Por exemplo,</strong> *seu personagem (Piloto 25%) está nos controles de um pequeno avião, tentando pousar depois que o piloto foi baleado. Um aliado em terra com o Piloto 65% está em uma torre de controle de tráfego aéreo. Pelo rádio, ela fornece orientações para a pilotagem e o pouso. Embora não esteja nem perto de um avião, a aliada faz uma rolagem de Pilot bem-sucedida, aumentando a habilidade Pilot efetiva do seu personagem em +20%, de 25% para 45%. *</p>
+<p>**Rolagens de habilidades opostas</p>
+<p>Às vezes, dois personagens usam habilidades em oposição direta um ao outro.</p>
+<p><strong>Por exemplo,</strong> *seu personagem se esconde em uma sebe espessa ao tentar invadir um posto avançado inimigo. Uma sentinela alerta passa por ele, procurando por intrusos. Seu personagem escapará de ser notado? Nesse caso, a habilidade Sense (Sentido) da sentinela é confrontada com a habilidade Hide (Esconder) de seu personagem.</p>
+<p>Quando duas habilidades são opostas, ambos os personagens rolam contra suas respectivas habilidades. O personagem que obtiver o maior grau de sucesso vence a disputa. No entanto, se a rolagem da habilidade do perdedor foi bem-sucedida, ele modifica o grau de sucesso do vencedor, deslocando-o para baixo em um grau para cada grau de sucesso obtido acima do fracasso. Se ambas as partes obtiverem o mesmo grau de sucesso, a rolagem de dado mais alta vence a disputa, dando a vantagem a personagens com classificações de habilidade mais altas.</p>
+<p><strong>Por exemplo,</strong> * a habilidade Hide do seu personagem é 65, enquanto a sentinela tem uma habilidade Sense de 78. Você tira um 47, um sucesso. A sentinela rola um 13, ou seja, um sucesso especial! A sentinela vence a disputa e, portanto, é alertada da presença de seu personagem. A rolagem bem-sucedida de seu personagem rebaixa o resultado da sentinela de um sucesso especial para um sucesso normal. Nesse caso, o seu mestre de jogo determina que a sentinela vislumbra o seu personagem, mas não identifica nenhuma de suas características. Se a sentinela tivesse rolado um 30, seu personagem teria escapado de ser notado: ambos tiveram sucessos, mas o sucesso normal do seu personagem supera o sucesso normal da sentinela quando se trata de usar Esconderijo versus Sentido.*</p>
+<p>**Sistemas de rolo de habilidade de oposição</p>
+<p>Há muitas maneiras de lidar com rolagens opostas, e os métodos alternativos a seguir permitem que o mestre de jogo escolha o que preferir, em vez do padrão apresentado acima.</p>
+<p><strong>Habilidades opostas usando o resultado mais bem-sucedido</strong></p>
+<p>Deixe todos os envolvidos na verificação de oposição rolarem normalmente (com quaisquer modificadores aplicáveis) e compare os resultados. O maior resultado obtido que não seja um sucesso crítico ou especial é o vencedor. **Por exemplo, se dois personagens têm a mesma classificação de habilidade de 87% e um rola 86 e o outro rola 22, a rolagem de 86 é a vencedora. Ambas as rolagens são bem-sucedidas, mas uma tem um resultado maior que a outra.</p>
+<p>Quanto maior a habilidade de um personagem em uma ação tentada, maior a chance de ele derrotar oponentes menos habilidosos (mas ainda assim bem-sucedidos). Os empates são resolvidos comparando-se as classificações de habilidade não modificadas, sendo que a classificação de habilidade mais alta é a vencedora.</p>
+<p>Um método alternativo e mais complexo é fazer rolagens normalmente e, em seguida, pegar o resultado da rolagem bem-sucedida e subtraí-lo da classificação de habilidade modificada. O personagem que conseguir a maior diferença entre a classificação de habilidade e sua rolagem será o vencedor.</p>
+<p>**Subtração de habilidades opostas</p>
+<p>Em uma rolagem de habilidade oposta, uma habilidade é designada como a habilidade ativa/ofensiva e a outra como a habilidade passiva/defensiva. Primeiro, faça uma rolagem de habilidade para o personagem passivo; se a rolagem for bem-sucedida, subtraia o valor total da classificação de habilidade desse personagem da classificação da habilidade ativa/ataque. Se a rolagem da habilidade passiva falhar, a habilidade de ataque não será modificada.</p>
+<p>Um fumble passivo transforma a rolagem do atacante em uma rolagem <em>Fácil</em>. Se a habilidade passiva for maior que a habilidade ativa, o atacante ainda terá uma chance padrão de 5% de sucesso com qualquer classificação de habilidade de 5% ou mais.</p>
+<p>**Rolagens de habilidades opostas usando a tabela de resistência</p>
+<p>As ações que envolvem duas habilidades opostas podem ser resolvidas usando a tabela de resistência. Divida as classificações das habilidades de ataque e defesa por 5 (arredondando normalmente) e resolva como uma única disputa de rolagem na tabela de resistência.</p>
+<p>Esse método gera resultados diferentes dos outros e nega a uma das partes qualquer rolagem. Se estiver usando esse método, permita que os jogadores façam rolagens sempre que possível, com os personagens não jogadores sendo “passivos” na tabela de resistência.</p>
+<p>**Rolagens de habilidades combinadas</p>
+<p>Em alguns casos, as ações de seu personagem podem ser complicadas por ter de fazer duas coisas ao mesmo tempo. Tentar identificar um pequeno detalhe enquanto dirige um carro, atirar com um arco a cavalo ou subir em uma árvore sem fazer barulho são exemplos disso. Nesses casos, o mestre de jogo pode vincular duas habilidades em uma única rolagem, usando a classificação de habilidade mais baixa como a chance básica. Se a rolagem for bem-sucedida, seu personagem realizará as duas tarefas. Uma rolagem com falha que esteja abaixo da segunda classificação de habilidade pode ser tratada como um sucesso parcial.</p>
+<p>Usando os exemplos acima, o motorista pode perder o detalhe, mas evitar um acidente de trânsito, o cavaleiro permanece na sela, mas perde o tiro, e o alpinista alcança os galhos superiores, mas faz barulho. Se ambas as rolagens falharem, as consequências podem ser mais extremas.</p>
+<p>Faça uma verificação de experiência para a habilidade ou habilidades que forem bem-sucedidas.</p>
+<p>**Modificação dos lançamentos de ação</p>
+<p>Algumas ações são mais fáceis ou mais difíceis do que outras e, às vezes, circunstâncias desafiadoras ou sorte ajudam ou atrapalham um personagem. As classificações de habilidades são frequentemente modificadas com base em suas circunstâncias.</p>
+<p>Há duas maneiras principais de modificar as rolagens de ação: modificadores de dificuldade e modificadores situacionais.</p>
+<p>**Modificadores de dificuldade</p>
+<p>Algumas ações são simples o suficiente para que até mesmo uma pessoa não qualificada seja bem-sucedida sem muito esforço, enquanto outras são desafiadoras o suficiente para dar uma pausa a um especialista. Quando uma ação em si for mais fácil ou mais desafiadora do que o normal, ajuste a classificação da habilidade com um modificador de dificuldade. Os níveis de dificuldade padrão são: <em>Automático</em>, <em>Fácil</em>, <em>Médio</em>, <em>Difícil</em> e <em>Impossível</em>. Esses níveis podem se aplicar a rolagens de habilidades, rolagens de características ou rolagens semelhantes. As rolagens de resistência inevitavelmente implicam um nível de conflito, com uma força oposta, portanto não são modificadas dessa forma.</p>
+<p>Seu gamemaster é a autoridade máxima sobre quando uma ação recebe um modificador de dificuldade.</p>
+<p>**Ações automáticas</p>
+<p>Qualquer atividade que seja tão mundana, rotineira ou sob as circunstâncias mais favoráveis e sem nenhum drama ou conflito pode ser considerada <em>Automática</em>, sem necessidade de rolagem para determinar se foi bem-sucedida. As ações físicas e intelectuais cotidianas realizadas em condições normais sempre são bem-sucedidas, a menos que haja alguma razão para que tenham a chance de falhar. Seu personagem deve ser capaz de realizar ações <em>Automáticas</em> em níveis razoáveis de competência na profissão escolhida sem precisar rolar toda vez que desejar ter sucesso - a rolagem de habilidades ocorre em momentos dramáticos ou difíceis, quando o sucesso ou o fracasso é importante para a sobrevivência ou o destino. *O uso automático de habilidades nunca gera uma verificação de experiência.</p>
+<p>**Ações fáceis</p>
+<p>Algumas ações são <em>fáceis</em>, mesmo para pessoas não treinadas. Atirar em um alvo à queima-roupa, escalar uma árvore com muitos apoios para as mãos ou relembrar os pontos mais fundamentais de uma disciplina acadêmica são ações <em>Fáceis</em>. Para uma ação <em>Fácil</em>, dobre a classificação da habilidade. As rolagens de característica <em>Fácil</em> usam um multiplicador de ×10 ou o dobro da rolagem de característica normal. Entretanto, o sucesso em uma rolagem de habilidade <em>Fácil</em> não merece uma verificação de experiência.</p>
+<p><strong>Ações médias</strong></p>
+<p>A maioria das ações se enquadra nessa categoria. Se uma rolagem de habilidade ou característica não tiver um modificador antes - como uma rolagem de Escuta <em>Fácil</em> -, presume-se que seja <em>Média</em>. Use a classificação básica para ações <em>Médias</em>, embora elas possam ter modificadores de circunstância. As rolagens de características <em>Médias</em> usam um multiplicador de ×5 e são o padrão em sua ficha de personagem.</p>
+<p>**Ações difíceis</p>
+<p>Lutar contra um oponente que você não pode ver, escalar uma superfície íngreme ou lembrar-se de minúcias científicas obscuras são tarefas <em>difíceis</em>. Para determinar a classificação de habilidade ou característica de uma ação <em>Difícil</em>, divida a rolagem da habilidade ou característica apropriada pela metade (arredonde para cima).</p>
+<p>**Ações Impossíveis</p>
+<p>Conforme descrito acima, ações realmente avassaladoras ou ridículas, como realizar uma cirurgia cardíaca sem instrumentos cirúrgicos ou construir um computador a partir de cocos, estão além das habilidades até mesmo dos especialistas mais talentosos. Essas são tarefas <em>Impossíveis</em>. Todas as tentativas falham, não importa quão bem o jogador role. Seu gamemaster pode permitir uma chance fixa de 01% de sucesso, dependendo da ação que está sendo tentada, embora isso só seja sugerido se a chance de sucesso estiver dentro do razoável, por mais improvável que seja, o equivalente a um palpite de sorte em um milhão ou a uma ocorrência estranha.</p>
+<p>**Modificadores situacionais</p>
+<p>Circunstâncias especiais ou incomuns podem afetar qualquer classificação de habilidade para melhor ou pior. Pouca luz, ruídos altos, distrações, chuva ou falta de ferramentas adequadas causam penalidades nas classificações de habilidade, enquanto ferramentas excepcionais ou condições ideais podem proporcionar um bônus. Sempre que fatores externos puderem afetar o desempenho de uma ação do seu personagem, o mestre de jogo deve avaliar as circunstâncias e aplicar um ou mais modificadores situacionais à chance básica.</p>
+<p>A diferença entre os modificadores de dificuldade e os modificadores situacionais é que os modificadores de dificuldade geralmente estão relacionados ao personagem e à ação tentada, enquanto os modificadores situacionais estão especificamente relacionados ao sujeito da ação ou a forças ou influências externas.</p>
+<p>Se várias condições se aplicarem a uma determinada ação, aplique-as criteriosamente. Qualquer modificador situacional é aplicado depois que uma habilidade é modificada por ser <em>Difícil</em> ou <em>Fácil</em>. Dessa forma, os modificadores não são duplicados ou reduzidos à metade. No entanto, quaisquer modificadores que sejam “permanentes”, como o bônus de Brawl do poder Unarmed Combat (Combate desarmado), são considerados na classificação da habilidade antes de serem duplicados ou reduzidos à metade. Esses tipos de modificadores são considerados parte integrante da habilidade e são modificados para dificuldade junto com o restante da classificação da habilidade.</p>
+<p>Tome cuidado para não se prender às minúcias da determinação dos modificadores situacionais. Seu mestre de jogo deve avaliar a gravidade das circunstâncias, determinar o modificador geral e deixá-lo rolar o mais rápido possível. Os modificadores situacionais devem ser ferramentas que adicionam drama a situações tensas, e não diretrizes rígidas ou uma lista de verificação que tenta simular o realismo absoluto.</p>
+<p>**Tabela de modificadores situacionais</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Condição</strong></th><th><strong>Descrição</strong></th><th><strong>Modificador</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>Complexidade da tarefa</td><td>Insondavelmente complexa, sem solução ou orientação aparente</td><td>-50%</td></tr>
+<tr><td>Sem condição clara de solução e/ou desnecessariamente complexa</td><td>-20%</td><td></td></tr>
+<tr><td>Relativamente simples, a solução é aparente +20%</td><td></td><td></td></tr>
+<tr><td>Simples, com uma solução óbvia +50%</td><td></td><td></td></tr>
+<tr><td>Equipamento</td><td>Sem equipamento quando o equipamento é necessário</td><td>-50%</td></tr>
+<tr><td>Equipamento ruim ou improvisado</td><td>-20%</td><td></td></tr>
+<tr><td>Equipamento de alta qualidade e suprimentos superiores</td><td>+20%</td><td></td></tr>
+<tr><td>Equipamentos e suprimentos avançados ou de alta tecnologia</td><td>+50%</td><td></td></tr>
+<tr><td>Ambiente Ambiente de distração, solo altamente instável, escuro como breu, tempestade, etc.</td><td>-50%</td><td></td></tr>
+<tr><td>Condições desagradáveis ou anti-higiênicas, pés instáveis, escuridão, mau tempo etc.</td><td>-20%</td><td></td></tr>
+<tr><td>Condições favoráveis, boa pisada, muito espaço, silêncio relativo, etc.</td><td>+20%</td><td></td></tr>
+<tr><td>Ambiente prístino ou imaculado, ideal para a tarefa em questão</td><td>+50%</td><td></td></tr>
+<tr><td>Familiaridade</td><td>Completamente estranho e além da experiência humana</td><td>-50%</td></tr>
+<tr><td>Estranho e usando princípios desconhecidos</td><td>-20%</td><td></td></tr>
+<tr><td>Assunto relativamente bem conhecido</td><td>+20%</td><td></td></tr>
+<tr><td>Rotineiro e completamente familiar</td><td>+50%</td><td></td></tr>
+<tr><td>Muito além da faixa normal</td><td>-50%</td><td></td></tr>
+<tr><td>Fora da faixa de conforto -20%</td><td></td><td></td></tr>
+<tr><td>Bem dentro da faixa</td><td>+20%</td><td></td></tr>
+<tr><td>Perfeitamente posicionado e situado de forma ideal para a tentativa</td><td></td><td></td></tr>
+<tr><td>Tempo: tempo insuficiente para realizar a tarefa: -50%</td><td></td><td></td></tr>
+<tr><td>Apressado e estressado com isso</td><td>-20%</td><td></td></tr>
+<tr><td>Tempo de sobra: +20%</td><td></td><td></td></tr>
+<tr><td>A atividade pode ser feita em um momento de lazer, com contemplação e deliberação</td><td></td><td></td></tr>
+<tr><td>Compreensão</td><td>Não há meios comuns de interação com o sujeito</td><td>-50%</td></tr>
+<tr><td>Métodos limitados de comunicação disponíveis -20%</td><td></td><td></td></tr>
+<tr><td>O assunto é familiar e passível de interação +20%</td><td></td><td></td></tr>
+<tr><td>O sujeito é conhecido e está entusiasmado com a interação +50%</td><td></td><td></td></tr>
+</tbody>
+</table>
+</div>
+<p><strong>Classificação de habilidades acima de 100% (Opção)</strong></p>
+<p>Para jogos que usam níveis de poder épicos ou sobre-humanos, o mestre de jogo pode permitir que seus personagens (e personagens não jogadores) tenham classificações de habilidade acima de 100%. Essa competência elevada permite maiores chances de sucessos especiais e críticos e sucesso mesmo quando a dificuldade significativa ou os modificadores situacionais reduziram a chance de sucesso. Isso representa níveis superlativos de especialização, os melhores do mundo. As classificações de habilidade acima de 100% podem facilitar muito a determinação de rolagens opostas (consulte <strong>Sistemas de rolagens de habilidades opostas</strong>) e são especialmente significativas em combate (consulte <strong>Habilidades de ataque e defesa acima de 100%</strong>).</p>
+<p>**Pontos de destino</p>
+<p>Às vezes, você e o seu mestre de jogo não estão dispostos a permitir que os resultados de uma rolagem sejam o árbitro final do destino do seu personagem. Se o seu gamemaster quiser permitir que o jogador tenha mais controle sobre os resultados, os pontos de poder podem ser usados como um recurso para afetar os resultados das rolagens e a própria narrativa. Isso permite maior controle dos resultados dos dados e maior eficácia no jogo.</p>
+<p>A seguir, apresentamos algumas sugestões de uso de powerpoints para manipular jogadas ou narrativas:</p>
+<ul>
+<li>Gaste 5 pontos de poder para rolar novamente qualquer rolagem de percentil desejada. Isso pode ser declarado depois que a rolagem inicial for feita, embora os resultados da segunda rolagem sejam definitivos. O sucesso com essa rolagem não dá direito a uma verificação de experiência.</li>
+<li>Gaste 5 pontos de poder para ignorar uma habilidade e confiar no destino, usando uma rolagem de Sorte <em>Difícil</em> em vez disso. Isso não pode ser usado para rolagens de resistência ou característica e não pode ser rolado novamente. O sucesso com esse método não dá direito a uma verificação de experiência nem modifica o POW de forma alguma.</li>
+<li>Gaste 3 pontos de poder para ignorar 1 ponto de dano de um único ataque. Esses pontos de dano são simplesmente ignorados; eles não contam para o efeito de repulsão ou outros efeitos. Seu gamemaster pode pedir que você forneça uma explicação sobre como o dano não foi sofrido, como “O frasco de uísque de aço no meu bolso da frente pegou a bala” ou algum outro motivo.</li>
+</ul>
+<p>Qualquer uso de pontos de energia para isso é tratado normalmente, portanto, se for reduzido a 0 pontos de energia, seu personagem ficará exausto e desmaiará até recuperar pelo menos 1 ponto de energia.</p>
+<p>Os usos dos pontos de energia podem ser expandidos conforme a vontade do seu mestre de jogo, com algumas das seguintes possibilidades:</p>
+<ul>
+<li>Gaste 6 pontos de poder para mudar o resultado de uma rolagem para um resultado mais benéfico, como transformar uma falha em um fracasso, um fracasso em um sucesso normal, um sucesso normal em um sucesso especial ou um sucesso especial em um sucesso crítico. Isso só pode ser usado nas rolagens de seu personagem e não pode ser aplicado a dados que foram rolados novamente. Você pode fazer isso depois que os dados forem lançados e pode alterar o resultado em quantos níveis de resultado quiser gastar pontos de poder. Não importa qual tenha sido a rolagem inicial, o sucesso não dá direito a uma verificação de experiência.</li>
+<li>Gaste pontos de poder iguais a todo o alcance de dano da sua arma para infligir o máximo de dano em um único golpe bem-sucedido. *<em>Por exemplo, uma espada curta causa 1D6+1 de dano normalmente, portanto, ao gastar 7 pontos de poder, ela causa 7 pontos de dano (sem necessidade de rolagem), mais o modificador de dano, se aplicável. Isso custa toda a faixa de dano rolável da arma e não pode ser aumentado. O modificador de dano é rolado normalmente.</em></li>
+<li>Gaste um número variável de pontos de poder para adicionar um detalhe aos arredores, ao histórico ou aos recursos do seu personagem. Isso pode variar de um único ponto de poder para um pequeno detalhe a mais de 10 pontos de poder para uma vantagem significativa. *<em>Por exemplo, “lembrar” de ter trazido um livro de fósforos quando fósforos seriam úteis pode custar apenas 1 ponto de poder. Entretanto, depois de ser desarmado e jogado em um poço, encontrar uma adaga enferrujada, mas utilizável, na pilha de ossos de vítimas anteriores pode custar pontos de poder iguais ao total de dano da adaga (5 pontos). Esses custos ficam a critério do seu gamemaster. Outros exemplos podem ser ter um contato que deve um favor ao seu personagem (1 a 3 pontos de poder, dependendo do tamanho do favor), conseguir encontrar roupas limpas penduradas em um varal sem supervisão (1 ponto de poder) ou até mesmo encontrar as chaves de um carro escondidas sobre o para-sol quando precisar de um veículo de fuga com pressa (6 pontos de poder).</em></li>
+</ul>
+<p>Seu mestre de jogo só deve usar essas opções se o objetivo for um jogo de alta aventura mais voltado para a ação com personagens mais resistentes e competentes, como super-heróis ou aventureiros de alta fantasia. Um cenário de terror não deve utilizar esse sistema, pois um componente fundamental do terror é a incapacidade de controlar o próprio destino, e um meio de manipular os resultados é contraproducente para esse fim.</p>
+<p>**Escalas de tempo</p>
+<p>O tempo no cenário do jogo raramente é equivalente ao tempo realmente gasto jogando. Às vezes, o mestre de jogo pode precisar resumir os eventos de muitos dias em uma única frase, como “Você leva uma semana para chegar a Constantinopla”, enquanto em outras ocasiões, especialmente em combate, alguns segundos de tempo podem levar vários minutos ou mais para serem resolvidos.</p>
+<p>Em geral, as escalas primárias de tempo são o tempo da <strong>narrativa</strong>, uma <strong>cena</strong>, o <strong>torneio</strong> e uma <strong>rodada de combate</strong>. A <strong>Tabela de intervalos de tempo significativos</strong> lista as coisas comuns que podem acontecer no jogo, com o tempo que cada uma delas leva.</p>
+<p>**Tempo da narrativa (variável)</p>
+<p>Devido à sua flexibilidade, essa é a mais nebulosa das escalas de tempo. É o momento em que o mestre do jogo pode estar narrando ou quando você e os outros jogadores estão fora do personagem discutindo planos e a situação em que seus personagens se encontram. A maior parte do jogo ocorre em escala narrativa. A menos que haja uma razão específica para isso, a maior parte da interpretação de papéis real também ocorre na escala de tempo narrativa. Quando você e seu mestre de jogo estão interpretando conversas, a escala de tempo narrativa se assemelha mais ao tempo real, em que uma conversa leva tanto tempo para ser realizada quanto para ser jogada.</p>
+<p>Se uma sessão de jogo incluir viagens longas ou períodos de atividade em que a hora exata não seja relevante, o tempo será bastante comprimido, geralmente não observado fora da narração, e dias ou até semanas podem ser pulados em uma linha de narração. Se grandes quantidades de tempo estiverem sendo tratadas dessa forma, o mestre de jogo deve permitir que seus personagens realizem quaisquer atividades que possam se encaixar nesse período de tempo, dentro do razoável. Se seus personagens estiverem livres para agir durante esses saltos no tempo, o mestre de jogo deve pedir que você responda pelas atividades de seu personagem nesse período.</p>
+<p><strong>Cena (variável)</strong></p>
+<p>Esse termo descreve qualquer sequência que ocorra em um local e período de tempo específicos. Uma cena é um encontro ou uma instância do tempo da história, onde os jogadores começam e terminam uma atividade. As cenas podem ser longas ou bem curtas, dependendo do que e quanto acontece. Essencialmente, uma cena começa quando é importante prestar atenção ao combate ou à interpretação de papéis (saindo do tempo narrativo) e termina quando os personagens voltam a entrar no tempo narrativo.</p>
+<p>Parte de uma cena ou uma cena inteira pode ser medida em tempo de narrativa, turnos de jogo e rodadas de combate (descritos abaixo), ou qualquer combinação de um ou mais dos três. A maioria das cenas contém tempo de narrativa, enquanto algumas não precisam necessariamente conter turnos de jogo ou rodadas de combate. Algumas cenas, no entanto, podem ser apenas rodadas de combate e/ou turnos de jogo.</p>
+<p><strong>Turno (5 minutos)</strong></p>
+<p>O primeiro período de tempo específico e não variável é o turno. Cada turno equivale a cinco minutos (25 rodadas de combate). Os turnos são usados para movimentação geral quando não há conflito ou outro evento que precise ser tratado em detalhes. Também é uma quantidade geral de tempo para determinar quanto tempo certas habilidades levam para serem executadas, especialmente as que não são de combate, como um reparo rápido ou a limpeza e o curativo adequados de um ferimento. <em>O Capítulo 3: Habilidades</em> discute quanto tempo as tentativas de habilidades levam para serem concluídas, embora isso possa variar drasticamente de acordo com as circunstâncias.</p>
+<p>**Rodada de combate (12 segundos)</p>
+<p>A rodada de combate define o que acontece momento a momento em uma sequência de ação (não apenas combate). Ela consiste em 12 segundos de atividade em ritmo acelerado. Quando for importante manter o controle do que acontece e em que ordem, use as rodadas de combate. Elas são repetidas até que o combate ou a sequência de ação termine e não haja mais necessidade de uma consideração tão detalhada do tempo.</p>
+<p>Normalmente, cada personagem recebe uma ação ativa (ofensiva) e uma ou mais ações defensivas em uma rodada de combate. Se o seu personagem não se envolver em combate, em uma rodada de combate ele pode se mover cerca de 30 metros e ainda ser capaz de observar o que está acontecendo nas proximidades, desviar de golpes recebidos e reagir a emergências.</p>
+<p>Consulte o <em>Capítulo 6: Combat</em> para obter mais detalhes sobre o que é possível fazer em combate e o <strong>Combat Round Movement</strong> para obter mais informações sobre a velocidade com que os personagens podem se mover em uma rodada de combate. Outras criaturas se movem mais rápido ou mais devagar durante uma rodada de combate (consulte o <em>Capítulo 11: Criaturas</em>).</p>
+<p>**Tabela de intervalos de tempo significativos</p>
+<p>A seguir, exemplos úteis de medidas significativas de tempo para coisas que acontecem em jogos:</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Atividade</strong></th><th><strong>Quantidade de tempo</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>Tempo narrativo</td><td>Variável, tempo gasto na interpretação ou descrição de ações</td></tr>
+<tr><td>Cena</td><td>Variável, pode incluir tempo narrativo, turnos e rodadas de combate</td></tr>
+<tr><td>Turno de jogo (ou apenas “turno”) Cinco minutos ou 25 rodadas de combate</td><td></td></tr>
+<tr><td>Rodada de combate</td><td>Doze segundos</td></tr>
+<tr><td>Tempo de viagem: os personagens geralmente podem viajar por dez horas sem grandes dificuldades, dependendo do modo de viagem, do terreno, do clima etc.</td><td></td></tr>
+<tr><td>Turno de jogo</td><td>Veja Turno de jogo, acima</td></tr>
+<tr><td>Inconsciência: geralmente em torno de uma hora, dependendo da causa</td><td></td></tr>
+<tr><td>Regeneração de 1 ponto de fadiga Um minuto (cinco rodadas de combate) de inatividade</td><td></td></tr>
+<tr><td>Regeneração de todos os pontos de fadiga Vinte minutos de descanso e inatividade</td><td></td></tr>
+<tr><td>Regeneração de 1D3 pontos de vida</td><td></td></tr>
+<tr><td>Regeneração de 1 ponto de energia: um ponto de energia por hora de sono e um por duas horas acordado</td><td></td></tr>
+<tr><td>Regeneração de todos os pontos de energia Um dia de jogo (24 horas, ou equivalente)</td><td></td></tr>
+<tr><td>Rolagem de treinamento, habilidades de combate Aproximadamente três semanas de jogo</td><td></td></tr>
+<tr><td>Rolagem de treinamento, habilidades não relacionadas a combate</td><td>Aproximadamente 12 semanas de jogo ou menos</td></tr>
+<tr><td>Rolagem de experiência</td><td>Uma semana de jogo ou mais</td></tr>
+</tbody>
+</table>
+</div>
+<p>**Tempo e movimento</p>
+<p>Muitas vezes é importante saber com precisão a distância que seu personagem pode percorrer em um mês de jogo, uma semana, um dia, uma hora, um turno e, o mais importante, uma rodada de combate. O movimento é classificado em três categorias: <strong>movimento de rodada de combate</strong>, <strong>movimento local</strong> e <strong>movimento regional</strong>.</p>
+<ul>
+<li>O movimento da rodada de combate é relativamente concreto. É simplesmente a quantidade de tempo que seu personagem pode se mover em 12 segundos de tempo de jogo. As taxas de movimento de rodada de combate são descritas em <strong>Movimento de rodada de combate</strong> e são baseadas na característica MOV.</li>
+<li>O movimento local é o tempo que o personagem leva para se deslocar de um local para outro e é descrito na <strong>Tabela de taxas de movimento</strong>. Isso ocorre quando você precisa saber quanto tempo leva para ir de uma parte de um prédio grande para outra ou para atravessar a cidade.</li>
+<li>O movimento regional leva você de uma região para outra e, em geral, é abstrato e tratado por meio de narração em vez de jogabilidade real. Em geral, qualquer quantidade de movimento que exija mais de uma hora é mais bem administrada no movimento regional. Às vezes, é importante determinar exatamente quanto tempo o movimento regional leva: consulte a coluna “Dias” na <strong>Tabela de taxas de movimento</strong>.</li>
+</ul>
+<p>A <strong>Tabela de taxas de movimento</strong> inclui modos comuns de deslocamento. Para referência novamente, uma rodada de combate dura 12 segundos; um turno dura cinco minutos; uma hora dura 12 turnos; e presume-se que um dia de jogo permita dez horas de viagem. As ações do personagem, como cavalgar muito e descansar pouco, podem afetar isso, portanto o mestre de jogo deve basear outras durações nessas diretrizes.</p>
+<p>Para obter mais detalhes, consulte <strong>Veículos</strong> no <em>Capítulo 8: Equipamentos</em>. Essas taxas são extremamente gerais - para velocidades específicas, consulte o item relevante, e o mestre de jogo deve fazer ajustes para todas as variáveis, como combate, reparos, terreno, tráfego etc.</p>
+<p><strong>Movimento na rodada de combate</strong></p>
+<p>Os personagens têm uma taxa de movimento (MOV) de 10 unidades por rodada de combate. Uma unidade pode representar de vários a 10 metros, dependendo da situação. Se o seu mestre de jogo precisar de uma medida exata, ele poderá usar 3 metros por unidade, mas a distância relativa entre os combatentes geralmente é a questão mais relevante.</p>
+<p>Dez unidades representam a taxa máxima sustentável de movimento para um ser humano normal. Outras criaturas têm taxas de MOV diferentes (consulte o <em>Capítulo 11: Criaturas</em>). Quando a distância e a velocidade são importantes, o seu mestre de jogo pode fornecer uma medida específica, mas deve tentar responder a essas perguntas em termos de jogo, como “São necessárias duas rodadas de combate para chegar lá”.</p>
+<p>Seu mestre de jogo também pode reduzir temporariamente o atributo MOV de seus personagens com base em circunstâncias, como sobrecarga, fadiga, movimento cauteloso etc. <strong>Terrain and Weather Modifiers</strong> (Modificadores de terreno e clima) fornece diretrizes sobre como o movimento pode ser afetado por esses fatores. Consulte <strong>Chases</strong> quando se tratar de perseguição.</p>
+<p>Os valores em <strong>Taxas de deslocamento</strong> e seguintes são aproximados, com base em um dia de viagem de dez horas, quando relevante. Veículos com equipes que trabalham em turnos ou tripulados por seres que não se cansam ou fazem pausas podem viajar 24 horas ininterruptas.</p>
+<p>Para obter uma taxa de movimentação para um modo de transporte não listado, determine a taxa de movimentação para esse modo em uma rodada de combate. Quando você tiver esse valor, ele poderá ser usado para determinar o restante das taxas de movimento:</p>
+<ul>
+<li>Multiplique a taxa de movimento de uma rodada de combate por ×25 para um turno</li>
+<li>Multiplique a taxa de movimento de um turno por ×12 para uma hora</li>
+<li>Multiplique uma taxa de movimento por hora por ×10 para um dia</li>
+<li>Multiplique uma taxa de movimento por hora por ×24 para um dia ininterrupto de viagem</li>
+</ul>
+<p><strong>Tabela de taxas de movimento</strong></p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Rate</strong></th><th><strong>Combat Round</strong></th><th><strong>Turn</strong></th><th><strong>Hour</strong></th><th><strong>Day</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>Caminhada</td><td>10 metros</td><td>250 metros</td><td>3 quilômetros</td><td>30 quilômetros</td></tr>
+<tr><td>Marcha, forçada*</td><td>12 metros</td><td>300 metros</td><td>3,6 quilômetros</td><td>36 quilômetros</td></tr>
+<tr><td>Corrida normal***</td><td>30 metros</td><td>750 metros</td><td>9 quilômetros</td><td>90 quilômetros</td></tr>
+<tr><td>Corrida de velocidade**</td><td>50 metros</td><td>1.250 metros</td><td>15 quilômetros</td><td>150 quilômetros</td></tr>
+<tr><td>Natação</td><td>5 metros</td><td>125 metros</td><td>1,5 quilômetros</td><td>15 quilômetros</td></tr>
+<tr><td>Equitação, velocidade de caminhada</td><td>12 metros</td><td>300 metros</td><td>3,6 quilômetros</td><td>36 quilômetros</td></tr>
+<tr><td>Equitação a galope</td><td>60 metros</td><td>1,5 quilômetro</td><td>18 quilômetros</td><td>180 quilômetros</td></tr>
+<tr><td>Veículo terrestre, puxado</td><td>10 metros</td><td>250 metros</td><td>3 quilômetros</td><td>30 quilômetros</td></tr>
+<tr><td>Veículo terrestre, antigo</td><td>200 metros</td><td>5 quilômetros</td><td>60 quilômetros</td><td>600 quilômetros</td></tr>
+<tr><td>Veículo terrestre, moderno</td><td>400 metros</td><td>10 quilômetros</td><td>120 quilômetros</td><td>1.200 quilômetros</td></tr>
+<tr><td>Veículo terrestre, futuro</td><td>1,2 quilômetros</td><td>30 quilômetros</td><td>360 quilômetros</td><td>3.600 quilômetros</td></tr>
+<tr><td>Barco, pequeno a remo</td><td>40 metros</td><td>1 quilômetro</td><td>12 quilômetros</td><td>120 quilômetros</td></tr>
+<tr><td>Navio, antigo a remo</td><td>10 metros</td><td>250 metros</td><td>3 quilômetros</td><td>30 quilômetros</td></tr>
+<tr><td>Navio à vela antigo</td><td>20 metros</td><td>500 metros</td><td>6 quilômetros</td><td>60 quilômetros</td></tr>
+<tr><td>Navio de cruzeiro moderno</td><td>200 metros</td><td>5 quilômetros</td><td>60 quilômetros</td><td>600 quilômetros</td></tr>
+<tr><td>Navio, futuro</td><td>600 metros</td><td>15 quilômetros</td><td>180 quilômetros</td><td>1.800 quilômetros</td></tr>
+<tr><td>Trem, motor a vapor</td><td>200 metros</td><td>5 quilômetros</td><td>60 quilômetros</td><td>600 quilômetros</td></tr>
+<tr><td>Trem-bala</td><td>1,1 quilômetros</td><td>27,5 quilômetros</td><td>330 quilômetros</td><td>3.300 quilômetros</td></tr>
+<tr><td>Trem, mag-lev</td><td>1,6 quilômetros</td><td>40 quilômetros</td><td>480 quilômetros</td><td>4.800 quilômetros</td></tr>
+<tr><td>Veículo aéreo, dirigível</td><td>400 metros</td><td>10 quilômetros</td><td>120 quilômetros</td><td>1.200 quilômetros</td></tr>
+<tr><td>Veículo aéreo, hélice</td><td>600 metros</td><td>15 quilômetros</td><td>180 quilômetros</td><td>1.800 quilômetros</td></tr>
+<tr><td>Veículo aéreo, jato</td><td>3,25 quilômetros</td><td>81,25 quilômetros</td><td>975 quilômetros</td><td>9.750 quilômetros</td></tr>
+<tr><td>Veículo aéreo, futuro</td><td>1,75 quilômetros</td><td>43,75 quilômetros</td><td>525 quilômetros</td><td>5.250 quilômetros</td></tr>
+<tr><td>Veículo espacial, moderno</td><td>100 quilômetros</td><td>2.500 quilômetros</td><td>30.000 quilômetros</td><td>300.000 quilômetros</td></tr>
+<tr><td>Veículo espacial, futuro</td><td>Variações</td><td>Variações</td><td>Variações</td><td>Variações</td></tr>
+</tbody>
+</table>
+</div>
+<p>*Regra opcional - Pontos de fadiga: Isso custa 1 ponto de fadiga por hora de jogo e requer uma rolagem diária de Stamina ou seu personagem perderá 1 ponto de vida diariamente. Se seu personagem estiver montado, tanto a montaria quanto o cavaleiro perdem o ponto de vida. Consulte <strong>Pontos de fadiga</strong>.</p>
+<p>**Regra opcional - Pontos de fadiga: Correr custa 1 ponto de fadiga por turno e requer uma rolagem bem-sucedida de Stamina por hora ou seu personagem perderá 1 ponto de vida a cada hora. Consulte <strong>Pontos de fadiga</strong>.</p>
+<p>**Modificadores de terreno e clima</p>
+<p>As taxas de viagem acima pressupõem condições razoáveis de estrada ou trilha. Os modificadores a seguir se aplicam a tipos de terreno incomuns ou diferentes. Os veículos motorizados podem estar isentos de alguns desses modificadores, sendo que o bom senso e o seu gamemaster farão o julgamento final. A chuva normal não reduz drasticamente a velocidade dos carros, mas a neve espessa sim.</p>
+<ul>
+<li>A menos que haja uma ponte ou um vau, um rio grande leva um dia inteiro para ser atravessado. Um rio menor reduz o movimento em uma quantidade insignificante de 1/3.</li>
+<li>A menos que esteja em estradas ou trilhas, atravessar uma floresta reduz as taxas de deslocamento terrestre em 1/3.</li>
+<li>Para colinas onduladas, reduza a taxa de movimento em 1/3.</li>
+<li>Em desertos, reduza em 1/3.</li>
+<li>Em caso de tempestades fortes, reduza de 1/2 a 4/5, dependendo da gravidade da tempestade. Os veículos aéreos são reduzidos em apenas 1/5 de sua velocidade normal, embora muitos voem acima das tempestades e não sejam afetados.</li>
+<li>Para montanhas, a redução é de 2/3.</li>
+<li>Para pântanos e brejos, reduza o movimento em 2/3.</li>
+<li>No gelo e na neve, reduza o movimento em 4/5, mas trenós ou esquis podem reduzi-lo a apenas 1/3.</li>
+<li>A neblina intensa reduz o movimento da maioria dos veículos guiados por humanos para 2/3, mas não afeta as velocidades de caminhada ou cavalgada.</li>
+<li>A velocidade de deslocamento em um rio é 1/2 da velocidade em mar aberto.</li>
+<li>À noite, a velocidade de um navio é 1/4 da velocidade diurna.</li>
+</ul>
+<p>Esses modificadores se acumulam, mas são aplicados separadamente em ordem de gravidade em vez de serem somados. Quando as reduções forem diferentes, como 2/3 e 1/3, modifique a taxa de movimento com a penalidade de movimento mais grave primeiro, depois a segunda penalidade e as subsequentes. Elas nunca devem ser somadas, pois isso pode eliminar completamente a taxa de movimento.</p>
+<p>*<em>Por exemplo, andar a cavalo por montanhas arborizadas reduz seu personagem a 2/3 da taxa de movimento normal para montanhas. Assim, 36 quilômetros de velocidade de movimento normal a cavalo são reduzidos em 12 quilômetros por dia. Esse total é novamente reduzido em mais 1/3 para o terreno da floresta, terminando em cerca de 8 quilômetros por dia de viagem.</em></p>
+<p>**Incômodo</p>
+<p>O ônus mede a quantidade de peso que o personagem pode carregar. Se o personagem não estiver sobrecarregado, ele pode se mover mais rapidamente e perder pontos de fadiga mais lentamente. Se o personagem estiver sobrecarregado, ele ficará mais lento e perderá pontos de fadiga mais rapidamente. O ônus é medido em pontos de ônus (ENC). Seu personagem só pode carregar facilmente tantos pontos de ENC quanto tiver pontos de STR e só pode manobrar normalmente por qualquer período de tempo carregando ENC igual ou inferior à média de STR+CON (arredondado para cima). Algumas criaturas têm limites de ENC diferentes: bestas de carga podem ter o dobro da capacidade humana, por exemplo.</p>
+<p><strong>ENC</strong></p>
+<p>Qualquer item que possa ser segurado facilmente em uma mão (uma espada, um machado, uma pistola, um escudo, uma pedra do tamanho de uma mão, uma corda, etc.) é uma “coisa”, uma unidade abstrata de volume e conveniência, representada em valores ENC. A maioria das “coisas” tem 1 ou 2 ENC. Embora possam ter pesos muito diferentes, elas ocupam a mesma quantidade de espaço em seu personagem e têm a mesma dificuldade de manuseio. Cada item tem um valor ENC, medido pelo grau de dificuldade de manuseio e não pelo peso real.</p>
+<p>Se um item não tiver um valor de ENC, use seu tamanho como base e ajuste-o de acordo com a densidade relativa ou o volume. <em>O Capítulo 8: Equipamentos</em> lista o ENC de todas as armas, armaduras e escudos e fornece valores de SIZ para muitos outros objetos comuns.</p>
+<p>**Quanto custa um ENC?</p>
+<p>O ENC não é uma unidade direta de peso. Seu personagem pode carregar razoavelmente um ENC igual à média de seu STR+CON sem muito esforço. Embora provavelmente possa levantar muito mais do que isso, o ENC realmente mede o quanto ele pode fazer com o peso levantado, como, por exemplo, ser capaz de carregá-lo por algum tempo e ainda funcionar normalmente. Seu personagem não pode carregar uma quantidade de ENC igual à sua STR por muito tempo e ainda ser capaz de lutar, escalar ou correr.</p>
+<p>Seu gamemaster pode decidir que alguns itens têm um valor de ENC mais alto do que o peso indica. Isso representa um incômodo no manuseio do item, como tamanho ou volume adicional.</p>
+<p>**Penalidades **ENC</p>
+<p>Cada ponto de ENC que seu personagem carrega além de seu ENC máximo faz com que ele sofra os seguintes modificadores:</p>
+<p>-1 para Movimento (MOV)
+-5% para a rolagem da característica Agilidade
+-5% para todas as habilidades de Agilidade, Manipulação, Furtividade, Esquiva e armas</p>
+<p>Além disso, seu personagem perde 1 ponto de fadiga por turno por ENC adicional acima do máximo enquanto se esforça (marcha, combate, atividade extenuante etc.), além de qualquer outra perda de pontos de fadiga (consulte <strong>Fadiga</strong>).</p>
+<p>**Aprimoramento do caráter</p>
+<p>As habilidades e características de seu personagem podem e devem melhorar durante o jogo, especialmente ao participar de aventuras que levam mais de um dia para serem resolvidas. Elas podem ser melhoradas por meio de treinamento e pesquisa, mas o principal meio de aprimoramento é o uso bem-sucedido das habilidades em situações de risco.</p>
+<p>**Aprimoramento de habilidades</p>
+<p>O uso bem-sucedido de uma habilidade indica que seu personagem pode melhorar sua classificação nessa habilidade. Observe que o termo “habilidade” é usado aqui, mas se refere a qualquer coisa classificada como uma habilidade que não seja uma rolagem de característica. Portanto, esse método também funciona para feitiços mágicos, paixões e até mesmo traços de personalidade.</p>
+<p>Sempre que seu personagem usar com sucesso uma habilidade em uma situação dramática, como combate ou quando algo estiver em jogo, coloque uma marca de verificação na pequena caixa ao lado dessa habilidade na ficha do personagem. Essa marca de verificação é chamada de <strong>verificação de experiência</strong>. Se a rolagem de uma habilidade foi <em>Fácil</em>, não é permitida nenhuma verificação de experiência. Se não houver caixa ao lado do percentil da habilidade, então a habilidade não pode ser aumentada por meio de experiência normal. (Para as habilidades que não podem ser aumentadas por meio da experiência, apague a caixa de seleção na ficha do personagem).</p>
+<p>Uma verificação de experiência para uma determinada habilidade é feita apenas uma vez por aventura, independentemente de quantas vezes a habilidade for usada com sucesso. As habilidades usadas antes ou depois do tempo de “aventura” não são elegíveis para verificações de experiência, nem as habilidades usadas para aumentar outra se a rolagem da habilidade primária falhar.</p>
+<p>Se uma habilidade for usada com sucesso, você quase sempre recebe uma verificação de experiência. Algo que posteriormente desfaça os resultados não remove uma verificação de experiência. Seu gamemaster deve quase sempre permitir verificações de experiência sempre que as habilidades forem usadas com sucesso em situações estressantes. Um ataque contra um alvo indefeso não é uma situação estressante e não merece uma verificação de experiência. Da mesma forma, levar uma hora para arrombar uma fechadura na sua oficina não é uma situação estressante, mas fazer a mesma tarefa em uma rodada de combate, quando os guardas se aproximam, é uma situação estressante e merece uma verificação.</p>
+<p>Além de ganhar verificações de experiência por meio de rolagens bem-sucedidas, o mestre do jogo pode dizer que seu personagem ganhou automaticamente uma verificação na caixa de experiência, geralmente por meio de exposição significativa à habilidade que está sendo usada com sucesso.</p>
+<p><strong>Por exemplo,</strong> * isso pode ser devido à imersão em um ambiente de idioma estrangeiro por um período prolongado e à “absorção” de alguns dos conceitos básicos, ou à assistência a um especialista nessa habilidade, prestando muita atenção ao que ele diz e faz.</p>
+<p>**O que significa “Depois de uma aventura”?</p>
+<p>Seu gamemaster determina quando as verificações de experiência são feitas; isso geralmente ocorre após uma aventura ou uma pausa significativa entre eventos, quando seus personagens tiveram algum tempo de inatividade. Em caso de dúvida, presuma que seja uma semana. Durante uma longa noite de jogo, os personagens podem ganhar vários momentos em que podem ver se suas habilidades melhoraram.</p>
+<p>Nesse tempo de inatividade, você pode fazer uma rolagem de experiência para cada verificação de experiência em sua ficha de personagem.</p>
+<p>**Fazendo uma experiência rolar</p>
+<p>A rolagem de experiência é uma rolagem de percentil normal. O <strong>bônus de experiência</strong> do seu personagem (igual a 1/2 INT, arredondado para cima) é adicionado à rolagem do dado ao determinar se a rolagem de experiência foi bem-sucedida. Se o resultado de uma rolagem de experiência for maior do que a classificação de habilidade atual de seu personagem, a rolagem de experiência será bem-sucedida.</p>
+<p>O bônus de experiência não é adicionado aos pontos de habilidade reais ganhos, apenas à rolagem para ver se há melhoria.</p>
+<p><strong>Aumento de habilidades por experiência</strong></p>
+<p>Após uma rolagem de experiência bem-sucedida, adicione +1D6 à classificação da habilidade. O resultado da experiência varia - seu personagem pode aprender muito com um incidente e pouco com outro, independentemente do sucesso de cada um deles. Com base no nível da campanha, seu mestre de jogo pode aumentar a rolagem de experiência para +1D8 para épico ou até +1D10 para super-humano, o que cria um avanço extremamente rápido.</p>
+<p>Se você não se sentir com sorte para rolar um aumento de habilidade, pode optar por adicionar um padrão de +3 à classificação da habilidade em vez de rolar. Isso deve ser anunciado antes da rolagem. Se o tipo de dado para o aumento de habilidade for maior que 1D6, aumente-o para a metade do máximo do dado - para 1D8 é +4 e para 1D10 é +5.</p>
+<p><strong>Exceder 100% em uma habilidade</strong></p>
+<p>Seu personagem pode melhorar suas habilidades além de 100%. O efeito desse aumento é principalmente melhorar as chances de sucesso crítico e especial, mas certas habilidades oferecem benefícios especiais para classificações acima de 100% (consulte <strong>Classificações de habilidades acima de 100%</strong>). Somente rolagens de experiência bem-sucedidas podem aumentar as habilidades além de 100%. Se o seu personagem tiver 100% ou mais em uma habilidade, você deverá rolar mais de 100 no D100 para que ele seja bem-sucedido em uma rolagem de experiência, o que significa que o modificador de experiência é necessário. Não importa o quanto a habilidade tenha aumentado além de 100%, qualquer rolagem de 100 ou mais resulta em um aprimoramento da habilidade.</p>
+<p>**Treinamento e pesquisa de habilidades</p>
+<p>Embora a experiência seja geralmente o melhor professor, não é a única maneira de aprimorar as habilidades. A instrução de mestres de uma habilidade também pode aumentar ou até diminuir a capacidade do seu personagem com uma habilidade. Seu personagem pode treinar para melhorar uma habilidade recebendo instruções de outro personagem com uma classificação mais alta na mesma habilidade. Esse outro personagem pode pertencer a outro jogador, mas geralmente é um personagem que não é jogador. Cada habilidade requer um tipo diferente de professor e custa diferentes quantidades de tempo e dinheiro para ser aprendida. O treinamento para atingir altas classificações de habilidades pode ser um processo demorado e caro.</p>
+<p>O segundo método é a pesquisa, trabalhando sozinho com um curso de estudo elaborado por ele mesmo, uma imersão profunda no histórico da habilidade ou um regime disciplinado rigoroso e autoguiado de exercícios e treinamento físico para melhorar a capacidade em uma habilidade física. O mestre do jogo deve avaliar se os recursos são adequados para treinar a si mesmo e, em alguns casos, pode determinar que uma habilidade não pode ser treinada sozinha, como algumas habilidades de Percepção.</p>
+<p><strong>Treinamento de habilidades</strong></p>
+<p>Primeiro, seu personagem deve encontrar um treinador, de preferência entre aventuras, mas possivelmente como parte de uma. Deve-se providenciar algum tipo de compensação, se for o caso, em dinheiro, bens, favores, patrocínio ou qualquer outro item ou serviço aceitável. O tipo de professor pode variar de um professor universitário, um mestre sábio, até um tutor holográfico interativo.</p>
+<p>Seu personagem deve então treinar por horas iguais ao seu nível de habilidade atual com a habilidade. Um personagem comum tem 50 horas semanais disponíveis para treinamento, mas é possível estudar sem parar em tempo integral. Mais do que o dobro dessa quantidade é exaustivo, e essas horas de estudo prolongadas são contraproducentes ou têm efeitos negativos em outras habilidades ou até mesmo na saúde física e mental.</p>
+<p>No final da sessão de treinamento, o professor deve tentar uma rolagem da habilidade Teach (Ensinar). Se a rolagem for bem-sucedida, seu personagem melhora a classificação da habilidade em +1D6 pontos. Uma falha equivale a nenhum benefício da instrução, e um fracasso é contraproducente, com o professor causando dúvidas e contradizendo os aprendizados anteriores de seu personagem, reduzindo a habilidade em -1D3.</p>
+<p>Seu mestre de jogo pode usar um tipo de dado para indicar oportunidades de treinamento melhores ou piores, ou até mesmo conceder automaticamente um aumento de valor com base em fatores no cenário (downloads de habilidades, implante psíquico, memórias de vidas passadas etc.).</p>
+<p>O domínio de uma habilidade requer experiência real fora da “sala de aula”. Nenhuma habilidade pode ser treinada acima de 75%, não importa quão bom seja o instrutor. Qualquer aumento acima disso deve vir do uso bem-sucedido da habilidade em situações desafiadoras, como as encontradas durante uma aventura. O mestre de jogo pode determinar que isso não seja verdade em um cenário específico, como em pergaminhos secretos de maestria ou habilidades implantadas, mas o máximo de 75% é o padrão.</p>
+<p><strong>Pesquisa</strong></p>
+<p>Qualquer habilidade que possa ser aprimorada por meio de treinamento também pode ser aprimorada por meio de pesquisa. A pesquisa é mais bem descrita como autoajuda ou autodidatismo: pesquisa em tomos antigos, vasculhamento de bancos de dados, exercícios disciplinados, instrutores holográficos ou implante neurológico ou neuromuscular. Na maioria dos ambientes, é possível fazer alguma forma de pesquisa para qualquer habilidade treinável.</p>
+<p>A pesquisa dedicada leva tanto tempo quanto o treinamento, mas não tem o mesmo custo. Você deve determinar os custos com base no ambiente e no tipo de treinamento que está sendo realizado.</p>
+<p>A pesquisa de uma habilidade de Conhecimento pode exigir rolagens adicionais para as habilidades apropriadas, como Idioma, Alfabetização e Pesquisa. Seu personagem pode até precisar fazer um rolamento bem-sucedido na própria habilidade a ser pesquisada para encontrar recursos relevantes ou para ser apontado na direção certa. A menos que essas perícias sejam executadas em circunstâncias desafiadoras ou perigosas, nenhum controle de experiência é concedido para rolagens de perícia feitas durante a pesquisa de outras perícias.</p>
+<p>Depois que o tempo necessário for gasto, faça uma rolagem de experiência normalmente. Se o rolamento for bem-sucedido, aumente a habilidade em 1D6-2 pontos ou escolha adicionar 2 à classificação atual da habilidade. Ao contrário do treinamento, a pesquisa permite que seu personagem melhore mais de 75% em uma habilidade, embora o mestre do jogo possa exigir que você vá “a campo” de vez em quando para alternar o aprendizado dos livros com a experiência prática.</p>
+<p><strong>Características crescentes</strong></p>
+<p>As habilidades não são os únicos aspectos de seu personagem que podem ser aprimorados. Seu personagem pode melhorar suas características por vários meios: O POW pode aumentar ao ser testado contra um POW mais alto, e STR, CON, DEX e CHA podem aumentar por meio de treinamento e pesquisa. INT e SIZ aumentam apenas raramente e, na maioria dos cenários, não mudam muito, embora seu mestre de jogo possa permitir aumentos com base no cenário da campanha ou nas ações realizadas durante (ou entre) as aventuras.</p>
+<p>Qualquer aumento nas características faz com que todos os atributos associados aumentem de acordo, incluindo rolagens de características, modificador de dano, bônus de experiência, pontos de vida (e total de pontos de vida e/ou pontos de vida por local), ferimentos graves, pontos de fadiga, pontos de energia etc., conforme apropriado. Os pontos de sanidade não são aumentados, embora o limite temporário de sanidade seja.</p>
+<p>Geralmente, as características que não sejam POW não podem melhorar além do máximo da espécie (para humanos, é 21), mas para jogos de nível de poder épico ou sobre-humano, esse limite é ignorado.</p>
+<p>**Aumentos de POW</p>
+<p>Quando seu personagem iguala com sucesso seu POW contra um oponente com POW igual ou maior em uma rolagem de resistência (quando uma rolagem tem 50% ou menos de sucesso), ele pode verificar se há um ganho de POW como um ganho de habilidade, colocando uma marca na caixa de seleção ao lado de POW na ficha do personagem.</p>
+<p>Para determinar se o POW do seu personagem melhora, some o POW máximo possível rolado (18 para humanos) mais o POW mínimo rolável (3 para humanos se o sistema de criação de personagem padrão for usado - considere cada bônus de +6 como um único D6 para outros sistemas de criação de personagem). O resultado é 21 para a maioria dos humanos (18+3=21). Subtraia o valor do POW atual de seu personagem desse total. Multiplique o restante por ×5 e tente rolar esse resultado ou menos no D100.</p>
+<p>Se a rolagem for bem-sucedida, aumente o POW de seu personagem em 1D3-1. Isso pode significar nenhum ganho (1-1=0) ou um aumento de 2 pontos (3-1=2). Como alternativa, você pode optar por não rolar e simplesmente adicionar +1 ao POW do seu personagem. Como em uma verificação de experiência, escolha antes de rolar.</p>
+<p><strong>Aumentos de características</strong></p>
+<p>Seu personagem pode treinar suas características para melhorá-las. O método exato varia de acordo com o cenário - um mundo medieval pode exigir que seu personagem aumente a FOR levantando pesos pesados, fazendo trabalho manual, etc., enquanto um cenário futurista pode utilizar cirurgia de aumento muscular. O aumento de FOR ou CON por meio de treinamento ou pesquisa é limitado pelo valor mais alto de FOR, CON ou SIZ original do personagem. Por exemplo, se o valor mais alto dos três for um SIZ de 14, nem a STR nem a CON poderão ser aumentadas além desse número por meio de treinamento.</p>
+<p>Todas as tentativas de treinar ou pesquisar um aumento nas características DEX ou CHA são limitadas à metade da característica original (arredondada para cima).</p>
+<p><strong>Por exemplo,</strong> * <em>seu personagem com DEX 13 pode treinar ou pesquisar sua DEX até 20 (1/2 de 13 arredondado para 7 e 13+7=20).</em></p>
+<p>**Aumento de características por meio de treinamento</p>
+<p>Seu personagem pode tentar treinar suas características, levando um tempo em horas com base no valor da característica atual. O número exato é o valor atual da característica multiplicado por ×25. Esse tipo de treinamento é rigoroso e exige dedicação durante todo o período: não é possível interrompê-lo para se aventurar ou passar mais do que algumas horas por dia dedicadas a qualquer outra coisa.</p>
+<p>No final do período de treinamento, role 1D3-1 e adicione o resultado ao valor atual dessa característica.</p>
+<p>*<em>Por exemplo, se a força de resistência do seu personagem for 12, o número total de horas necessárias para aumentar a força de resistência é 300 horas (12×25=300). Ao final de 300 horas de estudo, você rola 1D3-1, com o resultado 1 (a rolagem é um 2, portanto 2-1= 1). A força de resistência de seu personagem agora é 13.</em></p>
+<p>Você e seu gamemaster devem trabalhar juntos para determinar o tipo exato de treinamento necessário para obter esse aumento. Seu gamemaster pode permitir que o SIZ seja treinado, representando uma mudança radical na dieta ou nos exercícios para aumentar ou diminuir a massa (se não a altura, que geralmente não pode ser modificada sem cirurgia).</p>
+<p>**Envelhecimento e inação (opção)</p>
+<p>À medida que seu personagem envelhece e se torna mais experiente, suas habilidades melhoram, mas a contrapartida é que, às vezes, suas características podem diminuir, especialmente se ele não estiver se aventurando ou se aprimorando ativamente. Ao começar a jogar como um personagem mais velho, use as diretrizes da <strong>Terceira etapa</strong>, mas depois que o jogo começar, use estas regras.</p>
+<p>Quando seu personagem atingir 41 anos de idade e a cada ano seguinte, role 2D6 na <strong>Tabela de perda de pontos de característica</strong> para determinar quantas rolagens devem ser feitas na tabela de características.</p>
+<p><strong>Tabela de perda de pontos característicos</strong></p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>2D6</strong></th><th><strong>Pontos perdidos</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>2</td><td>4</td></tr>
+<tr><td>3</td><td>3</td></tr>
+<tr><td>4</td><td>2</td></tr>
+<tr><td>5</td><td>1</td></tr>
+<tr><td>6-8</td><td>-</td></tr>
+<tr><td>9</td><td>1</td></tr>
+<tr><td>10</td><td>2</td></tr>
+<tr><td>11</td><td>3</td></tr>
+<tr><td>12</td><td>4</td></tr>
+</tbody>
+</table>
+</div>
+<p>Depois de determinar o número de pontos perdidos, role 1D10 para cada ponto perdido na <strong>Tabela de Características</strong>. Se a segunda rolagem for igual a “-”, seu personagem não perderá um ponto de característica. A rolagem dupla de uma característica é combinada, portanto, as perdas podem ser -2, -3, etc.</p>
+<p><strong>Característica</strong></p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>1D10</strong></th><th><strong>Característica</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>1-2</td><td>-1 STR</td></tr>
+<tr><td>3-4</td><td>-1 CON</td></tr>
+<tr><td>5-6</td><td>-1 DEX</td></tr>
+<tr><td>7-8</td><td>-1 CHA</td></tr>
+<tr><td>9-10</td><td>-</td></tr>
+</tbody>
+</table>
+</div>
+<p>Se uma característica for reduzida a 0, seu personagem morre, mesmo que a característica seja CHA. Uma INT reduzida representa esquecimento ou dificuldade de concentração. Entretanto, POW e EDU não diminuem com o envelhecimento.</p>
+<p>Essas regras pressupõem personagens humanos com expectativa de vida de aproximadamente 80 a 100 anos. Essas perdas podem ser compensadas com treinamento característico e autocuidado. Se o seu personagem tiver um cuidado excepcional consigo mesmo ou tiver acesso a fontes de longevidade (medicamentos excepcionais, tratamentos antienvelhecimento, poções mágicas etc.), desconsidere essas regras. Criaturas alienígenas ou outras criaturas não humanas podem sentir os efeitos do envelhecimento e da inação de forma diferente ou podem ter efeitos diferentes da degradação de características.</p>
+<p>Para cada 10 anos de tempo de jogo desde que seu personagem foi criado, aumente a característica EDU dele em +1 para representar a experiência adquirida por meio da vida em geral. Isso modifica a rolagem de Conhecimento (EDU×5), mas não afeta os pontos de habilidade ou qualquer habilidade baseada em EDU. Se seu personagem não interagir com o mundo exterior nesse período, a EDU não será aprimorada.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="04_poderes.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                            </a>
+
+                            <a rel="next prefetch" href="06_combate.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="04_poderes.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                    </a>
+
+                    <a rel="next prefetch" href="06_combate.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                    </a>
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr-ef4e11c1.min.js"></script>
+        <script src="mark-09e88c2c.min.js"></script>
+        <script src="searcher-09f2665d.js"></script>
+
+        <script src="clipboard-1626706a.min.js"></script>
+        <script src="highlight-abc7f01d.js"></script>
+        <script src="book-458fa6dc.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>

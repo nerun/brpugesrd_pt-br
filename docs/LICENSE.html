@@ -1,0 +1,629 @@
+<!DOCTYPE HTML>
+<html lang="pt-BR" class="rust sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Licenciamento - Basic Roleplaying</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="shortcut icon" href="favicon-09f48f1b.png">
+        <link rel="stylesheet" href="css/variables-8adf115d.css">
+        <link rel="stylesheet" href="css/general-0392ca55.css">
+        <link rel="stylesheet" href="css/chrome-fc474251.css">
+        <link rel="stylesheet" href="css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="fonts/fonts-9644e21d.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="theme/custom-3cb5e639.css">
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "";
+            const default_light_theme = "rust";
+            const default_dark_theme = "rust";
+            window.path_to_searchindex_js = "searchindex-5d0029c5.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc-6382b2b7.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('rust')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Basic Roleplaying</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+                        <a href="https://github.com/nerun/brpugesrd_pt-br" title="Git repository" aria-label="Git repository">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <h1 id="licença-orc-final"><a class="header" href="#licença-orc-final">Licença ORC Final</a></h1>
+<blockquote>
+<p><strong>Aviso</strong></p>
+<p>A licença <em>Open RPG Creative</em> não apenas <strong>admite sua tradução</strong>, como também <strong>confere valor jurídico às versões traduzidas</strong>, reconhecendo-as como legalmente válidas. Em caso de divergência entre a tradução e o texto original, prevalecerá o sentido deste último (cláusula V, subitem c).</p>
+<p>Isso significa que, se você desenvolver jogo adaptado de obra distribuída sob os termos da ORC, poderá distribuir seu jogo utilizando a licença em português, que será igualmente válida.</p>
+<p>Pode usar a nossa tradução a seguir que, para todos os fins de direito, disponibilizamos sob <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.pt-br">Creative Commons Zero – Public Domain Dedication (CC0 1.0 Universal)</a>.</p>
+</blockquote>
+<hr>
+<p>Esta licença Open RPG Creative (“<em><strong>Licença ORC</strong></em>”) concede o direito
+de Usar o Material Licenciado sujeito aos termos e condições
+estabelecidos e referenciados a seguir:</p>
+<h2 id="i-definições"><a class="header" href="#i-definições">I. Definições.</a></h2>
+<p>a. <em><strong>Material Licenciado Adaptado</strong></em> significa Obras Derivadas que
+fazem Uso de todo ou qualquer parte do Material Licenciado que Você cria
+ou publica na medida em que tais Obras Derivadas constituiriam de outro
+modo aquelas formas de Material Licenciado estabelecidas na Seção
+I.e.(2) abaixo. O Material Licenciado Adaptado exclui expressamente as
+obras que constituiriam Material Reservado.</p>
+<p>b. <em><strong>Direitos Autorais e Conexos</strong></em> significam os direitos de autor e
+os que lhes são conexos, incluindo, mas não se limitando a execução,
+radiodifusão, fonografia e Direitos Sui Generis sobre Bases de Dados,
+independentemente de como os direitos são rotulados ou categorizados. Em
+nenhum caso os Direitos Autorais e Conexos incluirão direitos sobre
+marcas ou patentes.</p>
+<p>c. <em><strong>Obra Derivada</strong></em> significa: (i) para um produto que Usa um único
+sistema de jogo jogável, a totalidade do produto publicado por Você ou
+em Seu nome que seja baseado, derivado ou incorpore todo ou qualquer
+parte do Material Licenciado; e (ii) para produtos que contenham seções
+relacionadas a vários sistemas de jogos não interoperáveis (como uma
+revista com seções sobre vários jogos não relacionados entre si de
+diferentes editoras, ou um site com partes relacionadas a jogos
+diferentes), toda porção do produto relacionada ou derivada do Material
+Licenciado constituirá a Obra Derivada.</p>
+<p>d. <em><strong>Medidas Tecnológicas Efetivas</strong></em> significam aquelas medidas que,
+na ausência de autorização para tanto, não podem ser contornadas em
+jurisdições cumprindo obrigações sob o Artigo 11 do Tratado da OMPI de
+Direito de Autor adotado em 20 de dezembro de 1996, e/ou acordos
+internacionais similares.</p>
+<p>e. <em><strong>Material Licenciado</strong></em> significa <strong>(1)</strong> qualquer material
+contido em uma Obra que de outra forma constituiria Material Reservado,
+mas que foi expressamente designado como Material Licenciado pelo
+Licenciante do material e <strong>(2)</strong> as expressões razoavelmente
+necessárias para transmitir ideias funcionais e métodos de operação de
+um jogo que estão contidos em uma Obra que são compostas por sistemas,
+procedimentos, processos, regras, leis, instruções, heurísticas,
+rotinas, elementos funcionais, comandos, estruturas, princípios,
+metodologias, operações, dispositivos e conceitos de jogo, e as
+limitações, restrições, constrições, permissões e possibilidades
+inerentes ao jogo, incluindo, mas não se limitando, às expressões que
+descrevem a função de, ou fornecem instruções sobre o seguinte:</p>
+<ol type="i" style="margin-left: 20px;">
+<li style="margin-bottom: 15px;">
+    Criação e jogo de personagens jogadores e não-jogadores (como
+    estatísticas, atributos, blocos de estatísticas, características,
+    classes, trabalhos, alinhamentos, profissões, proficiências,
+    habilidades, feitiços, perícias, ações, reações, interações,
+    recursos e equipamentos);</li>
+
+<li style="margin-bottom: 15px;">
+    Sistemas e classificações aplicáveis à jogabilidade (como
+    alinhamentos, antecedentes, classes, pontos de experiência, níveis
+    e avanço de nível, encontros, combate, iniciativa e ordem de turno,
+    movimento, estatísticas de monstros, tipos de criatura, armadilhas,
+    condições, buffs e debuffs, poderes, tipos de terreno,
+    classificações de desafio, movimentos, classes de dificuldade,
+    testes de perícias, testes de resistência, descanso e gerenciamento
+    de recursos, classificação de sistemas mágicos, feitiços e efeitos
+    de habilidade, saques, itens e equipamentos, sistemas de
+    diplomacia, opções de diálogo e determinação de resultados);</li>
+
+<li style="margin-bottom: 15px;">
+    Métodos para determinar o sucesso, falha ou resultado e quaisquer
+    expressões de tais métodos ou de tais sucessos, falhas ou
+    resultados; e</li>
+
+<li>
+    Métodos e meios pelos quais os jogadores jogam o jogo (como
+    lançamento de dados, geração de números aleatórios, lançamento de
+    moedas, sorteio e jogo de cartas, aplicação de modificadores aos
+    resultados do acaso, criação ou preenchimento de fichas de
+    personagem, movimento e interação com tokens ou miniaturas, desenho
+    de mapas e ilustrações, falar, enviar mensagens, atuar, fazer
+    mímica, escrever notas, fazer perguntas e fazer declarações). O
+    termo Material Licenciado não deve, em hipótese alguma, incluir
+    Material Reservado de Terceiros. Para evitar dúvidas, o termo
+    Material Licenciado destina-se a excluir o Material Reservado,
+    exceto na medida em que um Licenciante designou expressamente o
+    conteúdo que de outra forma constituiria seu Material Reservado
+    como Material Licenciado de acordo com o aviso publicado no Artigo
+    III.</li>
+
+</ol>
+
+<p>f. <em><strong>Direitos Licenciados</strong></em> significam os direitos concedidos a Você
+sujeitos aos termos e condições desta Licença ORC, que são limitados a
+todos os Direitos Autorais e Conexos que se apliquem ao Seu Uso do
+Material Licenciado e que o Licenciante tem o direito para licenciar.</p>
+<p>g. <em><strong>Licenciante</strong></em> significa qualquer indivíduo ou entidade que
+conceda direitos sob esta Licença ORC.</p>
+<p>h. <em><strong>Material Reservado</strong></em> significa marcas registradas, identidade
+visual e expressões criativas que não são essenciais para, ou podem
+variar sem alterar, as ideias ou métodos de operação de um sistema de
+jogo, incluindo obras de arte visual, música e design de som, e
+personagens expressos claramente e suficientemente delineados,
+organizações de personagens, diálogos, cenários, locais, mundos, tramas
+ou enredos, incluindo nomes próprios e seus adjetivos, nomes e títulos
+derivados de nomes próprios. O termo Material Reservado não deve, em
+hipótese alguma, incluir elementos que tenham sido prévia e
+expressamente designados como Material Licenciado pelo Licenciante do
+material, que sejam Materiais Licenciados Adaptados, que constituam
+Material Reservado de Terceiros ou que sejam de domínio público.</p>
+<p>i. <em><strong>Direitos Sui Generis sobre Bases de Dados</strong></em> significam outros
+direitos, que não os direitos autorais, resultantes da Diretiva 96/9/EC
+do Parlamento Europeu e do Conselho de 11 de Março de 1996 sobre a
+proteção legal de bases de dados, conforme emendada e/ou sucedida, bem
+como outros direitos essencialmente equivalentes em qualquer lugar do
+mundo.</p>
+<p>j. <em><strong>Prazo</strong></em> significa o maior prazo da duração dos Direitos Autorais
+e Conexos aqui licenciados.</p>
+<p>k. <em><strong>Material Reservado de Terceiros</strong></em> significa todos os direitos de
+propriedade intelectual que não são ou não foram licenciados sob a
+Licença ORC e que não são de propriedade nem controlados pelo
+Licenciante ou por Você ou por qualquer pessoa ou entidade que direta ou
+indiretamente controle, seja controlada por, ou esteja sob controle
+comum com Você ou com o Licenciante.</p>
+<p>l. <em><strong>Usar, Uso ou Usou</strong></em> significa usar material por qualquer meio ou
+processo que exija permissão sob os Direitos Licenciados, tais como
+produção, reprodução, criação de obras derivadas, exibição pública,
+execução pública, distribuição, disseminação, comunicação ou importação,
+e tornar o material disponível ao público, inclusive de forma que os
+membros do público possam acessar o material de um local e no momento
+escolhido individualmente por eles.</p>
+<p>m. <em><strong>Obra ou Obras</strong></em> significa que onde um Licenciante aplicar um
+aviso substancialmente na forma descrita na Seção III a um produto, (i)
+para produtos que contenham um único jogo jogável, a totalidade do
+produto publicado pelo Licenciante constituirá a Obra e (ii) para
+produtos contendo seções relacionadas a vários jogos não interoperáveis
+(como uma revista com seções sobre vários jogos não relacionados entre
+si de diferentes editoras, ou um site com partes relacionadas a jogos
+diferentes), toda porção do produto relacionada ou derivada do Material
+Licenciado constituirá a Obra.</p>
+<p>n. <em><strong>Você, Seu ou Sua</strong></em> significa o indivíduo ou entidade que exerce
+os direitos concedidos sob esta Licença ORC.</p>
+<h2 id="ii-concessões--limitações"><a class="header" href="#ii-concessões--limitações">II. Concessões &amp; Limitações.</a></h2>
+<p>a. <strong>Concessão Primária a Você.</strong> Sujeito aos termos e condições desta
+Licença ORC, pelo Prazo, o Licenciante concede a Você uma licença
+mundial, isenta de royalties, não sublicenciável, não exclusiva e
+irrevogável para exercer os Direitos Licenciados sobre o Material
+Licenciado para Usar o Material Licenciado, no todo ou em parte, que
+pode ser rescindido apenas conforme estabelecido na Seção V.a. por
+violação Sua. O Licenciante por meio desta autoriza Você a exercer os
+Direitos Licenciados em todas as mídias e formatos conhecidos agora ou
+criados futuramente, e a fazer as modificações técnicas necessárias para
+fazê-lo. O Licenciante por meio desta renuncia e/ou concorda em não
+reivindicar qualquer direito ou autoridade para proibir Você de fazer
+modificações técnicas necessárias para exercer os Direitos Licenciados,
+incluindo modificações técnicas necessárias para contornar Medidas
+Tecnológicas Efetivas.</p>
+<p>b. <strong>Concessão de Material Licenciado Adaptado por Você</strong>. Você, por
+meio desta, recebe uma oferta do Licenciante para exercer os Direitos
+Licenciados com a condição expressa de que Você conceda e, por meio
+desta, concede a todos os destinatários do Material Licenciado Adaptado
+uma oferta irrevogável para exercer os Direitos Licenciados no Material
+Licenciado Adaptado sob os termos e condições aqui descritos na qual tal
+Material Licenciado Adaptado deverá ser licenciado como Material
+Licenciado para tal destinatário. Você não pode oferecer ou impor
+quaisquer termos ou condições adicionais ou diferentes sobre o Material
+Licenciado ou aplicar quaisquer Medidas Tecnológicas Efetivas ao
+Material Licenciado se isso restringir o exercício dos Direitos
+Licenciados por qualquer destinatário do Material Licenciado.</p>
+<p>c. <strong>Direitos sobre Bases de Dados.</strong> Onde os Direitos Licenciados
+incluírem Direitos Sui Generis sobre Bases de Dados que se apliquem ao
+Seu Uso do Material Licenciado, esta Licença ORC concede a Você o
+direito de extrair, reutilizar, reproduzir e Usar todo ou parte
+substancial do conteúdo do banco de dados, e se Você incluir todo ou uma
+parte substancial do conteúdo do banco de dados em um banco de dados no
+qual Você tenha Direitos Sui Generis sobre Bases de Dados, então o banco
+de dados no qual Você tenha Direitos Sui Generis sobre Bases de Dados
+(mas não seu conteúdo individual) constituirá Material Licenciado
+Adaptado.</p>
+<p>d. <strong>Limitações.</strong></p>
+<ol type="i" style="margin-left: 20px;">
+<li style="margin-bottom: 15px;">
+    Nada nesta Licença ORC constitui ou pode ser interpretado como
+    permissão para afirmar ou implicar que Você é, ou que Seu Uso do
+    Material Licenciado está conectado com, é patrocinado ou endossado
+    pelo, ou tenha recebido status oficial do Licenciante ou outros aqui
+    designados para receber atribuição.</li>
+
+<li style="margin-bottom: 15px;">
+    Direitos morais, como o direito à integridade, não são licenciados
+    sob esta Licença ORC, nem publicidade, privacidade e/ou outros
+    direitos de personalidade similares; no entanto, na medida do
+    possível, o Licenciante renuncia e/ou concorda em não fazer valer
+    quaisquer desses direitos detidos pelo Licenciante limitado na
+    medida do necessário para permitir que Você exerça os Direitos
+    Licenciados, mas não de outra forma.</li>
+
+<li>
+    Na medida do possível, o Licenciante renuncia a qualquer direito de
+    cobrar royalties de Você pelo exercício dos Direitos Licenciados e
+    Uso do Material Licenciado, seja diretamente ou por meio de uma
+    sociedade de arrecadação sob qualquer regime de licenciamento
+    voluntário ou renunciável, legal ou obrigatório.</li>
+
+</ol>
+
+<h2 id="iii-aviso-obrigatório"><a class="header" href="#iii-aviso-obrigatório">III. Aviso Obrigatório.</a></h2>
+<p>A concessão desta Licença ORC a Você está expressamente condicionada a
+que Você inclua as declarações de aviso descritas nas subseções (a)–(d)
+abaixo de maneira razoável baseada no meio, significados e contexto em
+que Você fez Uso do Material Licenciado:</p>
+<p>a. <strong>Aviso ORC.</strong> A seguinte declaração designando o local e os termos
+desta Licença ORC:</p>
+<blockquote>
+<p>Este produto está licenciado sob a Licença ORC registrada na
+Biblioteca do Congresso dos Estados Unidos sob número TX 9-307-067 e
+está disponível online em vários locais. Todas as garantias são
+renunciadas conforme estabelecido aqui.</p>
+</blockquote>
+<p>b. <strong>Aviso de Atribuição.</strong></p>
+<ol type="i" style="margin-left: 20px;">
+<li style="margin-bottom: 15px;">
+    Uma declaração, baseada em esforços razoáveis e de boa fé, que
+    identifica cada Licenciante ou criador do Material Licenciado que
+    Você Usou e quaisquer outros designados para receber atribuição,
+    incluindo todos os licenciantes anteriores de Material Licenciado
+    nos quais Seu Material Licenciado Adaptado é baseado ou derivado,
+    redigida de qualquer maneira precisa e razoável solicitada por tais
+    partes. Esse crédito pode ser nomeado, anônimo ou um pseudônimo
+    razoável. Para evitar dúvidas, tanto o Licenciante quanto todas as
+    partes creditadas de forma similar sob o aviso de atribuição do
+    Licenciante devem ser incluídos em Seu aviso de atribuição, a menos
+    que seja indicado de outra forma razoável por tais partes.</li>
+
+<li>Uma declaração indicando como Você deseja ser razoavelmente
+    creditado com relação ao Material Licenciado Adaptado licenciado por
+    Você sob esta Licença ORC, incluindo anonimamente ou por pseudônimo,
+    se designado. Os Licenciantes e criadores podem atualizar seus
+    nomes, designações de anonimato ou pseudônimos de tempos em tempos,
+    mediante notificação a Você e a outros licenciados aqui conhecidos;
+    no entanto, tal alteração não exigirá, em hipótese alguma, que Você
+    interrompa a distribuição de quaisquer Obras que Você tenha
+    produzido ou destrua quaisquer Obras produzidas ou em
+    desenvolvimento, mas apenas exigirá que Você use esforços de boa fé
+    para implementar a alteração solicitada em um futuro próximo.</li>
+
+</ol>
+
+<p>c. <strong>Aviso de Material Reservado.</strong> Uma declaração baseada em esforços
+razoáveis e de boa fé que identifica os elementos de Seu Material
+Reservado, se houver, contidos na Obra Derivada na qual Você Usa o
+Material Licenciado. Para evitar dúvidas, tal designação não limita Seus
+direitos em Seu Material Reservado nem limita o Uso de qualquer
+licenciado posterior do Material Licenciado Adaptado. No caso de um
+conflito entre Sua designação de Material Reservado e a definição de
+Material Licenciado, a definição prevalecerá.</p>
+<p>d. <strong>Material Licenciado Expressamente Designado.</strong> Uma declaração que
+identifica quaisquer elementos de Seu conteúdo que de outra forma
+constituiriam Material Reservado contidos em Sua Obra Derivada que Você
+concorda em oferecer a possíveis licenciados sob a Licença ORC como
+Material Licenciado de acordo com a Seção I.e.(1) acima.</p>
+<p>e. <strong>Amostra de Aviso.</strong> Apenas a título de exemplo, o seguinte aviso
+cumpriria os requisitos desta Licença ORC:</p>
+<table>
+<tbody>
+<tr style="vertical-align: top;">
+<td>Aviso ORC</td>
+<td>Este produto está licenciado sob a Licença ORC registrada na
+Biblioteca do Congresso dos Estados Unidos sob número TX 9-307-067 e
+está disponível online em vários locais incluindo [possíveis domínios
+podem ser inseridos]. Todas as garantias são renunciadas conforme
+estabelecido aqui.</td>
+</tr>
+
+<tr style="vertical-align: top;">
+<td>Atribuição</td>
+<td>Este produto é baseado no seguinte Material Licenciado:<br />
+[Título da Obra], [Aviso de Copyright], [Informação de Crédito de
+Autoria].<br />
+[Título de Obra Adicional], [Aviso de Copyright], [Informação de Crédito
+de Autoria].<br />
+[Etc.].<br />
+Caso utilize nosso Material Licenciado na publicação de suas próprias
+obras, por favor nos credite da seguinte forma:<br />
+[Título desta Obra], [Aviso de Copyright], [Sua Informação de Crédito de
+Autoria].</td>
+</tr>
+
+<tr style="vertical-align: top;">
+<td>Material Reservado</td>
+<td>Materiais Reservados neste produto incluem, mas podem não estar
+limitados a: O Esqueleto Krew, A Horrível Nação de Funeralia, A Ordem
+dos Ossários &amp; Senhores da Fronteira, e todos os elementos
+designados como Material Reservado sob a Licença ORC.</td>
+</tr>
+
+<tr style="vertical-align: top;">
+<td>Material Licenciado Expressamente Designado</td>
+<td>Os seguintes elementos são de propriedade do Licenciante e, de outra
+forma, constituiriam Material Reservado e são aqui designados como
+Material Licenciado: A Ordem dos Trovadores da Caveira Cantante e
+personagens, locais e títulos associados.</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<h2 id="iv-garantia--limitação-de-responsabilidade"><a class="header" href="#iv-garantia--limitação-de-responsabilidade">IV. Garantia &amp; Limitação de Responsabilidade.</a></h2>
+<p>O Licenciante garante, declara, reconhece e concorda que após a
+publicação do Aviso Obrigatório na Obra de um Licenciante, o Licenciante
+não poderá posteriormente retirar, modificar ou revogar tal oferta para
+licenciar o Material Licenciado por este instrumento para qualquer
+licenciado existente ou qualquer licenciado em potencial, e a oferta do
+Licenciante para licenciar tal Material Licenciado é irrevogável. O
+Licenciante licencia o Material Licenciado no estado em que se encontra
+e como disponível, e não faz representações ou presta garantias de
+qualquer tipo em relação ao Material Licenciado, sejam elas expressas,
+implícitas, legais ou outras. Isso inclui, sem limitação, garantias
+quanto à titularidade de direitos, comerciabilidade, adequação a um
+determinado fim, não violação de direitos, ausência de vícios ocultos ou
+outros defeitos, exatidão ou existência ou ausência de erros, quer sejam
+ou não conhecidos ou detectáveis. Onde isenções de garantias não sejam
+permitidas total ou parcialmente, esta isenção de garantia pode não se
+aplicar a você. Na medida do possível, em nenhum caso o Licenciante será
+responsável perante Você, com base em qualquer argumento jurídico
+(incluindo, mas não se limitando a, negligência) ou de outra forma, por
+quaisquer perdas, custos, despesas ou danos diretos, especiais,
+indiretos, incidentais, consequenciais, punitivos ou exemplares
+decorrentes desta Licença ORC ou do uso do Material Licenciado, mesmo
+que o Licenciante tenha sido advertido da possibilidade de tais perdas,
+custos, despesas ou danos. Quando uma limitação de responsabilidade não
+for permitida total ou parcialmente, essa limitação pode não se aplicar
+a você. A renúncia de garantias e limitação de responsabilidade
+fornecidas acima devem ser interpretadas da maneira que, na medida do
+possível, mais se aproxime de uma renúncia absoluta de garantias e
+renúncia de toda responsabilidade.</p>
+<h2 id="v-outros-termos--condições"><a class="header" href="#v-outros-termos--condições">V. Outros Termos &amp; Condições.</a></h2>
+<p>a. <strong>Rescisão e Recursos.</strong> Sua licença para Usar o Material Licenciado
+terminará automaticamente se Você deixar de cumprir os termos e
+condições desta Licença ORC. Sua licença será restabelecida, com
+vigência a partir da data de rescisão, se Você sanar tal violação de
+forma contínua (sem a obrigação de destruir o estoque disponível) dentro
+de 60 dias após a Sua descoberta da violação ou se o Licenciante
+renunciar a tal violação por escrito. Nenhuma rescisão afetará, limitará
+ou interromperá os direitos de qualquer Licenciante ou licenciado
+subsequente de qualquer Material Licenciado sob qualquer Licença ORC.
+Somente o Licenciante e os licenciantes anteriores do Licenciante sob
+esta Licença ORC (com os quais Você tem um vínculo jurídico) podem
+apresentar ação de execução contra Você nos termos deste instrumento.
+Isso constitui uma limitação aos recursos do Licenciante com relação à
+concessão de licença no Material Licenciado por este instrumento; no
+entanto, esta Licença ORC não limita os recursos do Licenciante de forma
+alguma com relação ao Material Reservado do Licenciante, nem limita o
+direito do Licenciante de oferecer o Material Licenciado ou o Material
+Reservado sob termos ou condições separados.</p>
+<p>b. <strong>Modificações.</strong> Esta Licença ORC não pode ser alterada,
+substituída, modificada, atualizada, cassada, revogada ou desautorizada.
+Nem Você nem o Licenciante podem modificar os termos desta Licença ORC;
+no entanto, Você pode entrar em um acordo separado de Sua própria
+autoria, desde que tal acordo não vise modificar os termos deste
+instrumento. Esta Licença ORC não reduz, limita, restringe ou impõe
+condições sobre qualquer uso do Material Licenciado que possa ser
+legalmente feito sem permissão desta Licença ORC, e não deveria ser
+interpretada desse modo.</p>
+<p>c. <strong>Interpretação.</strong> Esta licença ORC é publicada simultaneamente com
+um documento de perguntas e respostas (<em>Answers and Explanations</em>, ou
+“<em><strong>AxE</strong></em>”) que está arquivado sob o mesmo registro no US Copyright
+Office que esta Licença ORC. Um dos propósitos do AxE é fornecer uma
+indicação geral das intenções dos redatores ao interpretar a Licença ORC
+e, no caso de uma disputa, o AxE deve ser admissível e usado por
+qualquer órgão judicante para tal finalidade. A Licença ORC pode ser
+traduzida para outros idiomas. Você e o Licenciante reconhecem e
+concordam que, se houver qualquer conflito entre esta Licença ORC, o AxE
+e tal versão traduzida, prevalecerão os termos da Licença ORC em inglês
+registrada pela Azora Law PLLC no US Copyright Office. Versões
+subsequentes do AxE não serão admissíveis para fins de determinação das
+intenções dos redatores com relação à Licença ORC. Na medida do
+possível, se qualquer disposição desta Licença ORC for considerada
+inexequível por um tribunal, ela será automaticamente reformada na
+medida mínima necessária para torná-la aplicável ao caso concreto. Se
+tal disposição não puder ser reformada, ela será removida desta Licença
+ORC sem afetar a aplicabilidade dos demais termos e condições. Nenhum
+termo ou condição desta Licença ORC será renunciado e nenhum
+descumprimento consentido, a menos que expressamente acordado pelo
+Licenciante. Nada nesta Licença ORC constitui ou pode ser interpretado
+como uma limitação ou renúncia de quaisquer privilégios e imunidades que
+se apliquem ao Licenciante ou a Você, inclusive de processos legais de
+qualquer jurisdição ou autoridade.</p>
+<hr>
+<blockquote>
+<p><strong>Sobre a tradução</strong></p>
+<p>Traduzido por <strong>Daniel Dias Rodrigues</strong> (OAB/SP nº 308.571) no dom 09 jul 2023 15:52, atualizada na qua 20 mai 2026 14:08, a partir do texto original: <strong>ORC-License.FINAL_.pdf</strong>, criado na “sex 22 set 2023 19:35:59” conforme metadados, baixado de &lt;<a href="https://azoralaw.com/wp-content/uploads/2023/09/ORC-License.FINAL_.pdf">https://azoralaw.com/wp-content/uploads/2023/09/ORC-License.FINAL_.pdf</a>&gt;.</p>
+<p>O arquivo original possuía hash sha256: &lt;3fffe0fe69781b7115bccbfa0f51489e0a073c211772f5ebcd84d34f88f19b29&gt;.</p>
+</blockquote>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="11_criaturas.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                            </a>
+
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="11_criaturas.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                    </a>
+
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr-ef4e11c1.min.js"></script>
+        <script src="mark-09e88c2c.min.js"></script>
+        <script src="searcher-09f2665d.js"></script>
+
+        <script src="clipboard-1626706a.min.js"></script>
+        <script src="highlight-abc7f01d.js"></script>
+        <script src="book-458fa6dc.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>

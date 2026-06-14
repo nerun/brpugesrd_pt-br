@@ -1,0 +1,556 @@
+<!DOCTYPE HTML>
+<html lang="pt-BR" class="rust sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>❌ 9. Mestrando - Basic Roleplaying</title>
+
+
+        <!-- Custom HTML head -->
+
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff">
+
+        <link rel="shortcut icon" href="favicon-09f48f1b.png">
+        <link rel="stylesheet" href="css/variables-8adf115d.css">
+        <link rel="stylesheet" href="css/general-0392ca55.css">
+        <link rel="stylesheet" href="css/chrome-fc474251.css">
+        <link rel="stylesheet" href="css/print-9e4910d8.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="fonts/fonts-9644e21d.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" id="mdbook-highlight-css" href="highlight-493f70e1.css">
+        <link rel="stylesheet" id="mdbook-tomorrow-night-css" href="tomorrow-night-4c0ae647.css">
+        <link rel="stylesheet" id="mdbook-ayu-highlight-css" href="ayu-highlight-3fdfc3ac.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="theme/custom-3cb5e639.css">
+
+        <!-- MathJax -->
+        <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "";
+            const default_light_theme = "rust";
+            const default_dark_theme = "rust";
+            window.path_to_searchindex_js = "searchindex-5d0029c5.js";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc-6382b2b7.js"></script>
+    </head>
+    <body>
+    <div id="mdbook-help-container">
+        <div id="mdbook-help-popup">
+            <h2 class="mdbook-help-title">Keyboard shortcuts</h2>
+            <div>
+                <p>Press <kbd>←</kbd> or <kbd>→</kbd> to navigate between chapters</p>
+                <p>Press <kbd>S</kbd> or <kbd>/</kbd> to search in the book</p>
+                <p>Press <kbd>?</kbd> to show this help</p>
+                <p>Press <kbd>Esc</kbd> to hide this help</p>
+            </div>
+        </div>
+    </div>
+    <div id="mdbook-body-container">
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script>
+            try {
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script>
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            const html = document.documentElement;
+            html.classList.remove('rust')
+            html.classList.add(theme);
+            html.classList.add("js");
+        </script>
+
+        <input type="checkbox" id="mdbook-sidebar-toggle-anchor" class="hidden">
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script>
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("mdbook-sidebar-toggle-anchor");
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            } else {
+                sidebar = 'hidden';
+                sidebar_toggle.checked = false;
+            }
+            if (sidebar === 'visible') {
+                sidebar_toggle.checked = true;
+            } else {
+                html.classList.remove('sidebar-visible');
+            }
+        </script>
+
+        <nav id="mdbook-sidebar" class="sidebar" aria-label="Table of contents">
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
+            <div id="mdbook-sidebar-resize-handle" class="sidebar-resize-handle">
+                <div class="sidebar-resize-indicator"></div>
+            </div>
+        </nav>
+
+        <div id="mdbook-page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                <div id="mdbook-menu-bar-hover-placeholder"></div>
+                <div id="mdbook-menu-bar" class="menu-bar sticky">
+                    <div class="left-buttons">
+                        <label id="mdbook-sidebar-toggle" class="icon-button" for="mdbook-sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="mdbook-sidebar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg></span>
+                        </label>
+                        <button id="mdbook-theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="mdbook-theme-list">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M371.3 367.1c27.3-3.9 51.9-19.4 67.2-42.9L600.2 74.1c12.6-19.5 9.4-45.3-7.6-61.2S549.7-4.4 531.1 9.6L294.4 187.2c-24 18-38.2 46.1-38.4 76.1L371.3 367.1zm-19.6 25.4l-116-104.4C175.9 290.3 128 339.6 128 400c0 3.9 .2 7.8 .6 11.6c1.8 17.5-10.2 36.4-27.8 36.4H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H240c61.9 0 112-50.1 112-112c0-2.5-.1-5-.2-7.5z"/></svg></span>
+                        </button>
+                        <ul id="mdbook-theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-default_theme">Auto</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-light">Light</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="mdbook-theme-ayu">Ayu</button></li>
+                        </ul>
+                        <button id="mdbook-search-toggle" class="icon-button" type="button" title="Search (`/`)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="/ s" aria-controls="mdbook-searchbar">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352c79.5 0 144-64.5 144-144s-64.5-144-144-144S64 128.5 64 208s64.5 144 144 144z"/></svg></span>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">Basic Roleplaying</h1>
+
+                    <div class="right-buttons">
+                        <a href="print.html" title="Print this book" aria-label="Print this book">
+                            <span class=fa-svg id="print-button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M128 0C92.7 0 64 28.7 64 64v96h64V64H354.7L384 93.3V160h64V93.3c0-17-6.7-33.3-18.7-45.3L400 18.7C388 6.7 371.7 0 354.7 0H128zM384 352v32 64H128V384 368 352H384zm64 32h32c17.7 0 32-14.3 32-32V256c0-35.3-28.7-64-64-64H64c-35.3 0-64 28.7-64 64v96c0 17.7 14.3 32 32 32H64v64c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V384zm-16-88c-13.3 0-24-10.7-24-24s10.7-24 24-24s24 10.7 24 24s-10.7 24-24 24z"/></svg></span>
+                        </a>
+                        <a href="https://github.com/nerun/brpugesrd_pt-br" title="Git repository" aria-label="Git repository">
+                            <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg></span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="mdbook-search-wrapper" class="hidden">
+                    <form id="mdbook-searchbar-outer" class="searchbar-outer">
+                        <div class="search-wrapper">
+                            <input type="search" id="mdbook-searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="mdbook-searchresults-outer" aria-describedby="searchresults-header">
+                            <div class="spinner-wrapper">
+                                <span class=fa-svg id="fa-spin"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M304 48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zm0 416c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM48 304c26.5 0 48-21.5 48-48s-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48zm464-48c0-26.5-21.5-48-48-48s-48 21.5-48 48s21.5 48 48 48s48-21.5 48-48zM142.9 437c18.7-18.7 18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zm0-294.2c18.7-18.7 18.7-49.1 0-67.9S93.7 56.2 75 75s-18.7 49.1 0 67.9s49.1 18.7 67.9 0zM369.1 437c18.7 18.7 49.1 18.7 67.9 0s18.7-49.1 0-67.9s-49.1-18.7-67.9 0s-18.7 49.1 0 67.9z"/></svg></span>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="mdbook-searchresults-outer" class="searchresults-outer hidden">
+                        <div id="mdbook-searchresults-header" class="searchresults-header"></div>
+                        <ul id="mdbook-searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script>
+                    document.getElementById('mdbook-sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('mdbook-sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#mdbook-sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="mdbook-content" class="content">
+                    <main>
+                        <h1 id="9-mestrando"><a class="header" href="#9-mestrando">9. Mestrando</a></h1>
+<p>Como mestre de jogo, você tem a função mais difícil do grupo, ajudando os jogadores a criar seus personagens e criando (ou adaptando) o cenário. Você deve criar e interpretar os personagens não jogadores encontrados, descrever o mundo à medida que ele é explorado e ser um árbitro justo e definitivo, especialmente durante os conflitos. Embora os jogadores possam se revezar e entreter uns aos outros, o mestre do jogo está sempre ativo. Você deve reagir às ações dos jogadores e envolver todos igualmente, mantendo-os, de preferência, absortos e compartilhando os holofotes.</p>
+<p>Pode ser difícil equilibrar narração, interpretação de papéis, contabilidade e arbitragem de regras. Muitos jogadores nunca tentam ser gamemaster, enquanto outros o fazem exclusivamente. Pode ser uma experiência imensamente gratificante, e geralmente é por isso que os jogadores de RPG o fazem. A seguir, apresentamos uma visão geral das possíveis funções do gamemaster. Nem todas são necessárias: cabe a você determinar o que é melhor para você e seus jogadores.</p>
+<p>**Quem é você?</p>
+<p>Neste capítulo, “você” se refere ao mestre de jogo. Não há nada aqui que estrague a diversão de um jogador, mas o material deste capítulo é útil principalmente apenas para o mestre de jogo.</p>
+<p>**Seus jogadores</p>
+<p>Se estiver apenas começando como gamemaster, talvez precise recrutar alguns jogadores. Há muitas maneiras de fazer isso, seja em noites de jogos em lojas locais e clubes de jogos, seja publicando avisos nas mídias sociais ou em sites de jogos de mesa on-line. As convenções de jogos também são uma ótima maneira de conhecer os jogadores locais. Além disso, você pode criar novos jogadores recrutando pessoas que nunca jogaram antes (mas estão curiosas). Podem ser amigos, familiares, colegas de trabalho, etc., se estiverem dispostos. O Basic Roleplaying é um excelente jogo para iniciantes, com um sistema de percentil fácil de entender. Você pode se surpreender com a quantidade de pessoas que foram expostas a jogos de interpretação de papéis em uma idade mais avançada, mas que nunca jogaram. Com sorte, elas voltarão para jogar mais!</p>
+<p>**Tamanho do grupo</p>
+<p>Um grupo de RPG pode ter desde um único jogador e um gamemaster até muitos outros. Cada grupo tem sua própria dinâmica e é único - alguns têm alguém que sempre dirige o jogo e outros trocam de gamemaster, dando a todos a chance de jogar. A dinâmica do tamanho do grupo é diferente e, a seguir, apresentamos diretrizes para grupos de diferentes tamanhos:</p>
+<ul>
+<li>Grupos médios:** Geralmente são de três a sete jogadores mais um gamemaster. Grupos menores tendem a ser mais unidos e geralmente são mais fáceis de organizar e manter. Em geral, quanto maior o grupo, mais difícil é reunir todos em um só lugar ao mesmo tempo. Leve em consideração um grupo de jogadores que muda ocasionalmente: alguém pode faltar em uma sessão ou trazer um amigo na próxima. Os jogos ambientados em ambientes densamente povoados costumam ser melhores para isso, pois os personagens ausentes podem simplesmente fazer outra coisa enquanto os outros personagens jogam. Os jogos em que o grupo é isolado ou muito unido significam que os jogadores ausentes precisam ter seus personagens explicados, controlados por outros jogadores ou tratados como personagens não-jogadores.</li>
+<li>Grupos individuais:** Os jogos com um jogador e um gamemaster geralmente são muito focados no personagem e as sessões podem ser intensas, com muitas conquistas. O planejamento é mais fácil e, muitas vezes, o combate desempenha um papel menor e mais fácil de resolver. Praticamente qualquer cenário funciona para jogos individuais, embora os cenários de super-heróis, terror ou espada e feitiçaria sejam ideais. Os inimigos devem evitar matar o personagem, fazendo-o prisioneiro ou abandonando-o à própria sorte depois de derrotado. O jogador pode participar da descrição do ambiente e pode ter mercenários, ajudantes etc. para tornar as coisas menos solitárias.</li>
+<li>Grupos grandes:** Se o seu grupo tiver mais de oito jogadores, talvez você precise de um assistente de mestre de jogo. Para lidar com esse tamanho de grupo, peça a um ou mais jogadores que ajudem a rolar os dados e a manter os registros durante os combates, talvez até mesmo deixando que um jogador não envolvido controle alguns personagens oponentes não jogadores. Também é uma boa ideia manter algum tipo de sistema para verificar como estão todos e mantê-los engajados: mantenha os personagens agrupados com os personagens com os quais eles se dão bem e circule pela mesa (ou tela) periodicamente para garantir que todos estejam incluídos.</li>
+</ul>
+<p>**O jogo</p>
+<p>A maior decisão é se o jogo é um <strong>one-shot</strong> (uma única aventura, uma sessão ou mais) ou uma <strong>campanha</strong> (uma série de aventuras com personagens que continuam ao longo do jogo). Cada uma delas tem vantagens e desvantagens.</p>
+<p>As cenas únicas são divertidas e focadas. Os personagens são criados para a aventura única e, em geral, não são usados novamente, portanto, não há necessidade de se preocupar com experiência ou com um objetivo de longo prazo. Os personagens de uma única jogada podem ser extremamente focados e específicos para a aventura, profundamente envolvidos na história. Você pode até mesmo criar personagens pré-gerados para uma partida única (consulte <strong>Personagens pré-gerados</strong>). A preparação para uma aventura única também é mais fácil, pois não precisa continuar além de uma única história. Em uma única história, o foco geral geralmente é uma história com um gancho de enredo simples, dramático o suficiente para fornecer alguns pontos de ação e/ou conflito e um objetivo ou objetivos alcançáveis.</p>
+<p>As campanhas são melhores para a interpretação aprofundada e para jogadores que desejam ver seus personagens crescerem e melhorarem com o tempo. Elas podem consistir em um grande enredo abrangente com aventuras menores ligadas a esse enredo ou independentes dele, ou podem ser unidas apenas pela presença dos personagens nas aventuras. Elas são mais difíceis de criar, pois exigem um pouco de continuidade e trabalho entre as aventuras, mas muitos acham que a campanha é a parte mais verdadeira e satisfatória do RPG. Os sistemas de experiência e aprimoramento de personagem do Basic Roleplaying recompensam o jogo de campanha.</p>
+<p>**O cenário</p>
+<p>O <strong>contexto</strong> é o tempo e o local em que o jogo acontece, seja ele um jogo único ou uma campanha. O cenário pode ser qualquer lugar ou época que você possa imaginar. Consulte o <em>Capítulo 10: Configurações</em> para obter mais informações sobre configurações. Ele abrange cenários históricos e populares e, se um deles não for atraente, pode servir de inspiração para você adaptar um cenário existente de alguma outra forma (outro jogo, filme, programa de televisão, livro, história em quadrinhos etc.) para seu uso.</p>
+<p>Em geral, como mestre de jogo, você pode escolher o cenário com a concordância dos jogadores. Entretanto, o entusiasmo é tão contagioso quanto o desinteresse e, se você não estiver entusiasmado, seus jogadores também não estarão. Você pode até ter uma discussão aberta sobre o cenário desejado para jogar, uma improvisação criativa em que muitas vozes são ouvidas.</p>
+<p>**Como começar</p>
+<p>Agora, escolha um local e um horário em que todos possam se encontrar, seja em um espaço físico como uma sala de estar, uma cafeteria ou até mesmo on-line por meio de um sistema de videoconferência ou de uma plataforma de RPG de mesa (que são muitas). Os jogos podem acontecer em qualquer lugar, mas são mais agradáveis quando estão livres de distrações. O tempo que você passa reunido é chamado de <strong>sessão de jogo</strong> (ou, às vezes, apenas sessão).</p>
+<p>O tempo é uma consideração importante, pois as sessões geralmente levam algumas horas ou mais. Escolha um local do qual você não será expulso abruptamente e reserve um tempo para começar e terminar (isso sempre leva um pouco mais de tempo do que o esperado). Você e seus jogadores devem decidir a que horas se encontrarão e se isso significa que o jogo começará exatamente nesse horário ou se todos devem começar a chegar por volta desse horário. Os jogos on-line são mais fáceis nesse sentido, pois geralmente envolvem apenas a abertura de um navegador no conforto de sua casa.</p>
+<p>Determine o que você e seus jogadores preferem e planeje (e adapte) de acordo com isso.</p>
+<p><strong>Descreva o cenário</strong></p>
+<p>Quando estiver pronto e tiver reunido os jogadores, explique o cenário a eles. Os que estão no <em>Capítulo 10: Configurações</em> são lugares fáceis para começar e fornecem descrições relativamente concisas de cada cenário. Você pode personalizar um deles conforme desejar ou criar um cenário completamente novo.</p>
+<p>Uma das melhores maneiras de pensar nessa parte do jogo é que você está “vendendo” aos jogadores o cenário ou a premissa. Tente condensar a descrição em algumas frases rápidas, fornecendo respostas claras às seguintes perguntas:</p>
+<ul>
+<li>Como é o cenário?** Se você se lembrar de um filme, livro ou programa de televisão com o qual o cenário se assemelhe, nomeie-o imediatamente. Não seja tímido ao nomear suas inspirações! Se estiver criando algo original, tente resumi-lo a um conceito de Hollywood de alto nível, combinando duas propriedades conhecidas de uma forma que desperte a imaginação e o interesse.</li>
+<li>Quem são os personagens dos jogadores? Essa não é uma lista de profissões; é um propósito, dizendo aos jogadores qual é a posição deles e o que representam no cenário. Geralmente, esse é o elemento que os une como um grupo, em vez de serem apenas um grupo de indivíduos sem motivo para interagir.</li>
+<li>O que os personagens dos jogadores fazem? Essa é a descrição geral dos tipos de aventuras que você criará para os jogadores, sejam elas investigações, exploração, manobras políticas, malandragem urbana, sobrevivência em terra, etc. Isso afeta os tipos de personagens que eles desejarão criar, portanto, seja claro aqui.</li>
+</ul>
+<p>Esse também pode ser um esforço colaborativo, com a participação de seus jogadores. Quando souber as respostas a essas três perguntas, você poderá começar a criar os personagens. Esperamos que todos estejam animados com o que os espera nas próximas sessões de jogo!</p>
+<p>**Criação de personagens com controle de jogo</p>
+<p><em>O Capítulo 2: Personagens</em> fornece um guia de dez etapas para a criação de personagens. Acompanhe os jogadores nesse processo, respondendo às perguntas deles. É útil pedir aos jogadores que decidam que tipo de personagem cada um interpretará, para eliminar possíveis redundâncias ou pontos fracos. Na maioria das vezes, é bom ter um grupo bem equilibrado de tipos de personagens, para lidar melhor com uma ampla gama de situações e dar a cada jogador uma especialidade ou área de foco em que ele seja melhor. Isso às vezes é chamado de <strong>proteção de nicho</strong>.</p>
+<p>**Lista de verificação de regras opcionais</p>
+<p>A seguir estão todas as regras opcionais e seus efeitos no jogo.</p>
+<p>**Personagens e criação de personagens</p>
+<ul>
+<li>Escolha de valores de características:** Os jogadores atribuem características onde quiserem, resultando em personagens mais adequados às suas preferências.</li>
+<li>Características iniciais mais altas:** Personagens mais robustos e geralmente mais competentes.</li>
+<li>Rolagem de educação/conhecimento:** Útil para jogos em cenários modernos.</li>
+<li>Modificadores culturais: melhores em cenários com culturas e sociedades muito diferentes.</li>
+<li>Personagens não humanos: Usados em cenários de alta fantasia e ficção científica.</li>
+<li>Criação de personagens baseada em pontos: os personagens são criados pelos jogadores, permitindo uma personalização precisa.</li>
+<li>Sétima etapa: resulta em personagens competentes e completos.</li>
+<li>Aumento dos pontos de habilidade pessoal: os personagens são profissionais com experiência prévia.</li>
+<li>Pontos de vida por local:** Útil para cenários com muito combate, idealmente com armadura por locais de vida.</li>
+<li>Total de pontos de vida:** Os personagens podem sobreviver a danos consideráveis. Se apenas os personagens jogadores e os personagens não jogadores importantes usarem isso, a jogabilidade se tornará muito heroica.</li>
+<li>Pontos de fadiga: Melhor usado em jogos com foco em combate, sobrevivência ou viagens.</li>
+<li>Sanidade: Útil em jogos com elementos de terror.</li>
+<li>Características distintivas:** Principalmente para dar sabor, útil em qualquer lugar.</li>
+<li>Profissões de forma livre: úteis para personagens de jogadores personalizados e difíceis de categorizar.</li>
+<li>Envelhecimento e inatividade:Útil para campanhas de longo prazo em que os personagens envelhecem significativamente.</li>
+</ul>
+<p><strong>Habilidades</strong></p>
+<ul>
+<li><strong>Bônus de categoria de habilidade:</strong> Se as habilidades forem importantes, os bônus de habilidade serão úteis. Não compatível com os bônus de habilidade mais simples.</li>
+<li>Bônus de habilidade mais simples:** Uma abordagem mais simples para os bônus de habilidade. Não compatível com os bônus de categoria de habilidade.</li>
+<li>Habilidades complementares: Úteis em qualquer jogo ou ambiente.</li>
+<li>Agir sem habilidade:** Permite uma pequena chance de sucesso em qualquer habilidade, independentemente do treinamento. A sorte esquisita pode quebrar a suspensão da descrença em alguns jogos.</li>
+<li>Alfabetização: Útil sempre que a leitura e a escrita forem menos comuns.</li>
+<li>Classificações de habilidade acima de 100%:** Essencial para cenários de alta potência com personagens extremamente competentes.</li>
+</ul>
+<p>**Poderes</p>
+<ul>
+<li>Projeção:** Necessária ao usar superpoderes.</li>
+</ul>
+<p><strong>Sistema</strong></p>
+<ul>
+<li>Sistemas de rolagem de habilidade opostos: Em grande parte uma questão de preferência.</li>
+<li>Incumbência:** Útil para jogos mais corajosos, orientados para combate, sobrevivência ou viagem, especialmente quando combinada com Fadiga.</li>
+</ul>
+<p>**Combate</p>
+<ul>
+<li><strong>Eliminação ou reversão da declaração de intenções:</strong> Isso acelera consideravelmente o combate.</li>
+<li>Rolos de iniciativa: adiciona aleatoriedade ao combate rodada a rodada.</li>
+<li>Uso de poderes na fase de ação: enfatiza os poderes em combate.</li>
+<li>Ataques e bloqueios acima de 100%:** Melhor para aventuras de fantasia e super-heróis de alta potência, embora o combate fique um pouco mais lento.</li>
+<li>Desviar de armas de mísseis: melhor para jogos em que o combate é exagerado e irrealista.</li>
+<li>Golpes mortais: Útil para dar um final dramático a um personagem amado do jogador (ou a um vilão odiado).</li>
+<li>Locais de armadura por acerto: melhores para jogos detalhados e orientados para a simulação.</li>
+<li>Locais de dano e acerto: melhores para jogos detalhados e de simulação.</li>
+<li>Miniaturas, mapas e mesas virtuais:** Melhor para jogos detalhados e de simulação.</li>
+</ul>
+<p>**Diversos</p>
+<ul>
+<li>Fidelidade: Útil para jogos com deuses que intervêm ativamente no mundo.</li>
+<li>Pontos de destino: Os jogadores podem gastar pontos de poder para ajustar os resultados dos dados e introduzir elementos narrativos.</li>
+<li>Paixões: Permite que os personagens ajam de acordo com a personalidade.</li>
+<li>Reputação: uma métrica útil para conquistas e fama.</li>
+<li>Traços de personalidade: Úteis para ajudar a definir personagens e personagens não jogadores.</li>
+</ul>
+<p>**Examine os personagens dos jogadores</p>
+<p>Quando todos os personagens forem criados, revise-os para entender com que tipo de personagens você está lidando. Você pode verificar a matemática deles, certificando-se de que todos os pontos de habilidades e poderes sejam somados corretamente e que o jogador não tenha cometido nenhum erro. Ou você pode ser menos formal. Você deve decidir antecipadamente que tipo de mestre de jogo será e informar os jogadores com antecedência.</p>
+<p>Use esse tempo para anotar os aspectos importantes de cada personagem do jogador, como seu nome, profissão, características elevadas e habilidades importantes (Ouvir, Sentir, Localizar etc.). Você também pode anotar quaisquer habilidades acima de 70%, que podem informar os tipos de coisas em que o jogador gostaria que seu personagem se destacasse.</p>
+<p>**Por exemplo, se um personagem tiver altas habilidades de comunicação e linguagem, você pode dar a ele a chance de usar essas habilidades no jogo, sempre que possível.</p>
+<p>Não deve ser muito difícil criar uma cena ou um elemento de enredo que se concentre nas habilidades desejadas e faça com que os jogadores sintam que não cometeram um erro com seus personagens.</p>
+<p>Esse é um bom momento para solucionar problemas, como reconhecer quais habilidades estão faltando ou se um jogador não gastou seus pontos de habilidade de forma eficaz. Se uma aventura exige muita negociação política e se passa em um único local, e um jogador investiu muitos pontos em habilidades como Piloto e Máquina Pesada, você pode informá-lo de que seu personagem pode não se sentir muito útil durante a maior parte da aventura pretendida. Da mesma forma, preste atenção quando um jogador estiver gastando muitos pontos de habilidade em habilidades que não parecem características, com base na profissão do personagem e no que ele sabe sobre a aventura. Às vezes, esse é um caso em que o jogador está explorando informações fora do personagem, e você deve estar atento se isso estiver acontecendo. A maneira de lidar com isso depende de seus jogadores e de sua própria personalidade e estilo, embora esse comportamento possa ser uma vantagem injusta sobre os outros jogadores.</p>
+<p>Lembre-se, sempre, de que é apenas um jogo e tente manter as pessoas concentradas na diversão.</p>
+<p><strong>Metas de caráter</strong></p>
+<p>Depois que os jogadores terminarem a criação do personagem, é útil perguntar a eles quais são os objetivos que têm para seus personagens. Isso pode ser um pouco cedo, pois eles ainda não começaram a jogar, mas se os jogadores conhecerem o cenário, pergunte o que seus personagens (e eles) gostariam de fazer. Isso pode ser valioso, pois permite que você personalize o jogo de acordo com os personagens e os gostos dos jogadores. Você pode criar momentos heroicos, objetivos de vida, esforços prolongados ou colocá-los onde forem mais eficazes. Um jogador pode até achar que seria legal que seu personagem morresse de uma forma heroica específica, em algum momento.</p>
+<p>**Por exemplo, se estiver conduzindo um jogo de faroeste, um dos jogadores pode surpreendê-lo dizendo que quer que seu personagem se candidate a xerife de uma cidade pequena. Isso parece interessante e, como o cenário planejado era ter os personagens baseados em uma cidade de fronteira, ter um jogador como xerife seria um elemento de enredo útil e uma fonte rica de ganchos de enredo. No entanto, os outros personagens também devem ter coisas para fazer, para que não fiquem todos sob o comando do xerife.</p>
+<p>Às vezes, mesmo sem tentar, os jogadores o ajudarão a escrever aventuras, usando apenas as ideias que eles fornecem no início do jogo.</p>
+<p>**Conheça as regras</p>
+<p>As regras do <em>Basic Roleplaying</em> são intuitivas o suficiente para que você não precise conhecê-las tão bem para executar um jogo simples. Não é necessário ser um especialista em regras, mas você deve estar familiarizado o suficiente para fazer julgamentos sensatos ou saber onde procurar. Seus jogadores também podem ajudar, procurando as regras para você enquanto você se ocupa com outras coisas.</p>
+<p><strong>Ensinar as regras</strong> (a seguir) fornece uma visão geral de alto nível e uma única leitura das seções de regras relevantes antes do jogo é sempre útil. Um truque útil é fornecer uma lista rápida das regras relevantes e anotar os números das páginas dessas seções. As notas adesivas são outra ferramenta útil para esse tipo de preparação, marcando as seções das regras usadas com frequência.</p>
+<p>**Por exemplo, se sua aventura tiver uma parede que os personagens devem escalar, é útil ter em mãos os números de página para Escalada e Queda.</p>
+<p>Há muitas regras opcionais para diferentes cenários e estilos de jogo. Escolha as que você vai usar e informe aos jogadores com antecedência, quando for relevante para o jogo deles. Em caso de dúvida sobre o efeito que uma regra opcional pode ter, não a use ou experimente-a por um tempo limitado, como em uma sessão. Se você não gostar da maneira como ela funciona, descarte-a.</p>
+<p>**Ensinando as regras</p>
+<p>Embora este livro contenha bastante coisa, o mais importante a ser lembrado é que <strong>os jogadores não precisam conhecer todas as regras para se divertirem</strong>. O <em>Basic Roleplaying</em> tem apenas alguns conceitos básicos em seu cerne e, quando seus jogadores os conhecerem, não haverá problema.</p>
+<ul>
+<li>As <strong>características</strong> geralmente são de 3 a 18 (quanto maior, melhor).</li>
+<li>A maioria dos problemas é resolvida com um lançamento de <strong>dado de percentil</strong> (D100).</li>
+<li>Faça uma rolagem de <strong>característica</strong> (geralmente uma característica ×5) quando não houver oposição e uma rolagem de <strong>resistência</strong> quando houver uma força oponente.</li>
+<li>Uma rolagem de resistência se baseia em forças iguais que têm 50/50 de chance uma contra a outra. Quanto mais desiguais forem as forças, maior será a diferença. Apenas um lado rola: o lado ativo ou o jogador. Ambas as chances somam 100%.</li>
+<li>As habilidades são classificadas em <strong>percentagens</strong> (quanto maior, melhor). Faça uma rolagem baixa nas rolagens de percentil para ter sucesso. Uma rolagem de 99 e/ou 00 é um <strong>fumble</strong>. Uma rolagem acima da classificação da habilidade é um <strong>fracasso</strong>. Uma rolagem igual ou inferior à classificação da habilidade é um <strong>sucesso</strong>. Uma rolagem de 1/5 da classificação da habilidade é um <strong>sucesso especial</strong>. Uma rolagem de 1/20 de sua habilidade é um <strong>sucesso crítico</strong>.</li>
+<li>Normalmente, role a classificação total da habilidade em dados de percentil. Se não houver nenhuma razão para que a habilidade não possa ser executada com sucesso, ela é <strong>Automática</strong>, portanto, não role. Se for <strong>Fácil</strong>, dobre a classificação da habilidade. Se for <strong>Média</strong>, não a modifique. Se for <strong>Difícil</strong>, corte a habilidade pela metade. Se for <strong>Impossível</strong>, nem mesmo role, pois ela sempre falha.</li>
+<li>Ocasionalmente, as classificações das habilidades são modificadas por um valor (geralmente dentro do intervalo de ±20%) se um fator externo tornar as coisas mais desafiadoras ou ajudar na tentativa.</li>
+<li>A vida dos personagens é medida em <strong>hit points</strong>. Esses pontos são perdidos devido a ferimentos e outras situações prejudiciais. Quando um ser vivo fica sem pontos de vida, ele morre.</li>
+<li>Os personagens podem ter poderes como mutações, habilidades psíquicas, magia ou superpoderes. A maioria dos poderes usa <strong>power points</strong> como combustível. Quando esses pontos se esgotam, eles ficam inconscientes.</li>
+</ul>
+<p>Todo o resto pode ser determinado durante o jogo ou explicado conforme necessário. Os jogadores que entendem as regras completamente são sempre uma vantagem, mas se o conhecimento das regras estiver atrapalhando o jogo, é melhor continuar jogando, descobrir as coisas ou consultá-las quando necessário e não ter medo de fazer suas próprias regras quando necessário.</p>
+<p>**A aventura</p>
+<p>A <strong>aventura</strong> é geralmente o núcleo da maioria dos jogos de RPG. Não se trata necessariamente de uma aventura no sentido clássico, mas o termo pode significar qualquer história com começo, meio e fim, com oportunidades para os personagens fazerem algo e atingirem um objetivo.</p>
+<p>Para começar, você precisa criar uma aventura ou usar uma já publicada. Mais adiante neste capítulo, são fornecidas orientações para a criação de uma aventura original. Se estiver usando uma aventura publicada, você deve estar familiarizado com ela e fazer anotações que possam ser interessantes. Você pode imprimi-la e marcá-la com canetas marca-texto, notas adesivas, marcadores de página e outras anotações para ajudar na execução, ou até mesmo escrever um esboço rápido ou um fluxograma para manter as coisas em ordem.</p>
+<p><strong>Designing Adventures</strong></p>
+<p>A estrutura se aproxima de uma estrutura narrativa dramática tradicional, embora não seja o único exemplo que você possa usar. Normalmente, ela segue as seguintes fases:</p>
+<ul>
+<li>Introdução:** Os personagens principais (protagonistas e antagonistas) e o conflito central são apresentados. Os personagens jogadores geralmente são os protagonistas, e o(s) antagonista(s) encarna(m) ou serve(m) a algum conflito central que será resolvido posteriormente. Os protagonistas talvez não encontrem o antagonista cara a cara aqui ou sequer saibam de sua existência, mas estão cientes do conflito central. Se a aventura começar com uma ação que dá início à trama… isso é ainda mais emocionante e envolvente.</li>
+<li>Complicação:** Uma ou mais complicações surgem na situação, geralmente para forçar os protagonistas a agir. Eles podem descobrir que não podem escapar da atenção de seus inimigos, que podem perder suas casas ou que seus entes queridos serão ameaçados. Em muitos casos, é nesse ponto que os riscos são definidos, geralmente informando o que acontecerá se eles não agirem. É aqui que o grande conflito se torna o problema dos protagonistas. Agora é preciso fazer algo a respeito.</li>
+<li>Ação crescente:** Agora o martelo cai, com os protagonistas ficando cara a cara com o antagonista e/ou seus agentes. Isso pode ser um único confronto ou uma série de pequenos compromissos que levam a um confronto dramático. Geralmente, o resultado é que o antagonista leva a melhor, forçando os protagonistas a se reagruparem e se unirem.</li>
+<li>Perda:** Às vezes, o antagonista força um impasse, mas quase sempre tem uma vantagem mais tarde. Um aliado dos protagonistas pode ser morto ou incapacitado. Os protagonistas podem ser capturados, exilados ou perder alguma vantagem significativa. Os protagonistas devem sentir que há apenas uma pequena chance de vencer e que o resultado infeliz do conflito ocorrerá se eles não arriscarem tudo. Se a história terminar aqui, pode ser deprimente. Felizmente, ela geralmente não termina nesse ponto, embora possa ser usada como um bom local para um suspense.</li>
+<li>Ação crescente:** Começa com os protagonistas se recuperando da perda na fase anterior. Ela pode ter se tornado pessoal. Eles podem ganhar aliados novos ou inesperados ou descobrir alguma fraqueza nas forças do antagonista. Há uma nova esperança, embora ela possa ser desesperada e imprudente. Isso leva a um segundo desafio, no qual os protagonistas e o antagonista devem se confrontar.</li>
+<li>Clímax:** A ação crescente do segmento anterior atingiu seu ponto mais alto. O que está em jogo geralmente é a sobrevivência de tudo o que importa para os protagonistas. Isso pode se resumir a um único instante em que o destino de todos depende de uma única ação, ou a uma sequência crescente de etapas que devem se encaixar exatamente (e a tensão aumenta quando isso não acontece). Em uma história heróica, os protagonistas vencem porque superaram alguma dúvida ou fraqueza pessoal ou demonstram alguma qualidade (como misericórdia) que falta ao antagonista. Normalmente, se o antagonista vence, é porque haverá uma continuação em que os protagonistas terão outra chance de vitória.</li>
+<li>Dénouement:** Esse termo francês significa “resolução”, e aqui se desenrola todo o resultado do clímax. As recompensas são concedidas e um novo status quo é estabelecido (ou sugerido). Nas histórias de heróis, esse é o final feliz.</li>
+</ul>
+<p>Se esse esboço lhe parecer familiar, é porque deve ser. Ele está codificado em cem ou até mil filmes que você já viu ou livros que já leu. Muitas histórias são codificadas dessa forma e os espectadores são subconscientemente treinados para reagir a elas, mesmo que reconheçam os elementos à medida que eles acontecem. A estrutura pode ser clichê, mas funciona e pode servir como uma base sólida para suas próprias aventuras. No entanto, não tenha medo de criar suas próprias variações dessa estrutura básica ou de ignorá-la completamente, para que suas aventuras não sejam todas parecidas umas com as outras. Você pode misturar as coisas, adicionar ou subtrair elementos e desafiar as expectativas, desde que a história que você está fornecendo seja convincente.</p>
+<p>Os jogadores podem ser imprevisíveis e nem sempre seguem o caminho desejado. Eles podem se separar ou seguir suas próprias histórias e, muitas vezes, encontrarão vários desafios e complicações em momentos diferentes do planejado. Isso pode ser desafiador, mas não esmagador. Você pode lidar com isso fazendo anotações em um fluxograma ou simplesmente improvisando conforme desejado.</p>
+<p>Não há uma maneira certa ou errada de fazer isso, apenas o que funciona para você.</p>
+<p>**Mundos de caixa de areia</p>
+<p>Alguns jogadores se rebelam contra o fato de serem manipulados por uma narrativa e preferem um mundo que reaja às suas próprias ações. Essa é a chamada abordagem “sandbox”, em que todos os elementos da história ficam inativos, esperando que os personagens interajam com eles. Há prós e contras na abordagem sandbox. Ela exige muito mais trabalho de preparação e jogadores proativos, pois você, como mestre de jogo, precisa saber de antemão o que há na caixa de areia, e os jogadores menos ativos podem ficar entediados se não receberem indicações claras do que fazer. Como mestre de jogo, você também deve estar pronto para improvisar, pois os jogadores inevitavelmente farão algo para o qual você não se preparou.</p>
+<p>A principal vantagem do sandbox é que são os jogadores que conduzem as histórias, um tipo de emoção única e personalizada. É o tipo de coisa que os jogos de interpretação de papéis fazem melhor do que qualquer outra forma de entretenimento existente. Com os jogos sandbox, é possível até mesmo descartar totalmente o mestre de jogo e permitir que os jogadores assumam os papéis de outros personagens não jogadores no ambiente quando necessário, com todos trabalhando juntos para criar uma experiência de jogo exclusiva.</p>
+<p>**A Campanha</p>
+<p>Projetar uma campanha parece assustador, mas não é, pois as campanhas podem ser tão simples ou complexas quanto você quiser. A principal diferença é que uma aventura curta ou de um único tiro geralmente consiste em um arco de história básico distribuído em uma ou algumas sessões, enquanto uma campanha é uma história mais longa ou uma série de histórias, distribuída em várias sessões em série, talvez sem um final planejado. Como mestre de jogo, você pode decidir se está realizando uma campanha ou uma única aventura e planejar de acordo.</p>
+<p>A estrutura de uma campanha varia enormemente. Você pode criar a sua como um programa de televisão, com uma “temporada” finita, talvez até terminando em um suspense. Ou ela pode ser planejada à medida que você avança. Uma vantagem de uma estrutura solta é que podem ocorrer naturalmente desvios ou sessões de inatividade. No entanto, as campanhas de longo prazo podem ficar atoladas se os jogadores não sentirem que a resolução é factível. Uma campanha que não parece estar indo a algum lugar perderá o interesse dos jogadores rapidamente.</p>
+<p>As campanhas podem ser contínuas e sem um tema, em que os personagens simplesmente passam de uma aventura para outra. Cada aventura pode ser independente uma da outra, tendo como única conexão principal os personagens e (talvez) o cenário. Se você estiver usando materiais publicados de várias fontes, esse pode ser o tipo de campanha padrão. Ou elas podem ser construídas como se tivessem um grande esquema unificador, em que os eventos de uma aventura afetam diretamente os eventos da próxima, e tudo se encaminha para um ponto final pretendido. Isso permite que você direcione as coisas para essa conclusão, e as aventuras geralmente levam a essa conclusão. Uma campanha desse tipo geralmente apresenta um final épico, como vingança ou o fim de um grande conflito, mas pode ser algo menos violento, como promover uma mudança positiva em um nível importante. Se a campanha foi um sucesso, você sempre pode revisitá-la com uma sequência com os mesmos ou novos personagens.</p>
+<p><strong>Temas de campanha</strong></p>
+<p>Se precisar de ajuda para pensar em um tema unificador para sua campanha, aqui estão algumas sugestões, embora essa lista não seja exaustiva:</p>
+<ul>
+<li>Missão:** Uma campanha baseada em missões é a mais fácil de entender e funciona melhor em um cenário de fantasia. Os personagens recebem uma tarefa poderosa que eles se sentem compelidos a concluir, e lutam e viajam para alcançar essa missão. Quando e se ela for concluída, a campanha termina. Se eles falharem, geralmente haverá consequências graves.</li>
+<li>Dever: Em uma campanha baseada em dever, os personagens são empregados ou servem a uma única entidade (grupo, indivíduo, país etc.), onde recebem uma variedade de tarefas. As aventuras podem variar a cada vez, mas a estrutura permanece essencialmente inalterada. Ao contrário da missão, os participantes fazem o que fazem porque é o trabalho deles.</li>
+<li>Tarefa:** Essa estrutura de campanha gira em torno de um determinado número finito de tarefas que devem ser realizadas para que a história seja resolvida. Isso pode ser recuperar uma série de itens espalhados pelo mundo, caçar um determinado número de entidades, desfazer uma série de erros etc. Há quase um cronômetro de contagem regressiva aqui, e quando todas as etapas são concluídas, algo grande acontece e resolve a campanha.</li>
+<li>História: Essa campanha é fortemente narrativa, geralmente rica em drama e oportunidades de interpretação de papéis, seguindo um enredo principal e subenredos, com os personagens dos jogadores como participantes ativos. Geralmente é a mais gratificante de se realizar, mas requer muito planejamento antecipado. Nesse tipo de jogo, lembre-se sempre de que os personagens devem fazer a diferença e que devem ser eles, e não um personagem não-jogador, que tomam a ação ou a decisão final fundamental em torno da qual a história é resolvida.</li>
+<li>Local:** Os personagens são designados ou ficam “presos” em um local específico. Pode ser sua cidade natal, algum lugar que lhes foi designado, como um bairro, ou pode ser um posto avançado remoto. Eles permanecem no mesmo lugar e as aventuras chegam até eles. Uma variação é quando a base é móvel, como uma nave (espacial, marítima ou até mesmo um dirigível). Essas campanhas podem ser episódicas, mas as ameaças ao local devem aparecer com destaque.</li>
+</ul>
+<p>**Sombreamento</p>
+<p>Em uma campanha, você pode introduzir coisas logo no início que terão um retorno muito mais tarde, por meio de detalhes incidentais, trechos de diálogo ou ações de personagens não jogadores que parecem pequenas, mas que se transformam em elementos muito importantes da trama. Tenha muito cuidado ao abusar dessa técnica, pois ela pode levar à paranoia ou à ideia de que o mundo está muito interconectado, com a expectativa de que cada personagem ou detalhe menor seja de alguma forma importante no grande esquema das coisas.</p>
+<p>**Personagens não jogadores recorrentes</p>
+<p>Determine quem são os personagens não jogadores importantes, sejam eles úteis ou antagônicos, e dê a eles opções de sobrevivência ou continuidade. Se os seus jogadores matarem o suposto vilão no primeiro arco de história de uma campanha de longo prazo, eles podem ser retroativamente considerados apenas um peão de um vilão maior e estar preparados para usar os mesmos truques que os personagens jogadores usam para permanecerem vivos. Fugas dramáticas e impossíveis e retornos inesperados são perfeitamente adequados para muitos gêneros.</p>
+<p>**O elenco de apoio</p>
+<p>Depois que a aventura é criada, ela deve ser preenchida com personagens não jogadores, monstros e outros encontros. Eles podem contribuir para o tema geral da aventura ou ser puramente incidentais, para dar sabor ou estar ligados aos personagens de alguma forma. Este livro de regras fornece muitos exemplos de personagens e criaturas não-jogadores prontos para usar, facilmente modificados para se adequarem ao cenário, à aventura ou ao nível de poder.</p>
+<p>**Mapas</p>
+<p>Mapas e recursos visuais são sempre úteis em qualquer aventura, seja ela única ou em uma campanha. Se forem usadas miniaturas, um mapa é essencial. Mesmo que as miniaturas não estejam sendo usadas, um mapa pode ajudar a explicar uma área aos jogadores de uma forma que uma grande quantidade de descrições não faz. Por outro lado, às vezes um mapa pode ser muito limitador, especialmente em áreas internas. Se você preferir improvisar descrições de um cenário ou deixar que os jogadores acrescentem informações de fundo, um mapa pode, às vezes, sufocar e contradizer essa criatividade.</p>
+<p>Um bom mapa não precisa conter todas as árvores e arbustos para ser eficaz, e os mapas terrestres podem conter apenas alguns dos principais marcos geográficos. Dessa forma, você sempre pode improvisar ou adicionar elementos à área conforme necessário. Assim, se os personagens precisarem muito de um lugar para descansar depois que um combate tiver tomado um rumo inesperado, eles poderão descobrir uma pequena pousada ao lado da estrada, não marcada em seus mapas. Se o mapa apresentar todas as fazendas e pontos de parada na estrada, será mais difícil fazer essa mudança, pois ela contradiz a evidência visual diante deles. Da mesma forma, às vezes um mapa pode dizer demais, especialmente quando os jogadores veem tantos lugares que querem visitar que podem se desviar do caminho pretendido por causa de todas as opções exibidas no mapa.</p>
+<p>Os mapas podem ser fáceis de fazer (um desenho rápido em uma folha de papel de rascunho), meticulosos (feitos em papel quadriculado com uma legenda), usando um programa gráfico ou um dos muitos programas de mapeamento on-line. Os programas que permitem layouts de casas e residências podem ser de grande valia nos jogos modernos, permitindo que o mestre de jogo crie mapas isométricos e de cima para baixo, em escala, com mobília e paisagismo. Um mestre de jogo com talento artístico pode optar por criar mapas desenhados à mão com tintas coloridas em pergaminho, envelhecidos artificialmente por vários meios, ou pode encontrar um mapa de qualidade em alguma fonte on-line e alterá-lo com um programa gráfico e até mesmo imprimi-lo em papel sofisticado.</p>
+<p>Em última análise, se estiver usando um mapa, encontre um nível de detalhe que lhe pareça confortável e permita alguma flexibilidade. Nem tudo precisa ser definido desde a primeira sessão e você deve ser capaz de adicionar detalhes quando necessário.</p>
+<p>**Integrar os personagens à história</p>
+<p>Agora que você sabe quem são os personagens jogadores e seus objetivos (se houver). Você deve analisar a aventura (ou a campanha) e descobrir como envolvê-los. Geralmente, é importante fornecer um motivo pelo qual os personagens jogadores se importam o suficiente para embarcar na aventura em questão. Por que eles acham que precisam fazer isso e por que estão presentes na cena inicial? Isso é importante, pois fornece motivação para que eles permaneçam na aventura e a levem até o fim. Se os personagens jogadores não se sentirem compelidos a participar da cena inicial, será muito mais difícil manter o interesse deles durante toda a aventura.</p>
+<p>Há inúmeras maneiras de começar uma aventura (ou campanha), sendo essas as opções mais comuns:</p>
+<ul>
+<li>Os personagens já se conhecem e foram contratados para realizar uma determinada tarefa. Você pode começar quando eles forem contratados ou presumir que eles aceitaram e começar quando estiverem planejando ou executando a tarefa.</li>
+<li>Os personagens se encontram pela primeira vez com propósitos opostos, como, por exemplo, cada um com seus próprios motivos para estar em um determinado lugar em um determinado momento, mas rapidamente as circunstâncias mudam e eles são forçados a trabalhar juntos para sobreviver.</li>
+<li>Os personagens não se conhecem, mas são solicitados por diferentes patronos a realizar uma determinada tarefa. As coisas não são o que parecem, e eles precisam encontrar uma causa comum rapidamente.</li>
+<li>Os personagens são jogados juntos em um mesmo infortúnio, sendo capturados por inimigos, apanhados no meio de um conflito maior ou simplesmente no rescaldo de um desastre natural. Eles precisam deixar de lado as diferenças e trabalhar juntos para escapar.</li>
+<li>Os personagens não estão relacionados, mas estão no mesmo momento e lugar quando algo dramático acontece ou quando surge uma oportunidade. Suas reações moldam o que acontece em seguida.</li>
+</ul>
+<p>Um ótimo método com o máximo de liberdade do jogador é apresentar uma cena de abertura e perguntar aos jogadores por que seus personagens estão lá. Os jogadores podem então apresentar seus motivos, incluindo subtramas ou relacionamentos passados que possam ter com os personagens não-jogadores, entre si e com a premissa geral. Esse método requer alguma improvisação, mas geralmente é mais gratificante para os jogadores, pois os motivos são deles mesmos.</p>
+<p>Você deve estar preparado para ajudar os jogadores que não são capazes de improvisar na hora, e talvez tenha de vetar motivos estranhos ou que contradigam demais seu histórico e premissa. Um dos melhores métodos para lidar com isso é pedir um compromisso, mas dar a eles algo em troca, como uma informação interessante que eles normalmente teriam de descobrir por meio de um personagem não jogador. Dessa forma, você pode transferir parte do trabalho da história para um dos jogadores, em vez de um personagem não jogador, e pode dar ao jogador alguma participação pessoal na história.</p>
+<p>Esse tipo de integração pode continuar durante a aventura e a campanha. Se possível, faça com que os contatos e os personagens não-jogadores sejam conhecidos pelos personagens jogadores e talvez até sugira alguma história com eles, para que reajam de forma mais interessante do que com estranhos. Esse processo faz com que o cenário pareça mais vivo e os personagens dos jogadores sejam uma parte mais importante e integrada dele, em vez de serem apenas visitantes sem história ou conexões pessoais. Por outro lado, se for um jogo do tipo “estranho em uma terra estranha”, seria estranho que os personagens jogadores soubessem muito sobre a área ou as pessoas, portanto, use esse método somente se for apropriado.</p>
+<p>Também é útil tentar distribuir os contatos entre o grupo de personagens jogadores e garantir que cada um deles tenha alguma integração com a aventura. Se for uma campanha mais longa, isso não precisa fazer parte da primeira aventura, mas os jogadores geralmente ficam frustrados se um jogador dominar o tempo todo e estiver mais integrado ao mundo do que eles. Em geral, é uma má ideia concentrar toda a jogabilidade ou interação com o mundo em um único personagem. Distribua as riquezas!</p>
+<p>**Conectando os personagens uns aos outros</p>
+<p>Uma das partes mais desafiadoras de lidar com um grupo de personagens jogadores é encontrar motivos para mantê-los juntos e fazer com que trabalhem uns com os outros de uma forma que faça sentido. Alguns cenários e estruturas de campanha se prestam imediatamente a grupos, como o fato de todos os personagens jogadores já fazerem parte da mesma equipe, organização ou facção. Alguns ou todos os personagens jogadores podem ser parentes próximos ou distantes, velhos amigos, colegas de trabalho, colegas de classe, colegas ou ligados por outras afiliações. Dependendo do que se espera deles na campanha, os personagens jogadores podem ter sido reunidos por um benfeitor misterioso ou contratados para um propósito específico. Esses dois últimos se prestam bem a algumas missões, embora muitas vezes isso aumente a incredulidade e pressuponha que os personagens dos jogadores estejam contratados ou dispostos a trabalhar uns com os outros.</p>
+<p>Há muitas maneiras de desenvolver as conexões entre os personagens dos jogadores e, às vezes, os próprios jogadores ficam felizes em ajudar com isso. No início do jogo, você pode pedir aos jogadores que identifiquem um outro personagem com o qual tenham alguma conexão (história pessoal juntos, rivalidade passada, amizade etc.) e um personagem não-jogador que eles conheçam por meio desse outro personagem jogador. Essas conexões não precisam ser mútuas e, muitas vezes, é preferível que não sejam. Quando isso é feito, cada personagem jogador tem uma conexão com um ou mais dos outros personagens jogadores e com um ou mais personagens não jogadores que ambos conhecem. Isso ajuda a conectar os personagens jogadores uns aos outros e ao mundo. Em última análise, você deve aprovar ou rejeitar quaisquer conexões ou personagens não-jogadores que não funcionem para a campanha ou o cenário, mas é melhor orientar as escolhas dos jogadores para algo que funcione ou acomodá-las, em vez de vetá-las completamente. Se estiver usando paixões, esses relacionamentos com personagens não jogadores podem ser representados como amores ou lealdades.</p>
+<p>Entretanto, se esse método não for útil, ignore-o. Às vezes, é melhor deixar que os jogadores descubram por que seus personagens precisam ficar juntos e por que não devem ser deixados para trás ou evitados de outra forma. Nesses casos, trabalhe com seus jogadores e certifique-se de que eles não estejam excluindo ninguém do grupo.</p>
+<p>**Defina o cenário inicial</p>
+<p>A cena de abertura costuma ser crucial, pois define o tom para o restante da aventura ou campanha e faz com que os jogadores (e seus personagens) se interessem pelo que está acontecendo e estejam ansiosos para continuar.</p>
+<p>Há muitas maneiras de fazer isso, mas uma cena inicial quase sempre precisa consistir nos seguintes elementos:</p>
+<ul>
+<li>Local:** Um local que simbolize os desafios que a aventura apresenta ou um ponto de partida natural. Quanto mais interessante ou dramaticamente apropriado for o local inicial, melhor. Ele define o tom para o restante da campanha.</li>
+<li>Apresentações:** Descreva todos os personagens não-jogadores presentes, mas, mais importante, cada jogador deve descrever seu personagem como ele aparece para os outros presentes. Os jogadores podem fazer apresentações completas, informando seus nomes, profissões, habilidades importantes etc., ou mantê-las em “segredo” por enquanto e revelá-las mais tarde durante o jogo.</li>
+<li>Motivo:** Por que os personagens dos jogadores estão ali? Conforme mencionado anteriormente, forneça um motivo para que os personagens jogadores estejam envolvidos ou deixe que eles criem seus próprios motivos.</li>
+<li>“A cenoura”: Como em “a cenoura ou o bastão”, a cenoura é uma pista ou uma faísca de ação que faz com que os personagens jogadores se envolvam no que está acontecendo. Se você não usar uma cenoura (deixando a “fome” conduzir os personagens), deverá usar um bastão (veja abaixo).</li>
+<li>“O bastão”: Trata-se de uma ameaça, seja para os personagens, seus entes queridos, pessoas pelas quais eles se sentem responsáveis ou o mundo em geral. Normalmente, isso significa um ataque ou o potencial iminente de violência, geralmente ligado ao antagonista de alguma forma. Se não for uma pessoa, então é uma ameaça do ambiente que leva os personagens a agir.</li>
+<li>Drama: Normalmente, a cena inicial precisa realmente dar o pontapé inicial na aventura com alguma noção do que está em jogo. Um forte conflito visual ou emocional, estabelecendo um retorno necessário, é sempre útil. A menos que haja uma razão para começar de forma mundana, geralmente é melhor começar interpondo drama em uma cena inicial para convencer os jogadores de que eles estão aqui para ter uma aventura!</li>
+</ul>
+<p>Depois que esses elementos forem introduzidos, deixe a cena se desenrolar até sua conclusão natural e certifique-se de que haja caminhos claros para prosseguir a partir daí. Se esta for a primeira vez que os jogadores jogam Roleplaying básico, vá devagar e introduza os sistemas de regras gradualmente. O combate e as ações podem demorar mais para serem resolvidos do que mais tarde, pois os jogadores podem gastar um pouco de tempo para descobrir como o sistema funciona e como seus personagens devem agir.</p>
+<p>A partir daí, você está pronto para passar para a cena ou cenas seguintes. Dependendo da quantidade de informações que você forneceu e da natureza da aventura e do cenário, essa pode ser uma progressão guiada para um único local, ou você pode preferir uma abordagem mais livre, permitindo que os jogadores encontrem seu próprio caminho na aventura, realizando os encontros na ordem que escolherem. Alguns estilos de gerenciamento de jogo favorecem o primeiro tipo de estrutura de enredo. No pior dos casos, isso é chamado de “ferrovia”, em que os jogadores sentem que estão presos em um trilho e não podem se desviar dele. Outros estilos de mestre de jogo permitem mais liberdade, como a abordagem sandbox mencionada acima.</p>
+<p><strong>Mantenha as coisas em movimento</strong></p>
+<p>Independentemente de como você estiver conduzindo o jogo, é de vital importância manter as coisas em movimento. A aventura não precisa ser como um passeio em um parque de diversões, mas você deve tentar evitar que os jogadores fiquem atolados em longas discussões ou debates sobre regras. Isso pode levar ao tédio, o que diminui o entusiasmo. É contagioso: se um ou mais jogadores estiverem “desligados” da sessão, você deve tentar mudar de marcha para manter as coisas interessantes para todos.</p>
+<p>Um método para isso é fazer com que algo inesperado aconteça, ou que alguém indesejado apareça, uma reviravolta que ninguém previu, um cadáver onde não deveria haver, etc. Esse tipo de interjeição repentina de drama pode interromper uma parte lenta de um jogo e fazer com que os jogadores fiquem mais ativos. No entanto, você não deve fazer isso com tanta frequência a ponto de os jogadores sentirem que seus personagens estão à mercê de uma vassoura gigante que os arrasta continuamente.</p>
+<p>**Regras da casa</p>
+<p>Se houver uma discussão sobre regras, não tenha medo de dizer algo como <em>“Por enquanto, vamos fazer assim. Mais tarde, se aprendermos algo diferente, vamos usar a nova regra. “</em> Você é o mestre do jogo e uma de suas funções é a de árbitro. Espera-se que você tome decisões quando houver uma disputa. Faça isso de forma justa e tente ser consistente, de instância para instância e de jogador para jogador.</p>
+<p>Haverá situações que não estão cobertas por essas regras, portanto, de tempos em tempos, talvez você precise criar uma regra ou simplesmente decidir como algo será feito. Se uma regra semelhante não for óbvia, não tenha medo de criar uma nova regra. Se ela funcionar, anote-a. Isso se torna uma “regra da casa”, como as usadas em jogos de cartas e de tabuleiro, em que a regra se aplica essencialmente apenas na casa (ou com o grupo) de onde ela se originou.</p>
+<p>Você pode informar a outros jogadores e gamemasters sobre as regras da casa, talvez on-line, mas não espere que nenhum deles use essas regras da casa. Muitas vezes, é possível encontrar as regras da casa em fóruns e grupos de discussão relacionados ao seu jogo. O <em>Basic Roleplaying</em> existe há muito tempo e há muitos lugares on-line onde você pode criar regras da casa e jogadores e gamemasters ansiosos para discutir essas regras.</p>
+<p>**Personagens não jogadores</p>
+<p>Uma de suas tarefas mais importantes como gamemaster é ser “o resto do mundo”, ou seja, todos os personagens não jogadores e criaturas que os personagens possam encontrar. Essa talvez seja a tarefa mais desafiadora, apresentando uma variedade de personagens com personalidades e objetivos diferentes, cada um interagindo com os personagens jogadores de uma maneira ligeiramente diferente. Você deve interpretar cada personagem não-jogador importante como se ele tivesse uma agenda e possíveis objetivos, quando apropriado. Se não fizer sentido para um personagem não jogador lutar até a morte, ele deve se render ou fugir. No entanto, você deve sempre ter em mente a diferença entre personagens não jogadores importantes e não importantes. Normalmente, o ato de dar um nome a um personagem não jogador é tudo o que você precisa para fazer a distinção. Um personagem não-jogador totalmente desenvolvido com um nome é importante, enquanto “Guard #3” pode ser todo o nome que esse personagem não-jogador específico precisa.</p>
+<p>Algumas das maneiras de tornar seus mestres de jogo mais distintos é dar a cada um deles alguma peculiaridade ou aspecto individual que os faça se destacar, como um sotaque peculiar, uma característica física distinta, um equipamento ou traje marcante ou um tique vocal ou frase de efeito. Sinta-se à vontade para usar os traços distintivos para caracterizá-los. Quando estiver pensando nos personagens que não são jogadores, é útil informar aos jogadores sobre qualquer um desses maneirismos ou elementos visuais que eles perceberiam imediatamente. Quanto mais você fizer isso, mais os jogadores pensarão nos personagens não-jogadores como indivíduos únicos, o que tornará seu trabalho muito mais fácil.</p>
+<p>Existem alguns métodos rápidos para isso: basear um personagem não jogador em alguém que você conhece ou em algum ator (ou em um papel interpretado por esse ator). Se for uma pessoa real, tente evitar alguém muito óbvio que os jogadores conheçam, pois o personagem desaparecerá e se tornará apenas a pessoa que eles conhecem. Se estiver usando um ator ou seu personagem, você pode descrevê-lo fisicamente e usar esses maneirismos, mas tenha cuidado, pois isso pode levar a muitas piadas ou a uma impressão em vez de um personagem real.</p>
+<p>Lembre-se, porém, de que são os personagens jogadores, e não os personagens não jogadores, que são os protagonistas da história. Eles podem não ser as pessoas mais importantes do mundo, mas são os protagonistas da história que vocês estão criando juntos. Avalie o número e a presença de personagens não-jogadores de acordo com isso. Você provavelmente deve tentar evitar muitos personagens não jogadores aleatórios ou períodos prolongados em que os jogadores estejam sentados ouvindo os personagens não jogadores explicarem coisas (ou, pior ainda, ter dois personagens não jogadores discutindo coisas entre si).</p>
+<p>Os seguidores de personagens não-jogadores que são mais competentes e roubam os holofotes dos personagens jogadores raramente são uma boa ideia, a menos que o objetivo seja fazer com que os personagens jogadores tenham uma falsa sensação de segurança e, em seguida, saiam do caminho rapidamente e empurrem os personagens jogadores para a aventura. Sempre que puder dar um papel ativo a um personagem jogador no lugar de um personagem não jogador, faça isso. Você pode fornecer qualquer informação de fundo em um cartão de anotações ou dar essa informação ao jogador quando ele fizer rolagens de conhecimento bem-sucedidas (ou algo equivalente).</p>
+<p>Além do desafio de atuação de evocar todos esses diferentes personagens não jogadores, você deve representá-los em um nível mecânico. Você rola por eles, determina as ações que realizam e observa se estão feridos durante o combate. Você deve ter atributos-chave para personagens não-jogadores importantes, se eles forem essenciais, usando os atributos do <em>Capítulo 11: Criaturas</em>, se necessário. Normalmente, em um encontro não violento, são necessárias apenas algumas características (INT, POW, CHA) e classificações de habilidades relevantes baseadas em comunicação para um personagem não jogador. Para o combate, você precisa do conjunto oposto de atributos, com características como (DEX, CON, STR), outras estatísticas como pontos de vida, pontos de poder, valor da armadura, quaisquer habilidades orientadas para o combate e quaisquer armas e/ou poderes aplicáveis (e seus níveis).</p>
+<p>Um truque excelente e sutil para um mestre de jogo é fazer cópias das folhas de personagens dos jogadores e usá-las como base para personagens não jogadores, fazendo alterações quando necessário para disfarçar sua origem. Geralmente, essa é uma ótima fonte de personagens bem projetados que são relativamente iguais aos personagens dos jogadores.</p>
+<p>**Personagens ausentes do jogador</p>
+<p>Às vezes, um jogador falta a uma sessão, mas seu personagem ainda está presente, como quando você está continuando uma aventura de uma sessão anterior. Você pode lidar com o personagem do jogador como se ele fosse um personagem não jogador ou deixar que outro jogador lide com esse personagem, o que for melhor. Se um jogador não estiver presente, qualquer rolagem bem-sucedida que seu personagem fizer não renderá pontos de experiência.</p>
+<p>Como alternativa, talvez seja mais fácil encontrar um motivo dentro do jogo para o desaparecimento repentino de um personagem do jogador. Isso pode variar de ele simplesmente ser chamado para um assunto não relacionado, cair em um piso que desmoronou, ser arrastado de repente, desaparecer misteriosamente, ser teletransportado ou até mesmo ser capturado, dependendo do cenário. Seu resgate pode ser a fonte de uma sessão futura ou pode simplesmente se resolver quando o jogador estiver disponível novamente. Não é aconselhável começar uma sessão com um personagem incapacitado e esperar que os outros o encontrem para que ele possa fazer alguma coisa.</p>
+<p>**Faça uma pausa se precisar</p>
+<p>Você pode achar que os jogadores estão sobrecarregando-o com solicitações ou que as coisas estão ficando exaustivas. É sempre uma boa ideia fazer uma pausa rápida (de cinco a quinze minutos) de vez em quando durante uma longa sessão de jogo. Para o mestre de jogo, isso pode lhe dar uma chance de se reagrupar e planejar a próxima parte do jogo. Se os jogadores o surpreenderem indo além do que você esperava e você precisar de alguns minutos de inatividade para organizar suas próprias anotações e decidir o que quer que aconteça, faça uma pausa.</p>
+<p>Também é bom se levantar e se alongar. Os jogos de mesa, ou jogos on-line, são sedentários, pois envolvem sentar-se em uma mesa ou em algum outro lugar mais confortável, conversando uns com os outros. Você pode gesticular bastante, mas isso não é uma atividade física muito intensa. A cada uma ou duas horas, talvez seja necessário fazer um intervalo rápido para que as pessoas se levantem, se alonguem, se movimentem, reabasteçam suas bebidas ou lanches e até mesmo vão ao banheiro. Às vezes, se as coisas ficarem muito paradas, uma pausa rápida é o truque para quebrar um ponto lento e fazer com que os jogadores voltem à mesa revigorados. As pausas também podem dar aos jogadores a chance de fazer suas próprias anotações e fazer seus próprios planos, e você provavelmente deve permitir que os jogadores solicitem pausas se acharem necessário.</p>
+<p>Você pode até começar uma pausa com um suspense ou no início de um grande empreendimento. Você deve presumir que o mundo do jogo simplesmente faz uma pausa, sem que haja qualquer passagem de tempo entre o início e o fim do intervalo, ou pode usar o intervalo como uma boa maneira de indicar uma pausa no tempo do jogo. *<em>Por exemplo, você pode dizer aos jogadores: “Você chega à cidade pouco antes de escurecer. Está tudo calmo, mas você encontra uma pousada com alguns quartos abertos. O dono da pousada o adverte para ficar longe das ruas, pois elas podem ser um pouco perigosas. Vamos fazer uma pausa agora. Quando voltarmos, você pode me contar em que problemas se meteu antes do amanhecer. “</em></p>
+<p>Se uma pausa indicar que muito tempo se passou, talvez seja hora de lidar com a cura, as verificações de experiência e o treinamento.</p>
+<p><strong>Defina o tom e o clima</strong></p>
+<p>Há muitas maneiras de estabelecer um tom e um clima para seu jogo, variando muito de acordo com o cenário. Aqui estão sugestões de algumas maneiras fáceis de evocar o ambiente desejado por meio de mais do que apenas a narração.</p>
+<p><strong>Música e efeitos sonoros</strong></p>
+<p>Você pode querer ter alguma música tocando ao fundo, como uma trilha sonora de televisão ou filme. Escolha cuidadosamente, com base no cenário e em seus jogadores. Você pode usar música ambiente e executá-la indefinidamente em segundo plano, ou peças musicais específicas para cenas importantes. Você pode até ter um tema de campanha, tocado no início da sessão, como a introdução de um programa de televisão. Os serviços de música on-line permitem listas de reprodução personalizadas e paisagens sonoras muito específicas, incluindo um grande número de serviços de música específicos para sessões de jogos de interpretação de papéis. É possível criar trilhas sonoras altamente personalizáveis para uma aventura, mas elas devem ser usadas com cautela, certificando-se de não distrair a jogabilidade com músicas inadequadas para determinadas cenas.</p>
+<p>Da mesma forma, há muitas bibliotecas de efeitos sonoros disponíveis on-line para incrementar cenas ou eventos, e alguns sites de som ambiente oferecem loops de fundo ambiental, que podem ser colocados em camadas ou personalizados.</p>
+<p>**Adereços</p>
+<p>Às vezes, ter alguns pequenos adereços à mão pode ajudar a evocar o cenário, como livros velhos e empoeirados em pilhas ao lado do mestre de jogo para um jogo inspirado em Lovecraft envolvendo terror em uma universidade remota e antiquada. Para um jogo de artes marciais ambientado na China moderna, algumas moedas chinesas espalhadas pela mesa podem ser suficientes. Tente empilhar algumas unidades de disco antigas, placas de circuito, cabos e vários adaptadores ao redor da área de jogo para dar sabor a um jogo cyberpunk ou iluminar a mesa somente com laptops e monitores de computador.</p>
+<p>**O ambiente do jogo</p>
+<p>Esse talvez seja o mais opcional de todos os métodos de evocar um clima, pois é o mais trabalhoso. Você pode alterar a área de jogo de forma sutil para evocar o cenário, colocando pôsteres relacionados ao cenário ou luzes coloridas para evocar ambientes estranhos. Se estiver jogando on-line, um plano de fundo virtual do cenário sempre ajuda. Uma visita a uma loja de artigos para festas oferece muitas maneiras baratas e fáceis de decorar sua área de jogo. Se você e o seu grupo jogarem juntos em um espaço físico, poderá servir uma refeição adequada ao cenário ou pedir que todos tragam lanches ou bebidas adequados ao tema (dentro do razoável).</p>
+<p>No entanto, não exagere a ponto de atrapalhar o jogo e leve em consideração o conforto e a conveniência dos jogadores. Não espere que as pessoas façam alarde de alimentos caros ou que se sintam desconfortáveis por causa do ambiente. A iluminação ambiente é ótima, mas quando os jogadores não conseguem ver suas fichas de personagem, isso é um problema. Faça o que for confortável para você e seus jogadores, e não mais do que isso.</p>
+<p>**Tomada de notas</p>
+<p>Você deve tentar fazer anotações ou até mesmo pedir a um jogador que o ajude com isso. Isso ajuda a manter o controle de com quem os jogadores conversaram, o que aprenderam, quem mataram e qual era a situação geral quando você parou, se for continuar. Isso pode ser feito durante a sessão ou depois, revisando as anotações do jogo. Geralmente é útil fornecer uma breve visão geral “Anteriormente…” no início de uma nova sessão, refrescando a memória de todos. Você pode ter um documento on-line compartilhado para ser atualizado durante ou entre as aventuras, com anotações sobre coisas que os jogadores precisam ter em mente ou sobre a contabilidade que precisam fazer antes da próxima sessão. Isso pode ser feito por e-mail ou por um repositório on-line compartilhado de documentos, mapas, imagens e referências relacionados ao jogo.</p>
+<p>Não há uma maneira certa ou errada de fazer isso, nem uma quantidade correta de documentação, portanto, use o método - ou nenhum - que parecer melhor para você.</p>
+<p><strong>Embrulhando as coisas</strong></p>
+<p>No final de uma sessão, tente levar as coisas a algum tipo de conclusão dramática. Se houve uma grande luta no final, talvez você queira parar logo em seguida ou, se o arco da história foi encerrado, conclua com uma cena de recompensa ou epílogo. Os jogadores devem ter a sensação de que as coisas continuarão ou terminarão e, se houver uma continuação, algumas pistas sobre o que pode vir a seguir são sempre úteis.</p>
+<p>Se houver alguma “lição de casa”, agora é o momento de atribuí-la. Isso pode incluir fazer verificações de experiência, planejar o que acontecerá entre as sessões ou fazer alguma outra forma de encerramento. Se uma grande história tiver terminado, talvez você queira fornecer uma breve coda para a aventura, permitindo que os jogadores saibam como a história fluiu a partir da cena final. Lembre-se também de que nem todos podem trabalhar em um jogo entre as sessões e que você deve sempre reservar algum tempo no início de uma sessão para cuidar de tudo o que não foi feito entre as sessões.</p>
+<p>Algo que você pode fazer periodicamente é perguntar informalmente aos jogadores o que eles acharam da sessão. Que tipo de coisas eles gostaram, não gostaram ou algo que não estavam esperando. Isso não precisa ser uma crítica, mas pode servir como um barômetro do que deu certo. Se você for o tipo de mestre de jogo que não aceita bem as críticas ou se tiver jogadores que não se sentem à vontade para falar sobre o que não gostaram, não se preocupe com esse resumo.</p>
+<p>Se uma aventura terminou, mas a campanha continua, você também pode perguntar aos jogadores o que eles gostariam que acontecesse na próxima sessão ou aventura. Às vezes, o feedback dos jogadores pode levá-lo a direções interessantes e fornecer um conteúdo inesperadamente rico. Conforme observado, isso é totalmente opcional e deve ser casual. Você pode até mesmo fazer isso por e-mail ou individualmente mais tarde, conforme apropriado. Muitas vezes, a conversa pós-jogo é quase tão divertida quanto o próprio jogo, o que é um motivo pelo qual os jogos às vezes tendem a se prolongar!</p>
+<p>Se vocês se encontrarem pessoalmente, peça para recolher as fichas de personagem no final da sessão de jogo ou escaneie-as para ter cópias. Isso evita a perda de fichas de personagens ou a ausência de jogadores quando você precisar analisar o personagem para eles. Se estiver fazendo tudo eletronicamente, peça aos jogadores que atualizem seus personagens no repositório on-line. As plataformas de jogos virtuais também podem armazenar as fichas de personagens, permitindo que você as atualize eletronicamente, sem o uso de papel.</p>
+<p><strong>Para continuar…?</strong></p>
+<p>Ao final de um jogo bem-sucedido, você deve decidir com os jogadores se vai continuar. Às vezes, uma aventura única pode se transformar em uma campanha e, às vezes, uma campanha não vai tão bem quanto se esperava e se transforma em uma aventura única. Você pode perguntar aos jogadores no final de uma aventura se eles gostariam de continuar, caso isso ainda não tenha sido estabelecido. Se já souber a resposta, não se incomode, mas é sempre bom saber se os jogadores estão interessados em continuar o jogo que você está conduzindo. Naturalmente, se não for continuar, não se preocupe com verificações de experiência, anotações ou tentativas de estabelecer a continuidade, mas se houver uma chance de voltar ao mesmo grupo de personagens e ao mesmo cenário, certifique-se de que essa possibilidade exista, portanto, não destrua ou descarte acidentalmente suas anotações ou fichas de personagens.</p>
+<p>**Técnicas de masterização de jogos</p>
+<p>O que se segue não são regras nem mesmo diretrizes, mas sugestões para ajudá-lo na complicada e incrível tarefa de dominar o jogo. Nenhuma delas é obrigatória, e algumas podem ser contrárias ao seu estilo. Considere essas sugestões como o que elas são: ferramentas em sua caixa de ferramentas de mestre de jogo.</p>
+<p>**Introdução</p>
+<p>Uma boa introdução pode dar o pontapé inicial em uma campanha. É quando você lê uma introdução curta e roteirizada, fornecendo um pouco do histórico relevante ou enquadrando a sequência atual. Nos filmes, isso pode ser um “cartão de título” ou um texto de “abertura” que fornece informações sobre o cenário e informa o público. É diferente da cena inicial, pois geralmente não é encenada e é apenas uma narrativa. O ideal é mantê-lo curto (não mais do que algumas frases) e, se um dos jogadores tiver uma boa voz e talento para esse tipo de coisa, peça a ele que o faça.</p>
+<p>**Os personagens dos jogadores são as estrelas</p>
+<p>Os personagens dos jogadores são as estrelas da aventura. Isso não faz deles as pessoas mais importantes do universo, mas faz deles as pessoas mais importantes do jogo. Suas ações devem ser significativas e, a menos que haja um bom motivo para isso no cenário ou na aventura, eles devem ser os únicos a brilhar. Ter personagens que não são jogadores e que são mais competentes e heróicos do que os personagens dos jogadores é bom, mas fazer com que os jogadores sintam que estão assistindo às aventuras de outra pessoa do lado de fora geralmente é uma maneira infalível de perder o investimento dos jogadores.</p>
+<p>**Incentivar o investimento do jogador</p>
+<p>Faça o possível para que os jogadores contribuam com a campanha e com seus personagens. Incentive-os a criar coisas que enriquecerão a experiência de jogo sem afetá-la diretamente, como diários do personagem, ilustrações de seus personagens ou de personagens não jogadores, ou até mesmo a realização de tarefas do mundo real, como ajudá-lo com algumas anotações e contabilidade. Também podem ser coisas básicas, como concordar em sediar as sessões de jogo, contribuir com a comida e a bebida do grupo ou administrar o documento de grupo on-line compartilhado. Se a recompensa de simplesmente tornar o jogo melhor não for suficiente, ofereça pequenas recompensas, como verificações de experiência gratuitas em habilidades relevantes, desde que não se tornem uma distração muito grande e sejam distribuídas de forma justa.</p>
+<p>**Mostre, não conte</p>
+<p>Sempre que possível, seja o mais visual possível com as descrições de locais, personagens não jogadores e eventos. Ao criar seus enredos, sempre pergunte: “<em>Isso é algo que os jogadores podem vivenciar em primeira mão? “</em> Para um evento do qual os personagens precisam estar cientes, se você puder colocá-los em cena para vivenciá-lo em primeira mão, a experiência será muito mais importante e significativa para eles. Em vez de contar aos personagens sobre algo que aconteceu e perguntar o que eles querem fazer a respeito, coloque-os no meio da situação e permita que eles vivenciem o fato visceralmente. Isso não precisa ser uma cena completa. Você pode facilmente começar com uma cena desse tipo, resumir como ela se resolveu e, em seguida, pular para o ponto em que os personagens podem agir.</p>
+<p>**Flashbacks</p>
+<p>Você pode até mesmo fazer com que os jogadores joguem um evento anterior ou um prólogo, no qual eles desempenham os papéis de outros personagens (provavelmente pré-gerados). Você pode até dividir uma aventura de flashback entre um cenário moderno e um histórico, com paralelos entre os dois, com os jogadores assumindo os papéis de seus personagens modernos e de seus antepassados. Para uma variação disso, você pode fazer com que os personagens dos jogadores sejam transportados para outro tempo e lugar de alguma forma estranha, onde seus eus sonhadores devem encenar uma cena no passado. Ou você pode fazer um “flash forward”, em que dá aos jogadores um vislumbre do que está por vir com seus personagens no futuro próximo ou distante, ou em algum ramo alternativo da história. O <em>Basic Roleplaying</em> tem todas as ferramentas para jogar em diferentes períodos, gêneros e até realidades alternativas, tudo na mesma campanha.</p>
+<p><strong>Cenas</strong></p>
+<p>Elas são comumente usadas em filmes, mas podem ser usadas em um cenário de mesa com grande efeito. Essencialmente, uma cutscene ocorre longe dos personagens (por isso, “cortamos” deles) e envolve outros personagens importantes. Em um jogo, é uma cena que ocorre em outro lugar e envolve um ou mais personagens que não são jogadores, geralmente fazendo algo significativo para a trama ou acrescentando um prenúncio do futuro dos personagens jogadores.</p>
+<p>O desafio das cutscenes é que elas geralmente se concentram no conhecimento fora do personagem e exigem que os jogadores assistam enquanto o mestre do jogo conta uma pequena história ou encena uma cena. Uma ótima técnica para introduzir uma cutscene é fazer com que os jogadores leiam uma versão roteirizada dessa cena, interpretando-a como se fossem seus próprios personagens, ou como uma transmissão de notícias com vários âncoras e entrevistas, etc.</p>
+<p>Se você for um mestre de jogo baseado em histórias que deseja que os jogadores sintam que são as partes ativas de uma narrativa, isso pode funcionar bem para você. Se você for mais episódico em suas aventuras, talvez não se preocupe com esse truque. Ele também pode ser usado com grande efeito em um jogo leve ou cômico, em que o conhecimento fora do personagem pode ser explicado facilmente e pode dar aos jogadores a chance de habitar personagens ultrajantes ou extremos que não sejam os seus.</p>
+<p><strong>Sequências de ‘Jobber’</strong></p>
+<p>Esse termo e truque de contar histórias vem da luta livre profissional, apresentando um oponente formidável (ou vários) e enfatizando o quanto ele é assustador ou poderoso. Em seguida, um recém-chegado chega e os derruba, demonstrando a proeza do recém-chegado. Ser “jobber” é fazer com que outra pessoa pareça competente às suas próprias custas. Isso pode funcionar com heróis ou vilões, protagonistas ou antagonistas.</p>
+<p>Você também pode permitir que os jogadores sugiram suas próprias sequências de “jobber” como parte de suas apresentações, mostrando-os brilhando em seu campo de especialização. Isso pode se estender a qualquer especialidade ou habilidade. Se for apropriado, deixe que cada jogador dê a si mesmo essa sequência enquanto os outros jogadores assistem (ou participam). Você nem precisa rolar os dados para essa cena, pois deve ser uma conclusão precipitada de que o personagem triunfará e chegará à próxima cena ou à cena inicial.</p>
+<p><strong>Bait-and-Switch</strong></p>
+<p>Esse é um truque clássico de narração de histórias, em que os jogadores recebem uma premissa (um cenário, uma aventura etc.) e, em seguida, descobrem rapidamente que estão no meio de outra premissa. Normalmente, essa é uma descoberta dramática, fazendo com que eles reavaliem tudo o que sabem ou experimentaram até o momento. Isso pode ser usado com efeito cômico ou para transformar completamente uma aventura. No entanto, deve ser usado com cuidado, pois alguns jogadores podem se recusar se sentirem que lhes venderam uma coisa e substituíram por outra. Isso é especialmente verdadeiro se você os envolveu desde o início na elaboração do tipo de campanha que deseja e depois a abandonou. Você pode perguntar se acha que isso será um problema ou avisá-los com antecedência de que as coisas nem sempre são o que parecem.</p>
+<p>**Reconhecer seus jogadores</p>
+<p>Os objetivos dos jogadores podem ser muito diferentes, mesmo dentro dos mesmos grupos. Se você os conhecer, poderá identificar o que eles gostam nos jogos e por que jogam. Para facilitar, você poderia classificar os jogadores com base nos seguintes tipos gerais, codificados por Robin Laws em seu excelente livro de conselhos para gamemaster, Robin’s Laws of Good Game Mastering (Steve Jackson Games, Inc., 2002):</p>
+<ul>
+<li>O líder:** Esse jogador acaba liderando e cria personagens que impõem respeito e autoridade à estrutura de poder existente (policiais, agentes do governo, oficiais militares etc.). Esse tipo de jogador geralmente busca atenção, muitas vezes dos outros jogadores e também do mestre do jogo.</li>
+<li>O especialista:** O jogador cria personagens secundários, quase no nível de personagens de fundo, mas extremamente habilidosos em um campo restrito, seja em armas, computadores, pilotagem etc. Em seu campo de especialidade, o jogador quer ser bem-sucedido, e bem-sucedido.</li>
+<li>The Power Gamer:** Esse jogador cria personagens extremamente poderosos (às vezes com aplicação criteriosa das regras). Esses personagens geralmente buscam mais poder, seja a arma mágica mais poderosa, o feitiço mais aterrorizante etc.</li>
+<li>O ator metódico: Esse jogador cria histórias de fundo elaboradas e se concentra em seu personagem como se ele fosse de outra mídia, até mesmo assumindo falhas e desvantagens desnecessárias só porque elas parecem “certas”.</li>
+<li>O seguidor:** Esse é o tipo mais simples de jogador. Geralmente, ele se contenta em ficar parado e assistir à diversão, rolando dados ou agindo quando necessário. Eles podem gostar de estar no centro das atenções de vez em quando, mas geralmente não precisam, nem querem, atenção.</li>
+</ul>
+<p>Nem todos os jogadores são do mesmo tipo em todas as campanhas. Às vezes, um jogador é sempre de um tipo, enquanto em outras ocasiões, ele pode escolher seu papel com base no cenário e na campanha. Os jogadores também podem agir como mais de um desses tipos de sessão para sessão. No entanto, quando você tiver uma boa ideia do que esses papéis geralmente buscam, poderá ver se as preferências e necessidades estão sendo atendidas no jogo e fazer os ajustes necessários.</p>
+<p>**Traços de personalidade</p>
+<p>Você pode descrever numericamente a personalidade de um personagem não jogador, assim como uma habilidade ou paixão. Um método fácil de fazer isso é uma escala de traços de personalidade, em que um traço é descrito como um valor de percentil de 0 a 100. Um valor de 0 indica que o traço de personalidade é inexistente e um valor de 100 é sempre representativo desse personagem.</p>
+<p>Os traços de personalidade são emparelhados com um oposto, como Agressivo vs. Passivo, e o valor do traço oposto é igual a 100 menos o traço de personalidade inicial. Um meio rápido de abreviar esse emparelhamento é “Agressivo 90 | 10 Passivo”, por exemplo. Alguém com 50 | 50 em um traço A planilha Personality Traits (Traços de personalidade) abaixo ajuda a facilitar o controle desses traços para personagens não jogadores. Você pode usar alguns, muitos ou todos eles para definir seus personagens não jogadores.</p>
+<p>**Traços de personalidade</p>
+<div class="table-wrapper">
+<table>
+<thead>
+<tr><th><strong>Initial Trait</strong></th><th><strong>Value | Value</strong></th><th><strong>Opposing Trait</strong></th></tr>
+</thead>
+<tbody>
+<tr><td>Agressivo</td><td>_<em>_ | _</em>_</td><td>Passivo</td></tr>
+<tr><td>Impulsivo _<em>_ | _</em>_</td><td>Cauteloso</td><td></td></tr>
+<tr><td>Extrovertido</td><td>_<em>_ | _</em>_</td><td>Introvertido</td></tr>
+<tr><td>Otimista</td><td>_<em>_ | _</em>_</td><td>Pessimista</td></tr>
+<tr><td>Teimosia</td><td>Receptivo</td><td>Receptivo</td></tr>
+<tr><td>Físico</td><td>_<em>_ | _</em>_</td><td>Mental</td></tr>
+<tr><td>Paciente</td><td>Nervoso</td><td>Nervoso</td></tr>
+<tr><td>Emocional</td><td>Calmo</td><td>Confiante</td></tr>
+<tr><td>Confiante</td><td>Desconfiado</td><td>Confiante</td></tr>
+<tr><td>Líder</td><td>_<em>_ | _</em>_</td><td>Seguidor</td></tr>
+<tr><td>Ganancioso</td><td>_<em>_ | _</em>_</td><td>Generoso</td></tr>
+<tr><td>Energético</td><td>Preguiçoso</td><td></td></tr>
+<tr><td>Honorável</td><td>_<em>_ | _</em>_</td><td>Desonroso</td></tr>
+<tr><td>Corajoso</td><td>_<em>_ | _</em>_</td><td>Covarde</td></tr>
+<tr><td>Curioso</td><td>Curioso</td><td>Incurioso</td></tr>
+<tr><td>Confiável</td><td>_<em>_ | _</em>_</td><td>Não confiável</td></tr>
+<tr><td>Piedoso</td><td>_<em>_ | _</em>_</td><td>Irreligioso</td></tr>
+<tr><td>Honesto</td><td>Honest</td><td>_<em>_ | _</em>_</td></tr>
+<tr><td>Inteligente</td><td>_<em>_ | _</em>_</td><td>Monótono</td></tr>
+<tr><td>Humorística</td><td>_<em>_ | _</em>_</td><td>Dourada</td></tr>
+<tr><td>Conservador</td><td>___ | ___</td><td>Inovador</td></tr>
+</tbody>
+</table>
+</div>
+<p>*<em>Por exemplo, um personagem não jogador é altamente agressivo, com um valor de 90 em seu traço de personalidade Agressivo. O traço oposto é Passivo e, portanto, tem um valor de 10 (100-90=10). Um personagem não-jogador com Aggressive 90 está pronto para brigar, responde a qualquer desafio e geralmente parte para a violência, enquanto alguém com Passive 90 geralmente se afasta de conflitos e evita confrontos diretos.</em></p>
+<p>Não é necessário determinar todos os traços de personalidade de seus personagens não jogadores importantes. Em vez disso, escolha um ou alguns relevantes e atribua valores a eles. Você não precisa nem mesmo determinar o valor do traço oposto, pois ele é aparente. Atribua os valores que desejar ou escolha os relevantes e divida uma rolagem D100 por 2 e adicione 50 ao resultado, para obter uma variação de 51 a 100. Ou role 3D10+70 para casos extremos.</p>
+<p>Os traços de personalidade podem orientar sua interpretação do personagem não-jogador simplesmente observando o valor, ou você pode rolar para ver como o personagem não-jogador se comporta. O sucesso em um traço significa que ele age de acordo com esse traço de personalidade, enquanto o fracasso significa que o traço oposto é seguido. Você também pode optar por utilizar resultados especiais ou críticos para essas rolagens, mas apenas em um sentido geral.</p>
+<p>**Por exemplo, os personagens encontram o personagem não-jogador com o traço de personalidade “Agressivo 90 | 10 Passivo” e um deles se comporta de forma rude com o personagem não-jogador. Você sabe pela distribuição como eles provavelmente reagirão, mas decide rolar para ver o que acontece. Qualquer rolagem de 01-90 e o personagem não jogador reage agressivamente, enquanto uma rolagem de 91-100 indica uma resposta passiva. Talvez eles estejam distraídos ou não queiram entrar em conflito com os personagens nesse momento?</p>
+<p>**Habilidades e traços de personalidade</p>
+<p>A habilidade Insight pode ser usada para determinar rapidamente um traço de personalidade de um personagem não-jogador em um sentido geral, ou a Psicologia pode ser usada para análise de longo prazo. Não revele os valores reais, mas sim uma inclinação particular em uma direção ou outra.</p>
+<p>Embora seja extremamente improvável que um personagem jogador faça psicologia em um personagem não jogador por um período prolongado, você pode permitir que uma rolagem bem-sucedida de psicologia afete um único traço de personalidade emparelhado da mesma forma que restaura a SAN perdida. Faça o rolamento para ver se os pontos de SAN são restaurados, mas, em vez de adicionar SAN, use o resultado para mudar um traço de personalidade específico em tantos pontos na direção desejada. O tempo de tratamento é idêntico. Dessa forma, por meio de paciência e terapia, uma rolagem bem-sucedida de Psicologia pode “ajudar” um personagem não jogador a mudar suas inclinações naturais para um traço de personalidade desejado.</p>
+<p>**Traços de personalidade e personagens de jogadores</p>
+<p>Você também pode usar traços de personalidade para personagens jogadores, se desejar, tratando-os como faria para personagens não jogadores. Eles se tornam como paixões, aumentando as atividades ou sendo consultados quando provocados, com verificações de experiência se forem bem-sucedidos. O jogador sempre tem controle sobre o que seu personagem faz, mas se ele fizer uma rolagem bem-sucedida em uma característica e decidir agir de acordo com a característica oposta, você deve fazer com que ele faça automaticamente uma verificação de experiência para essa característica oposta. Quando uma característica aumenta, a outra diminui. Se eles desejarem buscar tratamento para essa característica, consulte as regras de Psicologia (acima).</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="08_equipamento.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                            </a>
+
+                            <a rel="next prefetch" href="10_cenários.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="08_equipamento.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
+                    </a>
+
+                    <a rel="next prefetch" href="10_cenários.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
+                    </a>
+            </nav>
+
+        </div>
+
+        <template id=fa-eye><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M288 32c-80.8 0-145.5 36.8-192.6 80.6C48.6 156 17.3 208 2.5 243.7c-3.3 7.9-3.3 16.7 0 24.6C17.3 304 48.6 356 95.4 399.4C142.5 443.2 207.2 480 288 480s145.5-36.8 192.6-80.6c46.8-43.5 78.1-95.4 93-131.1c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C433.5 68.8 368.8 32 288 32zM432 256c0 79.5-64.5 144-144 144s-144-64.5-144-144s64.5-144 144-144s144 64.5 144 144zM288 192c0 35.3-28.7 64-64 64c-11.5 0-22.3-3-31.6-8.4c-.2 2.8-.4 5.5-.4 8.4c0 53 43 96 96 96s96-43 96-96s-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6z"/></svg></span></template>
+        <template id=fa-eye-slash><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M38.8 5.1C28.4-3.1 13.3-1.2 5.1 9.2S-1.2 34.7 9.2 42.9l592 464c10.4 8.2 25.5 6.3 33.7-4.1s6.3-25.5-4.1-33.7L525.6 386.7c39.6-40.6 66.4-86.1 79.9-118.4c3.3-7.9 3.3-16.7 0-24.6c-14.9-35.7-46.2-87.7-93-131.1C465.5 68.8 400.8 32 320 32c-68.2 0-125 26.3-169.3 60.8L38.8 5.1zM223.1 149.5C248.6 126.2 282.7 112 320 112c79.5 0 144 64.5 144 144c0 24.9-6.3 48.3-17.4 68.7L408 294.5c5.2-11.8 8-24.8 8-38.5c0-53-43-96-96-96c-2.8 0-5.6 .1-8.4 .4c5.3 9.3 8.4 20.1 8.4 31.6c0 10.2-2.4 19.8-6.6 28.3l-90.3-70.8zm223.1 298L373 389.9c-16.4 6.5-34.3 10.1-53 10.1c-79.5 0-144-64.5-144-144c0-6.9 .5-13.6 1.4-20.2L83.1 161.5C60.3 191.2 44 220.8 34.5 243.7c-3.3 7.9-3.3 16.7 0 24.6c14.9 35.7 46.2 87.7 93 131.1C174.5 443.2 239.2 480 320 480c47.8 0 89.9-12.9 126.2-32.5z"/></svg></span></template>
+        <template id=fa-copy><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M502.6 70.63l-61.25-61.25C435.4 3.371 427.2 0 418.7 0H255.1c-35.35 0-64 28.66-64 64l.0195 256C192 355.4 220.7 384 256 384h192c35.2 0 64-28.8 64-64V93.25C512 84.77 508.6 76.63 502.6 70.63zM464 320c0 8.836-7.164 16-16 16H255.1c-8.838 0-16-7.164-16-16L239.1 64.13c0-8.836 7.164-16 16-16h128L384 96c0 17.67 14.33 32 32 32h47.1V320zM272 448c0 8.836-7.164 16-16 16H63.1c-8.838 0-16-7.164-16-16L47.98 192.1c0-8.836 7.164-16 16-16H160V128H63.99c-35.35 0-64 28.65-64 64l.0098 256C.002 483.3 28.66 512 64 512h192c35.2 0 64-28.8 64-64v-32h-47.1L272 448z"/></svg></span></template>
+        <template id=fa-play><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg></span></template>
+        <template id=fa-clock-rotate-left><span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M75 75L41 41C25.9 25.9 0 36.6 0 57.9V168c0 13.3 10.7 24 24 24H134.1c21.4 0 32.1-25.9 17-41l-30.8-30.8C155 85.5 203 64 256 64c106 0 192 86 192 192s-86 192-192 192c-40.8 0-78.6-12.7-109.7-34.4c-14.5-10.1-34.4-6.6-44.6 7.9s-6.6 34.4 7.9 44.6C151.2 495 201.7 512 256 512c141.4 0 256-114.6 256-256S397.4 0 256 0C185.3 0 121.3 28.7 75 75zm181 53c-13.3 0-24 10.7-24 24V256c0 6.4 2.5 12.5 7 17l72 72c9.4 9.4 24.6 9.4 33.9 0s9.4-24.6 0-33.9l-65-65V152c0-13.3-10.7-24-24-24z"/></svg></span></template>
+
+
+
+        <script>
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="elasticlunr-ef4e11c1.min.js"></script>
+        <script src="mark-09e88c2c.min.js"></script>
+        <script src="searcher-09f2665d.js"></script>
+
+        <script src="clipboard-1626706a.min.js"></script>
+        <script src="highlight-abc7f01d.js"></script>
+        <script src="book-458fa6dc.js"></script>
+
+        <!-- Custom JS scripts -->
+
+
+
+    </div>
+    </body>
+</html>
