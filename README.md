@@ -7,11 +7,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/licença-ORC-red">
   <img src="https://img.shields.io/badge/linguagem-Markdown-darkgreen">
-  <img src="https://img.shields.io/badge/codificação-UTF--8-yellow">
   <img src="https://img.shields.io/github/stars/nerun/brpugesrd_pt-br">
   <br>
-  <img src="https://progress-bar.xyz/100/?title=tradução%20(pt-BR)">
-  <img src="https://progress-bar.xyz/0/?title=formatação%20e%20revisão">
+  <img src="https://progress-bar.xyz/100/?title=tradução">
+  <img src="https://progress-bar.xyz/1/?title=formatação">
+  <img src="https://progress-bar.xyz/0/?title=revisão">
 </p>
 
 Em Abril de 2023, a editora _Chaosium Inc._ publicou a nova edição de seu aclamado jogo, o [Basic Roleplaying: Universal Game Engine](https://www.chaosium.com/brp-core/), e também disponibilizou o [Basic Roleplaying ORC Content Document](https://www.chaosium.com/getting-started-designing-games) para download em formato PDF e RTF.

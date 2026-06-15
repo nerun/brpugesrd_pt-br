@@ -3,7 +3,7 @@
 Capítulo               | Palavras | Revisão da Formatação | Revisão da tradução
 -----------------------|---------:|:---------------------:|:-------------------:
 Frontispício           | 307      | 100%                  | 100%
-1\. Introdução         | 2.595    | 0%                    | 0%
+1\. Introdução         | 2.595    | 100%                  | 0%
 2\. Personagens        | 17.449   | 0%                    | 0%
 3\. Habilidades        | 17.045   | 0%                    | 0%
 4\. Poderes            | 57.254   | 0%                    | 0%
@@ -14,7 +14,7 @@ Frontispício           | 307      | 100%                  | 100%
 9\. Mestrando          | 12.889   | 0%                    | 0%
 10\. Cenários          | 13.883   | 0%                    | 0%
 11\. Criaturas         | 24.471   | 0%                    | 0%
-**TOTAL**              | 198.015  | 0,155%                | 0,155%
+**TOTAL**              | 198.015  | 1,47%                 | 0,155%
 
 **Notas**
 
