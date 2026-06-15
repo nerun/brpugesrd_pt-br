@@ -14,7 +14,7 @@ Aqui estão incluídos cinco conjuntos de poderes: feitiços, mutações, feiti�
 
 ### **O escopo destas regras**
 
-Esses poderes foram adaptados de jogos anteriores da Chaosium, Inc. (consulte a bibliografia no *Capítulo 12: Apêndices*). Eles não são abrangentes: a expansão e a personalização são incentivadas. Eles são uma base com a qual você pode criar novos poderes adicionais ou adaptá-los livremente de outras fontes, como filmes, livros ou até mesmo outros jogos de interpretação de papéis. Mais facilmente, você pode importar poderes de outros jogos de RPG básicos, se desejar!
+Esses poderes foram adaptados de jogos anteriores da Chaosium, Inc. (consulte a bibliografia no *Capítulo 12: Apêndices*). Eles não são abrangentes: a expansão e a personalização são incentivadas. Eles são uma base com a qual você pode criar novos poderes adicionais ou adaptá-los livremente de outras fontes, como filmes, livros ou até mesmo outros jogos de RPG. Mais facilmente, você pode importar poderes de outros jogos de RPG básicos, se desejar!
 
 ### **Poderes opostos de diferentes tipos**
 

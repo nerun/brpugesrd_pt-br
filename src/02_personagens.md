@@ -1,6 +1,6 @@
 # 2. Personagens
 
-Simplificando, seu **personagem** é **você** no mundo do jogo, a persona que você interpreta no jogo. O personagem é o foco de todos os jogos de interpretação de papéis - uma abstração de habilidades físicas e mentais, aptidões e outros descritores. Você interage com seu gamemaster nesse mundo por meio do seu personagem. A maioria dos personagens controlados pelos jogadores são **personagens jogadores** (PCs).
+Simplificando, seu **personagem** é **você** no mundo do jogo, a persona que você interpreta no jogo. O personagem é o foco de todos os jogos de RPG - uma abstração de habilidades físicas e mentais, aptidões e outros descritores. Você interage com seu gamemaster nesse mundo por meio do seu personagem. A maioria dos personagens controlados pelos jogadores são **personagens jogadores** (PCs).
 
 Seu gamemaster descreve o cenário, o ambiente e os encontros para os jogadores. Seu gamemaster tem à disposição uma lista de outros personagens, chamados de **personagens não jogadores** (NPCs). Tanto os personagens jogadores quanto os não jogadores usam as mesmas regras, embora geralmente os personagens não jogadores sejam menos detalhados do que os personagens jogadores, pois os NPCs raramente enfrentam a mesma variedade de situações que os personagens jogadores enfrentam.
 
