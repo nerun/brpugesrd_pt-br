@@ -56,17 +56,17 @@ Esses números fornecem a base de seu personagem, determinando em quais caracter
 
 Se a campanha estiver usando um ou mais tipos de poderes, seu gamemaster poderá permitir que você aumente suas características iniciais (consulte *Capítulo 4: Poderes*, particularmente **Diminuir/Aumentar Característica**).
 
-**Escolha dos valores das características (opção):** Tradicionalmente, as características são lançadas em ordem, com até 3 pontos redistribuídos. Em vez disso, você pode rolar 3D6 sete vezes e escolher para onde vão os resultados. Nesse caso, SIZ e INT não podem ser inferiores a 8.
+**Escolha dos valores das características (opção)**: Tradicionalmente, as características são lançadas em ordem, com até 3 pontos redistribuídos. Em vez disso, você pode rolar 3D6 sete vezes e escolher para onde vão os resultados. Nesse caso, SIZ e INT não podem ser inferiores a 8.
 
-**Características iniciais mais altas (opção):** Para um jogo de maior potência, role 2D6+6 para todas as características.
+**Características iniciais mais altas (opção)**: Para um jogo de maior potência, role 2D6+6 para todas as características.
 
-**Característica Educação (EDU) (Opção):** Role 2D6+6 para Educação (EDU) para essa característica, para personagens de sociedades com educação formalizada. Um EDU de 12 indica uma educação em nível de pós-graduação no ensino médio, com valores mais altos indicando cursos superiores ou avançados.
+**Característica Educação (EDU) (Opção)**: Role 2D6+6 para Educação (EDU) para essa característica, para personagens de sociedades com educação formalizada. Um EDU de 12 indica uma educação em nível de pós-graduação no ensino médio, com valores mais altos indicando cursos superiores ou avançados.
 
-**Modificadores culturais (opção):** Os modificadores culturais enfatizam as diferenças de características entre espécies diferentes (como elfos ou anões) ou para culturas humanas diferentes. As características iniciais podem ser ajustadas ou limitadas nesse ponto. Consulte **Cultural Characteristic Modifiers (Option)** (Modificadores de características culturais (opção)).
+**Modificadores culturais (opção)**: Os modificadores culturais enfatizam as diferenças de características entre espécies diferentes (como elfos ou anões) ou para culturas humanas diferentes. As características iniciais podem ser ajustadas ou limitadas nesse ponto. Consulte **Cultural Characteristic Modifiers (Option)** (Modificadores de características culturais (opção)).
 
-**Personagens não humanos (opção):** Personagens não humanos podem usar diferentes rolagens de dados e modificadores para determinar as características iniciais. Consulte o *Capítulo 11: Criaturas*.
+**Personagens não humanos (opção)**: Personagens não humanos podem usar diferentes rolagens de dados e modificadores para determinar as características iniciais. Consulte o *Capítulo 11: Criaturas*.
 
-**Criação de personagem baseada em pontos (opção):** Normalmente, as características são roladas aleatoriamente. Em vez disso, os jogadores podem comprar pontos de características de um conjunto. Consulte **Criação de personagem baseada em pontos (opção)**.
+**Criação de personagem baseada em pontos (opção)**: Normalmente, as características são roladas aleatoriamente. Em vez disso, os jogadores podem comprar pontos de características de um conjunto. Consulte **Criação de personagem baseada em pontos (opção)**.
 
 **Segunda etapa: Poderes
 
@@ -76,11 +76,11 @@ Se não houver poderes na campanha, ignore esta etapa e prossiga.
 
 Se houver poderes, os seguintes tipos estarão disponíveis:
 
-- Magia:** Feitiços simples com uma ampla variedade de aplicações.
-- **Mutações:** Anomalias genéticas estranhas, algumas benéficas, outras adversas.
+- Magia**: Feitiços simples com uma ampla variedade de aplicações.
+- **Mutações**: Anomalias genéticas estranhas, algumas benéficas, outras adversas.
 - Habilidades psíquicas: uso do poder da mente para manipular a realidade.
-- Feitiçaria:** Um tipo mais barroco de feitiçaria, incluindo invocação elementar e demoníaca.
-- Superpoderes:** Habilidades poderosas que desafiam a imaginação.
+- Feitiçaria**: Um tipo mais barroco de feitiçaria, incluindo invocação elementar e demoníaca.
+- Superpoderes**: Habilidades poderosas que desafiam a imaginação.
 
 Mais detalhes sobre cada um deles aparecem nas respectivas seções.
 
@@ -96,7 +96,7 @@ A idade padrão dos personagens é 17+1D6 anos. Seu mestre de jogo pode optar po
 
 Seu mestre de jogo também pode optar por simplesmente ignorar essas regras, com base no nível de poder do jogo. Isso permite aventureiros idosos, crianças gênios e, em geral, é mais agradável para todos os jogadores.
 
-**Educação (EDU) (Opção):** Se estiver usando a característica EDU, a idade inicial do seu personagem deve ser de pelo menos EDU+5 (representando o tempo gasto com aprendizado). Cada 10 anos completos adicionados à idade inicial de seu personagem adicionam +1 à característica EDU de seu personagem. Certifique-se de aumentar os pontos de habilidade relevantes gerados na **Sexta Etapa**.
+**Educação (EDU) (Opção)**: Se estiver usando a característica EDU, a idade inicial do seu personagem deve ser de pelo menos EDU+5 (representando o tempo gasto com aprendizado). Cada 10 anos completos adicionados à idade inicial de seu personagem adicionam +1 à característica EDU de seu personagem. Certifique-se de aumentar os pontos de habilidade relevantes gerados na **Sexta Etapa**.
 
 **Quarta etapa: Rolagens de características**
 
@@ -109,30 +109,30 @@ Seu mestre de jogo também pode optar por simplesmente ignorar essas regras, com
 - Multiplique DEX×5 para sua rolagem de Agilidade.
 - Multiplique CHA×5 para sua rolagem de Charme.
 
-**Rolagem de conhecimento (opção):** Multiplique EDU×5 para sua rolagem de conhecimento (se EDU estiver sendo usado).
+**Rolagem de conhecimento (opção)**: Multiplique EDU×5 para sua rolagem de conhecimento (se EDU estiver sendo usado).
 
 **Quinta etapa: Características derivadas**
 
 Agora é a vez das características derivadas: modificador de dano, pontos de vida, pontos de energia e bônus de experiência. Se estiver usando sistemas opcionais, você também deve determinar os pontos de fadiga e os pontos de sanidade iniciais. Escreva os resultados em sua ficha de personagem.
 
 - Modificador de dano: Adicione STR+SIZ e encontre o **modificador de dano** correspondente ao total de seu personagem na tabela **Modificador de dano**.
-- **Hit Points:** Adicione CON+SIZ e divida por 2 (arredondado para cima). Circule esse número na caixa **Hit Points** em sua ficha de personagem e escreva-o abaixo. Esse é o máximo de pontos de vida de seu personagem. Se seu personagem perder pontos de vida, marque-os e apague as marcas à medida que os pontos de vida forem curados ou restaurados de outra forma.
-- Nível de ferimento principal:** Seu **nível de ferimento principal** é 1/2 hit points, arredondado para cima.
-- Pontos de poder:** Na caixa **Pontos de poder**, circule o número igual a POW e escreva o total na linha abaixo. Esse é o máximo de pontos de poder de seu personagem. Esses pontos alimentam feitiços mágicos, mutações, habilidades psíquicas ou superpoderes. Marque os pontos de poder quando eles forem gastos e apague as marcas quando forem recuperados ou restaurados de outra forma. O número escrito no espaço, igual ao seu POW, é o valor ao qual seus pontos de poder retornam com o descanso.
-- Bônus de experiência:** O bônus de experiência do seu personagem é igual a 1/2 da INT, arredondado para cima.
-- Movimento (MOV):** O MOV do seu personagem mede a velocidade com que ele pode se mover durante uma rodada de combate. Os personagens humanos normalmente podem se mover 10 unidades por rodada. Uma unidade é uma quantidade um tanto variável, geralmente igual a 1 metro. Consulte **Taxas de movimento**.
+- **Hit Points**: Adicione CON+SIZ e divida por 2 (arredondado para cima). Circule esse número na caixa **Hit Points** em sua ficha de personagem e escreva-o abaixo. Esse é o máximo de pontos de vida de seu personagem. Se seu personagem perder pontos de vida, marque-os e apague as marcas à medida que os pontos de vida forem curados ou restaurados de outra forma.
+- Nível de ferimento principal**: Seu **nível de ferimento principal** é 1/2 hit points, arredondado para cima.
+- Pontos de poder**: Na caixa **Pontos de poder**, circule o número igual a POW e escreva o total na linha abaixo. Esse é o máximo de pontos de poder de seu personagem. Esses pontos alimentam feitiços mágicos, mutações, habilidades psíquicas ou superpoderes. Marque os pontos de poder quando eles forem gastos e apague as marcas quando forem recuperados ou restaurados de outra forma. O número escrito no espaço, igual ao seu POW, é o valor ao qual seus pontos de poder retornam com o descanso.
+- Bônus de experiência**: O bônus de experiência do seu personagem é igual a 1/2 da INT, arredondado para cima.
+- Movimento (MOV)**: O MOV do seu personagem mede a velocidade com que ele pode se mover durante uma rodada de combate. Os personagens humanos normalmente podem se mover 10 unidades por rodada. Uma unidade é uma quantidade um tanto variável, geralmente igual a 1 metro. Consulte **Taxas de movimento**.
 
-**Bônus de habilidade (opção):** Se estiver usando bônus de categoria de habilidade com base em características, calcule o bônus para cada uma delas usando a tabela de **Bônus de categoria** de habilidade. Escreva esses valores nos espaços para cada categoria. Esse bônus é adicionado à chance básica de cada habilidade, se houver. Para cada categoria:
+**Bônus de habilidade (opção)**: Se estiver usando bônus de categoria de habilidade com base em características, calcule o bônus para cada uma delas usando a tabela de **Bônus de categoria** de habilidade. Escreva esses valores nos espaços para cada categoria. Esse bônus é adicionado à chance básica de cada habilidade, se houver. Para cada categoria:
 
 - Adicione +1% para cada ponto na característica primária acima de 10; subtraia 1% para cada ponto abaixo de 10.
 - 1% para cada 2 pontos na característica secundária acima de 10; -1% para cada 2 pontos abaixo de 10 (arredondando o bônus para baixo, se necessário).
 -1% para cada ponto na característica negativa acima de 10; +1% para cada ponto abaixo de 10.
 
-**Pontos de acerto por local (opção):** Com o sistema de local de acerto opcional, determine o número de pontos de acerto para cada local de acerto. A cabeça, o abdômen e cada perna têm 1/3 do total de pontos de vida, o peito tem 4/10 e cada braço tem 1/4 do valor total de pontos de vida. Arredonde todas as frações para cima.
+**Pontos de acerto por local (opção)**: Com o sistema de local de acerto opcional, determine o número de pontos de acerto para cada local de acerto. A cabeça, o abdômen e cada perna têm 1/3 do total de pontos de vida, o peito tem 4/10 e cada braço tem 1/4 do valor total de pontos de vida. Arredonde todas as frações para cima.
 
-**Pontos de fadiga (opção):** Se a fadiga estiver sendo usada, some o STR+CON do seu personagem para obter o total de pontos de fadiga. Em jogo, à medida que seu personagem gasta energia ou realiza atividade física rigorosa, ele perderá pontos de fadiga. Eles se recuperam rapidamente por meio de descanso e outros meios e mudam com frequência.
+**Pontos de fadiga (opção)**: Se a fadiga estiver sendo usada, some o STR+CON do seu personagem para obter o total de pontos de fadiga. Em jogo, à medida que seu personagem gasta energia ou realiza atividade física rigorosa, ele perderá pontos de fadiga. Eles se recuperam rapidamente por meio de descanso e outros meios e mudam com frequência.
 
-**Sanidade (opção):** Se a sanidade estiver sendo usada, multiplique a pontuação inicial de POW do seu personagem por ×5 para obter o total atual de sanidade (SAN). Em jogo, marque esses pontos em sua ficha de personagem quando ele perder pontos de sanidade. Quando seu personagem chega a 0 SAN, ele é considerado impossível de jogar.
+**Sanidade (opção)**: Se a sanidade estiver sendo usada, multiplique a pontuação inicial de POW do seu personagem por ×5 para obter o total atual de sanidade (SAN). Em jogo, marque esses pontos em sua ficha de personagem quando ele perder pontos de sanidade. Quando seu personagem chega a 0 SAN, ele é considerado impossível de jogar.
 
 **Sexta etapa: Personalidade (opcional)**
 
@@ -142,16 +142,16 @@ Estude as características de seu personagem e imagine o tipo de pessoa que voc�
 
 | **Resultado** | **Descrição** |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | **Brutal:** Seu personagem pensa primeiro em resolver problemas por meio de força física e força bruta. Dê 20 pontos de habilidade cada para Brawl, Climb, Dodge, Grapple, Insight, Jump, Ride, Sense, Stealth, Swim, Throw e para quaisquer duas habilidades de Combat.                                                                      |
-| 2 | **Skilled:** Seu personagem acredita que a técnica, a habilidade e a perícia são os segredos do sucesso. Dê 20 pontos de habilidade a Appraise (Avaliação), qualquer uma das habilidades de Craft (Artesanato), Disguise (Disfarce), Dodge (Esquiva), Fine Manipulation (Manipulação Fina), First Aid (Primeiros Socorros), qualquer uma das habilidades de Knowledge (Conhecimento), Navigate (Navegação), Pilot (Piloto), Ride (Cavalgada), Sleight of Hand (Perícia), Stealth (Furtividade) e a qualquer uma das habilidades de Combat (Combate). |
-| 3 **Cunning:** Seu personagem tenta primeiro ser mais esperto que um oponente para obter uma vantagem. Adicione 20 pontos de habilidade a Appraise, Bargain, Disguise, Insight, quaisquer duas habilidades de Knowledge, Listen, Research, Sense, Spot, Stealth, qualquer habilidade Technical (apropriada ao cenário) e qualquer habilidade de Combat.             |
+| 1 | **Brutal**: Seu personagem pensa primeiro em resolver problemas por meio de força física e força bruta. Dê 20 pontos de habilidade cada para Brawl, Climb, Dodge, Grapple, Insight, Jump, Ride, Sense, Stealth, Swim, Throw e para quaisquer duas habilidades de Combat.                                                                      |
+| 2 | **Skilled**: Seu personagem acredita que a técnica, a habilidade e a perícia são os segredos do sucesso. Dê 20 pontos de habilidade a Appraise (Avaliação), qualquer uma das habilidades de Craft (Artesanato), Disguise (Disfarce), Dodge (Esquiva), Fine Manipulation (Manipulação Fina), First Aid (Primeiros Socorros), qualquer uma das habilidades de Knowledge (Conhecimento), Navigate (Navegação), Pilot (Piloto), Ride (Cavalgada), Sleight of Hand (Perícia), Stealth (Furtividade) e a qualquer uma das habilidades de Combat (Combate). |
+| 3 **Cunning**: Seu personagem tenta primeiro ser mais esperto que um oponente para obter uma vantagem. Adicione 20 pontos de habilidade a Appraise, Bargain, Disguise, Insight, quaisquer duas habilidades de Knowledge, Listen, Research, Sense, Spot, Stealth, qualquer habilidade Technical (apropriada ao cenário) e qualquer habilidade de Combat.             |
 | Seu personagem gosta de persuadir outras pessoas a trabalhar, enquanto ele toma as decisões. Dê 20 pontos cada para Appraise (Avaliação), Bargain (Barganha), Command (Comando), Etiquette (Etiqueta), Fast Talk (Conversa Rápida), Insight (Percepção), Perform (Desempenho), Persuade (Persuadir), qualquer idioma (Outro), idioma (Próprio), Sense (Sentido), Status (Status) e qualquer habilidade de Combate.                       |
 
 Seu mestre de jogo pode ter outros tipos de personalidade, ou você pode criar a sua própria, escolhendo 13 habilidades e adicionando 20 pontos a cada classificação de habilidade (com a aprovação do mestre de jogo).
 
 Ao distribuir esses pontos de habilidade, adicione o bônus à chance básica de cada habilidade, geralmente apresentada como um valor entre parênteses após a habilidade, como Fast Talk (15%). Escreva esse total após a habilidade.
 
-**Por exemplo, *adicionar 20 pontos de habilidade ao Fast Talk (15%) resulta em uma classificação de 15+20=35%.*
+**Por exemplo,** *adicionar 20 pontos de habilidade ao Fast Talk (15%) resulta em uma classificação de 15+20=35%.*
 
 **Sétima etapa: Profissão e habilidades**
 
@@ -161,10 +161,10 @@ Uma vez escolhida a profissão, determine o conjunto de pontos de habilidade pro
 
 O nível de poder da campanha determina o conjunto inicial de pontos de habilidade. Seu gamemaster já deve ter decidido o tipo de jogo que será realizado e o poder e a competência dos personagens dos jogadores.
 
-- Normal:** Atribua 250 pontos às habilidades profissionais. Nenhuma habilidade deve começar com mais de 75%. Se estiver usando o bônus opcional de categoria de habilidade, o limite ainda é 75%, e você deve gastar todos os pontos acima disso em outras habilidades. Se uma combinação de bônus aumentar a habilidade para mais de 75% antes desta etapa, não adicione mais pontos de habilidade.
-- Heroico:** Atribua 325 pontos a habilidades profissionais. Nenhuma habilidade deve começar com mais de 90%, com as mesmas restrições acima.
-- Épico:** Atribua 400 pontos às habilidades profissionais. Nenhuma habilidade deve começar com mais de 101%, com as mesmas restrições acima.
-- Super-humano:** Distribua 500 pontos entre as habilidades profissionais, sem limite de classificação de habilidades. Consulte **Classificações de habilidade acima de 100% (opção)**.
+- Normal**: Atribua 250 pontos às habilidades profissionais. Nenhuma habilidade deve começar com mais de 75%. Se estiver usando o bônus opcional de categoria de habilidade, o limite ainda é 75%, e você deve gastar todos os pontos acima disso em outras habilidades. Se uma combinação de bônus aumentar a habilidade para mais de 75% antes desta etapa, não adicione mais pontos de habilidade.
+- Heroico**: Atribua 325 pontos a habilidades profissionais. Nenhuma habilidade deve começar com mais de 90%, com as mesmas restrições acima.
+- Épico**: Atribua 400 pontos às habilidades profissionais. Nenhuma habilidade deve começar com mais de 101%, com as mesmas restrições acima.
+- Super-humano**: Distribua 500 pontos entre as habilidades profissionais, sem limite de classificação de habilidades. Consulte **Classificações de habilidade acima de 100% (opção)**.
 
 Para uma profissão original, distribua o número de pontos de habilidade do nível de poder, conforme descrito acima. Seu gamemaster pode ter algumas restrições sobre como esses pontos de habilidade podem ser gastos.
 
@@ -174,9 +174,9 @@ O total não deve exceder o limite de habilidades para o tipo de jogo definido a
 
 Calcule as classificações finais de todas as habilidades do personagem com base na chance básica, no tipo de personalidade, no conjunto de habilidades profissionais, no conjunto de habilidades pessoais e nos bônus opcionais de categoria de habilidade (se usados). Talvez você queira mudar alguns pontos nesse momento, mas mantenha os pontos de habilidade profissional e os pontos de habilidade pessoal separados.
 
-**Educação (opção):** Se Educação (EDU) estiver sendo usada, em vez de um conjunto básico de 250/325/400/500 pontos de habilidade, faça com que os pontos de habilidade iniciais sejam baseados em EDU×20 para personagens normais, EDU×25 para personagens heroicos, EDU×30 para personagens épicos e EDU×40 para personagens sobre-humanos.
+**Educação (opção)**: Se Educação (EDU) estiver sendo usada, em vez de um conjunto básico de 250/325/400/500 pontos de habilidade, faça com que os pontos de habilidade iniciais sejam baseados em EDU×20 para personagens normais, EDU×25 para personagens heroicos, EDU×30 para personagens épicos e EDU×40 para personagens sobre-humanos.
 
-**Habilidades culturais (opção):** Em um jogo com diferenças significativas entre culturas humanas, seu mestre de jogo pode fazer com que isso influencie as habilidades iniciais ou as habilidades iniciais permitidas. Consulte **Cultura e personagens**.
+**Habilidades culturais (opção)**: Em um jogo com diferenças significativas entre culturas humanas, seu mestre de jogo pode fazer com que isso influencie as habilidades iniciais ou as habilidades iniciais permitidas. Consulte **Cultura e personagens**.
 
 **Pontos de habilidade pessoal aumentados (opção)**: O total de pontos de habilidade pessoal INT×10 pode ser aumentado para INT×15 para personagens heroicos, INT×20 para personagens épicos ou INT×25 para personagens sobre-humanos, conforme apropriado. Essa opção é recomendada para jogos em que os personagens são tremendamente competentes e habilidosos além do que sua profissão atual indicaria.
 
@@ -494,25 +494,25 @@ Se o CHA do seu personagem for baixo (9 ou menos), essas características podem 
 
 Ao escolher, imagine seu personagem em sua mente e imagine como ele aparece no cenário do jogo. Você também pode combinar diferentes características de maneiras interessantes. Seu gamemaster pode vetar certas características distintas se elas ficarem fora de lugar, dependendo do cenário.
 
-**1-Cabelo na cabeça:** Careca, careca na parte superior, loiro, preto, trançado, marrom, corte em tiras, encaracolado, sujo, cheio de piolhos, brilhante, cinza, longo, lustroso, emaranhado, oleoso, perfumado, recuado, vermelho, raspado, espetado, muito longo, ondulado, peruca, característica de sua escolha.
+**1-Cabelo na cabeça**: Careca, careca na parte superior, loiro, preto, trançado, marrom, corte em tiras, encaracolado, sujo, cheio de piolhos, brilhante, cinza, longo, lustroso, emaranhado, oleoso, perfumado, recuado, vermelho, raspado, espetado, muito longo, ondulado, peruca, característica de sua escolha.
 
-**2-Pêlos faciais:** Sobrancelhas arqueadas, barba trançada, barba espessa, barba enrolada e perfumada, bigodes enormes, sobrancelhas crescidas juntas, cavanhaque, barba longa, sem sobrancelhas, costeletas, desenhos estranhos cortados na barba bem aparada, sobrancelhas grossas, característica de sua escolha.
+**2-Pêlos faciais**: Sobrancelhas arqueadas, barba trançada, barba espessa, barba enrolada e perfumada, bigodes enormes, sobrancelhas crescidas juntas, cavanhaque, barba longa, sem sobrancelhas, costeletas, desenhos estranhos cortados na barba bem aparada, sobrancelhas grossas, característica de sua escolha.
 
-**3-característica facial:** Marca de nascença, olhos pretos, olhos azuis, olhos brilhantes, nariz quebrado, dentes quebrados, olhos castanhos, profundamente bronzeado, queixo duplo, brincos, queixo enorme, dentes uniformes, tapa-olho, lábios carnudos, lacuna nos dentes, olhos cinzentos, orelhas peludas, maçãs do rosto altas, nariz adunco, olhos grandes, nariz grande, cílios longos, dentes pontiagudos, anel no nariz, pálido, pele com marcas de marcas, queixo pontudo, dentes pontiagudos, incisivos proeminentes, nariz de pug, rosto redondo, cicatriz, lábios sensuais, dentes manchados, tatuado, lábios finos, orelhas pequenas, nariz arrebitado, verrugas, queixo fraco, dentes brancos, olhos arregalados, dentes amarelos, característica de sua escolha.
+**3-característica facial**: Marca de nascença, olhos pretos, olhos azuis, olhos brilhantes, nariz quebrado, dentes quebrados, olhos castanhos, profundamente bronzeado, queixo duplo, brincos, queixo enorme, dentes uniformes, tapa-olho, lábios carnudos, lacuna nos dentes, olhos cinzentos, orelhas peludas, maçãs do rosto altas, nariz adunco, olhos grandes, nariz grande, cílios longos, dentes pontiagudos, anel no nariz, pálido, pele com marcas de marcas, queixo pontudo, dentes pontiagudos, incisivos proeminentes, nariz de pug, rosto redondo, cicatriz, lábios sensuais, dentes manchados, tatuado, lábios finos, orelhas pequenas, nariz arrebitado, verrugas, queixo fraco, dentes brancos, olhos arregalados, dentes amarelos, característica de sua escolha.
 
 4-Expressão: Adoração, sedução, arrogância, confusão, olhos brilhantes, curiosidade, encolhimento, tristeza, embriaguez, amizade, guarda, altivez, lascivo, olhar fixo, mansidão, malícia, ingenuidade, extrovertido, penetrante, agradável, orgulho, sedução, sorrateiro, esguelha, estrabismo, expressão de sua escolha.
 
-**5-Roupas:** Estilo antigo, chapéu blindado, atlético, descalço, roupas que deixam o usuário com muito calor ou muito frio, chapéu cônico, bordado com emblema especial, caro, na moda, botas finas, para o sexo errado, ajustado à forma, cheio de buracos, berrante, espalhafatoso, mal ajustadas, muitas joias baratas, novas, roupas de dormir, parcialmente nuas, chapéu de bico, primitivas, ricas, sandálias, acetinadas, sensuais, justas, esportivas, discretas, muito ornamento, uniforme, utilitárias, vulgares, chapéu largo, roupas de sua escolha.
+**5-Roupas**: Estilo antigo, chapéu blindado, atlético, descalço, roupas que deixam o usuário com muito calor ou muito frio, chapéu cônico, bordado com emblema especial, caro, na moda, botas finas, para o sexo errado, ajustado à forma, cheio de buracos, berrante, espalhafatoso, mal ajustadas, muitas joias baratas, novas, roupas de dormir, parcialmente nuas, chapéu de bico, primitivas, ricas, sandálias, acetinadas, sensuais, justas, esportivas, discretas, muito ornamento, uniforme, utilitárias, vulgares, chapéu largo, roupas de sua escolha.
 
-**6-Desporto:** Irritado, casual, desajeitado, confiante, etéreo, temeroso, gracioso, humilde, jovial, lânguido, militar, ágil, impetuoso, reservado, desleixado, vigoroso, rígido, arrogante, sensual, oscilante, cauteloso, cansado, rendido, porte de sua escolha.
+**6-Desporto**: Irritado, casual, desajeitado, confiante, etéreo, temeroso, gracioso, humilde, jovial, lânguido, militar, ágil, impetuoso, reservado, desleixado, vigoroso, rígido, arrogante, sensual, oscilante, cauteloso, cansado, rendido, porte de sua escolha.
 
-**7-Fala:** Acentuada, afetada, agressiva, profunda, exigente, sibilante, fraca, hesitante, aguda, imperiosa, musical, murmurante, nasal, rouca, aguda, sensual, estridente, lenta, suave, de fala mansa, forte, rouca, ininteligível, chorosa, característica de fala de sua escolha.
+**7-Fala**: Acentuada, afetada, agressiva, profunda, exigente, sibilante, fraca, hesitante, aguda, imperiosa, musical, murmurante, nasal, rouca, aguda, sensual, estridente, lenta, suave, de fala mansa, forte, rouca, ininteligível, chorosa, característica de fala de sua escolha.
 
-**Braços e mãos:** Marca de nascença visível, braceletes ou outras joias para os braços, bíceps protuberantes, mãos calejadas, profundamente bronzeadas, sem pelos, peludas, cotovelos nodosos, nós dos dedos grandes, canhotos, braços longos, unhas longas, musculosas, um braço mais longo que o outro, um dedo faltando, um dedo a mais presente, cotovelos pontudos, unhas pontudas, braços e mãos poderosos, anéis, cicatriz, esbeltas, pele lisa, tatuadas, sem contorno, muito peludas, pele muito pálida, característica de sua escolha.
+**Braços e mãos**: Marca de nascença visível, braceletes ou outras joias para os braços, bíceps protuberantes, mãos calejadas, profundamente bronzeadas, sem pelos, peludas, cotovelos nodosos, nós dos dedos grandes, canhotos, braços longos, unhas longas, musculosas, um braço mais longo que o outro, um dedo faltando, um dedo a mais presente, cotovelos pontudos, unhas pontudas, braços e mãos poderosos, anéis, cicatriz, esbeltas, pele lisa, tatuadas, sem contorno, muito peludas, pele muito pálida, característica de sua escolha.
 
-**9-Torso:** Tipo barril, anel na barriga, marca de nascença visível, ombros largos, curvilíneo, todos os ossos à mostra, barriga lisa, sem pelos, cintura alta, magro, torso longo, muitas cicatrizes, musculoso, estreito, sem umbigo, sem um mamilo, barrigudo, cicatriz proeminente, curto, peito encolhido, musculoso, elegante, esguio, magro, esbelto, alto, linhas de bronzeado visíveis, bronzeado, tatuado, grosso, magro, muito peludo, muito pálido, salgueiro, característica de sua escolha.
+**9-Torso**: Tipo barril, anel na barriga, marca de nascença visível, ombros largos, curvilíneo, todos os ossos à mostra, barriga lisa, sem pelos, cintura alta, magro, torso longo, muitas cicatrizes, musculoso, estreito, sem umbigo, sem um mamilo, barrigudo, cicatriz proeminente, curto, peito encolhido, musculoso, elegante, esguio, magro, esbelto, alto, linhas de bronzeado visíveis, bronzeado, tatuado, grosso, magro, muito peludo, muito pálido, salgueiro, característica de sua escolha.
 
-**10-Pernas e pés:** Marca de nascença visível, coxas e panturrilhas protuberantes, pés calejados, profundamente bronzeados, sem pelos, peludos, joelhos nodosos, mancando em uma perna, muitas cicatrizes, musculoso, um dedo do pé faltando, um dedo a mais presente, cicatriz, cicatrizes de chama ou ácido, elegante, liso, bronzeado, tatuado, anel no dedo do pé, muito peludo, pernas muito longas, pele muito pálida, pernas muito curtas, pele desgastada pelo tempo, característica de sua escolha.
+**10-Pernas e pés**: Marca de nascença visível, coxas e panturrilhas protuberantes, pés calejados, profundamente bronzeados, sem pelos, peludos, joelhos nodosos, mancando em uma perna, muitas cicatrizes, musculoso, um dedo do pé faltando, um dedo a mais presente, cicatriz, cicatrizes de chama ou ácido, elegante, liso, bronzeado, tatuado, anel no dedo do pé, muito peludo, pernas muito longas, pele muito pálida, pernas muito curtas, pele desgastada pelo tempo, característica de sua escolha.
 
 Crie suas próprias características distintivas se elas não forem suficientes. Para jogos com raças não humanas, sinta-se à vontade para adicionar características novas e exclusivas ou não permitir características inadequadas.
 
@@ -524,7 +524,7 @@ Além de ser definido por características, seu personagem também é definido e
 
 A seguir, há uma lista das profissões mais comuns, com observações sobre as configurações em que elas seriam comumente encontradas. Essas configurações são descritas no *Capítulo 10: Configurações*. Alguns títulos de profissões e listas de habilidades iniciais podem não ser adequados para cada cenário e devem ser ajustados pelos jogadores e pelo gamemaster conforme necessário.
 
-**Por exemplo, em uma campanha ambientada no Japão antigo, seu mestre de jogo lhe diz que a profissão de guerreiro é chamada de samurai, a de assassino é ninja, a de ladrão é bandido, a de criminoso é yakuza e a de nobre é cortesão.
+**Por exemplo,** em uma campanha ambientada no Japão antigo, seu mestre de jogo lhe diz que a profissão de guerreiro é chamada de samurai, a de assassino é ninja, a de ladrão é bandido, a de criminoso é yakuza e a de nobre é cortesão.
 
 Essas listas não são exaustivas, mas representam as profissões mais adequadas para os personagens jogadores em cada cenário geral. Essas profissões podem ser expandidas conforme desejado, e até mesmo escolhas improváveis são possíveis. Nosso próprio mundo moderno ainda tem pequenos bolsões de habitantes de tribos e xamãs, por exemplo, embora eles não sejam comuns.
 
@@ -553,12 +553,12 @@ Se você e seu gamemaster quiserem que as características do personagem influen
 
 **Por exemplo,** *seu personagem tem as seguintes características: STR 14, CON 13, INT 8, SIZ 12, POW 10, DEX 12 e CHA 8. Seus bônus de categoria de habilidade são:*
 
-- Combate:** *+3% (+2 para DEX, +2 para STR, -1 para INT)*
-- Comunicação:** *-3% (-2 para INT, 0 para POW, -1 para CHA)*
-- Manipulação:** *+3% (+2 para DEX, -1 para INT, +2 para STR)*
-- Mental:** *-2% (-2 de INT, 0 de POW, EDU não é usado nessa campanha)*.
-- Percepção:** *-1% (-2 para INT, 0 para POW, +1 para CON)*
-- Físico:** *+3% (+2 para DEX, +2 para STR, +1 para CON, -2 para SIZ)*
+- Combate**: *+3% (+2 para DEX, +2 para STR, -1 para INT)*
+- Comunicação**: *-3% (-2 para INT, 0 para POW, -1 para CHA)*
+- Manipulação**: *+3% (+2 para DEX, -1 para INT, +2 para STR)*
+- Mental**: *-2% (-2 de INT, 0 de POW, EDU não é usado nessa campanha)*.
+- Percepção**: *-1% (-2 para INT, 0 para POW, +1 para CON)*
+- Físico**: *+3% (+2 para DEX, +2 para STR, +1 para CON, -2 para SIZ)*
 
 Consulte o *Capítulo 3: Habilidades* para obter mais informações sobre categorias de habilidades, bônus de categoria e chances de habilidades básicas.
 
@@ -613,17 +613,17 @@ Essas profissões não são exaustivas. Dependendo do cenário, você ou seu mes
 
 O mestre do jogo pode limitar suas opções de profissão ou pedir que você determine sua profissão aleatoriamente, mas, em geral, é preferível escolher uma profissão para evitar ser forçado a interpretar um personagem de que não goste.
 
-**Habilidades:** Essas habilidades são as principais habilidades usadas pelos membros dessa profissão. Seu personagem gastará seus pontos de habilidade profissional nessas habilidades durante a criação do personagem. Seu personagem não precisa ter todas essas habilidades, mas elas são uma sugestão de quais habilidades seriam apropriadas. Com a permissão do seu mestre de jogo, você pode substituir qualquer uma dessas habilidades por outra se a habilidade não se encaixar na época, no cenário ou no conceito do seu personagem.
+**Habilidades**: Essas habilidades são as principais habilidades usadas pelos membros dessa profissão. Seu personagem gastará seus pontos de habilidade profissional nessas habilidades durante a criação do personagem. Seu personagem não precisa ter todas essas habilidades, mas elas são uma sugestão de quais habilidades seriam apropriadas. Com a permissão do seu mestre de jogo, você pode substituir qualquer uma dessas habilidades por outra se a habilidade não se encaixar na época, no cenário ou no conceito do seu personagem.
 
-**Por exemplo, você deseja interpretar um policial com tendência à dedução em uma campanha ambientada na Inglaterra do século XII. Você olha a lista de profissões e vê que o modelo Detetive lista a habilidade Armas de fogo (pistola ou revólver). Seria totalmente razoável trocar essa habilidade por Arma branca (Espada) para esse cenário.
+**Por exemplo,** você deseja interpretar um policial com tendência à dedução em uma campanha ambientada na Inglaterra do século XII. Você olha a lista de profissões e vê que o modelo Detetive lista a habilidade Armas de fogo (pistola ou revólver). Seria totalmente razoável trocar essa habilidade por Arma branca (Espada) para esse cenário.
 
-**Riqueza:** Um nível médio de riqueza para um personagem nessa profissão. Em alguns casos, é fornecido um intervalo, permitindo que você e o seu mestre de jogo decidam o mais apropriado para o cenário. A descrição serve apenas como sugestão; você e seu mestre de jogo podem optar por ajustar o nível de riqueza sugerido para cima ou para baixo, dependendo do conceito do personagem.
+**Riqueza**: Um nível médio de riqueza para um personagem nessa profissão. Em alguns casos, é fornecido um intervalo, permitindo que você e o seu mestre de jogo decidam o mais apropriado para o cenário. A descrição serve apenas como sugestão; você e seu mestre de jogo podem optar por ajustar o nível de riqueza sugerido para cima ou para baixo, dependendo do conceito do personagem.
 
 Um método alternativo de determinar o nível de riqueza inicial onde uma faixa é apresentada é começar com seu personagem na menor das faixas de riqueza, ajustada para cima para cada rolagem de Status bem-sucedida que você puder fazer. Isso deve ser feito depois que seu personagem for criado.
 
 Enquanto a habilidade de Status descreve as maneiras pelas quais o Status e a riqueza se relacionam, uma breve descrição de cada nível de riqueza está abaixo.
 
-**Especial:** Indica se um membro da profissão provavelmente tem poderes, descritos no *Capítulo 4: Poderes*.
+**Especial**: Indica se um membro da profissão provavelmente tem poderes, descritos no *Capítulo 4: Poderes*.
 
 **Riqueza
 
@@ -673,315 +673,315 @@ Animador | Político | Guerreiro | Explorador | Sacerdote | Feiticeiro
 
 Você ganha a vida fazendo arte, seja desenho, pintura, escultura, design, fotografia, cinema ou qualquer outro meio de expressão criativa em um meio físico ou digital. Os artistas devem se referir à profissão de animador.
 
-- Riqueza:** Qualquer uma, mas geralmente ruim ou média.
-- Habilidades:** Quaisquer duas habilidades de Arte, qualquer Ofício, Perspicácia, uma habilidade apropriada de Conhecimento, Idioma (Outro), Idioma (Próprio), Ouvir, Pesquisar, Localizar.
+- Riqueza**: Qualquer uma, mas geralmente ruim ou média.
+- Habilidades**: Quaisquer duas habilidades de Arte, qualquer Ofício, Perspicácia, uma habilidade apropriada de Conhecimento, Idioma (Outro), Idioma (Próprio), Ouvir, Pesquisar, Localizar.
 
 **Assassino
 
 Como um assassino profissional de sangue frio, a morte é o seu ofício. Seja para matar por dinheiro ou por qualquer outra causa, você é habilidoso na morte de outros seres vivos, geralmente em segredo.
 
-- Riqueza:** Média ou rica. Você também pode ter uma grande variedade de armas e identidades falsas, de acordo com o cenário.
-- Habilidades:** Esquivar-se, Esconder-se, Ouvir, Localizar, Furtividade e cinco das seguintes, conforme o cenário: Brigar, Disfarce, Dirigir, Eletrônica, Agarrar, Arma de fogo (qualquer), Manipulação fina, Artes marciais, Arma corpo a corpo (qualquer), Arma de mísseis (qualquer), Cavalgar, Arremessar, Rastrear.
+- Riqueza**: Média ou rica. Você também pode ter uma grande variedade de armas e identidades falsas, de acordo com o cenário.
+- Habilidades**: Esquivar-se, Esconder-se, Ouvir, Localizar, Furtividade e cinco das seguintes, conforme o cenário: Brigar, Disfarce, Dirigir, Eletrônica, Agarrar, Arma de fogo (qualquer), Manipulação fina, Artes marciais, Arma corpo a corpo (qualquer), Arma de mísseis (qualquer), Cavalgar, Arremessar, Rastrear.
 
 **Atleta
 
 Seja profissional ou amador, patrocinado pelo estado ou ainda na escola, você se destaca em um estilo de esporte ou exercício, aperfeiçoando seu corpo e sua determinação para competições atléticas individuais ou em equipe.
 
-- Riqueza:** De pobre a rico, geralmente mediano ou rico.
-- Habilidades:** Escalar, Esquivar-se, Saltar, Furtividade, Arremessar e escolher cinco das seguintes, conforme apropriado ao cenário e ao esporte: Brigar, Primeiros Socorros, Agarrar, Perspicácia, Ouvir, Artes Marciais, Localizar, Cavalgar, Nadar.
+- Riqueza**: De pobre a rico, geralmente mediano ou rico.
+- Habilidades**: Escalar, Esquivar-se, Saltar, Furtividade, Arremessar e escolher cinco das seguintes, conforme apropriado ao cenário e ao esporte: Brigar, Primeiros Socorros, Agarrar, Perspicácia, Ouvir, Artes Marciais, Localizar, Cavalgar, Nadar.
 
 **Beggar**
 
 Você sobrevive mendigando dinheiro, comida e outras necessidades. Você pode se chamar de vagabundo, sem-teto ou vagabundo errante. Talvez você tenha tido uma maré de azar, pertença a um grupo discriminado, tenha um passado criminoso do qual não consegue escapar, ou a insanidade ou o abuso de substâncias o levaram a esse estado.
 
-- Riqueza:** Indigente, embora alguns mendigos sejam, na verdade, pobres e apenas finjam estar em uma situação pior.
-- Habilidades:** Barganha, Conversa rápida, Esconder-se, Perspicácia, Conhecimento (região: área local), Ouvir, Persuadir, Perícia, Localizar, Furtividade.
+- Riqueza**: Indigente, embora alguns mendigos sejam, na verdade, pobres e apenas finjam estar em uma situação pior.
+- Habilidades**: Barganha, Conversa rápida, Esconder-se, Perspicácia, Conhecimento (região: área local), Ouvir, Persuadir, Perícia, Localizar, Furtividade.
 
 **Escriturário
 
 Você passa seus dias em uma mesa, geralmente trabalhando em alguma área financeira. Essa profissão pode ser aquela em que você lida com clientes, como um contador ou funcionário assalariado em uma empresa, governo ou outra organização.
 
-- **Riqueza:** Média.
-- **Habilidades:** Barganha, Etiqueta, Conhecimento (Contabilidade), Conhecimento (Direito), um outro Conhecimento, Idioma (Próprio), Persuadir, Pesquisa, Status e Habilidade Técnica (Uso de Computador) ou Alfabetização, conforme apropriado por era.
+- **Riqueza**: Média.
+- **Habilidades**: Barganha, Etiqueta, Conhecimento (Contabilidade), Conhecimento (Direito), um outro Conhecimento, Idioma (Próprio), Persuadir, Pesquisa, Status e Habilidade Técnica (Uso de Computador) ou Alfabetização, conforme apropriado por era.
 
 **Técnico de informática
 
 Você pode ser um engenheiro de software corporativo ou um hacker ilícito. Como alternativa, você pode estar trabalhando em qualquer um dos muitos campos de desenvolvimento de software. Grande parte de sua vida é passada em uma interface com um computador, geralmente conectado à rede mundial de informações. As linhas de código, os dados e outros ativos virtuais são tão reais para você quanto as ferramentas e os materiais de outros artesãos.
 
-- **Riqueza:** Média a rica.
-- Habilidades:** Artesanato (Hardware ou Código de Computador), uma habilidade de Conhecimento, Linguagem (Outra) (uma linguagem de programação), Reparo (Elétrico), Reparo (Eletrônico), Pesquisa, Ciência (Matemática), Status, Técnica (Uso de Computador) e escolha uma das seguintes habilidades como especialidades, conforme apropriado para o cenário: Contabilidade, Esconderijo, Conhecimento (Direito).
+- **Riqueza**: Média a rica.
+- Habilidades**: Artesanato (Hardware ou Código de Computador), uma habilidade de Conhecimento, Linguagem (Outra) (uma linguagem de programação), Reparo (Elétrico), Reparo (Eletrônico), Pesquisa, Ciência (Matemática), Status, Técnica (Uso de Computador) e escolha uma das seguintes habilidades como especialidades, conforme apropriado para o cenário: Contabilidade, Esconderijo, Conhecimento (Direito).
 
 **Artesão
 
 Seja um ferreiro de vilarejo, um soprador de vidro ou um fabricante de relógios finamente ajustados, você fabrica produtos comerciais à mão e os vende a compradores interessados. Normalmente, você trabalha em uma loja, seja como proprietário ou apenas como empregado.
 
-- Riqueza:** De pobre a rica, geralmente média.
-- Habilidades:** Avaliação, qualquer uma das Artes, Barganha, quaisquer duas habilidades de Artesanato, Local, Pesquisa, Status e escolha duas das seguintes, conforme apropriado ao cenário e ao comércio: Manipulação fina, Máquina pesada, Reparo (elétrico), Reparo (eletrônico), Reparo (mecânico).
+- Riqueza**: De pobre a rica, geralmente média.
+- Habilidades**: Avaliação, qualquer uma das Artes, Barganha, quaisquer duas habilidades de Artesanato, Local, Pesquisa, Status e escolha duas das seguintes, conforme apropriado ao cenário e ao comércio: Manipulação fina, Máquina pesada, Reparo (elétrico), Reparo (eletrônico), Reparo (mecânico).
 
 **Criminal
 
 Você abre caminho no mundo infringindo a lei, seja por meio de roubo à mão armada, crime organizado, furto de carteiras ou qualquer outro meio de obter objetos de valor ou dinheiro ilegalmente.
 
-- Riqueza:** De pobre a rica, às vezes rica, geralmente média.
-- Habilidades:** Barganhar, Esconder-se, Furtividade, Dirigir ou Cavalgar, e escolher seis das seguintes, conforme apropriado para o cenário e a raquete: Avaliação, Briga, Escalada, Conversa Rápida, Manipulação Fina, Arma de Fogo (qualquer uma), Jogo, Luta, Percepção, Salto, Conhecimento (Direito), Ouvir, Artes Marciais, Arma Corpo a Corpo (qualquer uma, geralmente facas ou porretes), Persuadir, Localizar, Arremessar.
+- Riqueza**: De pobre a rica, às vezes rica, geralmente média.
+- Habilidades**: Barganhar, Esconder-se, Furtividade, Dirigir ou Cavalgar, e escolher seis das seguintes, conforme apropriado para o cenário e a raquete: Avaliação, Briga, Escalada, Conversa Rápida, Manipulação Fina, Arma de Fogo (qualquer uma), Jogo, Luta, Percepção, Salto, Conhecimento (Direito), Ouvir, Artes Marciais, Arma Corpo a Corpo (qualquer uma, geralmente facas ou porretes), Persuadir, Localizar, Arremessar.
 
 **Detetive
 
 Seja empregado pela polícia ou trabalhando de forma privada, você usa habilidades de observação, dedução e criminologia para determinar quem cometeu crimes. Você pode ter uma ampla gama de habilidades forenses e científicas ou operar com base em instintos.
 
-- Riqueza:** Média ou rica.
-- Habilidades:** Arma de fogo (arma de mão), Conhecimento (Direito), Ouvir, Persuadir, Localizar, Pesquisar e escolher quatro das seguintes habilidades, conforme apropriado para o cenário e o conceito: Arte, Briga, Disfarce, Esquiva, Condução, Conversa Rápida, Arma de Fogo (qualquer), Agarrar, Esconder-se, Percepção, Conhecimento (qualquer), Idioma (Outro), Idioma (Próprio), Medicina, Cavalgar, Ciência (qualquer), Técnica (Uso de Computador), Furtividade, Rastrear.
+- Riqueza**: Média ou rica.
+- Habilidades**: Arma de fogo (arma de mão), Conhecimento (Direito), Ouvir, Persuadir, Localizar, Pesquisar e escolher quatro das seguintes habilidades, conforme apropriado para o cenário e o conceito: Arte, Briga, Disfarce, Esquiva, Condução, Conversa Rápida, Arma de Fogo (qualquer), Agarrar, Esconder-se, Percepção, Conhecimento (qualquer), Idioma (Outro), Idioma (Próprio), Medicina, Cavalgar, Ciência (qualquer), Técnica (Uso de Computador), Furtividade, Rastrear.
 
 **Médico
 
 Você fez da sua vocação o tratamento de pessoas feridas, enfermas, doentes e com problemas de saúde, usando habilidades de diagnóstico e práticas médicas adquiridas por meio de treinamento e estudo extensivos. Você pode ter feito um juramento de ajudar qualquer pessoa que precise, independentemente do que ela tenha feito ou de quem ela seja.
 
-- Riqueza:** Média a rica.
-- Habilidades:** Primeiros socorros, Idioma (outro), Medicina, Persuadir, Pesquisar, Localizar e escolher quatro das seguintes conforme apropriado para o cenário: Insight, Idioma (vários), Psicoterapia, Ciência (qualquer), Status.
+- Riqueza**: Média a rica.
+- Habilidades**: Primeiros socorros, Idioma (outro), Medicina, Persuadir, Pesquisar, Localizar e escolher quatro das seguintes conforme apropriado para o cenário: Insight, Idioma (vários), Psicoterapia, Ciência (qualquer), Status.
 
 **Engenheiro**
 
 Você constrói, conserta ou faz a manutenção de máquinas, trabalha na construção ou é um mecânico que lida com a tecnologia adequada à sua era e ao seu cenário, desde uma simples arquitetura de pedra até sistemas de acionamento de naves espaciais altamente avançados. Alguns engenheiros mantêm e operam um veículo grande e complexo de algum tipo, desde um veleiro até um cruzador espacial, enquanto outros trabalham na criação e manutenção de motores de cerco ou estruturas arquitetônicas.
 
-- Riqueza:** De pobre a rica, geralmente média.
-- Habilidades:** Artesanato (qualquer), Reparo (Mecânico), Reparo (Estrutural), Local, Status e cinco das seguintes, conforme apropriado ao cenário e ao conceito: Arte (geralmente desenho), direção, máquina pesada, conhecimento (qualquer), piloto (qualquer), reparo (elétrico), reparo (eletrônico), ciência (qualquer) ou técnica (uso de computador).
+- Riqueza**: De pobre a rica, geralmente média.
+- Habilidades**: Artesanato (qualquer), Reparo (Mecânico), Reparo (Estrutural), Local, Status e cinco das seguintes, conforme apropriado ao cenário e ao conceito: Arte (geralmente desenho), direção, máquina pesada, conhecimento (qualquer), piloto (qualquer), reparo (elétrico), reparo (eletrônico), ciência (qualquer) ou técnica (uso de computador).
 
 **Entretenimento
 
 Você usa seu talento artístico para entreter públicos de todos os tamanhos, de forma improvisada ou com roteiro, pessoalmente ou por meio de transmissão ou distribuição pré-gravada.
 
-- Riqueza:** De indigente a rico, geralmente mediano.
+- Riqueza**: De indigente a rico, geralmente mediano.
 - Habilidades: Arte (qualquer), Disfarce, Conversa Rápida, Manipulação Fina, Percepção, Linguagem (Outra), Linguagem (Outra), Ouvir, Desempenho (qualquer), Persuadir.
 
 **Explorador
 
 Você fez do trabalho de sua vida buscar os cantos desconhecidos do mundo, ir aonde ninguém foi antes e trazer de volta o conhecimento do que encontrou, seja para a glória ou em nome da descoberta.
 
-- Riqueza:** Afluente ou Rico.
-- **Habilidades:** Escalar, Idioma (Outro), Idioma (Próprio), Persuadir, Pesquisar, Localizar e quatro das seguintes, conforme apropriado: Conhecimento (Antropologia, Grupo, História, Mundo Natural ou Região), Dirigir, Conversa Rápida, Arma de Fogo (Pistola, Revólver ou Rifle), Navegar, Pilotar (Aeronave ou Barco), Cavalgar, Ciência (Geologia), Nadar, Rastrear.
+- Riqueza**: Afluente ou Rico.
+- **Habilidades**: Escalar, Idioma (Outro), Idioma (Próprio), Persuadir, Pesquisar, Localizar e quatro das seguintes, conforme apropriado: Conhecimento (Antropologia, Grupo, História, Mundo Natural ou Região), Dirigir, Conversa Rápida, Arma de Fogo (Pistola, Revólver ou Rifle), Navegar, Pilotar (Aeronave ou Barco), Cavalgar, Ciência (Geologia), Nadar, Rastrear.
 
 **Agricultor
 
 Como fazendeiro, você vive em uma área rural ou pouco domesticada, tirando o sustento da terra por meio de plantações ou cuidando de rebanhos de animais. É uma vida difícil, com longos dias de trabalho árduo, mas, ainda assim, satisfatória.
 
-- Riqueza:** De pobre a rica, geralmente média.
-- Habilidades:** Barganha, Artesanato (qualquer), Conhecimento (História Natural), Ouvir, Localizar e cinco das seguintes, conforme apropriado para o cenário e o conceito: Briga, Dirigir, Arma de fogo (rifle ou espingarda), Primeiros socorros, Máquina pesada, Conhecimento (história), Reparo (mecânica), Cavalgar, Ciência (biologia, botânica ou geologia), Rastrear.
+- Riqueza**: De pobre a rica, geralmente média.
+- Habilidades**: Barganha, Artesanato (qualquer), Conhecimento (História Natural), Ouvir, Localizar e cinco das seguintes, conforme apropriado para o cenário e o conceito: Briga, Dirigir, Arma de fogo (rifle ou espingarda), Primeiros socorros, Máquina pesada, Conhecimento (história), Reparo (mecânica), Cavalgar, Ciência (biologia, botânica ou geologia), Rastrear.
 
 **Jogador
 
 Você sobrevive por capricho do acaso ou enganando o destino em jogos de sorte e habilidade. Inevitavelmente, você viaja por aí, indo de uma arena de jogo para outra, às vezes um passo à frente da lei, esperando que sua sorte não acabe.
 
-- Riqueza:** De pobre a rica, geralmente média.
-- Habilidades:** Pechinchar, Brigar, Esquivar-se, Falar rápido, Jogar, Perspicácia, Conhecimento (contabilidade), Persuadir, Perícia, Localizar.
+- Riqueza**: De pobre a rica, geralmente média.
+- Habilidades**: Pechinchar, Brigar, Esquivar-se, Falar rápido, Jogar, Perspicácia, Conhecimento (contabilidade), Persuadir, Perícia, Localizar.
 
 *Herder**
 
 Você ganha a vida cuidando de animais de rebanho, percorrendo o campo aberto e cuidando dos rebanhos, encontrando animais perdidos e levando-os ao mercado na hora de vender.
 
-- Riqueza:** Fraca a média, ocasionalmente rica.
-- **Habilidades:** Artesanato (geralmente nós), Arma de fogo (rifle), Conhecimento (história natural), Conhecimento (região: a cordilheira), Ouvir, Navegar, Cavalgar, Localizar, Arremessar, Rastrear.
+- Riqueza**: Fraca a média, ocasionalmente rica.
+- **Habilidades**: Artesanato (geralmente nós), Arma de fogo (rifle), Conhecimento (história natural), Conhecimento (região: a cordilheira), Ouvir, Navegar, Cavalgar, Localizar, Arremessar, Rastrear.
 
 **Caçador
 
 Seja para sobreviver ou pela emoção da caça, você se especializa em rastrear e prender ou matar animais selvagens ou outros seres.
 
-- Riqueza:** Pobre ou média, a menos que seja um caçador de caça grossa ou esportiva, então será rico.
-- Habilidades:** Escalar, Esconder-se, Ouvir, Navegar, Localizar, Furtividade, Rastrear e três das seguintes, conforme apropriado ao cenário e ao conceito: Arma de fogo (rifle ou espingarda), conhecimento (história natural ou região), idioma (outro), arma corpo a corpo (geralmente lança), arma de mísseis (qualquer), cavalgar.
+- Riqueza**: Pobre ou média, a menos que seja um caçador de caça grossa ou esportiva, então será rico.
+- Habilidades**: Escalar, Esconder-se, Ouvir, Navegar, Localizar, Furtividade, Rastrear e três das seguintes, conforme apropriado ao cenário e ao conceito: Arma de fogo (rifle ou espingarda), conhecimento (história natural ou região), idioma (outro), arma corpo a corpo (geralmente lança), arma de mísseis (qualquer), cavalgar.
 
 **Jornalista
 
 Seja um colunista de um jornal semanal, um jornalista da Web, um fotojornalista, um âncora de televisão ou um comentarista gonzo, você ganha a vida com a cobertura e a análise de eventos, que serão transmitidos ou distribuídos em algum outro meio. Isso pode vir acompanhado de alguma medida de fama ou notoriedade.
 
-- Riqueza:** Média a rica.
-- Habilidades:** Conversa rápida, Percepção, Linguagem (própria), Ouvir, Persuadir, Pesquisar, Localizar e três das seguintes, conforme apropriado ao cenário e ao conceito: Arte (fotografia), Artesanato (fotografia), Disfarce, Esconder-se, Conhecimento (qualquer), Idioma (outro), Status, Furtividade, Técnica (uso de computador).
+- Riqueza**: Média a rica.
+- Habilidades**: Conversa rápida, Percepção, Linguagem (própria), Ouvir, Persuadir, Pesquisar, Localizar e três das seguintes, conforme apropriado ao cenário e ao conceito: Arte (fotografia), Artesanato (fotografia), Disfarce, Esconder-se, Conhecimento (qualquer), Idioma (outro), Status, Furtividade, Técnica (uso de computador).
 
 **Trabalhador
 
 Você é um trabalhador de colarinho azul, seja em uma linha de produção, em um depósito ou simplesmente em trabalhos pesados. Seus músculos e sua capacidade de realizar tarefas repetitivas são mais importantes do que qualquer poder cerebral que você possa reunir.
 
-- Riqueza:** Fraca ou média.
-- Habilidades:** Escalar, Artesanato (qualquer), Dirigir, Briga, Agarrar, Máquina Pesada e quatro outras, conforme apropriado ao cenário: Avaliação, Manipulação fina, Linguagem (outra), Alfabetização, Reparo (mecânico), Reparo (estrutural), Técnica (uso de computador).
+- Riqueza**: Fraca ou média.
+- Habilidades**: Escalar, Artesanato (qualquer), Dirigir, Briga, Agarrar, Máquina Pesada e quatro outras, conforme apropriado ao cenário: Avaliação, Manipulação fina, Linguagem (outra), Alfabetização, Reparo (mecânico), Reparo (estrutural), Técnica (uso de computador).
 
 **Advogado
 
 Você tem a autoridade e a jurisdição para manter e defender a lei, de preferência em defesa das pessoas comuns. Sua aplicação da lei e do código legal é apoiada pela estrutura de poder em sua comunidade.
 
-- Riqueza:** Normalmente mediana. Os policiais corruptos às vezes são ricos.
-- Habilidades:** Brigar, Esquivar-se, Falar Rápido, Conhecimento (Direito), Ouvir, Localizar e quatro das seguintes, conforme apropriado ao cenário e ao conceito: Dirigir, Armas de fogo (qualquer), Primeiros socorros, Agarrar, Percepção, Conhecimento (região ou grupo), Idioma (outro), Artes marciais, Arma corpo a corpo (qualquer), Arma de mísseis (qualquer), Piloto (qualquer), Cavalgar, Status, Técnica (uso de computador), Rastrear.
+- Riqueza**: Normalmente mediana. Os policiais corruptos às vezes são ricos.
+- Habilidades**: Brigar, Esquivar-se, Falar Rápido, Conhecimento (Direito), Ouvir, Localizar e quatro das seguintes, conforme apropriado ao cenário e ao conceito: Dirigir, Armas de fogo (qualquer), Primeiros socorros, Agarrar, Percepção, Conhecimento (região ou grupo), Idioma (outro), Artes marciais, Arma corpo a corpo (qualquer), Arma de mísseis (qualquer), Piloto (qualquer), Cavalgar, Status, Técnica (uso de computador), Rastrear.
 
 **Advogado
 
 Você é treinado em direito e usa o sistema jurídico para processar ou defender, ou representa os interesses legais de indivíduos, organizações ou governos. Embora você não tenha nenhuma autoridade acima ou além da do cidadão comum, seu conhecimento interno do sistema jurídico lhe dá um poder considerável dentro do sistema jurídico.
 
-- Riqueza:** Indigente, Pobre, Média, Afluente, Rico
-- **Habilidades:** Barganha, Conversa Rápida, Percepção, Conhecimento (Direito), uma outra habilidade de Conhecimento, Idioma (próprio), Desempenho (Oratória), Persuadir, Pesquisa, Status.
+- Riqueza**: Indigente, Pobre, Média, Afluente, Rico
+- **Habilidades**: Barganha, Conversa Rápida, Percepção, Conhecimento (Direito), uma outra habilidade de Conhecimento, Idioma (próprio), Desempenho (Oratória), Persuadir, Pesquisa, Status.
 
 **Mecânico
 
 Como um lubrificador, você passa seu tempo fazendo manutenção, reparos e, às vezes, construindo máquinas, veículos ou construções mais complexas. Você é bom com ferramentas e é capaz de decifrar facilmente problemas ou questões técnicas.
 
-- Riqueza:** Fraca a média, geralmente média.
-- **Habilidades:** Barganha, Artesanato (metalurgia), Condução, Manipulação fina, Máquina pesada, Reparo (elétrico), Reparo (eletrônico), Reparo (mecânico), Reparo (estrutural), Local.
+- Riqueza**: Fraca a média, geralmente média.
+- **Habilidades**: Barganha, Artesanato (metalurgia), Condução, Manipulação fina, Máquina pesada, Reparo (elétrico), Reparo (eletrônico), Reparo (mecânico), Reparo (estrutural), Local.
 
 **Comerciante
 
 Você ganha a vida no varejo ou no atacado, comprando recursos por menos e vendendo por mais. Você pode trabalhar em uma loja ou ser proprietário dela, ou pode ser móvel: um caixeiro-viajante, um funileiro errante, um comerciante de especiarias aventureiro ou um representante de vendas internacional.
 
-- Riqueza:** Média a rica, geralmente rica. Seu gamemaster e o jogador devem determinar se o personagem possui sua própria loja ou embarcação comercial.
-- Habilidades:** Avaliar, Barganhar, Conversa Rápida, Conhecimento (Contabilidade), Conhecimento (Negócios), Persuadir, Pesquisar, Status e quaisquer outras duas habilidades como especialidades, conforme apropriado ao cenário e ao conceito.
+- Riqueza**: Média a rica, geralmente rica. Seu gamemaster e o jogador devem determinar se o personagem possui sua própria loja ou embarcação comercial.
+- Habilidades**: Avaliar, Barganhar, Conversa Rápida, Conhecimento (Contabilidade), Conhecimento (Negócios), Persuadir, Pesquisar, Status e quaisquer outras duas habilidades como especialidades, conforme apropriado ao cenário e ao conceito.
 
 **Nobre
 
 Você nasceu na riqueza e em uma classe dominante. Em uma sociedade que reconhece tais distinções sociais, seu status é frequentemente associado a patentes e títulos, mas mesmo que esses títulos não tenham significado, você ainda é facilmente reconhecido como parte da elite. Você está acostumado a ter um estilo de vida elegante e extravagante e conhece e é conhecido pelos ricos e outros nobres da sociedade.
 
-- Riqueza:** De rico a rico, geralmente rico.
+- Riqueza**: De rico a rico, geralmente rico.
 - Habilidades: Barganha, Dirigir, Etiqueta, Idioma (próprio), Idioma (outro), Alfabetização e Status, além de quaisquer outras três habilidades como hobbies ou áreas de interesse.
 
 **Occultista**
 
 Você é um estudante de segredos obscuros, conhecimento oculto e poder mágico, acreditando na influência e na primazia das forças sobrenaturais. Se for apropriado para o cenário, o mestre do jogo pode permitir que você use poderes (provavelmente magia ou feitiçaria) talvez estudados enquanto membro de uma organização oculta ou sociedade secreta.
 
-- Riqueza:** De pobre a rico, geralmente rico.
-- Habilidades:** Conversa rápida, Perspicácia, Conhecimento (Antropologia), Conhecimento (História), Conhecimento (Oculto), Idioma (Outro), Idioma (Próprio), Pesquisa e quaisquer outras duas habilidades apropriadas ao cenário, geralmente das seguintes: Arte (qualquer), Artesanato (qualquer), Conhecimento (Arqueologia), Medicina, Ciência (qualquer), Status.
+- Riqueza**: De pobre a rico, geralmente rico.
+- Habilidades**: Conversa rápida, Perspicácia, Conhecimento (Antropologia), Conhecimento (História), Conhecimento (Oculto), Idioma (Outro), Idioma (Próprio), Pesquisa e quaisquer outras duas habilidades apropriadas ao cenário, geralmente das seguintes: Arte (qualquer), Artesanato (qualquer), Conhecimento (Arqueologia), Medicina, Ciência (qualquer), Status.
 - Especial: Se a magia estiver presente no cenário, você pode ter poderes mágicos. Consulte o *Capítulo 4: Poderes* para obter mais informações.
 
 **Piloto
 
 Seja em terra, na água ou embaixo dela, nos céus ou nas profundezas do espaço, você é treinado para guiar e pilotar uma embarcação de algum tipo, conduzindo-a para fins comerciais, oficiais ou militares. Seu trabalho varia de piloto de caça espacial a capitão de navio a vapor, dependendo do cenário.
 
-- Riqueza:** Média a rica. Se tiver sua própria embarcação, afluente.
-- Habilidades:** Dirigir, Máquina Pesada, Ouvir, Navegar, Pilotar (qualquer), Localizar, mais quatro das seguintes habilidades, conforme apropriado para o cenário: Barganhar, Escalar, Comandar, Artesanato (qualquer), Conhecimento (Região), Reparo (Elétrico), Reparo (Eletrônico), Reparo (Mecânico), Idioma (Outro), Persuadir, Ciência (Física), Ciência (Astronomia), Técnica (Uso de Computador).
+- Riqueza**: Média a rica. Se tiver sua própria embarcação, afluente.
+- Habilidades**: Dirigir, Máquina Pesada, Ouvir, Navegar, Pilotar (qualquer), Localizar, mais quatro das seguintes habilidades, conforme apropriado para o cenário: Barganhar, Escalar, Comandar, Artesanato (qualquer), Conhecimento (Região), Reparo (Elétrico), Reparo (Eletrônico), Reparo (Mecânico), Idioma (Outro), Persuadir, Ciência (Física), Ciência (Astronomia), Técnica (Uso de Computador).
 
 **Político
 
 Você foi eleito ou nomeado para uma posição de autoridade e ganha a vida participando ou dirigindo atividades governamentais, seja em uma cidade ou em um local maior. Você poderia ser um magistrado medieval ou um senador galáctico, dependendo do cenário.
 
-- Riqueza:** De abastado a rico, geralmente abastado.
-- Habilidades:** Barganha, Etiqueta, Conversa Rápida, Perspicácia, Conhecimento (Direito), Persuadir, Status, além de quaisquer outras três habilidades apropriadas ao cenário, geralmente dentre as seguintes: Conhecimento (Contabilidade, Grupo, História ou Região), Ouvir, Idioma (Outro), Idioma (Próprio), Desempenho (Oratória), Pesquisa.
+- Riqueza**: De abastado a rico, geralmente abastado.
+- Habilidades**: Barganha, Etiqueta, Conversa Rápida, Perspicácia, Conhecimento (Direito), Persuadir, Status, além de quaisquer outras três habilidades apropriadas ao cenário, geralmente dentre as seguintes: Conhecimento (Contabilidade, Grupo, História ou Região), Ouvir, Idioma (Outro), Idioma (Próprio), Desempenho (Oratória), Pesquisa.
 
 **Sacerdote
 
 Sua fé e crença no divino o levaram ao chamado do sacerdócio, e você passa seu tempo pregando ou em atividades condizentes com a adoração de sua divindade (ou divindades). Você poderia ser um monge acético ou um televangelista, dependendo do cenário.
 
-- Riqueza:** De pobre a rica, geralmente média, possivelmente rica se você for o líder religioso de um grande grupo de fiéis, a critério do seu mestre de jogo.
-- Habilidades:** Conversa rápida, Percepção, Conhecimento (História), Conhecimento (Filosofia), Conhecimento (Religião), Idioma (Próprio), Execução (Ritual), Persuadir e duas das seguintes: Conhecimento (Oculto), Idioma (Outro), Ouvir, Alfabetização, Desempenho (Oratória), Pesquisa, Status, Ensinar.
-- **Especial:** Sua afiliação a uma fé ou culto pode lhe conceder acesso a poderes mágicos ou sobrenaturais. *Consulte o Capítulo 4: Poderes* para obter mais informações.
+- Riqueza**: De pobre a rica, geralmente média, possivelmente rica se você for o líder religioso de um grande grupo de fiéis, a critério do seu mestre de jogo.
+- Habilidades**: Conversa rápida, Percepção, Conhecimento (História), Conhecimento (Filosofia), Conhecimento (Religião), Idioma (Próprio), Execução (Ritual), Persuadir e duas das seguintes: Conhecimento (Oculto), Idioma (Outro), Ouvir, Alfabetização, Desempenho (Oratória), Pesquisa, Status, Ensinar.
+- **Especial**: Sua afiliação a uma fé ou culto pode lhe conceder acesso a poderes mágicos ou sobrenaturais. *Consulte o Capítulo 4: Poderes* para obter mais informações.
 
 **Marinheiro
 
 Você navega pelas ondas do oceano, trabalhando duro para manter a integridade de sua embarcação, seja como pirata, oficial da marinha ou comerciante do mundo antigo.
 
-- Riqueza:** Fraca ou média, geralmente média.
-- Habilidades:** Escalar, Artesanato (qualquer), Esquivar-se, Agarrar, Navegar, Pilotar (barco), Nadar e quaisquer três das seguintes: Artilharia (qualquer, geralmente de bordo), Comando, Idioma (outro), Ouvir, Reparo (mecânico), Reparo (estrutural), Localizar.
+- Riqueza**: Fraca ou média, geralmente média.
+- Habilidades**: Escalar, Artesanato (qualquer), Esquivar-se, Agarrar, Navegar, Pilotar (barco), Nadar e quaisquer três das seguintes: Artilharia (qualquer, geralmente de bordo), Comando, Idioma (outro), Ouvir, Reparo (mecânico), Reparo (estrutural), Localizar.
 
 **Acadêmico
 
 O estudo e o aprendizado definem sua vida, e você se especializa em um ou mais campos do conhecimento, buscando avidamente tudo o que há para saber em seu domínio intelectual. Você pode ensinar esse conhecimento aos alunos ou acumulá-lo para seu próprio uso.
 
-- Riqueza:** Média ou rica, geralmente média.
-- Habilidades:** Idioma (outro), idioma (próprio), persuadir, pesquisar, ensinar e escolher cinco habilidades de conhecimento ou ciência apropriadas ao cenário e relacionadas à sua área de estudo.
+- Riqueza**: Média ou rica, geralmente média.
+- Habilidades**: Idioma (outro), idioma (próprio), persuadir, pesquisar, ensinar e escolher cinco habilidades de conhecimento ou ciência apropriadas ao cenário e relacionadas à sua área de estudo.
 
 **Cientista
 
 Seja como funcionário de uma empresa, instituição educacional, governo ou trabalhando por conta própria, você explora um campo da ciência por meio de especulação, experimentação e observação rigorosas, repetindo o processo e refinando a base de conhecimento.
 
-- Riqueza:** Média ou abastada, geralmente abastada.
-- Habilidades:** Artesanato (qualquer uma), Persuasão, Pesquisa, Status, Técnica (uso de computador) ou Máquina Pesada e quaisquer cinco Conhecimentos ou Ciências apropriados ao cenário e relacionados ao seu campo de estudo.
+- Riqueza**: Média ou abastada, geralmente abastada.
+- Habilidades**: Artesanato (qualquer uma), Persuasão, Pesquisa, Status, Técnica (uso de computador) ou Máquina Pesada e quaisquer cinco Conhecimentos ou Ciências apropriados ao cenário e relacionados ao seu campo de estudo.
 
 **Servidor
 
 Você está empregado como ajudante ou servo, cuidando dos assuntos domésticos e das necessidades domésticas de um empregador abastado. Você pode ser o servo de um cavalheiro, o ajudante de um general ou pode ser uma empregada doméstica em um castelo extenso.
 
-- Riqueza:** De pobre a média, embora às vezes os servos tenham acesso limitado ao estilo de vida afluente ou rico do empregador, com a aprovação do mestre de jogo.
+- Riqueza**: De pobre a média, embora às vezes os servos tenham acesso limitado ao estilo de vida afluente ou rico do empregador, com a aprovação do mestre de jogo.
 - Habilidades: Artesanato (qualquer), Etiqueta, Esconder-se, Idioma (próprio), Ouvir, Furtividade e escolher quatro das seguintes especialidades pessoais, conforme apropriado para o cenário e o conceito: Pechinchar, Dirigir, Primeiros Socorros, Percepção, Conhecimento (Contabilidade), Idioma (Outro), Persuadir.
 
 **Xamã
 
 Você é um mago tribal, hábil em contatar o mundo espiritual e dar conselhos e ajuda ao seu chefe e aos membros da sua tribo. Você tem conhecimento secreto, transmitido de mentor para aluno, e pode ter a capacidade de usar magia. A maioria dos xamãs é membro de uma cultura mais primitiva, embora existam alguns praticantes modernos.
 
-- Riqueza:** Fraca ou média, em uma existência de nível tribal.
-- Habilidades:** Arte (qualquer), Percepção, Conhecimento (História), Conhecimento (Oculto), Linguagem (Própria), Ouvir, Execução (Rituais), Persuadir e duas das seguintes habilidades como especialidades, conforme apropriado ao cenário e ao conceito: Artesanato (qualquer), Conversa Rápida, Primeiros Socorros, Esconder-se, Conhecimento (Antropologia), Idioma (Outro), Medicina, Ciência (Farmácia), Status.
-- Especial:** Dependendo do cenário, você pode usar magia. Consulte o *Capítulo 4: Poderes* para obter mais informações.
+- Riqueza**: Fraca ou média, em uma existência de nível tribal.
+- Habilidades**: Arte (qualquer), Percepção, Conhecimento (História), Conhecimento (Oculto), Linguagem (Própria), Ouvir, Execução (Rituais), Persuadir e duas das seguintes habilidades como especialidades, conforme apropriado ao cenário e ao conceito: Artesanato (qualquer), Conversa Rápida, Primeiros Socorros, Esconder-se, Conhecimento (Antropologia), Idioma (Outro), Medicina, Ciência (Farmácia), Status.
+- Especial**: Dependendo do cenário, você pode usar magia. Consulte o *Capítulo 4: Poderes* para obter mais informações.
 
 **Escravo**
 
 Capturado e escravizado ou nascido em cativeiro, você é um escravo ou servo contratado de um mestre individual ou de uma organização ou religião. Talvez você seja bem tratado: o chefe dos funcionários de uma casa, ou talvez seja espancado e punido regularmente e viva com medo. Para ser classificado como escravo, presume-se que a maior parte de sua vida tenha sido passada como escravo. Se você foi capturado e escravizado recentemente, use sua profissão anterior.
 
 - Riqueza: De indigente a pobre, embora, às vezes, os escravos tenham acesso limitado ao estilo de vida de seu proprietário, como afluente ou rico, com a aprovação do seu mestre de jogo.
-- Habilidades:** Artesanato (qualquer), Esquiva, Etiqueta, Conversa Rápida, Esconder-se, Percepção, Idioma (Outro), Ouvir, Furtividade e uma outra habilidade como especialidade ocupacional.
-- Nota:** Essa profissão deve ser escolhida com sensibilidade para com os outros jogadores e o mestre de jogo, e é recomendável que qualquer personagem com essa profissão seja fugido ou emancipado quando o jogo começar.
+- Habilidades**: Artesanato (qualquer), Esquiva, Etiqueta, Conversa Rápida, Esconder-se, Percepção, Idioma (Outro), Ouvir, Furtividade e uma outra habilidade como especialidade ocupacional.
+- Nota**: Essa profissão deve ser escolhida com sensibilidade para com os outros jogadores e o mestre de jogo, e é recomendável que qualquer personagem com essa profissão seja fugido ou emancipado quando o jogo começar.
 
 **Soldado
 
 Seja por meio de alistamento ou recrutamento, você é um soldado profissional, encarregado da defesa de seu país ou organização. Você pode ser um mercenário ou um vendedor, ou pode realmente acreditar na causa pela qual luta. De qualquer forma, você recebeu treinamento marcial e trabalha em um esquadrão de outros soldados, fazendo o que lhe é ordenado.
 
-- Riqueza:** Fraca ou média, mas frequentemente tem acesso a equipamentos caros ou proibidos de outra forma.
-- Habilidades:** Briga, Escalada, Esquiva, Primeiros Socorros e seis das seguintes, conforme o cenário: Artilharia, Comando, Dirigir, Arma de fogo (geralmente rifle, mas qualquer uma), Agarrar, Arma pesada (qualquer uma), Esconder-se, Idioma (outro), Ouvir, Saltar, Medicina, Arma corpo a corpo (qualquer uma), Arma de mísseis (qualquer uma), Navegar, Reparo (mecânico), Cavalgar, Localizar, Furtividade, Arremessar
+- Riqueza**: Fraca ou média, mas frequentemente tem acesso a equipamentos caros ou proibidos de outra forma.
+- Habilidades**: Briga, Escalada, Esquiva, Primeiros Socorros e seis das seguintes, conforme o cenário: Artilharia, Comando, Dirigir, Arma de fogo (geralmente rifle, mas qualquer uma), Agarrar, Arma pesada (qualquer uma), Esconder-se, Idioma (outro), Ouvir, Saltar, Medicina, Arma corpo a corpo (qualquer uma), Arma de mísseis (qualquer uma), Navegar, Reparo (mecânico), Cavalgar, Localizar, Furtividade, Arremessar
 
 **Espionagem
 
 Você é hábil em subterfúgios e infiltrações, entrando em países ou organizações sob disfarce ou em segredo, descobrindo seus segredos e relatando-os a um inimigo ou parte interessada.
 
-- Riqueza:** Média ou rica, dependendo do cenário.
-- Habilidades:** Esquiva, Conversa Rápida, Esconder-se, Ouvir, Pesquisar, Localizar, Furtividade e três das seguintes, conforme o cenário: Arte (Fotografia), Briga, Disfarce, Etiqueta, Arma de fogo (qualquer), Agarrar, Conhecimento (qualquer), Idioma (Outro), Idioma (Próprio), Artes marciais, Navegar, Piloto (qualquer), Psicologia, Reparo (Eletrônico), Reparo (Mecânico), Cavalgar, Nadar, Técnica (Uso de computador), Arremessar, Rastrear.
+- Riqueza**: Média ou rica, dependendo do cenário.
+- Habilidades**: Esquiva, Conversa Rápida, Esconder-se, Ouvir, Pesquisar, Localizar, Furtividade e três das seguintes, conforme o cenário: Arte (Fotografia), Briga, Disfarce, Etiqueta, Arma de fogo (qualquer), Agarrar, Conhecimento (qualquer), Idioma (Outro), Idioma (Próprio), Artes marciais, Navegar, Piloto (qualquer), Psicologia, Reparo (Eletrônico), Reparo (Mecânico), Cavalgar, Nadar, Técnica (Uso de computador), Arremessar, Rastrear.
 
 **Estudante
 
 Você passa seu tempo estudando, seja como estudante geral ou como aprendiz de algum mestre. Seu currículo pode estar em uma universidade de prestígio, em uma academia de artes marciais, em uma escola de feiticeiros ou em alguma instituição particular e exclusiva.
 
-- Riqueza:** De pobre a rica, geralmente média.
-- Habilidades:** Idioma (próprio), pesquisa e escolha oito outras habilidades como cursos de estudo, conforme apropriado para o cenário e o conceito. As escolhas mais comuns são as da lista a seguir: Arte (qualquer), Artesanato (qualquer), Primeiros Socorros, Percepção, Conhecimento (qualquer), Idioma (Outro), Ouvir, Medicina, Reparo (qualquer), Execução, Persuadir, Psicoterapia, Ciência (qualquer), Técnica (Uso de Computador) e uma habilidade Física (se estiver envolvido em atletismo).
-- Especial:** Estudantes de artes arcanas podem ter acesso a magia ou feitiçaria, ou você pode estar em uma escola para ajudá-lo a controlar seus superpoderes, mutações ou habilidades psíquicas. Consulte o *Capítulo 4: Poderes* para obter mais informações.
+- Riqueza**: De pobre a rica, geralmente média.
+- Habilidades**: Idioma (próprio), pesquisa e escolha oito outras habilidades como cursos de estudo, conforme apropriado para o cenário e o conceito. As escolhas mais comuns são as da lista a seguir: Arte (qualquer), Artesanato (qualquer), Primeiros Socorros, Percepção, Conhecimento (qualquer), Idioma (Outro), Ouvir, Medicina, Reparo (qualquer), Execução, Persuadir, Psicoterapia, Ciência (qualquer), Técnica (Uso de Computador) e uma habilidade Física (se estiver envolvido em atletismo).
+- Especial**: Estudantes de artes arcanas podem ter acesso a magia ou feitiçaria, ou você pode estar em uma escola para ajudá-lo a controlar seus superpoderes, mutações ou habilidades psíquicas. Consulte o *Capítulo 4: Poderes* para obter mais informações.
 
 **Professor
 
 Você é um instrutor de uma ou mais disciplinas, ensinando grupos ou orientando um único aluno. Seja empregado por uma universidade, uma escola de ensino médio ou outra instituição educacional, você instrui os alunos em um ambiente acadêmico para atingir algum padrão de desempenho.
 
-- Riqueza:** Média ou rica, geralmente média.
-- Habilidades:** Linguagem (própria), Persuadir, Pesquisar, Status, Ensinar e escolher cinco outras habilidades como áreas de especialização, conforme apropriado para o cenário e o conceito. As escolhas mais comuns são as da lista a seguir: Arte (qualquer), Artesanato (qualquer), Primeiros Socorros, Percepção, Conhecimento (qualquer), Idioma (Outro), Ouvir, Medicina, Reparo (qualquer), Execução, Persuadir, Psicoterapia, Ciência (qualquer), Técnica (Uso de Computador).
+- Riqueza**: Média ou rica, geralmente média.
+- Habilidades**: Linguagem (própria), Persuadir, Pesquisar, Status, Ensinar e escolher cinco outras habilidades como áreas de especialização, conforme apropriado para o cenário e o conceito. As escolhas mais comuns são as da lista a seguir: Arte (qualquer), Artesanato (qualquer), Primeiros Socorros, Percepção, Conhecimento (qualquer), Idioma (Outro), Ouvir, Medicina, Reparo (qualquer), Execução, Persuadir, Psicoterapia, Ciência (qualquer), Técnica (Uso de Computador).
 
 **Técnico
 
 Especializado em manutenção, reparo e utilização de máquinas complexas, computadores ou outros equipamentos eletrônicos, você é altamente capaz de lidar com sistemas de engenharia. Você não projeta essas máquinas, embora possivelmente as conheça melhor do que seus criadores.
 
-- **Riqueza:** Média ou rica.
-- **Habilidades:** Manipulação fina, Máquina pesada, Ouvir, Reparo (qualquer), Ciência (Física), Pesquisa, Localizar, Técnica (Uso de computador) e duas outras habilidades da lista a seguir como especialidade, conforme apropriado ao cenário e ao conceito: Artesanato (qualquer), Dirigir, Piloto (qualquer).
+- **Riqueza**: Média ou rica.
+- **Habilidades**: Manipulação fina, Máquina pesada, Ouvir, Reparo (qualquer), Ciência (Física), Pesquisa, Localizar, Técnica (Uso de computador) e duas outras habilidades da lista a seguir como especialidade, conforme apropriado ao cenário e ao conceito: Artesanato (qualquer), Dirigir, Piloto (qualquer).
 
 **Ladrão**
 
 Você pega o que quer, seja para sobreviver ou porque isso lhe agrada. Você pode ser um reles batedor de carteira, um infame bandido ou um glamouroso ladrão internacional de joias. Você desrespeita a lei para roubar, seja armado, por meio de um engano inteligente, furtividade ou uma combinação dos três.
 
-- Riqueza:** Qualquer uma, sujeita à aprovação do mestre de jogo.
-- Habilidades:** Avaliação, Esquiva, Conversa Rápida, Esconder-se, Furtividade e cinco outras habilidades da lista a seguir, conforme apropriado ao cenário e ao conceito: Barganha, Briga, Escalada, Disfarce, Manipulação Fina, Arma de Fogo (Pistola, Revólver ou Espingarda), Agarrar, Percepção, Ouvir, Saltar, Conhecimento (Direito), Persuadir, Reparo (Mecânica), Local.
+- Riqueza**: Qualquer uma, sujeita à aprovação do mestre de jogo.
+- Habilidades**: Avaliação, Esquiva, Conversa Rápida, Esconder-se, Furtividade e cinco outras habilidades da lista a seguir, conforme apropriado ao cenário e ao conceito: Barganha, Briga, Escalada, Disfarce, Manipulação Fina, Arma de Fogo (Pistola, Revólver ou Espingarda), Agarrar, Percepção, Ouvir, Saltar, Conhecimento (Direito), Persuadir, Reparo (Mecânica), Local.
 
 **Tribo de pessoas**
 
 Oriundo de uma cultura primitiva, você é um membro aceito de uma tribo e não está familiarizado com a maioria dos elementos da civilização. Você sobrevive por meio da caça ou da coleta de alimentos, e seu mundo é pequeno: sua aldeia e o ambiente ao redor.
 
-- Riqueza:** De indigente a pobre, em uma existência de nível tribal. Ou você pode ser um nobre da tribo, com um nível de riqueza mais alto, dependendo de seu status.
-- Habilidades:** Artesanato (qualquer), Esquiva, Agarrar, Esconder-se, Conhecimento (História Natural), Localizar, Arremessar, Rastrear e duas das seguintes habilidades, conforme apropriado ao cenário: Brigar, Escalar, Primeiros socorros, Ouvir, Saltar, Conhecimento (Oculto), Arma corpo a corpo (geralmente lança ou clava), Arma de mísseis (arco), Idioma (outro), Cavalgar, Furtividade, Nadar.
+- Riqueza**: De indigente a pobre, em uma existência de nível tribal. Ou você pode ser um nobre da tribo, com um nível de riqueza mais alto, dependendo de seu status.
+- Habilidades**: Artesanato (qualquer), Esquiva, Agarrar, Esconder-se, Conhecimento (História Natural), Localizar, Arremessar, Rastrear e duas das seguintes habilidades, conforme apropriado ao cenário: Brigar, Escalar, Primeiros socorros, Ouvir, Saltar, Conhecimento (Oculto), Arma corpo a corpo (geralmente lança ou clava), Arma de mísseis (arco), Idioma (outro), Cavalgar, Furtividade, Nadar.
 
 **Guerreiro
 
 Você se especializou em combate individual, sobrevivendo com seus reflexos e suas habilidades com armas. Talvez você siga um código de honra como o cavalheirismo ou o bushido, ou seja um mercenário ou aventureiro bárbaro. Os soldados lutam em grupos ou esquadrões, enquanto os guerreiros olham apenas para suas próprias proezas.
 
-- Riqueza:** De indigente a média, geralmente pobre.
-- Habilidades:** Brigar, Esquivar-se, Agarrar, Arma Corpo a Corpo (qualquer), Arma de Mísseis (qualquer) e cinco outras habilidades da lista a seguir como especialidades, conforme apropriado ao cenário e ao conceito: Escalar, Arma de fogo (qualquer), Esconder-se, Ouvir, Saltar, Linguagem (outra), Artes marciais, Cavalgar, Localizar, Furtividade, Nadar, Arremessar, Rastrear.
+- Riqueza**: De indigente a média, geralmente pobre.
+- Habilidades**: Brigar, Esquivar-se, Agarrar, Arma Corpo a Corpo (qualquer), Arma de Mísseis (qualquer) e cinco outras habilidades da lista a seguir como especialidades, conforme apropriado ao cenário e ao conceito: Escalar, Arma de fogo (qualquer), Esconder-se, Ouvir, Saltar, Linguagem (outra), Artes marciais, Cavalgar, Localizar, Furtividade, Nadar, Arremessar, Rastrear.
 
 **Feiticeiro
 
 Você entende e pode usar magia ou feitiçaria. Por meio de cantos e gestos, você pode produzir efeitos mágicos e se dedica a melhorar e aumentar seu repertório de feitiços e seu acesso pessoal a pontos de poder.
 
-- Riqueza:** De pobre a rico, geralmente rico.
-- **Habilidades:** Artesanato (qualquer), Percepção, Conhecimento (Oculto), duas outras habilidades de Conhecimento, Idioma (Outro), Ouvir, Executar (Rituais), Persuadir, Pesquisar.
-- **Especial:** Você pode usar magia ou feitiçaria. Trabalhe com seu gamemaster para determinar seus feitiços iniciais (consulte o *Capítulo 4: Poderes*).
+- Riqueza**: De pobre a rico, geralmente rico.
+- **Habilidades**: Artesanato (qualquer), Percepção, Conhecimento (Oculto), duas outras habilidades de Conhecimento, Idioma (Outro), Ouvir, Executar (Rituais), Persuadir, Pesquisar.
+- **Especial**: Você pode usar magia ou feitiçaria. Trabalhe com seu gamemaster para determinar seus feitiços iniciais (consulte o *Capítulo 4: Poderes*).
 
 **Escritor
 
 Você escreve prosa, poesia, roteiros ou alguma outra forma. Você se sente mais à vontade para se comunicar por escrito, e suas palavras têm o poder de entreter, informar ou persuadir quem as lê.
 
-- Riqueza:** De pobre a rica, geralmente média.
-- Habilidades:** Arte (escrita), Perspicácia, Linguagem (própria), Persuadir, Pesquisa e cinco outras habilidades da lista a seguir como especialidades, conforme apropriado: Conversa rápida, Conhecimento (qualquer), Idioma (outro), Ouvir, Status, Técnica (uso de computador).
+- Riqueza**: De pobre a rica, geralmente média.
+- Habilidades**: Arte (escrita), Perspicácia, Linguagem (própria), Persuadir, Pesquisa e cinco outras habilidades da lista a seguir como especialidades, conforme apropriado: Conversa rápida, Conhecimento (qualquer), Idioma (outro), Ouvir, Status, Técnica (uso de computador).
 
 **Toques finais
 
@@ -1008,25 +1008,25 @@ Muitos cenários, especialmente históricos ou de fantasia, oferecem culturas di
 
 Os antecedentes culturais não são necessários - os membros de uma cultura são inevitavelmente diferentes o suficiente para permitir um conjunto diversificado de habilidades e características, mas você e seu mestre de jogo podem achar que eles acrescentam um elemento valioso ao cenário do jogo. Cada descrição de histórico cultural pode conter alguns ou todos os itens a seguir:
 
-**Líder:** O governante, presidente, autoridade ou outro órgão governamental do país ou da região.
+**Líder**: O governante, presidente, autoridade ou outro órgão governamental do país ou da região.
 
-**Cultura:** A cultura dominante da área. Geralmente humana, embora o *Capítulo 11: Criaturas* contenha exemplos de raças não humanas.
+**Cultura**: A cultura dominante da área. Geralmente humana, embora o *Capítulo 11: Criaturas* contenha exemplos de raças não humanas.
 
-**Aparência:** Uma ou mais das características distintivas podem ser comuns à cultura ou ao grupo, como coloração ou características faciais.
+**Aparência**: Uma ou mais das características distintivas podem ser comuns à cultura ou ao grupo, como coloração ou características faciais.
 
-**Comportamento:** Se apropriado, os traços de personalidade podem ser comuns à cultura ou ao grupo. No entanto, nem todo mundo é assim, e esses traços podem ser ignorados, se desejado.
+**Comportamento**: Se apropriado, os traços de personalidade podem ser comuns à cultura ou ao grupo. No entanto, nem todo mundo é assim, e esses traços podem ser ignorados, se desejado.
 
-**Idioma(s):** O idioma ou idiomas comumente falados ou conhecidos pelos nativos dessa região.
+**Idioma(s)**: O idioma ou idiomas comumente falados ou conhecidos pelos nativos dessa região.
 
-**Ocupações:** Profissões comuns ao povo da região. Essas não são as únicas praticadas aqui - são apenas as mais comuns ou emblemáticas da sociedade. Três é um bom número delas.
+**Ocupações**: Profissões comuns ao povo da região. Essas não são as únicas praticadas aqui - são apenas as mais comuns ou emblemáticas da sociedade. Três é um bom número delas.
 
-**Religiões:** Que deus ou deuses são adorados comumente nessa região? Se as lealdades desempenharem um papel na campanha, a religião deve ser incluída.
+**Religiões**: Que deus ou deuses são adorados comumente nessa região? Se as lealdades desempenharem um papel na campanha, a religião deve ser incluída.
 
-**Armas e armaduras:** Em cenários históricos ou de fantasia, as armas e armaduras de estilo medieval costumam ser bem diferentes de país para país, e os exércitos de cada país tendem a treinar com diferentes estilos de armas. Isso é menos característico à medida que os cenários se tornam mais modernos, embora o mestre de jogo possa usar essas informações ao equipar personagens que não são jogadores.
+**Armas e armaduras**: Em cenários históricos ou de fantasia, as armas e armaduras de estilo medieval costumam ser bem diferentes de país para país, e os exércitos de cada país tendem a treinar com diferentes estilos de armas. Isso é menos característico à medida que os cenários se tornam mais modernos, embora o mestre de jogo possa usar essas informações ao equipar personagens que não são jogadores.
 
-**Habilidades culturais:** Algumas habilidades podem ser comumente ensinadas e usadas nessa cultura como parte da socialização e da educação comum. A critério do seu mestre de jogo, essas habilidades podem receber um pequeno bônus. Se forem usados bônus para habilidades, recomenda-se que todas as culturas recebam bônus iguais, embora para um conjunto diferente de habilidades.
+**Habilidades culturais**: Algumas habilidades podem ser comumente ensinadas e usadas nessa cultura como parte da socialização e da educação comum. A critério do seu mestre de jogo, essas habilidades podem receber um pequeno bônus. Se forem usados bônus para habilidades, recomenda-se que todas as culturas recebam bônus iguais, embora para um conjunto diferente de habilidades.
 
-**Itens:** Isso pode incluir uma posse significativa comum a alguém dessa cultura, geralmente de cunho religioso ou com significado social. Não é necessário que seja valioso, e os personagens dessa cultura não são obrigados a manter a posse desse item.
+**Itens**: Isso pode incluir uma posse significativa comum a alguém dessa cultura, geralmente de cunho religioso ou com significado social. Não é necessário que seja valioso, e os personagens dessa cultura não são obrigados a manter a posse desse item.
 
 **Criação de novas profissões**
 
@@ -1045,4 +1045,4 @@ Se você deseja criar uma profissão totalmente nova:
 - Decida um nível de riqueza apropriado ou uma gama de níveis de riqueza.
 - Escolha dez habilidades que sejam essenciais ou mais usadas por um membro dessa profissão. Isso também pode incluir uma opção "escolha uma (ou mais) dentre as seguintes", desde que o número total de habilidades disponíveis seja igual a dez.
 
-**Por exemplo, talvez você queira exercer uma profissão completamente nova: um tradutor profissional. Seu mestre de jogo concorda que essa é uma profissão única o suficiente para justificar uma nova descrição. Primeiro, vocês dois decidem que o nível de riqueza de um tradutor é geralmente Médio. Em segundo lugar, para as habilidades iniciais, vocês escolhem: Etiqueta, Conversa Rápida, Percepção, Conhecimento (Antropologia), Conhecimento (Linguística), Idioma (Próprio), Idioma (Outro), Ouvir, Persuadir, Pesquisar e Ensinar. A nova profissão está concluída e pronta para ser usada.*
+**Por exemplo,** talvez você queira exercer uma profissão completamente nova: um tradutor profissional. Seu mestre de jogo concorda que essa é uma profissão única o suficiente para justificar uma nova descrição. Primeiro, vocês dois decidem que o nível de riqueza de um tradutor é geralmente Médio. Em segundo lugar, para as habilidades iniciais, vocês escolhem: Etiqueta, Conversa Rápida, Percepção, Conhecimento (Antropologia), Conhecimento (Linguística), Idioma (Próprio), Idioma (Outro), Ouvir, Persuadir, Pesquisar e Ensinar. A nova profissão está concluída e pronta para ser usada.*

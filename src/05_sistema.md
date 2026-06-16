@@ -97,12 +97,12 @@ A chance básica de uma rolagem de resistência é igual a 50% + (característic
 
 Alguns usos específicos da tabela de resistência incluem:
 
-- Pontos de poder versus pontos de poder:** Os poderes que tentam influenciar ou controlar um alvo geralmente envolvem disputas de pontos de poder: o total atual de pontos de poder de seu personagem deve superar os pontos de poder atuais do alvo para que o poder tenha efeito.
-- Potência vs. CON:** Todas as doenças e venenos são medidos em termos de potência (POT) e comparam essa classificação com o CON do alvo para determinar os efeitos. Dependendo do veneno ou da doença, até mesmo uma falha na rolagem pode prejudicar o alvo.
-- POW vs. POW:** Uma disputa clássica de força de vontade. Além de vencer a rolagem de resistência, o sucesso em uma disputa de POW vs. POW dá ao personagem ativo a oportunidade de aumentar sua pontuação de POW se vencer contra um oponente de POW mais alto.
-- STR vs. STR:** Usado em braço de ferro, bem como em tentativas de abrir à força uma porta emperrada ou dobrar uma barra de ferro. Essas competições envolvem obstáculos inflexíveis, não pesados.
+- Pontos de poder versus pontos de poder**: Os poderes que tentam influenciar ou controlar um alvo geralmente envolvem disputas de pontos de poder: o total atual de pontos de poder de seu personagem deve superar os pontos de poder atuais do alvo para que o poder tenha efeito.
+- Potência vs. CON**: Todas as doenças e venenos são medidos em termos de potência (POT) e comparam essa classificação com o CON do alvo para determinar os efeitos. Dependendo do veneno ou da doença, até mesmo uma falha na rolagem pode prejudicar o alvo.
+- POW vs. POW**: Uma disputa clássica de força de vontade. Além de vencer a rolagem de resistência, o sucesso em uma disputa de POW vs. POW dá ao personagem ativo a oportunidade de aumentar sua pontuação de POW se vencer contra um oponente de POW mais alto.
+- STR vs. STR**: Usado em braço de ferro, bem como em tentativas de abrir à força uma porta emperrada ou dobrar uma barra de ferro. Essas competições envolvem obstáculos inflexíveis, não pesados.
 - Dano vs. CON**: Ataques de nocaute e golpes na cabeça comparam o dano rolado com a CON do alvo para determinar se o alvo está atordoado ou nocauteado.
-- STR+SIZ vs. STR+SIZ:** Ataques de prepotência tentam usar a massa e a força do atacante para derrubar o alvo.
+- STR+SIZ vs. STR+SIZ**: Ataques de prepotência tentam usar a massa e a força do atacante para derrubar o alvo.
 
 Seu mestre de jogo pode querer sempre permitir uma chance de fracasso quando um resultado de 00 for rolado, independentemente da classificação da habilidade. Da mesma forma, um 01 pode ser um sucesso, mesmo que improvável, embora isso deva estar dentro das capacidades de seu personagem.
 
@@ -154,10 +154,10 @@ Dois ou mais personagens podem tentar trabalhar juntos em uma ação, se for raz
 Sempre que trabalharem juntos em uma ação, escolha um personagem como líder. Todos os outros personagens que estiverem participando devem fazer rolagens de habilidade. Pegue o melhor resultado ou um "fumble", se ocorrer.
 
 - Sucesso crítico: modifica a classificação da habilidade do personagem principal em +50%.
-- Sucesso especial:** Modifica a classificação da habilidade em +30%.
-- Sucesso:** Modifica a classificação da habilidade em +20%.
-- Fracasso:** Se nenhum ajudante for bem-sucedido, a classificação de habilidade do personagem principal será modificada em -10%.
-- Fumble:** Um fumble de qualquer ajudante é tão perturbador que a habilidade primária é modificada em -50%.
+- Sucesso especial**: Modifica a classificação da habilidade em +30%.
+- Sucesso**: Modifica a classificação da habilidade em +20%.
+- Fracasso**: Se nenhum ajudante for bem-sucedido, a classificação de habilidade do personagem principal será modificada em -10%.
+- Fumble**: Um fumble de qualquer ajudante é tão perturbador que a habilidade primária é modificada em -50%.
 
 Um motivo para o uso cooperativo de habilidades é aumentar a chance de sucesso do personagem principal, bem como a chance de sucessos especiais e críticos.
 
@@ -183,7 +183,7 @@ Há muitas maneiras de lidar com rolagens opostas, e os métodos alternativos a 
 
 **Habilidades opostas usando o resultado mais bem-sucedido**
 
-Deixe todos os envolvidos na verificação de oposição rolarem normalmente (com quaisquer modificadores aplicáveis) e compare os resultados. O maior resultado obtido que não seja um sucesso crítico ou especial é o vencedor. **Por exemplo, se dois personagens têm a mesma classificação de habilidade de 87% e um rola 86 e o outro rola 22, a rolagem de 86 é a vencedora. Ambas as rolagens são bem-sucedidas, mas uma tem um resultado maior que a outra.
+Deixe todos os envolvidos na verificação de oposição rolarem normalmente (com quaisquer modificadores aplicáveis) e compare os resultados. O maior resultado obtido que não seja um sucesso crítico ou especial é o vencedor. **Por exemplo,** se dois personagens têm a mesma classificação de habilidade de 87% e um rola 86 e o outro rola 22, a rolagem de 86 é a vencedora. Ambas as rolagens são bem-sucedidas, mas uma tem um resultado maior que a outra.
 
 Quanto maior a habilidade de um personagem em uma ação tentada, maior a chance de ele derrotar oponentes menos habilidosos (mas ainda assim bem-sucedidos). Os empates são resolvidos comparando-se as classificações de habilidade não modificadas, sendo que a classificação de habilidade mais alta é a vencedora.
 
@@ -303,8 +303,8 @@ Qualquer uso de pontos de energia para isso é tratado normalmente, portanto, se
 Os usos dos pontos de energia podem ser expandidos conforme a vontade do seu mestre de jogo, com algumas das seguintes possibilidades:
 
 - Gaste 6 pontos de poder para mudar o resultado de uma rolagem para um resultado mais benéfico, como transformar uma falha em um fracasso, um fracasso em um sucesso normal, um sucesso normal em um sucesso especial ou um sucesso especial em um sucesso crítico. Isso só pode ser usado nas rolagens de seu personagem e não pode ser aplicado a dados que foram rolados novamente. Você pode fazer isso depois que os dados forem lançados e pode alterar o resultado em quantos níveis de resultado quiser gastar pontos de poder. Não importa qual tenha sido a rolagem inicial, o sucesso não dá direito a uma verificação de experiência.
-- Gaste pontos de poder iguais a todo o alcance de dano da sua arma para infligir o máximo de dano em um único golpe bem-sucedido. **Por exemplo, uma espada curta causa 1D6+1 de dano normalmente, portanto, ao gastar 7 pontos de poder, ela causa 7 pontos de dano (sem necessidade de rolagem), mais o modificador de dano, se aplicável. Isso custa toda a faixa de dano rolável da arma e não pode ser aumentado. O modificador de dano é rolado normalmente.*
-- Gaste um número variável de pontos de poder para adicionar um detalhe aos arredores, ao histórico ou aos recursos do seu personagem. Isso pode variar de um único ponto de poder para um pequeno detalhe a mais de 10 pontos de poder para uma vantagem significativa. **Por exemplo, "lembrar" de ter trazido um livro de fósforos quando fósforos seriam úteis pode custar apenas 1 ponto de poder. Entretanto, depois de ser desarmado e jogado em um poço, encontrar uma adaga enferrujada, mas utilizável, na pilha de ossos de vítimas anteriores pode custar pontos de poder iguais ao total de dano da adaga (5 pontos). Esses custos ficam a critério do seu gamemaster. Outros exemplos podem ser ter um contato que deve um favor ao seu personagem (1 a 3 pontos de poder, dependendo do tamanho do favor), conseguir encontrar roupas limpas penduradas em um varal sem supervisão (1 ponto de poder) ou até mesmo encontrar as chaves de um carro escondidas sobre o para-sol quando precisar de um veículo de fuga com pressa (6 pontos de poder).*
+- Gaste pontos de poder iguais a todo o alcance de dano da sua arma para infligir o máximo de dano em um único golpe bem-sucedido. **Por exemplo,** uma espada curta causa 1D6+1 de dano normalmente, portanto, ao gastar 7 pontos de poder, ela causa 7 pontos de dano (sem necessidade de rolagem), mais o modificador de dano, se aplicável. Isso custa toda a faixa de dano rolável da arma e não pode ser aumentado. O modificador de dano é rolado normalmente.*
+- Gaste um número variável de pontos de poder para adicionar um detalhe aos arredores, ao histórico ou aos recursos do seu personagem. Isso pode variar de um único ponto de poder para um pequeno detalhe a mais de 10 pontos de poder para uma vantagem significativa. **Por exemplo,** "lembrar" de ter trazido um livro de fósforos quando fósforos seriam úteis pode custar apenas 1 ponto de poder. Entretanto, depois de ser desarmado e jogado em um poço, encontrar uma adaga enferrujada, mas utilizável, na pilha de ossos de vítimas anteriores pode custar pontos de poder iguais ao total de dano da adaga (5 pontos). Esses custos ficam a critério do seu gamemaster. Outros exemplos podem ser ter um contato que deve um favor ao seu personagem (1 a 3 pontos de poder, dependendo do tamanho do favor), conseguir encontrar roupas limpas penduradas em um varal sem supervisão (1 ponto de poder) ou até mesmo encontrar as chaves de um carro escondidas sobre o para-sol quando precisar de um veículo de fuga com pressa (6 pontos de poder).*
 
 Seu mestre de jogo só deve usar essas opções se o objetivo for um jogo de alta aventura mais voltado para a ação com personagens mais resistentes e competentes, como super-heróis ou aventureiros de alta fantasia. Um cenário de terror não deve utilizar esse sistema, pois um componente fundamental do terror é a incapacidade de controlar o próprio destino, e um meio de manipular os resultados é contraproducente para esse fim.
 
@@ -441,7 +441,7 @@ As taxas de viagem acima pressupõem condições razoáveis de estrada ou trilha
 
 Esses modificadores se acumulam, mas são aplicados separadamente em ordem de gravidade em vez de serem somados. Quando as reduções forem diferentes, como 2/3 e 1/3, modifique a taxa de movimento com a penalidade de movimento mais grave primeiro, depois a segunda penalidade e as subsequentes. Elas nunca devem ser somadas, pois isso pode eliminar completamente a taxa de movimento.
 
-**Por exemplo, andar a cavalo por montanhas arborizadas reduz seu personagem a 2/3 da taxa de movimento normal para montanhas. Assim, 36 quilômetros de velocidade de movimento normal a cavalo são reduzidos em 12 quilômetros por dia. Esse total é novamente reduzido em mais 1/3 para o terreno da floresta, terminando em cerca de 8 quilômetros por dia de viagem.*
+**Por exemplo,** andar a cavalo por montanhas arborizadas reduz seu personagem a 2/3 da taxa de movimento normal para montanhas. Assim, 36 quilômetros de velocidade de movimento normal a cavalo são reduzidos em 12 quilômetros por dia. Esse total é novamente reduzido em mais 1/3 para o terreno da floresta, terminando em cerca de 8 quilômetros por dia de viagem.*
 
 **Incômodo
 
@@ -567,7 +567,7 @@ Seu personagem pode tentar treinar suas características, levando um tempo em ho
 
 No final do período de treinamento, role 1D3-1 e adicione o resultado ao valor atual dessa característica.
 
-**Por exemplo, se a força de resistência do seu personagem for 12, o número total de horas necessárias para aumentar a força de resistência é 300 horas (12×25=300). Ao final de 300 horas de estudo, você rola 1D3-1, com o resultado 1 (a rolagem é um 2, portanto 2-1= 1). A força de resistência de seu personagem agora é 13.*
+**Por exemplo,** se a força de resistência do seu personagem for 12, o número total de horas necessárias para aumentar a força de resistência é 300 horas (12×25=300). Ao final de 300 horas de estudo, você rola 1D3-1, com o resultado 1 (a rolagem é um 2, portanto 2-1= 1). A força de resistência de seu personagem agora é 13.*
 
 Você e seu gamemaster devem trabalhar juntos para determinar o tipo exato de treinamento necessário para obter esse aumento. Seu gamemaster pode permitir que o SIZ seja treinado, representando uma mudança radical na dieta ou nos exercícios para aumentar ou diminuir a massa (se não a altura, que geralmente não pode ser modificada sem cirurgia).
 

@@ -48,7 +48,7 @@ Conforme observado na **Etapa Oito** do *Capítulo 2: Personagens*, seu personag
 
 Cada profissão pode ter equipamentos adicionais, como o piloto, que pode começar o jogo com um avião, um navio ou até mesmo uma nave espacial, dependendo do cenário. Tente não escolher uma profissão somente pelo acesso a equipamentos - sua profissão deve fazer parte do personagem que você deseja interpretar, não a escolha social ou econômica mais vantajosa.
 
-**Por exemplo, se todos no grupo escolherem um nobre, o jogo pode se tornar obsoleto se todos os personagens usarem seus vastos recursos financeiros para acabar com os problemas.
+**Por exemplo,** se todos no grupo escolherem um nobre, o jogo pode se tornar obsoleto se todos os personagens usarem seus vastos recursos financeiros para acabar com os problemas.
 
 Além disso, você e o mestre do jogo devem considerar que a qualidade e a aparência do equipamento e das roupas do seu personagem provavelmente também refletirão a classificação de habilidade de status e a riqueza dele.
 
@@ -75,11 +75,11 @@ Por fim, há sempre o roubo ou a violência para obter um equipamento desejado. 
 
 Você pode querer que seu personagem comece com uma peça de equipamento com poderes, se eles forem usados no cenário. Se o seu mestre de jogo aprovar, seu personagem deve "pagar" por essa peça de equipamento com seu próprio orçamento inicial de poderes, seja em magias iniciais ou habilidades psíquicas, ao custo de uma mutação ou com o orçamento de poderes do seu personagem. Você pode começar com uma ou mais peças de equipamento que utilizem poderes, de acordo com as seguintes diretrizes:
 
-- Poderes mágicos:** Para começar a jogar com um item mágico, seu personagem deve sacrificar 1 ponto de POW permanente por feitiço investido no item, mais 1 ponto de POW permanente por nível de capacidade de feitiço que o item pode usar. Além disso, seu personagem deve conhecer (ou ter acesso a) o(s) feitiço(s) que o item pode usar. O item tem uma capacidade de pontos de energia igual ao total de pontos de energia normal de seu personagem após a criação do item mágico ou ao TAMANHO do item. Se o seu personagem não criou o item mágico, o mestre de jogo deve determinar a capacidade de pontos de energia dele. Um item mágico deve ter uma classificação de habilidade inicial paga com os pontos de habilidade pessoais de seu personagem e não pode ser maior do que a classificação de habilidade de seu criador. Se o seu personagem não o criou, o mestre de jogo deve determinar as classificações de habilidade iniciais. Quando o item mágico for criado, determine se ele é pessoal (somente seu personagem pode usá-lo), se deve ser derrotado em uma rolagem de resistência de pontos de poder vs. pontos de poder, se tiver pontos de poder, ou se qualquer pessoa pode usá-lo. Consulte Itens mágicos para obter mais informações.
-- Mutações:** Para começar com um item com mutações, trabalhe com o mestre de jogo para fornecer uma explicação razoável do motivo de tal item existir e quais mutações são melhores para representar suas habilidades. O item mutante é parte de seu personagem e deve ser pago com suas características iniciais e mutações disponíveis. Para começar a jogar com um item mutante, seu personagem deve sacrificar 1 ponto de CON permanente por nível da mutação (e um número igual de mutações iniciais disponíveis). Qualquer rolagem de característica feita pelo item é baseada nas características do seu personagem. Um item mutado é considerado "vivo" e se curará na mesma velocidade que seu personagem. Consulte **Itens mutados** para obter mais informações.
-- Habilidades psíquicas:** Para começar com um item que usa habilidades psíquicas, seu personagem deve sacrificar 1 ponto de POW permanente por nível da habilidade psíquica (e um "slot" de habilidade psíquica de suas habilidades psíquicas iniciais se a habilidade não for conhecida). O item tem um POW inicial (e um máximo de pontos de poder) igual ao do seu personagem. Seu personagem deve pagar os pontos de habilidade para as habilidades psíquicas do item de seu conjunto pessoal de pontos de habilidade. Consulte **Equipamentos com habilidades psíquicas** para obter mais informações.
-- Feitiçaria:** Para começar a jogar com um artefato, seu personagem deve sacrificar 1 ponto de POW permanente por feitiço de feitiçaria investido no artefato e deve conhecer (ou ter acesso a) o(s) feitiço(s) que o artefato pode usar. O artefato tem um reservatório de pontos de energia igual ao máximo de pontos de energia normal de seu personagem (após a criação do artefato), o que for maior. Seu gamemaster deve definir o POW e o valor de pontos de poder se o artefato não tiver sido criado por seu personagem. Quando o artefato for criado, você deve determinar se ele será pessoal (somente seu personagem pode usá-lo), se deve ser derrotado em uma rolagem de resistência de pontos de poder vs. pontos de poder, se tiver pontos de poder, ou se qualquer pessoa pode usá-lo. Consulte **Equipamentos com feitiçaria** para obter mais informações.
-- Superpoderes:** Para começar a jogar com uma engenhoca, pague pelos poderes da engenhoca como se fossem do orçamento de poder de seu próprio personagem. Recomenda-se que o gadget tenha o mesmo nível de poder de seu proprietário, embora o mestre de jogo possa permitir um gadget mais ou menos poderoso. Seu mestre de jogo também pode decidir mudar o nível relativo do dispositivo e do seu personagem para fins de equilíbrio, portanto, se o dispositivo for um nível mais alto do que o nível de poder da campanha, o nível de poder do seu personagem deve ser mudado um nível para baixo ou vice-versa. Você pode usar a falha de poder "A identidade superpoderosa deve ser ativada de maneira óbvia e evitável" associada ao item, geralmente um bônus de +1 no orçamento de poder. Outras falhas de poder podem se aplicar, como "O poder tem um número limitado de usos por dia". Além disso, o seu mestre de jogo pode permitir que você aceite uma nova falha de poder: "O poder vem de um dispositivo" para um bônus de +1 no orçamento de poder. Sempre que aplicável, o dispositivo deve depender da habilidade relevante de seu personagem. Consulte **Equipamentos com superpoderes** para obter mais informações.
+- Poderes mágicos**: Para começar a jogar com um item mágico, seu personagem deve sacrificar 1 ponto de POW permanente por feitiço investido no item, mais 1 ponto de POW permanente por nível de capacidade de feitiço que o item pode usar. Além disso, seu personagem deve conhecer (ou ter acesso a) o(s) feitiço(s) que o item pode usar. O item tem uma capacidade de pontos de energia igual ao total de pontos de energia normal de seu personagem após a criação do item mágico ou ao TAMANHO do item. Se o seu personagem não criou o item mágico, o mestre de jogo deve determinar a capacidade de pontos de energia dele. Um item mágico deve ter uma classificação de habilidade inicial paga com os pontos de habilidade pessoais de seu personagem e não pode ser maior do que a classificação de habilidade de seu criador. Se o seu personagem não o criou, o mestre de jogo deve determinar as classificações de habilidade iniciais. Quando o item mágico for criado, determine se ele é pessoal (somente seu personagem pode usá-lo), se deve ser derrotado em uma rolagem de resistência de pontos de poder vs. pontos de poder, se tiver pontos de poder, ou se qualquer pessoa pode usá-lo. Consulte Itens mágicos para obter mais informações.
+- Mutações**: Para começar com um item com mutações, trabalhe com o mestre de jogo para fornecer uma explicação razoável do motivo de tal item existir e quais mutações são melhores para representar suas habilidades. O item mutante é parte de seu personagem e deve ser pago com suas características iniciais e mutações disponíveis. Para começar a jogar com um item mutante, seu personagem deve sacrificar 1 ponto de CON permanente por nível da mutação (e um número igual de mutações iniciais disponíveis). Qualquer rolagem de característica feita pelo item é baseada nas características do seu personagem. Um item mutado é considerado "vivo" e se curará na mesma velocidade que seu personagem. Consulte **Itens mutados** para obter mais informações.
+- Habilidades psíquicas**: Para começar com um item que usa habilidades psíquicas, seu personagem deve sacrificar 1 ponto de POW permanente por nível da habilidade psíquica (e um "slot" de habilidade psíquica de suas habilidades psíquicas iniciais se a habilidade não for conhecida). O item tem um POW inicial (e um máximo de pontos de poder) igual ao do seu personagem. Seu personagem deve pagar os pontos de habilidade para as habilidades psíquicas do item de seu conjunto pessoal de pontos de habilidade. Consulte **Equipamentos com habilidades psíquicas** para obter mais informações.
+- Feitiçaria**: Para começar a jogar com um artefato, seu personagem deve sacrificar 1 ponto de POW permanente por feitiço de feitiçaria investido no artefato e deve conhecer (ou ter acesso a) o(s) feitiço(s) que o artefato pode usar. O artefato tem um reservatório de pontos de energia igual ao máximo de pontos de energia normal de seu personagem (após a criação do artefato), o que for maior. Seu gamemaster deve definir o POW e o valor de pontos de poder se o artefato não tiver sido criado por seu personagem. Quando o artefato for criado, você deve determinar se ele será pessoal (somente seu personagem pode usá-lo), se deve ser derrotado em uma rolagem de resistência de pontos de poder vs. pontos de poder, se tiver pontos de poder, ou se qualquer pessoa pode usá-lo. Consulte **Equipamentos com feitiçaria** para obter mais informações.
+- Superpoderes**: Para começar a jogar com uma engenhoca, pague pelos poderes da engenhoca como se fossem do orçamento de poder de seu próprio personagem. Recomenda-se que o gadget tenha o mesmo nível de poder de seu proprietário, embora o mestre de jogo possa permitir um gadget mais ou menos poderoso. Seu mestre de jogo também pode decidir mudar o nível relativo do dispositivo e do seu personagem para fins de equilíbrio, portanto, se o dispositivo for um nível mais alto do que o nível de poder da campanha, o nível de poder do seu personagem deve ser mudado um nível para baixo ou vice-versa. Você pode usar a falha de poder "A identidade superpoderosa deve ser ativada de maneira óbvia e evitável" associada ao item, geralmente um bônus de +1 no orçamento de poder. Outras falhas de poder podem se aplicar, como "O poder tem um número limitado de usos por dia". Além disso, o seu mestre de jogo pode permitir que você aceite uma nova falha de poder: "O poder vem de um dispositivo" para um bônus de +1 no orçamento de poder. Sempre que aplicável, o dispositivo deve depender da habilidade relevante de seu personagem. Consulte **Equipamentos com superpoderes** para obter mais informações.
 
 **Equipamento de fabricação
 
@@ -87,11 +87,11 @@ Seu personagem pode querer construir uma peça de equipamento, o que geralmente 
 
 Tradicionalmente, alguns itens não podem ser criados a partir de peças compradas em lojas, como a duplicação de peças de arte ou artefatos exclusivos como algo que não seja uma réplica. Embora as peças individuais possam ser baratas de fazer ou encontrar, a habilidade artesanal ou a raridade do item podem limitar suas opções. Se seu personagem não for habilidoso o suficiente ou falhar nas rolagens relevantes, o custo das matérias-primas e dos componentes pode até ser mais caro do que o item tradicionalmente é.
 
-**Por exemplo, tentar construir um carro com peças compradas no varejo é demorado e caro, além de custar muito mais dinheiro e tempo do que simplesmente comprar um carro. No entanto, se seu personagem for habilidoso e conseguir usar Barganha e Pesquisa com sucesso, ele poderá encontrar um ferro-velho ou conseguir garimpar todos os elementos necessários por um preço muito menor do que o preço pedido.
+**Por exemplo,** tentar construir um carro com peças compradas no varejo é demorado e caro, além de custar muito mais dinheiro e tempo do que simplesmente comprar um carro. No entanto, se seu personagem for habilidoso e conseguir usar Barganha e Pesquisa com sucesso, ele poderá encontrar um ferro-velho ou conseguir garimpar todos os elementos necessários por um preço muito menor do que o preço pedido.
 
 Em última análise, cabe ao seu mestre de jogo decidir quanto tempo é necessário para fabricar um determinado item. Se necessário, supondo que todo o equipamento necessário esteja disponível e que todas as rolagens de habilidade relevantes sejam bem-sucedidas: um item relativamente simples de ser fabricado requer uma hora por SIZ. Se for de complexidade média, cada SIZ requer um dia. Se for relativamente complexo, cada SIZ requer uma semana. Se for extremamente complexo, cada SIZ poderá levar um mês. Se mais de um personagem estiver trabalhando no item, divida o SIZ entre eles. Quando o trabalho tiver coberto o SIZ necessário do item, ele estará concluído. Use as tabelas de equivalência de SIZ.
 
-**Por exemplo, um escudo de alvo (SIZ 3) é relativamente fácil de construir e leva três horas. Um automóvel SIZ 50 é de complexidade média e leva 50 dias de trabalho para uma única pessoa ou 25 dias de trabalho para dois mecânicos montarem a partir de peças. Um avião de passageiros SIZ 110, entretanto, é extremamente complexo e levaria nove anos para ser concluído por um único personagem. Seu mestre de jogo é incentivado a modificar esses valores com base no equipamento, nas instalações e na qualidade dos sucessos obtidos. Para um projeto de longo prazo como esse, cada período de tempo (uma hora, um dia ou uma semana) requer uma rolagem de habilidade separada e bem-sucedida, se for necessária uma rolagem de habilidade.*
+**Por exemplo,** um escudo de alvo (SIZ 3) é relativamente fácil de construir e leva três horas. Um automóvel SIZ 50 é de complexidade média e leva 50 dias de trabalho para uma única pessoa ou 25 dias de trabalho para dois mecânicos montarem a partir de peças. Um avião de passageiros SIZ 110, entretanto, é extremamente complexo e levaria nove anos para ser concluído por um único personagem. Seu mestre de jogo é incentivado a modificar esses valores com base no equipamento, nas instalações e na qualidade dos sucessos obtidos. Para um projeto de longo prazo como esse, cada período de tempo (uma hora, um dia ou uma semana) requer uma rolagem de habilidade separada e bem-sucedida, se for necessária uma rolagem de habilidade.*
 
 Esses valores são abstratos, e seu mestre de jogo é incentivado a fornecer informações mais precisas sobre o tempo de fabricação, se desejar.
 
@@ -160,14 +160,14 @@ Muitas habilidades exigem equipamentos para serem usadas com sucesso ou são bas
 
 Alguns equipamentos têm valores de característica: sejam valores em todas as características, em algumas ou em apenas uma. Alguns não têm nenhum. Isso varia de item para item, mas se um item tiver uma qualidade que exija uma rolagem de resistência, ele deverá ter um valor característico. Para equipamentos com características, as diretrizes a seguir descrevem como esses valores funcionam quando aplicados a objetos:
 
-- Força (STR):** Um item com força (STR) deve ter algum meio de movimento. A força de resistência não é uma medida de quão resistente algo é à força de resistência: para obter esse valor, consulte o valor do ponto de vida ou da armadura. Itens com STR são veículos, equipamentos de construção como empilhadeiras ou escavadeiras, robôs ou até mesmo macacos hidráulicos.
-- Constituição (CON):** Um item com CON é raro - os totais de pontos de vida geralmente são baseados no tamanho bruto e modificados pelo valor da armadura. A menos que possa se curar ou seja afetado por doença, veneno etc., ele não precisa de CON. Exemplos de itens com CON seriam androides humanoides.
-- Tamanho (SIZ):** O SIZ é a principal característica de um item - quase tudo tem presença física e, portanto, SIZ. Conforme observado acima, para a maioria dos equipamentos, o TAM determina os valores de pontos de vida. Às vezes, um item terá mais pontos de vida com base no material de que é feito. Consulte **General Qualities of Objects** para saber mais sobre hit points, valor de armadura e outros atributos.
-- Inteligência (INT):** Rara em um item, a INT representa o pensamento, o que implica intuição e solução de problemas. A INT é improvável para itens que não sejam computadores ou inteligências artificiais, mas itens mágicos podem ter INT e personalidades associadas. O ideal é que um item com INT tenha algum meio de comunicação, como um visor, tela, voz, telepatia ou outro método de transmissão de informações.
-- Poder (POW):** O POW representa a energia espiritual e é quase exclusivo de seres vivos ou criações mágicas. Isso não representa uma fonte de energia - que é mecânica (uma reserva de ponto de energia) ou usa o superpoder Energia Extra.
-- **Dexteridade (DEX):** Qualquer item capaz de se movimentar independentemente deve ter DEX. Se um item com DEX precisar ser operado por seu personagem, use a DEX mais baixa de seu personagem ou do item.
-- Carisma (CHA):** Embora o CHA inclua elementos de personalidade e carisma pessoal, para um item ele pode ser o apelo estético ou pode representar que o item é capaz de se comunicar e encantar. O principal motivo para atribuir CHA a um item inanimado é comparar sua aparência com a de outro item.
-- Educação (EDU) (Opção):** Além de representar treinamento ou conhecimento baixado para um computador pensante, a EDU é mais bem usada para equipamentos com reservas de conhecimento. Normalmente, esse item adiciona um bônus à habilidade de Pesquisa do seu personagem ou pode tornar as rolagens de habilidade *Fáceis* ou *Difíceis*. Quando atribuído a um item, EDU representa os dados aos quais ele tem acesso imediato. Esse número se expande drasticamente com o advento do armazenamento de informações e do acesso on-line a bancos de dados.
+- Força (STR)**: Um item com força (STR) deve ter algum meio de movimento. A força de resistência não é uma medida de quão resistente algo é à força de resistência: para obter esse valor, consulte o valor do ponto de vida ou da armadura. Itens com STR são veículos, equipamentos de construção como empilhadeiras ou escavadeiras, robôs ou até mesmo macacos hidráulicos.
+- Constituição (CON)**: Um item com CON é raro - os totais de pontos de vida geralmente são baseados no tamanho bruto e modificados pelo valor da armadura. A menos que possa se curar ou seja afetado por doença, veneno etc., ele não precisa de CON. Exemplos de itens com CON seriam androides humanoides.
+- Tamanho (SIZ)**: O SIZ é a principal característica de um item - quase tudo tem presença física e, portanto, SIZ. Conforme observado acima, para a maioria dos equipamentos, o TAM determina os valores de pontos de vida. Às vezes, um item terá mais pontos de vida com base no material de que é feito. Consulte **General Qualities of Objects** para saber mais sobre hit points, valor de armadura e outros atributos.
+- Inteligência (INT)**: Rara em um item, a INT representa o pensamento, o que implica intuição e solução de problemas. A INT é improvável para itens que não sejam computadores ou inteligências artificiais, mas itens mágicos podem ter INT e personalidades associadas. O ideal é que um item com INT tenha algum meio de comunicação, como um visor, tela, voz, telepatia ou outro método de transmissão de informações.
+- Poder (POW)**: O POW representa a energia espiritual e é quase exclusivo de seres vivos ou criações mágicas. Isso não representa uma fonte de energia - que é mecânica (uma reserva de ponto de energia) ou usa o superpoder Energia Extra.
+- **Dexteridade (DEX)**: Qualquer item capaz de se movimentar independentemente deve ter DEX. Se um item com DEX precisar ser operado por seu personagem, use a DEX mais baixa de seu personagem ou do item.
+- Carisma (CHA)**: Embora o CHA inclua elementos de personalidade e carisma pessoal, para um item ele pode ser o apelo estético ou pode representar que o item é capaz de se comunicar e encantar. O principal motivo para atribuir CHA a um item inanimado é comparar sua aparência com a de outro item.
+- Educação (EDU) (Opção)**: Além de representar treinamento ou conhecimento baixado para um computador pensante, a EDU é mais bem usada para equipamentos com reservas de conhecimento. Normalmente, esse item adiciona um bônus à habilidade de Pesquisa do seu personagem ou pode tornar as rolagens de habilidade *Fáceis* ou *Difíceis*. Quando atribuído a um item, EDU representa os dados aos quais ele tem acesso imediato. Esse número se expande drasticamente com o advento do armazenamento de informações e do acesso on-line a bancos de dados.
 
 Conforme observado acima, não é essencial que cada peça de equipamento ou item tenha características, a menos que sejam necessárias. Se, no decorrer do jogo, você precisar de um valor que não tenha sido definido, gere-o com o lançamento de um número apropriado de D6s ou atribua a ele um valor baseado em equipamentos semelhantes.
 
@@ -198,7 +198,7 @@ Uma peça de equipamento pode ter propriedades acima e além de suas capacidades
 
 A seguir estão as diretrizes para equipamentos energizados, com base nos sistemas de energia do *Capítulo 4: Poderes*.
 
-**Itens mágicos:** Um equipamento com um ou mais feitiços mágicos é chamado de *item mágico*. Esse item parece mágico para qualquer pessoa capaz de detectar tais coisas e permite que o proprietário lance um feitiço mágico como se ele próprio fosse capaz de lançá-lo. O item mágico deve ter uma classificação de habilidade com o feitiço. A maioria dos itens mágicos tem uma capacidade própria de pontos de energia, enquanto os itens mágicos mais raros usam os pontos de energia do proprietário como reservatório.
+**Itens mágicos**: Um equipamento com um ou mais feitiços mágicos é chamado de *item mágico*. Esse item parece mágico para qualquer pessoa capaz de detectar tais coisas e permite que o proprietário lance um feitiço mágico como se ele próprio fosse capaz de lançá-lo. O item mágico deve ter uma classificação de habilidade com o feitiço. A maioria dos itens mágicos tem uma capacidade própria de pontos de energia, enquanto os itens mágicos mais raros usam os pontos de energia do proprietário como reservatório.
 
 - Um item mágico é inútil se atingir 0 pontos de energia, embora possa ser recarregado. Para recarregar um item mágico, o usuário pode mover 1 ponto de energia do seu corpo para o item mágico a cada rodada de combate.
 - Um item mágico pode conter até o dobro de seus pontos de energia máximos. Esses pontos de energia extras desaparecem como acontece com um personagem jogador.
@@ -209,7 +209,7 @@ A seguir estão as diretrizes para equipamentos energizados, com base nos sistem
 - Se um item mágico for destruído, todos os POW gastos nele serão perdidos.
 - Um item mágico pode ter uma ou mais magias permanentes vinculadas a ele que estejam sempre ativas, mas a criação desse item custa cinco vezes o custo normal de POW. Seu mestre de jogo deve determinar se um feitiço mágico pode ser lançado permanentemente em um item. Se esse item for criado, ele não exigirá pontos de energia e simplesmente estará sempre ativo com força total.
 
-**Itens mutados:** Itens com mutações são bastante raros, pois as mutações são tradicionalmente causadas por variações genéticas e poucos itens inanimados são criados por meio de manipulação genética.
+**Itens mutados**: Itens com mutações são bastante raros, pois as mutações são tradicionalmente causadas por variações genéticas e poucos itens inanimados são criados por meio de manipulação genética.
 
 - Um item pode ter uma ou mais mutações adversas.
 - O item tem os hit points normais (com base no SIZ) e outros atributos de uma versão normal, a menos que a mutação afete essas características.
@@ -218,12 +218,12 @@ A seguir estão as diretrizes para equipamentos energizados, com base nos sistem
 - Um item mutante pode ser usado por qualquer pessoa que faça uma rolagem de resistência bem-sucedida.
 - Qualquer CON e mutações investidos em um item mutado são perdidos se ele for destruído.
 
-**Equipamentos com habilidades psíquicas:** Os itens com habilidades psíquicas são incrivelmente raros, ainda mais do que os itens com mutações. Esses itens são inevitavelmente carregados com poder psíquico e devem ter pelo menos POW. Um personagem com qualquer habilidade psíquica reconhece automaticamente que um item tem habilidades psíquicas e, com uma rolagem de Ideia, pode utilizá-lo. Um personagem sem habilidades psíquicas só pode determinar se um item tem propriedades psíquicas com uma rolagem de Ideia bem-sucedida e deve derrotar o item em uma rolagem de resistência de ponto de poder vs. ponto de poder ou em uma rolagem de Sorte *Difícil*. O criador do item (ou seu gamemaster) decide quem pode usar o item.
+**Equipamentos com habilidades psíquicas**: Os itens com habilidades psíquicas são incrivelmente raros, ainda mais do que os itens com mutações. Esses itens são inevitavelmente carregados com poder psíquico e devem ter pelo menos POW. Um personagem com qualquer habilidade psíquica reconhece automaticamente que um item tem habilidades psíquicas e, com uma rolagem de Ideia, pode utilizá-lo. Um personagem sem habilidades psíquicas só pode determinar se um item tem propriedades psíquicas com uma rolagem de Ideia bem-sucedida e deve derrotar o item em uma rolagem de resistência de ponto de poder vs. ponto de poder ou em uma rolagem de Sorte *Difícil*. O criador do item (ou seu gamemaster) decide quem pode usar o item.
 
 - O item tem os pontos de vida normais (com base no tamanho) e outros atributos de uma versão normal desse item.
 - Os itens psíquicos não estão vivos e podem ser danificados. Eles não se curam naturalmente, mas podem ser consertados com uma rolagem de habilidade apropriada de Artesanato ou Reparo. Quando são destruídos, deixam de funcionar. Se um item psíquico for quebrado em mais de uma peça, o mestre do jogo decidirá qual peça, se houver, manterá a habilidade psíquica.
 
-**Equipamento com feitiçaria:** Um equipamento com um ou mais feitiços de feitiçaria é chamado de **artefato**. Esse artefato parece ter propriedades de feitiçaria para qualquer pessoa capaz de detectar tais coisas e permite que seu personagem lance um feitiço de feitiçaria como se ele próprio pudesse lançá-lo, ou o item tem o feitiço de feitiçaria lançado sobre si mesmo permanentemente. A maioria dos artefatos tem um reservatório de pontos de energia próprio, enquanto os artefatos mais raros utilizam os pontos de energia do próprio usuário.
+**Equipamento com feitiçaria**: Um equipamento com um ou mais feitiços de feitiçaria é chamado de **artefato**. Esse artefato parece ter propriedades de feitiçaria para qualquer pessoa capaz de detectar tais coisas e permite que seu personagem lance um feitiço de feitiçaria como se ele próprio pudesse lançá-lo, ou o item tem o feitiço de feitiçaria lançado sobre si mesmo permanentemente. A maioria dos artefatos tem um reservatório de pontos de energia próprio, enquanto os artefatos mais raros utilizam os pontos de energia do próprio usuário.
 
 - O criador de um artefato deve sacrificar 1 ponto de POW permanente por feitiço investido no artefato e deve conhecer ou ter acesso ao(s) feitiço(s) que o artefato pode usar.
 - O artefato tem um reservatório de pontos de poder igual aos pontos de poder normais de seu criador após ser criado ou ao seu TAM, o que for maior. Seu mestre de jogo deve definir o POW e a capacidade de pontos de poder se o criador do artefato for desconhecido ou for um personagem não jogador.
@@ -237,7 +237,7 @@ A seguir estão as diretrizes para equipamentos energizados, com base nos sistem
 
 Alguns artefatos têm feitiços permanentes vinculados a eles que estão sempre ativos. O custo de POW para criar esses itens é dobrado.
 
-**Equipamento com superpoderes:** Um equipamento com superpoderes é chamado de gadget. Os gadgets são os mais flexíveis de todos os tipos de itens energizados e podem se parecer com qualquer coisa, desde o mundano ou rudimentar até o extremamente avançado. A aparência de um gadget é totalmente cosmética e não tem nada a ver com sua função: ele pode brilhar, reluzir, emitir estranhos rastros de energia, ser gravado com runas antigas etc. Uma engenhoca não parece extraordinariamente poderosa a menos que o criador queira que ela pareça. Seu gamemaster deve definir o nível de poder do gadget usando as diretrizes de nível de poder da campanha apresentadas no *Capítulo 4: Poderes*. Seu mestre de jogo deve atribuir quaisquer níveis de superpoderes a qualquer dispositivo, conforme desejado, para se adequar ao cenário e aos requisitos do item.
+**Equipamento com superpoderes**: Um equipamento com superpoderes é chamado de gadget. Os gadgets são os mais flexíveis de todos os tipos de itens energizados e podem se parecer com qualquer coisa, desde o mundano ou rudimentar até o extremamente avançado. A aparência de um gadget é totalmente cosmética e não tem nada a ver com sua função: ele pode brilhar, reluzir, emitir estranhos rastros de energia, ser gravado com runas antigas etc. Uma engenhoca não parece extraordinariamente poderosa a menos que o criador queira que ela pareça. Seu gamemaster deve definir o nível de poder do gadget usando as diretrizes de nível de poder da campanha apresentadas no *Capítulo 4: Poderes*. Seu mestre de jogo deve atribuir quaisquer níveis de superpoderes a qualquer dispositivo, conforme desejado, para se adequar ao cenário e aos requisitos do item.
 
 As regras a seguir se aplicam aos gadgets:
 
@@ -248,12 +248,12 @@ As regras a seguir se aplicam aos gadgets:
 - Sempre que aplicável, o gadget deve confiar em suas próprias características. Se um poder exigir uma rolagem de resistência, a característica do gadget (se houver) deve ser usada. Se o gadget não tiver a característica relevante, ele falhará automaticamente na rolagem de resistência.
 - Sempre que aplicável, o gadget deve contar com a habilidade relevante de seu usuário.
 
-**Por exemplo, se o gadget for uma pistola, ele deve ser disparado com a habilidade Firearm (Arma de fogo). Se for um bracelete com energia cósmica que permite ao portador disparar rajadas radioativas, use a habilidade Projeção.
+**Por exemplo,** se o gadget for uma pistola, ele deve ser disparado com a habilidade Firearm (Arma de fogo). Se for um bracelete com energia cósmica que permite ao portador disparar rajadas radioativas, use a habilidade Projeção.
 
 - Seu gamemaster deve examinar todos os itens com superpoderes para ter certeza de que não estão com excesso de poder ou desequilibrados.
 - Os superpoderes investidos em um dispositivo são permanentes, a menos que o item seja destruído.
 
-**Equipamentos com vários tipos de poder:** O mestre de jogo pode querer criar um item energizado com vários tipos de poder, como um dispositivo que também seja um artefato, usando superpoderes e feitiçaria. Esses itens só devem estar disponíveis a critério do seu mestre de jogo. Os seguintes princípios se aplicam:
+**Equipamentos com vários tipos de poder**: O mestre de jogo pode querer criar um item energizado com vários tipos de poder, como um dispositivo que também seja um artefato, usando superpoderes e feitiçaria. Esses itens só devem estar disponíveis a critério do seu mestre de jogo. Os seguintes princípios se aplicam:
 
 - Quando possível, trate o item como se ele estivesse sendo criado como se fosse um jogador com vários tipos de poder.
 - Um item deve ter todas as características ou habilidades relevantes para usar os poderes que possui.
@@ -264,10 +264,10 @@ As regras a seguir se aplicam aos gadgets:
 
 Alguns tipos de equipamentos podem ter requisitos que precisam ser atendidos ou excedidos para serem usados pelo seu personagem. Um exemplo é o armamento, em que a maioria das armas tem um requisito mínimo de STR e DEX. Outros tipos de equipamentos são limitados de outras formas, como a alta demanda de pontos de fadiga do uso de armaduras e as penalidades de habilidade associadas a elas. Nenhum dos equipamentos básicos deste capítulo tem requisitos, embora o mestre de jogo possa facilmente introduzir uma restrição ao uso de um item de duas maneiras óbvias:
 
-- Características:** Assim como no caso das armas, um equipamento pode ser restringido por suas características. Em geral, é STR ou DEX, como no caso de armas, ou SIZ para armaduras, mas poderia facilmente ser POW para um item mágico, INT para um computador ou algum outro mínimo (ou máximo) baseado em características.
-- Habilidades:** Seu personagem pode achar que um equipamento específico é incompreensível ou inútil, a menos que sua habilidade esteja em um determinado nível. Normalmente, a habilidade representa uma compreensão da peça do equipamento e dos princípios sob os quais ele opera.
+- Características**: Assim como no caso das armas, um equipamento pode ser restringido por suas características. Em geral, é STR ou DEX, como no caso de armas, ou SIZ para armaduras, mas poderia facilmente ser POW para um item mágico, INT para um computador ou algum outro mínimo (ou máximo) baseado em características.
+- Habilidades**: Seu personagem pode achar que um equipamento específico é incompreensível ou inútil, a menos que sua habilidade esteja em um determinado nível. Normalmente, a habilidade representa uma compreensão da peça do equipamento e dos princípios sob os quais ele opera.
 
-**Por exemplo, um computador de diagnóstico pode exigir uma habilidade de pelo menos 50% em Técnico (Uso do Computador) para ser operado.
+**Por exemplo,** um computador de diagnóstico pode exigir uma habilidade de pelo menos 50% em Técnico (Uso do Computador) para ser operado.
 
 Recomenda-se que as restrições sejam usadas com parcimônia e somente se houver um motivo legítimo para elas existirem. Antes de atribuir uma restrição absoluta ao uso de um item, o mestre de jogo deve determinar se há algum meio de impor a restrição e se há alguma penalidade para o uso do item se o personagem não atender aos requisitos. Algumas penalidades possíveis incluem pontos de fadiga adicionais para usar, tornando qualquer rolagem de habilidade associada *difícil* ou exigindo uma rolagem de característica associada para evitar contratempos.
 
@@ -289,380 +289,380 @@ As armas descritas nesta seção são categorizadas de forma ampla por configura
 
 Cada arma tem os seguintes atributos:
 
-- Nome:** O nome comum da arma.
-- Habilidade:** A habilidade usada para empunhá-la.
-- Base:** A chance básica de usar a arma.
-- Dmg:** O dano causado pela arma. Um "+dm" indica o modificador de dano, e +½dm é a metade do modificador de dano (arredondado para cima).
-- Ataque:** Quantos ataques por rodada a arma permite?
-- **Especial:** Que tipo de sucesso especial a arma faz?
+- Nome**: O nome comum da arma.
+- Habilidade**: A habilidade usada para empunhá-la.
+- Base**: A chance básica de usar a arma.
+- Dmg**: O dano causado pela arma. Um "+dm" indica o modificador de dano, e +½dm é a metade do modificador de dano (arredondado para cima).
+- Ataque**: Quantos ataques por rodada a arma permite?
+- **Especial**: Que tipo de sucesso especial a arma faz?
 - Alcance: O alcance básico da arma. Em seu alcance básico, a habilidade não é modificada. A médio alcance (o dobro do alcance básico), o uso da habilidade se torna *Difícil* e, a longo alcance (quatro vezes o alcance básico), torna-se 1/5 da classificação normal da habilidade (igual à chance de um especial).
-- Mãos:** Quantas mãos a arma requer? 1H=uma mão, 2H=duas mãos.
+- Mãos**: Quantas mãos a arma requer? 1H=uma mão, 2H=duas mãos.
 - HP: Os pontos de vida da arma.
-- Parry:** A arma pode ser usada para parry?
-- Mal:** A arma funciona mal se isso for rolado (consulte **Malfunctions**). Se a arma não for uma arma de fogo, o mau funcionamento é algum outro contratempo que impede a reutilização imediata da arma.
+- Parry**: A arma pode ser usada para parry?
+- Mal**: A arma funciona mal se isso for rolado (consulte **Malfunctions**). Se a arma não for uma arma de fogo, o mau funcionamento é algum outro contratempo que impede a reutilização imediata da arma.
 - Munição: Quantas vezes a arma pode ser usada sem ser recarregada ou recarregada?
-- Valor:** Qual é o custo médio da arma em um cenário apropriado?
-- STR/DEX:** Qual é o mínimo de STR e DEX necessário para usar a arma?
-- SIZ/ENC:** O valor de SIZ e Encumbrance da arma.
-- RF:** (Opcional) Taxa de tiro (consulte **Volley Fire**). 1/\#CR significa que a arma é tão desajeitada que só pode ser usada uma vez por número (\#) de rodadas de combate. X/CR significa que ela pode ser usada X vezes por rodada de combate ao usar o fogo de vôlei.
+- Valor**: Qual é o custo médio da arma em um cenário apropriado?
+- STR/DEX**: Qual é o mínimo de STR e DEX necessário para usar a arma?
+- SIZ/ENC**: O valor de SIZ e Encumbrance da arma.
+- RF**: (Opcional) Taxa de tiro (consulte **Volley Fire**). 1/\#CR significa que a arma é tão desajeitada que só pode ser usada uma vez por número (\#) de rodadas de combate. X/CR significa que ela pode ser usada X vezes por rodada de combate ao usar o fogo de vôlei.
 
 **Descrições de armas**
 
 A seguir estão todas as armas das tabelas de armas corpo a corpo e mísseis, organizadas em ordem alfabética.
 
-**Arbalest:** Uma besta muito pesada, difícil de engatilhar e carregar, geralmente usada com um dispositivo chamado cranequin. Ela causa um dano tremendo quando acerta.
+**Arbalest**: Uma besta muito pesada, difícil de engatilhar e carregar, geralmente usada com um dispositivo chamado cranequin. Ela causa um dano tremendo quando acerta.
 
-**Machado de batalha:** Um machado de uma mão usado principalmente em combate. Pode ter uma ou duas lâminas.
+**Machado de batalha**: Um machado de uma mão usado principalmente em combate. Pode ter uma ou duas lâminas.
 
-**Machado grande:** Um machado grande, de duas mãos, que pode ter uma ou duas lâminas.
+**Machado grande**: Um machado grande, de duas mãos, que pode ter uma ou duas lâminas.
 
-**Machado de mão:** Pequeno machado de uma mão que pode ser arremessado ou usado com a mão. Pode ter uma ou duas lâminas. As versões com ferramentas são usadas para cortar madeira.
+**Machado de mão**: Pequeno machado de uma mão que pode ser arremessado ou usado com a mão. Pode ter uma ou duas lâminas. As versões com ferramentas são usadas para cortar madeira.
 
 **Machado Vibro: Um machado de cabo longo com uma ou duas lâminas montadas em um gerador na haste. As lâminas vibram em uma velocidade extraordinária, capaz de cortar a maioria das substâncias.
 
-**Machado de madeira:** Um machado de cabo longo que pode ser usado com uma ou duas mãos, com uma ou duas lâminas. Não foi criado para combate, mas às vezes é utilizado para isso.
+**Machado de madeira**: Um machado de cabo longo que pode ser usado com uma ou duas mãos, com uma ou duas lâminas. Não foi criado para combate, mas às vezes é utilizado para isso.
 
-**Blackjack:** Um pequeno saco de couro costurado cheio de algo pesado, como chumbo, usado para derrubar alguém ao atacar por trás. Também chamado de sap ou cosh.
+**Blackjack**: Um pequeno saco de couro costurado cheio de algo pesado, como chumbo, usado para derrubar alguém ao atacar por trás. Também chamado de sap ou cosh.
 
-**Pistola de sopro:** Um cano oco e reto de até um metro de comprimento usado para projetar pequenos dardos soprando em uma extremidade do cano. Esses dardos causam pouco dano, mas geralmente são envenenados.
+**Pistola de sopro**: Um cano oco e reto de até um metro de comprimento usado para projetar pequenos dardos soprando em uma extremidade do cano. Esses dardos causam pouco dano, mas geralmente são envenenados.
 
-**Bola:** Duas ou três bolas duras presas por uma corda ou corrente. Essa arma é lançada para enredar e derrubar um inimigo, sendo o dano uma preocupação secundária.
+**Bola**: Duas ou três bolas duras presas por uma corda ou corrente. Essa arma é lançada para enredar e derrubar um inimigo, sendo o dano uma preocupação secundária.
 
-**Boomerang:** Um bastão plano, em forma de ângulo, feito para ser lançado em um caminho curvo. Era tradicionalmente usada por caçadores aborígenes para atordoar ou matar pequenos animais.
+**Boomerang**: Um bastão plano, em forma de ângulo, feito para ser lançado em um caminho curvo. Era tradicionalmente usada por caçadores aborígenes para atordoar ou matar pequenos animais.
 
-**Arco composto:** Um arco feito de materiais que o tornam rígido e flexível. As versões históricas são feitas de madeira e chifre, e as variedades modernas são feitas com grafite e metais ultraleves.
+**Arco composto**: Um arco feito de materiais que o tornam rígido e flexível. As versões históricas são feitas de madeira e chifre, e as variedades modernas são feitas com grafite e metais ultraleves.
 
-**Bow, Long:** Um arco feito de uma única peça de madeira (como o famoso arco longo inglês) ou da mesma forma que um arco composto.
+**Bow, Long**: Um arco feito de uma única peça de madeira (como o famoso arco longo inglês) ou da mesma forma que um arco composto.
 
-**Arco, próprio:** Um arco básico feito de uma ou duas peças de madeira moldadas e curadas para evitar que se quebrem.
+**Arco, próprio**: Um arco básico feito de uma ou duas peças de madeira moldadas e curadas para evitar que se quebrem.
 
-**Punhos de latão:** Pesos de metal usados no punho para adicionar peso e uma borda dura aos socos.
+**Punhos de latão**: Pesos de metal usados no punho para adicionar peso e uma borda dura aos socos.
 
-**Cestus:** Luvas de boxe de metal, com um peso aninhado dentro da luva para maior impacto. Um antigo precursor das soqueiras.
+**Cestus**: Luvas de boxe de metal, com um peso aninhado dentro da luva para maior impacto. Um antigo precursor das soqueiras.
 
-**Motosserra:** Ferramenta de corte de madeira que consiste em uma corrente afiada acionada para girar em alta velocidade em torno de uma lâmina de metal plana.
+**Motosserra**: Ferramenta de corte de madeira que consiste em uma corrente afiada acionada para girar em alta velocidade em torno de uma lâmina de metal plana.
 
 **Garra: Uma arma com lâminas em forma de garras de animais, geralmente segurada na mão com as lâminas atravessadas nos dedos ou usada nas costas da mão.
 
-**Club, Heavy:** Uma peça longa e pesada de madeira ou metal. Isso também descreve um pé de cabra.
+**Club, Heavy**: Uma peça longa e pesada de madeira ou metal. Isso também descreve um pé de cabra.
 
-**Club, Light:** Uma versão mais leve do taco pesado. Pode ser um taco de beisebol, uma chave de roda, uma lâmpada, uma perna de cadeira ou um cassetete.
+**Club, Light**: Uma versão mais leve do taco pesado. Pode ser um taco de beisebol, uma chave de roda, uma lâmpada, uma perna de cadeira ou um cassetete.
 
-**Besta, pesada:** Essa besta deve ser armada por um aparato de alavanca. Mais fácil de carregar do que uma arbalest, mas menos potente.
+**Besta, pesada**: Essa besta deve ser armada por um aparato de alavanca. Mais fácil de carregar do que uma arbalest, mas menos potente.
 
-**Besta leve:** Essa besta pode ser armada com a mão e é usada principalmente para caça ou furtividade, e não no campo de batalha.
+**Besta leve**: Essa besta pode ser armada com a mão e é usada principalmente para caça ou furtividade, e não no campo de batalha.
 
-**Besta, Média:** Essa besta é armada enganchando uma extremidade com um pé e usando um mecanismo de garra para puxar a corda para trás.
+**Besta, Média**: Essa besta é armada enganchando uma extremidade com um pé e usando um mecanismo de garra para puxar a corda para trás.
 
-**Besta de repetição:** Uma besta complexa com um carregador de flechas que pode ser disparado tão rapidamente quanto um arco pode ser disparado. Quando o carregador se esgota, a besta de repetição leva pelo menos seis rodadas de combate para ser recarregada.
+**Besta de repetição**: Uma besta complexa com um carregador de flechas que pode ser disparado tão rapidamente quanto um arco pode ser disparado. Quando o carregador se esgota, a besta de repetição leva pelo menos seis rodadas de combate para ser recarregada.
 
-**Adaga:** Uma arma de lâmina curta, geralmente com menos de 40 centímetros de comprimento, afiada em uma ou ambas as bordas.
+**Adaga**: Uma arma de lâmina curta, geralmente com menos de 40 centímetros de comprimento, afiada em uma ou ambas as bordas.
 
-**Dardo:** Pontas curtas e pesadas, adequadas para arremesso, com penas ou simples. São frequentemente usados para administrar veneno.
+**Dardo**: Pontas curtas e pesadas, adequadas para arremesso, com penas ou simples. São frequentemente usados para administrar veneno.
 
-**Detonador, antimatéria:** Talvez o mais potente explosivo em escala pessoal, ele pode destruir tudo em um raio apertado. São usados com temporizadores, detonadores remotos codificados e bases magnéticas.
+**Detonador, antimatéria**: Talvez o mais potente explosivo em escala pessoal, ele pode destruir tudo em um raio apertado. São usados com temporizadores, detonadores remotos codificados e bases magnéticas.
 
-**Detonador, pulso eletromagnético:** Em vez de explodir, esse dispositivo emite um pulso eletromagnético (PEM) projetado para interromper dispositivos elétricos e circuitos eletrônicos. Ao contrário do PEM gerado como efeito secundário de uma arma nuclear, esse é um pulso eletromagnético não nuclear, que perturba apenas os dispositivos eletrônicos.
+**Detonador, pulso eletromagnético**: Em vez de explodir, esse dispositivo emite um pulso eletromagnético (PEM) projetado para interromper dispositivos elétricos e circuitos eletrônicos. Ao contrário do PEM gerado como efeito secundário de uma arma nuclear, esse é um pulso eletromagnético não nuclear, que perturba apenas os dispositivos eletrônicos.
 
-**Detonador, Fusão:** Uma bomba subnuclear extremamente poderosa, capaz de imensa força destrutiva. Vem com um cronômetro, um detonador remoto codificado e uma base magnética.
+**Detonador, Fusão**: Uma bomba subnuclear extremamente poderosa, capaz de imensa força destrutiva. Vem com um cronômetro, um detonador remoto codificado e uma base magnética.
 
-**Detonador de plasma:** Um explosivo capaz de gerar e pulverizar uma carga de plasma, o estado intermediário superaquecido entre o gás e o líquido. Eles vêm com temporizadores, detonadores remotos codificados e bases magnéticas.
+**Detonador de plasma**: Um explosivo capaz de gerar e pulverizar uma carga de plasma, o estado intermediário superaquecido entre o gás e o líquido. Eles vêm com temporizadores, detonadores remotos codificados e bases magnéticas.
 
-**Detonador, Sônico:** Um dispositivo que emite um pulso sônico destrutivo e concussivo que pode estilhaçar vidro e outras matérias frágeis, além de atordoar qualquer alvo vivo que esteja em seu raio de ação.
+**Detonador, Sônico**: Um dispositivo que emite um pulso sônico destrutivo e concussivo que pode estilhaçar vidro e outras matérias frágeis, além de atordoar qualquer alvo vivo que esteja em seu raio de ação.
 
-**Explosivo, detonador:** Um pequeno explosivo usado para detonar um explosivo maior. Os mais antigos usavam fusíveis, enquanto os mais novos usam eletricidade ou métodos mais sofisticados para detonar o explosivo.
+**Explosivo, detonador**: Um pequeno explosivo usado para detonar um explosivo maior. Os mais antigos usavam fusíveis, enquanto os mais novos usam eletricidade ou métodos mais sofisticados para detonar o explosivo.
 
-**Explosivo, Dinamite:** Bastões de explosivo químico embebidos em um sólido como serragem, embrulhados em papel grosso e inflamados por faíscas de um fusível ou por uma explosão menor de um detonador. Isso é altamente perigoso, pois tende a "suar" nitroglicerina e se torna instável quando deixado sozinho por muito tempo.
+**Explosivo, Dinamite**: Bastões de explosivo químico embebidos em um sólido como serragem, embrulhados em papel grosso e inflamados por faíscas de um fusível ou por uma explosão menor de um detonador. Isso é altamente perigoso, pois tende a "suar" nitroglicerina e se torna instável quando deixado sozinho por muito tempo.
 
-**Explosivo improvisado:** Geralmente uma bomba de cano, descreve qualquer número de pequenos explosivos químicos caseiros.
+**Explosivo improvisado**: Geralmente uma bomba de cano, descreve qualquer número de pequenos explosivos químicos caseiros.
 
-**Explosivo plástico:** Um explosivo químico moderno misturado com uma substância como petróleo ou cera em uma forma plástica maleável, semelhante a uma massa, que pode ser moldada e modelada conforme necessário. Usado com um cronômetro e geralmente acionado com uma carga elétrica. Também chamado de plástico.
+**Explosivo plástico**: Um explosivo químico moderno misturado com uma substância como petróleo ou cera em uma forma plástica maleável, semelhante a uma massa, que pode ser moldada e modelada conforme necessário. Usado com um cronômetro e geralmente acionado com uma carga elétrica. Também chamado de plástico.
 
-**Punho:** Um ataque desarmado usando a habilidade Brawl.
+**Punho**: Um ataque desarmado usando a habilidade Brawl.
 
-**Mangual:** Uma cabeça de mangual montada na extremidade de uma corrente curta conectada a uma haste de cerca de um metro de comprimento ou mais.
+**Mangual**: Uma cabeça de mangual montada na extremidade de uma corrente curta conectada a uma haste de cerca de um metro de comprimento ou mais.
 
 **Estrela da Manhã: Uma arma medieval com um cabo, uma corrente e uma bola com espinhos na extremidade. Algumas não têm espinhos e são simplesmente bolas pesadas ou cravejadas na extremidade das correntes.
 
-**Lança-chamas:** Um tanque cheio de um produto químico altamente combustível acoplado a um projetor/ignitor que pulveriza jatos de líquido flamejante. Os lança-chamas também podem ser usados para encharcar uma área ou um item com esse produto químico inflamável sem incendiá-lo. Incrivelmente perigoso devido ao curto alcance, ao período limitado de uso e à possibilidade de se incendiar. Os lança-chamas podem explodir quando o tanque é atingido, causando o dobro de dano rolado a todos em um raio de cinco metros do usuário. Faça um teste de Sorte para evitar isso.
+**Lança-chamas**: Um tanque cheio de um produto químico altamente combustível acoplado a um projetor/ignitor que pulveriza jatos de líquido flamejante. Os lança-chamas também podem ser usados para encharcar uma área ou um item com esse produto químico inflamável sem incendiá-lo. Incrivelmente perigoso devido ao curto alcance, ao período limitado de uso e à possibilidade de se incendiar. Os lança-chamas podem explodir quando o tanque é atingido, causando o dobro de dano rolado a todos em um raio de cinco metros do usuário. Faça um teste de Sorte para evitar isso.
 
-**Garrote:** Uma corda curta usada para estrangular, seja um cabo de metal fino, uma corda cerimonial ou o uso improvisado de um lenço ou cinto.
+**Garrote**: Uma corda curta usada para estrangular, seja um cabo de metal fino, uma corda cerimonial ou o uso improvisado de um lenço ou cinto.
 
-**Manopla, Blindada:** Uma manopla de metal usada com ou sem armadura, que adiciona dano a golpes bem-sucedidos com a habilidade Brawl.
+**Manopla, Blindada**: Uma manopla de metal usada com ou sem armadura, que adiciona dano a golpes bem-sucedidos com a habilidade Brawl.
 
-**Grapple:** Um ataque desarmado que usa a habilidade Grapple.
+**Grapple**: Um ataque desarmado que usa a habilidade Grapple.
 
-**Granada de antimatéria:** Um dispositivo explosivo pequeno, mas extraordinariamente poderoso, acionado e lançado contra inimigos, itens ou estruturas. Embora contenham quantidades infinitamente pequenas de antimatéria, essas granadas geralmente são disparadas de lançadores, pois são tão destrutivas que é difícil lançá-las fora de seu próprio raio de explosão.
+**Granada de antimatéria**: Um dispositivo explosivo pequeno, mas extraordinariamente poderoso, acionado e lançado contra inimigos, itens ou estruturas. Embora contenham quantidades infinitamente pequenas de antimatéria, essas granadas geralmente são disparadas de lançadores, pois são tão destrutivas que é difícil lançá-las fora de seu próprio raio de explosão.
 
-**Granada de concussão:** Um pequeno dispositivo explosivo acionado e arremessado contra inimigos ou em áreas fechadas, onde pode atordoar os que forem pegos no raio da explosão. Às vezes chamada de granada de atordoamento.
+**Granada de concussão**: Um pequeno dispositivo explosivo acionado e arremessado contra inimigos ou em áreas fechadas, onde pode atordoar os que forem pegos no raio da explosão. Às vezes chamada de granada de atordoamento.
 
-**Granada desintegradora:** Uma granada capaz de desintegrar toda a matéria (ou quebrar ligações moleculares) no raio da explosão. Altamente perigosas, as granadas desintegradoras geralmente são usadas apenas como armas de último recurso.
+**Granada desintegradora**: Uma granada capaz de desintegrar toda a matéria (ou quebrar ligações moleculares) no raio da explosão. Altamente perigosas, as granadas desintegradoras geralmente são usadas apenas como armas de último recurso.
 
-**Granada, pulso eletromagnético:** Uma granada com capacidade de pulso eletromagnético. Quando lançada em um alvo metálico, a superfície magnética adiciona +20% à sua chance de acertar com sucesso.
+**Granada, pulso eletromagnético**: Uma granada com capacidade de pulso eletromagnético. Quando lançada em um alvo metálico, a superfície magnética adiciona +20% à sua chance de acertar com sucesso.
 
-**Granada, explosivo:** Um pequeno explosivo acionado e lançado, resultando em uma explosão de força concussiva e estilhaços.
+**Granada, explosivo**: Um pequeno explosivo acionado e lançado, resultando em uma explosão de força concussiva e estilhaços.
 
-**Granada, sinalizador:** Um bastão de produtos químicos inflamáveis acionado e arremessado para iluminar áreas escuras ou fornecer marcação de luz para alvos aéreos.
+**Granada, sinalizador**: Um bastão de produtos químicos inflamáveis acionado e arremessado para iluminar áreas escuras ou fornecer marcação de luz para alvos aéreos.
 
-**Granada de fusão:** Um dispositivo subnuclear extremamente potente, capaz de uma força destrutiva imensa. As granadas de fusão só são disparadas de lançadores ou arremessadas em situações em que o usuário tem tempo suficiente para sair do alcance da explosão.
+**Granada de fusão**: Um dispositivo subnuclear extremamente potente, capaz de uma força destrutiva imensa. As granadas de fusão só são disparadas de lançadores ou arremessadas em situações em que o usuário tem tempo suficiente para sair do alcance da explosão.
 
 **Granada de gás: Um pequeno dispositivo químico explosivo acionado e arremessado ou rolado, que emite um gás tóxico ou prejudicial. Eles podem ser preenchidos com uma variedade de gases (mostarda, lacrimogêneo, nocaute, etc.).
 
-**Granada, coquetel molotov:** Explosivo improvisado feito de uma garrafa e um fusível, aceso e arremessado, geralmente para incendiar a garrafa ou o fusível.
+**Granada, coquetel molotov**: Explosivo improvisado feito de uma garrafa e um fusível, aceso e arremessado, geralmente para incendiar a garrafa ou o fusível.
 
-**Granada, fósforo:** Um pequeno dispositivo explosivo químico acionado e lançado. Ele emite um fogo químico altamente inflamável que pode derreter equipamentos e incendiar objetos, ou simplesmente iluminar uma área escura para a equipe de terra ou para a mira de aeronaves.
+**Granada, fósforo**: Um pequeno dispositivo explosivo químico acionado e lançado. Ele emite um fogo químico altamente inflamável que pode derreter equipamentos e incendiar objetos, ou simplesmente iluminar uma área escura para a equipe de terra ou para a mira de aeronaves.
 
-**Granada, Plasma:** Uma granada que usa tecnologia de plasma. Extremamente explosiva e capaz de causar imensa destruição e fogo.
+**Granada, Plasma**: Uma granada que usa tecnologia de plasma. Extremamente explosiva e capaz de causar imensa destruição e fogo.
 
 **Granada de choque: Uma granada que libera uma carga elétrica, equipada com superfícies magnéticas para aderir a qualquer superfície metálica em que for lançada. Quando lançada em um alvo metálico, a superfície magnética adiciona +20% à sua chance de acertar com sucesso.
 
-**Granada, estilhaços:** Um pequeno dispositivo explosivo acionado e arremessado contra os inimigos, configurado para emitir estilhaços mortais que perfuram a carne.
+**Granada, estilhaços**: Um pequeno dispositivo explosivo acionado e arremessado contra os inimigos, configurado para emitir estilhaços mortais que perfuram a carne.
 
-**Granada, Fumaça:** Uma granada de gás (veja acima) que emite uma fumaça inofensiva, mas encobridora.
+**Granada, Fumaça**: Uma granada de gás (veja acima) que emite uma fumaça inofensiva, mas encobridora.
 
-**Granada, Sônica:** Uma granada que usa a tecnologia de pulso sônico que emite uma explosão sônica de alta frequência para desativar ou distrair alvos.
+**Granada, Sônica**: Uma granada que usa a tecnologia de pulso sônico que emite uma explosão sônica de alta frequência para desativar ou distrair alvos.
 
-**Granada, atordoamento:** Uma granada que emite uma explosão levemente concussiva projetada especificamente para atordoar ou desativar temporariamente os alvos.
+**Granada, atordoamento**: Uma granada que emite uma explosão levemente concussiva projetada especificamente para atordoar ou desativar temporariamente os alvos.
 
-**Arma, máquina:** Uma arma de fogo de repetição rápida com configurações de gatilho para disparo único, rajadas curtas e disparo automático total.
+**Arma, máquina**: Uma arma de fogo de repetição rápida com configurações de gatilho para disparo único, rajadas curtas e disparo automático total.
 
-**Gun, Mini-:** Uma metralhadora pesada no estilo Gatling, geralmente montada em helicópteros ou veículos. O requisito de STR é se for empunhada na mão.
+**Gun, Mini-**: Uma metralhadora pesada no estilo Gatling, geralmente montada em helicópteros ou veículos. O requisito de STR é se for empunhada na mão.
 
-**Metralhadora, submetralhadora:** Uma metralhadora pequena, projetada para ser usada com uma só mão.
+**Metralhadora, submetralhadora**: Uma metralhadora pequena, projetada para ser usada com uma só mão.
 
-**Halberd:** Uma cabeça de machado larga em uma haste de dois metros. Comumente usado por guardas municipais medievais ou contra inimigos montados.
+**Halberd**: Uma cabeça de machado larga em uma haste de dois metros. Comumente usado por guardas municipais medievais ou contra inimigos montados.
 
-**Martelo:** Uma ferramenta doméstica comum usada para carpintaria ou uma pequena arma militar de uma mão com uma cabeça de ataque.
+**Martelo**: Uma ferramenta doméstica comum usada para carpintaria ou uma pequena arma militar de uma mão com uma cabeça de ataque.
 
-**Hammer, Great:** Um martelo enorme usado com as duas mãos.
+**Hammer, Great**: Um martelo enorme usado com as duas mãos.
 
-**Hammer, Sledge:** Ferramenta pesada usada por trabalhadores da construção civil e equipes de demolição, usada com as duas mãos.
+**Hammer, Sledge**: Ferramenta pesada usada por trabalhadores da construção civil e equipes de demolição, usada com as duas mãos.
 
-**Martelo de guerra:** Projetada como um martelo, essa arma geralmente tem um espigão em vez de uma cabeça chata, ideal para perfurar armaduras.
+**Martelo de guerra**: Projetada como um martelo, essa arma geralmente tem um espigão em vez de uma cabeça chata, ideal para perfurar armaduras.
 
-**Head Butt:** Um ataque desarmado que usa a habilidade Brawl.
+**Head Butt**: Um ataque desarmado que usa a habilidade Brawl.
 
-**Javelin:** Uma lança curta usada com uma ou duas mãos ou para arremesso.
+**Javelin**: Uma lança curta usada com uma ou duas mãos ou para arremesso.
 
-**Katana:** Espada longa de um único gume e levemente curvada, usada com uma ou duas mãos, fetichizada por seu acabamento e afiação.
+**Katana**: Espada longa de um único gume e levemente curvada, usada com uma ou duas mãos, fetichizada por seu acabamento e afiação.
 
-**Chute:** Um ataque desarmado que usa a habilidade Brawl.
+**Chute**: Um ataque desarmado que usa a habilidade Brawl.
 
-**Faca:** Uma ferramenta adequada para comer, cortar, defender ou assassinar de improviso. Como uma adaga, embora mais leve e menos durável.
+**Faca**: Uma ferramenta adequada para comer, cortar, defender ou assassinar de improviso. Como uma adaga, embora mais leve e menos durável.
 
-**Faca de açougueiro:** Uma faca de cozinha grande e pesada, adequada para cortar grandes pedaços de carne com um único golpe.
+**Faca de açougueiro**: Uma faca de cozinha grande e pesada, adequada para cortar grandes pedaços de carne com um único golpe.
 
-**Faca de bolso:** Uma pequena faca dobrável, geralmente com várias lâminas.
+**Faca de bolso**: Uma pequena faca dobrável, geralmente com várias lâminas.
 
-**Faca, canivete:** Um canivete retrátil.
+**Faca, canivete**: Um canivete retrátil.
 
-**Faca de arremesso:** Uma faca balanceada para arremesso, geralmente sem cabo.
+**Faca de arremesso**: Uma faca balanceada para arremesso, geralmente sem cabo.
 
-**Faca, Vibro:** Uma lâmina de faca de alta tecnologia inserida em um punho mecânico, que vibra em uma velocidade extremamente alta. Extraordinariamente afiada, a vibração acrescenta força de cisalhamento adicional até mesmo em cortes leves.
+**Faca, Vibro**: Uma lâmina de faca de alta tecnologia inserida em um punho mecânico, que vibra em uma velocidade extremamente alta. Extraordinariamente afiada, a vibração acrescenta força de cisalhamento adicional até mesmo em cortes leves.
 
-**Lança:** Uma lança longa usada com uma só mão a cavalo. Enquanto estiver montado, o atacante usa o modificador de dano da montaria no lugar do seu próprio modificador. As lanças também podem ser usadas a pé como uma lança de duas mãos, com seu modificador de dano normal.
+**Lança**: Uma lança longa usada com uma só mão a cavalo. Enquanto estiver montado, o atacante usa o modificador de dano da montaria no lugar do seu próprio modificador. As lanças também podem ser usadas a pé como uma lança de duas mãos, com seu modificador de dano normal.
 
-**Lança de atordoamento:** Uma arma em forma de bastão com um bastão elétrico carregado em uma extremidade. Algumas lanças de atordoamento têm bastões em ambas as extremidades.
+**Lança de atordoamento**: Uma arma em forma de bastão com um bastão elétrico carregado em uma extremidade. Algumas lanças de atordoamento têm bastões em ambas as extremidades.
 
-**Laço:** O laço tradicional usado para a condução de gado. Ele não causa dano, mas imobiliza o alvo usando as regras de enredamento.
+**Laço**: O laço tradicional usado para a condução de gado. Ele não causa dano, mas imobiliza o alvo usando as regras de enredamento.
 
-**Lançador de granada:** Um lançador portátil ou estacionário que dispara granadas a grandes distâncias. Pode ser uma pequena plataforma, um lançador portátil em forma de arma de fogo ou acoplado a outra arma de fogo.
+**Lançador de granada**: Um lançador portátil ou estacionário que dispara granadas a grandes distâncias. Pode ser uma pequena plataforma, um lançador portátil em forma de arma de fogo ou acoplado a outra arma de fogo.
 
-**Lançador, foguete LAW:** Um lançador de foguetes leve e descartável de disparo único, também conhecido como arma antitanque leve (LAW).
+**Lançador, foguete LAW**: Um lançador de foguetes leve e descartável de disparo único, também conhecido como arma antitanque leve (LAW).
 
-**Lançador, foguete:** Um pequeno tubo e uma plataforma montados no campo de batalha, usados para disparar foguetes com mais precisão.
+**Lançador, foguete**: Um pequeno tubo e uma plataforma montados no campo de batalha, usados para disparar foguetes com mais precisão.
 
-**Maça, pesada:** Uma haste com um peso pesado para a cabeça, com espigões, flanges, tachas ou simples.
+**Maça, pesada**: Uma haste com um peso pesado para a cabeça, com espigões, flanges, tachas ou simples.
 
-**Maça, leve:** Uma haste com peso leve usada para bater e esmagar.
+**Maça, leve**: Uma haste com peso leve usada para bater e esmagar.
 
-**Maul, War:** Um martelo de duas cabeças com cabo longo usado com as duas mãos.
+**Maul, War**: Um martelo de duas cabeças com cabo longo usado com as duas mãos.
 
-**Mina, antipessoal:** Uma mina terrestre construída principalmente para ferir em vez de matar (maximizando a dificuldade para o inimigo).
+**Mina, antipessoal**: Uma mina terrestre construída principalmente para ferir em vez de matar (maximizando a dificuldade para o inimigo).
 
-**Mina antitanque:** Uma mina feita para danificar as esteiras dos tanques ou os veículos inimigos.
+**Mina antitanque**: Uma mina feita para danificar as esteiras dos tanques ou os veículos inimigos.
 
-**Naginata:** Uma lança longa com uma cabeça semelhante a uma espada, usada para ataques de corte e de empuxo.
+**Naginata**: Uma lança longa com uma cabeça semelhante a uma espada, usada para ataques de corte e de empuxo.
 
-**Rede:** Uma malha solta de corda trançada usada para capturar animais ou alvos maiores. Embora redes menores sejam usadas para caça pequena, a rede descrita aqui é grande o suficiente para ser usada contra humanos.
+**Rede**: Uma malha solta de corda trançada usada para capturar animais ou alvos maiores. Embora redes menores sejam usadas para caça pequena, a rede descrita aqui é grande o suficiente para ser usada contra humanos.
 
-**Pique:** Uma lança longa (3 a 5 metros) usada em combate de formação. Também é comum em guardas municipais e na defesa de castelos. As lanças são a melhor defesa (com exceção de uma fuzilaria) contra um ataque de cavalaria.
+**Pique**: Uma lança longa (3 a 5 metros) usada em combate de formação. Também é comum em guardas municipais e na defesa de castelos. As lanças são a melhor defesa (com exceção de uma fuzilaria) contra um ataque de cavalaria.
 
-**Pistola, Blaster:** Uma pistola que dispara uma explosão curta de energia, geralmente plasma, queimando o alvo e causando concussão. As pistolas blaster geralmente são alimentadas por clipes que contêm combustíveis químicos exóticos.
+**Pistola, Blaster**: Uma pistola que dispara uma explosão curta de energia, geralmente plasma, queimando o alvo e causando concussão. As pistolas blaster geralmente são alimentadas por clipes que contêm combustíveis químicos exóticos.
 
-**Pistola, Derringer:** Uma pequena pistola de mão, geralmente do tamanho da palma da mão. Facilmente ocultável, com baixa capacidade de munição. Algumas são de um ou dois tiros, outras têm pequenos carregadores. Às vezes, é chamada de pistola de "assalto".
+**Pistola, Derringer**: Uma pequena pistola de mão, geralmente do tamanho da palma da mão. Facilmente ocultável, com baixa capacidade de munição. Algumas são de um ou dois tiros, outras têm pequenos carregadores. Às vezes, é chamada de pistola de "assalto".
 
-**Pistola desintegradora:** Uma pistola que dispara uma explosão de energia imensamente destrutiva que desintegra rapidamente um alvo inteiro ou grandes partes dele. As pistolas desintegradoras podem ser alimentadas por células de energia ou clipes de combustível.
+**Pistola desintegradora**: Uma pistola que dispara uma explosão de energia imensamente destrutiva que desintegra rapidamente um alvo inteiro ou grandes partes dele. As pistolas desintegradoras podem ser alimentadas por células de energia ou clipes de combustível.
 
-**Pistola de pulso eletromagnético:** Uma pistola que dispara um fluxo de pulso eletromagnético direcionado a um alvo, como um computador ou robô, desativando seus circuitos.
+**Pistola de pulso eletromagnético**: Uma pistola que dispara um fluxo de pulso eletromagnético direcionado a um alvo, como um computador ou robô, desativando seus circuitos.
 
-**Pistola, Flechette:** Uma pistola pequena e leve, alimentada por cargas magnéticas ou gás, que dispara muitas lâminas minúsculas e afiadas em forma de agulha em um alvo. Elas geralmente têm curto alcance e não são muito eficazes contra alvos blindados, mas são devastadoras para inimigos sem blindagem a curta distância. Elas usam tanto clipes de munição de flechette quanto um cilindro de gás ou clipe de energia. Às vezes chamada de "arma de agulha".
+**Pistola, Flechette**: Uma pistola pequena e leve, alimentada por cargas magnéticas ou gás, que dispara muitas lâminas minúsculas e afiadas em forma de agulha em um alvo. Elas geralmente têm curto alcance e não são muito eficazes contra alvos blindados, mas são devastadoras para inimigos sem blindagem a curta distância. Elas usam tanto clipes de munição de flechette quanto um cilindro de gás ou clipe de energia. Às vezes chamada de "arma de agulha".
 
-**Pistola, Flintlock:** Uma pistola que usa pederneira e aço para acender um maço de pólvora embalado à mão. Semelhante a uma pistola com trava de roda.
+**Pistola, Flintlock**: Uma pistola que usa pederneira e aço para acender um maço de pólvora embalado à mão. Semelhante a uma pistola com trava de roda.
 
-**Pistola, pesada:** Uma pistola de estrutura pesada que possui poder de parada superior. Mais lenta do que as pistolas menores e mais leves. A .357 magnum é um excelente exemplo.
+**Pistola, pesada**: Uma pistola de estrutura pesada que possui poder de parada superior. Mais lenta do que as pistolas menores e mais leves. A .357 magnum é um excelente exemplo.
 
-**Pistola, laser:** Uma pistola que dispara um feixe de luz de alta intensidade capaz de queimar a maioria das substâncias e até mesmo derreter metal. Normalmente, é alimentada por uma célula de energia que contém um número limitado de cargas.
+**Pistola, laser**: Uma pistola que dispara um feixe de luz de alta intensidade capaz de queimar a maioria das substâncias e até mesmo derreter metal. Normalmente, é alimentada por uma célula de energia que contém um número limitado de cargas.
 
-**Pistola leve:** Uma pistola de estrutura leve que troca o poder de parada pela precisão e velocidade de tiro. O calibre .22 é um excelente exemplo.
+**Pistola leve**: Uma pistola de estrutura leve que troca o poder de parada pela precisão e velocidade de tiro. O calibre .22 é um excelente exemplo.
 
-**Pistola, Média:** Uma pistola de armação média, confiável e com poder de fogo e cadência de tiro moderados. A pistola de 9 mm é um excelente exemplo.
+**Pistola, Média**: Uma pistola de armação média, confiável e com poder de fogo e cadência de tiro moderados. A pistola de 9 mm é um excelente exemplo.
 
-**Pistola de plasma:** Uma pistola que dispara um fluxo concentrado de plasma superaquecido, geralmente alimentado por uma célula de energia ou de plasma.
+**Pistola de plasma**: Uma pistola que dispara um fluxo concentrado de plasma superaquecido, geralmente alimentado por uma célula de energia ou de plasma.
 
-**Pistola de choque:** Uma pistola que emite uma explosão elétrica de alta voltagem.
+**Pistola de choque**: Uma pistola que emite uma explosão elétrica de alta voltagem.
 
-**Pistola Sônica:** Uma pistola que emite um cone focalizado de ondas sônicas, danificando tanto o tecido vivo quanto a matéria inerte.
+**Pistola Sônica**: Uma pistola que emite um cone focalizado de ondas sônicas, danificando tanto o tecido vivo quanto a matéria inerte.
 
-**Pistola, Atordoamento:** Uma pistola que emite uma explosão de energia com a mesma frequência do sistema nervoso humano, de curto alcance e projetada para pacificação. Inútil contra objetos e seres maiores que humanóides, embora possa ser ajustada para outros alvos. Às vezes chamada de "atordoante".
+**Pistola, Atordoamento**: Uma pistola que emite uma explosão de energia com a mesma frequência do sistema nervoso humano, de curto alcance e projetada para pacificação. Inútil contra objetos e seres maiores que humanóides, embora possa ser ajustada para outros alvos. Às vezes chamada de "atordoante".
 
-**Rapier:** Uma espada de uma mão com lâmina fina, usada principalmente para golpear. Embora cada uma seja única, isso também descreve o epee e o florete, duas outras espadas de esgrima.
+**Rapier**: Uma espada de uma mão com lâmina fina, usada principalmente para golpear. Embora cada uma seja única, isso também descreve o epee e o florete, duas outras espadas de esgrima.
 
-**Revólver pesado:** Uma pistola pesada de grande calibre, como uma .44 magnum ou a Colt .45.
+**Revólver pesado**: Uma pistola pesada de grande calibre, como uma .44 magnum ou a Colt .45.
 
-**Revólver leve:** Uma pistola leve, geralmente na faixa de calibre .22 a .32.
+**Revólver leve**: Uma pistola leve, geralmente na faixa de calibre .22 a .32.
 
-**Revólver, médio:** Uma pistola média, geralmente de calibre .357 a .38.
+**Revólver, médio**: Uma pistola média, geralmente de calibre .357 a .38.
 
-**Rifle de assalto:** Um rifle pesado e robusto com grande capacidade de munição, disparado como uma metralhadora (um tiro, rajadas curtas ou disparo automático).
+**Rifle de assalto**: Um rifle pesado e robusto com grande capacidade de munição, disparado como uma metralhadora (um tiro, rajadas curtas ou disparo automático).
 
-**Rifle, Blaster:** Um rifle que dispara rajadas curtas de energia, geralmente plasma que queima e causa impacto concussivo. Os rifles blaster geralmente são alimentados por clipes que contêm combustíveis químicos exóticos.
+**Rifle, Blaster**: Um rifle que dispara rajadas curtas de energia, geralmente plasma que queima e causa impacto concussivo. Os rifles blaster geralmente são alimentados por clipes que contêm combustíveis químicos exóticos.
 
-**Fuzil de ação com ferrolho:** Um rifle com ferrolho deslizante. Alguns usam clipes, enquanto outros armazenam balas em carregadores do comprimento do cano do rifle.
+**Fuzil de ação com ferrolho**: Um rifle com ferrolho deslizante. Alguns usam clipes, enquanto outros armazenam balas em carregadores do comprimento do cano do rifle.
 
-**Fuzil desintegrador:** Um rifle que emite uma explosão de energia imensamente destrutiva que desintegra rapidamente um alvo inteiro ou grandes partes dele. Os rifles desintegradores podem ser alimentados por células de energia ou clipes de combustível.
+**Fuzil desintegrador**: Um rifle que emite uma explosão de energia imensamente destrutiva que desintegra rapidamente um alvo inteiro ou grandes partes dele. Os rifles desintegradores podem ser alimentados por células de energia ou clipes de combustível.
 
-**Rifle, elefante:** Um rifle de grande calibre projetado para derrubar os maiores animais de caça. Às vezes, com cano duplo, eles geralmente são carregados pela culatra, com uma bala grossa por vez.
+**Rifle, elefante**: Um rifle de grande calibre projetado para derrubar os maiores animais de caça. Às vezes, com cano duplo, eles geralmente são carregados pela culatra, com uma bala grossa por vez.
 
-**Rifle, Laser:** Um rifle que dispara um feixe de luz de alta intensidade capaz de queimar a maioria das substâncias e até mesmo derreter metal. Os rifles a laser geralmente são alimentados por células de energia com cargas limitadas.
+**Rifle, Laser**: Um rifle que dispara um feixe de luz de alta intensidade capaz de queimar a maioria das substâncias e até mesmo derreter metal. Os rifles a laser geralmente são alimentados por células de energia com cargas limitadas.
 
-**Fuzil de ação por alavanca:** Um rifle com uma alavanca externa usada para fazer o ciclo da munição. Popular entre os caçadores, embora impraticável para uso militar.
+**Fuzil de ação por alavanca**: Um rifle com uma alavanca externa usada para fazer o ciclo da munição. Popular entre os caçadores, embora impraticável para uso militar.
 
-**Rifle, mosquete:** Um rifle antigo carregado pelo cano e, às vezes, cheio de estilhaços ou balas grandes semelhantes a bolas. Lento e não confiável, aceso com uma pederneira ou trava de roda.
+**Rifle, mosquete**: Um rifle antigo carregado pelo cano e, às vezes, cheio de estilhaços ou balas grandes semelhantes a bolas. Lento e não confiável, aceso com uma pederneira ou trava de roda.
 
-**Rifle, pulso eletromagnético:** Uma versão de rifle da pistola de pulso eletromagnético, que emite uma explosão focada de energia eletromagnética em um alvo que usa eletricidade ou eletrônica.
+**Rifle, pulso eletromagnético**: Uma versão de rifle da pistola de pulso eletromagnético, que emite uma explosão focada de energia eletromagnética em um alvo que usa eletricidade ou eletrônica.
 
-**Rifle, Plasma:** Uma versão de rifle de uma pistola de plasma, capaz de disparar uma rajada concentrada de plasma superaquecido no alvo.
+**Rifle, Plasma**: Uma versão de rifle de uma pistola de plasma, capaz de disparar uma rajada concentrada de plasma superaquecido no alvo.
 
-**Fuzil de choque:** Uma versão de rifle da pistola de choque, capaz de disparar uma rajada semelhante a um raio com alcance e potência consideráveis.
+**Fuzil de choque**: Uma versão de rifle da pistola de choque, capaz de disparar uma rajada semelhante a um raio com alcance e potência consideráveis.
 
-**Rifle, Sonic:** Uma versão de rifle da pistola sônica, que dispara uma explosão de pulso sônico semelhante a um cone no alvo.
+**Rifle, Sonic**: Uma versão de rifle da pistola sônica, que dispara uma explosão de pulso sônico semelhante a um cone no alvo.
 
-**Rifle, Sniper:** Um rifle de cano longo usado para disparos de longo alcance, calibrado com precisão e geralmente equipado com uma mira de longo alcance.
+**Rifle, Sniper**: Um rifle de cano longo usado para disparos de longo alcance, calibrado com precisão e geralmente equipado com uma mira de longo alcance.
 
-**Rifle esportivo:** Um rifle de calibre leve a médio (.22 ou .30-06) usado para abater animais de caça menores, como veados.
+**Rifle esportivo**: Um rifle de calibre leve a médio (.22 ou .30-06) usado para abater animais de caça menores, como veados.
 
-**Rifle, Stun:** Um rifle que emite uma explosão de energia de curto alcance na mesma frequência do sistema nervoso humano, destinado à pacificação. Inútil contra objetos e seres maiores que os humanóides, o rifle de atordoamento pode ser ajustado para outros alvos. Às vezes, é chamado de "atordoador".
+**Rifle, Stun**: Um rifle que emite uma explosão de energia de curto alcance na mesma frequência do sistema nervoso humano, destinado à pacificação. Inútil contra objetos e seres maiores que os humanóides, o rifle de atordoamento pode ser ajustado para outros alvos. Às vezes, é chamado de "atordoador".
 
-**Rock, Thrown:** A arma mais básica, uma pedra do tamanho de um punho.
+**Rock, Thrown**: A arma mais básica, uma pedra do tamanho de um punho.
 
-**Sabre:** Espada curva de um único gume, usada mais comumente pela cavalaria montada e na esgrima.
+**Sabre**: Espada curva de um único gume, usada mais comumente pela cavalaria montada e na esgrima.
 
-**Sai:** Arma semelhante a uma adaga com o formato de um tridente, com uma barra transversal larga e curva. O Sai não tem borda e é usado como porretes, armas de esfaqueamento ou quebra-espadas. Geralmente são usados em pares.
+**Sai**: Arma semelhante a uma adaga com o formato de um tridente, com uma barra transversal larga e curva. O Sai não tem borda e é usado como porretes, armas de esfaqueamento ou quebra-espadas. Geralmente são usados em pares.
 
-**Cimitarra:** Espada de um só gume, ligeiramente curvada e com lâmina pesada.
+**Cimitarra**: Espada de um só gume, ligeiramente curvada e com lâmina pesada.
 
-**Scythe:** Ferramenta agrícola de cabo longo com uma lâmina curva perpendicular ao cabo, usada para colher grãos, mas ocasionalmente com finalidade cerimonial.
+**Scythe**: Ferramenta agrícola de cabo longo com uma lâmina curva perpendicular ao cabo, usada para colher grãos, mas ocasionalmente com finalidade cerimonial.
 
-**Espingarda automática:** Uma espingarda com grande capacidade de munição e carregamento automático, geralmente para o campo de batalha ou ação policial.
+**Espingarda automática**: Uma espingarda com grande capacidade de munição e carregamento automático, geralmente para o campo de batalha ou ação policial.
 
-**Espingarda de cano duplo:** Uma espingarda de carregamento pela culatra.
+**Espingarda de cano duplo**: Uma espingarda de carregamento pela culatra.
 
-**Espingarda de cano serrado:** Espingarda esportiva ou de cano duplo com cano mais curto, alterada ou fabricada manualmente para facilitar a ocultação e a conveniência. O cano mais curto troca o alcance por uma maior dispersão de munição.
+**Espingarda de cano serrado**: Espingarda esportiva ou de cano duplo com cano mais curto, alterada ou fabricada manualmente para facilitar a ocultação e a conveniência. O cano mais curto troca o alcance por uma maior dispersão de munição.
 
-**Espingarda esportiva:** Uma espingarda de calibre médio a leve (calibre 16 ou 20), usada para caça e proteção doméstica.
+**Espingarda esportiva**: Uma espingarda de calibre médio a leve (calibre 16 ou 20), usada para caça e proteção doméstica.
 
-**Shuriken:** Pequenas lâminas de arremesso, geralmente em forma de estrela. Facilmente escondidas e as favoritas dos assassinos.
+**Shuriken**: Pequenas lâminas de arremesso, geralmente em forma de estrela. Facilmente escondidas e as favoritas dos assassinos.
 
-**Foice:** Uma lâmina plana em forma de meia-lua, com um único gume na parte interna da meia-lua, usada com uma mão para colher grãos ou para fins cerimoniais.
+**Foice**: Uma lâmina plana em forma de meia-lua, com um único gume na parte interna da meia-lua, usada com uma mão para colher grãos ou para fins cerimoniais.
 
-**Funda:** Uma tira de couro com um copo ou reentrância para segurar uma pedra ou uma pedra de funda, girada e lançada com uma força incrível no alvo.
+**Funda**: Uma tira de couro com um copo ou reentrância para segurar uma pedra ou uma pedra de funda, girada e lançada com uma força incrível no alvo.
 
-**Lança longa:** Um pedaço de madeira de aproximadamente dois metros de comprimento, com uma cabeça de metal ou de sílex ou uma ponta endurecida pelo fogo. Elas devem ser usadas com as duas mãos. Os personagens armados com lanças longas geralmente atacam primeiro em uma rodada de combate.
+**Lança longa**: Um pedaço de madeira de aproximadamente dois metros de comprimento, com uma cabeça de metal ou de sílex ou uma ponta endurecida pelo fogo. Elas devem ser usadas com as duas mãos. Os personagens armados com lanças longas geralmente atacam primeiro em uma rodada de combate.
 
-**Lança curta:** Um pedaço de madeira com cerca de 1,5 metro de comprimento, com uma cabeça de metal ou sílex ou uma ponta endurecida pelo fogo. As lanças curtas podem ser usadas com uma ou duas mãos ou arremessadas.
+**Lança curta**: Um pedaço de madeira com cerca de 1,5 metro de comprimento, com uma cabeça de metal ou sílex ou uma ponta endurecida pelo fogo. As lanças curtas podem ser usadas com uma ou duas mãos ou arremessadas.
 
-**Spray químico:** Um irritante químico projetado de um pulverizador pequeno, geralmente nos olhos de um alvo. De curto alcance e não letal.
+**Spray químico**: Um irritante químico projetado de um pulverizador pequeno, geralmente nos olhos de um alvo. De curto alcance e não letal.
 
-**Staff, Quarter:** Um longo bastão de madeira, geralmente usado como um bastão de caminhada, útil para defesa e ataque.
+**Staff, Quarter**: Um longo bastão de madeira, geralmente usado como um bastão de caminhada, útil para defesa e ataque.
 
-**Staff, Short:** Um bastão de madeira curto e estreito como um cassetete de polícia.
+**Staff, Short**: Um bastão de madeira curto e estreito como um cassetete de polícia.
 
-**Espada Bengala:** Uma espada de lâmina fina disfarçada para caber em uma bengala.
+**Espada Bengala**: Uma espada de lâmina fina disfarçada para caber em uma bengala.
 
-**Espada Bastarda:** Uma espada reta, de um ou dois gumes, com mais de um metro de comprimento, com um cabo longo e empunhada com uma ou duas mãos.
+**Espada Bastarda**: Uma espada reta, de um ou dois gumes, com mais de um metro de comprimento, com um cabo longo e empunhada com uma ou duas mãos.
 
-**Espada larga:** Uma espada reta, de um ou dois gumes, com cerca de um metro de comprimento, usada com uma só mão. Algumas têm punhos em forma de cesta.
+**Espada larga**: Uma espada reta, de um ou dois gumes, com cerca de um metro de comprimento, usada com uma só mão. Algumas têm punhos em forma de cesta.
 
-**Espada de energia:** Um punho que contém um emissor de campo moldado que projeta uma lâmina de energia do comprimento de uma espada, como um feixe de luz focalizado. As espadas de energia usam pacotes de energia e geralmente exigem cristais de focalização caros ou raros.
+**Espada de energia**: Um punho que contém um emissor de campo moldado que projeta uma lâmina de energia do comprimento de uma espada, como um feixe de luz focalizado. As espadas de energia usam pacotes de energia e geralmente exigem cristais de focalização caros ou raros.
 
-**Espada grande:** Uma espada reta de dois gumes com quase dois metros de comprimento, usada com as duas mãos, geralmente contra formações de pique.
+**Espada grande**: Uma espada reta de dois gumes com quase dois metros de comprimento, usada com as duas mãos, geralmente contra formações de pique.
 
-**Espada longa:** Uma espada reta, de um ou dois gumes, às vezes com um punho de cesta, usada com uma mão. Mais leve e mais fina do que uma espada larga.
+**Espada longa**: Uma espada reta, de um ou dois gumes, às vezes com um punho de cesta, usada com uma mão. Mais leve e mais fina do que uma espada larga.
 
-**Espada, Monofilamento:** Uma arma sofisticada que consiste em uma lâmina de exatamente uma molécula de espessura, colocada em estase por um gerador no punho. Com a lâmina capaz de deslizar entre os átomos, ela é capaz de cortar quase tudo. Como a lâmina é quase invisível, é extremamente difícil de usar, e um erro pode ser fatal.
+**Espada, Monofilamento**: Uma arma sofisticada que consiste em uma lâmina de exatamente uma molécula de espessura, colocada em estase por um gerador no punho. Com a lâmina capaz de deslizar entre os átomos, ela é capaz de cortar quase tudo. Como a lâmina é quase invisível, é extremamente difícil de usar, e um erro pode ser fatal.
 
-**Sword, Short:** Uma espada de um ou dois gumes, geralmente com meio metro de comprimento.
+**Sword, Short**: Uma espada de um ou dois gumes, geralmente com meio metro de comprimento.
 
-**Sword, Vibro:** Uma versão mais longa da faca vibro. Um cabo com uma lâmina longa semelhante a uma espada que vibra em alta velocidade, capaz de cortar a maioria das substâncias.
+**Sword, Vibro**: Uma versão mais longa da faca vibro. Um cabo com uma lâmina longa semelhante a uma espada que vibra em alta velocidade, capaz de cortar a maioria das substâncias.
 
-**Taser, contato:** Um pequeno dispositivo elétrico portátil projetado para interromper a atividade neural do alvo, atordoando-o momentaneamente.
+**Taser, contato**: Um pequeno dispositivo elétrico portátil projetado para interromper a atividade neural do alvo, atordoando-o momentaneamente.
 
-**Taser, Dart:** Um taser de mão que dispara dois pequenos dardos com fios conectados. Quando esses dardos atingem o alvo, o taser emite uma carga elétrica perturbadora que geralmente atordoa ou incapacita.
+**Taser, Dart**: Um taser de mão que dispara dois pequenos dardos com fios conectados. Quando esses dardos atingem o alvo, o taser emite uma carga elétrica perturbadora que geralmente atordoa ou incapacita.
 
-**Tocha:** Uma vara grossa de madeira com uma extremidade embebida em piche ou outro combustível, ocasionalmente envolvida em trapos. Acesas e usadas para iluminar, as tochas são frequentemente usadas como armas improvisadas.
+**Tocha**: Uma vara grossa de madeira com uma extremidade embebida em piche ou outro combustível, ocasionalmente envolvida em trapos. Acesas e usadas para iluminar, as tochas são frequentemente usadas como armas improvisadas.
 
-**Tridente:** Uma lança de três pontas, como um garfo, com pontas laterais curvas. Os tridentes geralmente têm pontas farpadas para enganchar na carne do alvo.
+**Tridente**: Uma lança de três pontas, como um garfo, com pontas laterais curvas. Os tridentes geralmente têm pontas farpadas para enganchar na carne do alvo.
 
-**Wakizashi:** Uma versão de espada curta da katana, geralmente fabricada como um par. Algumas têm pequenas facas embutidas em suas bainhas.
+**Wakizashi**: Uma versão de espada curta da katana, geralmente fabricada como um par. Algumas têm pequenas facas embutidas em suas bainhas.
 
-**Whip:** Uma corda de couro enrolada e trançada com uma alça em uma extremidade, usada para amarrar um oponente ou prender e imobilizar um membro (consulte **Entangling**).
+**Whip**: Uma corda de couro enrolada e trançada com uma alça em uma extremidade, usada para amarrar um oponente ou prender e imobilizar um membro (consulte **Entangling**).
 
-**Whip, Shock:** Um chicote metálico que gera uma corrente elétrica de alta voltagem, liberada no alvo quando é atingido com sucesso.
+**Whip, Shock**: Um chicote metálico que gera uma corrente elétrica de alta voltagem, liberada no alvo quando é atingido com sucesso.
 
 **Classes de armas
 
 As descrições das habilidades Heavy Weapon (Arma pesada), Melee Weapon (Arma corpo a corpo) e Missile Weapon (Arma de mísseis) no *Capítulo 3: Habilidades* referem-se a especialidades de armas e **classes de armas**. Uma classe de arma é um grupo aproximado ao qual a arma pertence, enquanto a **especialidade** é a habilidade do seu personagem de usar armas dessa classe. As armas são classificadas em classes, e as habilidades, em especialidades. Cada classe de arma está listada abaixo, com exemplos específicos. Algumas armas se encaixam em várias classes, dependendo de como são usadas.
 
-- Machado:** Machado de batalha, machado grande, machado de mão, machado vibratório, machado de madeira.
-- Arco:** Arco composto, arco longo, arco próprio.
-- **Brawl:** Punho, cabeçada, chute.
+- Machado**: Machado de batalha, machado grande, machado de mão, machado vibratório, machado de madeira.
+- Arco**: Arco composto, arco longo, arco próprio.
+- **Brawl**: Punho, cabeçada, chute.
 - Porrete: porrete pesado, porrete leve, sai, bastão curto.
-- Besta:** Arbalete, arbalete de cerco, besta pesada, besta leve, besta média, besta de repetição.
-- Punhal:** Faca de açougueiro, punhal, faca, canivete, canivete, vibro-faca, sai.
-- Explosivo:** Detonador de antimatéria, mina antipessoal, mina antitanque, detonador de explosão, dinamite, detonador de pulso eletromagnético, detonador de fusão, explosivo improvisado, detonador de plasma, explosivo plástico, detonador sônico.
+- Besta**: Arbalete, arbalete de cerco, besta pesada, besta leve, besta média, besta de repetição.
+- Punhal**: Faca de açougueiro, punhal, faca, canivete, canivete, vibro-faca, sai.
+- Explosivo**: Detonador de antimatéria, mina antipessoal, mina antitanque, detonador de explosão, dinamite, detonador de pulso eletromagnético, detonador de fusão, explosivo improvisado, detonador de plasma, explosivo plástico, detonador sônico.
 - Mangual: Mangual, mangual estrela da manhã, chicote.
-- Granada:** Granada antimatéria, granada de concussão, granada desintegradora, granada de pulso eletromagnético, granada explosiva, granada de sinalização, granada de fusão, granada de gás, lançador de granadas, lançador de foguetes LAW, coquetel molotov, granada de fósforo, granada de plasma, lançador de foguetes, granada de choque, granada de estilhaços, granada de fumaça, granada sônica, granada de atordoamento.
-- Martelo:** Martelo, grande martelo, marreta, martelo de guerra, maul de guerra.
-- Mão:** Manopla blindada, blackjack, soqueiras, cestus, garra, garrote.
-- Improvisado:** Motosserra, pedra lançada, foice, foice, tocha.
-- Maça:** Maça pesada, maça leve.
-- Metralhadora:** Metralhadora, mini pistola, submetralhadora.
+- Granada**: Granada antimatéria, granada de concussão, granada desintegradora, granada de pulso eletromagnético, granada explosiva, granada de sinalização, granada de fusão, granada de gás, lançador de granadas, lançador de foguetes LAW, coquetel molotov, granada de fósforo, granada de plasma, lançador de foguetes, granada de choque, granada de estilhaços, granada de fumaça, granada sônica, granada de atordoamento.
+- Martelo**: Martelo, grande martelo, marreta, martelo de guerra, maul de guerra.
+- Mão**: Manopla blindada, blackjack, soqueiras, cestus, garra, garrote.
+- Improvisado**: Motosserra, pedra lançada, foice, foice, tocha.
+- Maça**: Maça pesada, maça leve.
+- Metralhadora**: Metralhadora, mini pistola, submetralhadora.
 - Míssil: zarabatana, bola, bumerangue, adaga, dardo, machado de mão, dardo, shuriken, estilingue, faca de arremesso.
 - Pistola de energia: Pistola blaster, pistola desintegradora, pistola de pulso eletromagnético, pistola laser, pistola de plasma, pistola de choque, pistola sônica, pistola de atordoamento.
-- Pistola:** Derringer, pistola flechette, pistola flintlock, pistola pesada, pistola leve, pistola média.
+- Pistola**: Derringer, pistola flechette, pistola flintlock, pistola pesada, pistola leve, pistola média.
 - Arma de Pólvora: Alabarda, lança, naginata, pique, foice, tridente.
-- Revólver:** Revólver pesado, revólver leve, revólver médio.
+- Revólver**: Revólver pesado, revólver leve, revólver médio.
 - Rifle de energia: rifle blaster, rifle desintegrador, rifle de pulso eletromagnético, rifle laser, rifle de plasma, rifle de choque, rifle sônico, rifle de atordoamento.
 - Fuzil: fuzil de assalto, fuzil de ferrolho, fuzil de elefante, fuzil de alavanca, mosquete, fuzil de precisão, fuzil esportivo.
-- Escopeta:** Escopeta automática, escopeta de cano duplo, escopeta de cano serrado, escopeta esportiva.
+- Escopeta**: Escopeta automática, escopeta de cano duplo, escopeta de cano serrado, escopeta esportiva.
 - Lança: dardo, lança, lança longa, naginata, pique, lança curta, tridente.
-- Cajado:** Cajado de um quarto, cajado curto.
-- Submetralhadora:** Submetralhadora.
-- Espada:** Espada bastarda, espada larga, espada de energia, espada grande, katana, espada longa, espada de monofilamento, florete, sabre, cimitarra, espada curta, foice, bastão de espada, espada vibratória, wakizashi.
-- Outros:** Spray químico, taser de contato, taser de dardo, lança-chamas, laço, rede, chicote de choque, chicote.
+- Cajado**: Cajado de um quarto, cajado curto.
+- Submetralhadora**: Submetralhadora.
+- Espada**: Espada bastarda, espada larga, espada de energia, espada grande, katana, espada longa, espada de monofilamento, florete, sabre, cimitarra, espada curta, foice, bastão de espada, espada vibratória, wakizashi.
+- Outros**: Spray químico, taser de contato, taser de dardo, lança-chamas, laço, rede, chicote de choque, chicote.
 
 **Uso de armas da mesma classe
 
 Use sua especialidade de habilidade com todas as armas dessa classe específica. Essa generalização significa que seu personagem pode usar a maioria dos tipos de armas semelhantes sem impedimentos.
 
-**Por exemplo, se seu personagem tiver a habilidade Arma corpo a corpo (Espada), isso se aplica a espadas longas, espadas largas, espadas curtas etc., assim como Arma de fogo (Revólver) se aplica a revólveres leves, médios e pesados.
+**Por exemplo,** se seu personagem tiver a habilidade Arma corpo a corpo (Espada), isso se aplica a espadas longas, espadas largas, espadas curtas etc., assim como Arma de fogo (Revólver) se aplica a revólveres leves, médios e pesados.
 
 **Uso de armas de diferentes classes
 
 Se você tiver habilidade em uma classe de arma, o mestre de jogo pode permitir que seu personagem use uma arma semelhante em uma classe diferente com a mesma classificação de habilidade, como se a habilidade fosse difícil.
 
-**Por exemplo, se o seu personagem tiver 60% de Arma de Mísseis (Arco), o mestre de jogo poderá permitir o uso de bestas (uma classe de arma diferente) como uma habilidade Difícil de Arma de Mísseis (Arco), com uma classificação de habilidade temporária de 30%.
+**Por exemplo,** se o seu personagem tiver 60% de Arma de Mísseis (Arco), o mestre de jogo poderá permitir o uso de bestas (uma classe de arma diferente) como uma habilidade Difícil de Arma de Mísseis (Arco), com uma classificação de habilidade temporária de 30%.
 
 Se o uso de uma arma com uma classificação de habilidade temporária for bem-sucedido e qualquer experiência for obtida, a rolagem de experiência será feita com base na chance básica e não na classificação de habilidade temporária. Qualquer experiência é adicionada à chance básica da arma ou da habilidade da arma em vez da classificação de habilidade temporária. Quando seu personagem excede a classificação de habilidade temporária, a classificação de habilidade real se torna o padrão.
 
@@ -954,59 +954,59 @@ Ao contrário das armas e dos escudos, a armadura geralmente não sofre danos, a
 
 Esta seção descreve todos os tipos de armadura, em ordem alfabética.
 
-**Malha adaptativa:** Esse tecido de alta tecnologia endurece e reage a impactos, mas permanece flexível e confortável o resto do tempo. Normalmente usado como um body, ele pode ser colocado sob outras armaduras.
+**Malha adaptativa**: Esse tecido de alta tecnologia endurece e reage a impactos, mas permanece flexível e confortável o resto do tempo. Normalmente usado como um body, ele pode ser colocado sob outras armaduras.
 
-**Armadura de assalto, leve:** Armadura leve usada por soldados para resistir a armas corpo a corpo, projéteis sólidos e armas de energia. Feita de cerâmica, ligas ou plásticos de alto impacto.
+**Armadura de assalto, leve**: Armadura leve usada por soldados para resistir a armas corpo a corpo, projéteis sólidos e armas de energia. Feita de cerâmica, ligas ou plásticos de alto impacto.
 
-**Armadura de assalto, padrão:** Armadura pesada, feita para batalhas em ambientes perigosos. Feita de cerâmica, ligas ou plásticos resistentes, a armadura de assalto oferece proteção da cabeça aos pés e é a preferida dos militares.
+**Armadura de assalto, padrão**: Armadura pesada, feita para batalhas em ambientes perigosos. Feita de cerâmica, ligas ou plásticos resistentes, a armadura de assalto oferece proteção da cabeça aos pés e é a preferida dos militares.
 
-**Armadura de assalto (pesada), motorizada:** Semelhante à armadura de assalto padrão, mas mais maciça e com revestimento blindado mais espesso. Os servomotores internos aumentam a força do usuário. Os combatentes em armaduras de assalto pesadas e motorizadas geralmente empunham armas enormes. A estrutura aceita aprimoramentos modulares (como um jetpack) e é vedada contra armas químicas e o vácuo do espaço.
+**Armadura de assalto (pesada), motorizada**: Semelhante à armadura de assalto padrão, mas mais maciça e com revestimento blindado mais espesso. Os servomotores internos aumentam a força do usuário. Os combatentes em armaduras de assalto pesadas e motorizadas geralmente empunham armas enormes. A estrutura aceita aprimoramentos modulares (como um jetpack) e é vedada contra armas químicas e o vácuo do espaço.
 
-**Armadura de assalto (leve), motorizada:** Semelhante à armadura de assalto motorizada acima, mas mais leve e sem extras, como sistemas selados.
+**Armadura de assalto (leve), motorizada**: Semelhante à armadura de assalto motorizada acima, mas mais leve e sem extras, como sistemas selados.
 
-**Tecido balístico:** Feito de fibra de aramida, a armadura de tecido balístico oferece proteção moderada contra balas, embora não tanto quanto um colete à prova de balas. Normalmente, é usada sob roupas de rua ou moldada para se assemelhar a roupas normais.
+**Tecido balístico**: Feito de fibra de aramida, a armadura de tecido balístico oferece proteção moderada contra balas, embora não tanto quanto um colete à prova de balas. Normalmente, é usada sob roupas de rua ou moldada para se assemelhar a roupas normais.
 
-**Colete à prova de balas, antigo:** Uma variante mais antiga do colete à prova de balas, pesada e incômoda, com placas de metal espessas em um colete de lona segmentado.
+**Colete à prova de balas, antigo**: Uma variante mais antiga do colete à prova de balas, pesada e incômoda, com placas de metal espessas em um colete de lona segmentado.
 
-**Colete à prova de balas, moderno:** Uma evolução do colete à prova de balas, usando ligas metálicas e plásticos de alto impacto para uma forma de proteção mais leve e mais fina.
+**Colete à prova de balas, moderno**: Uma evolução do colete à prova de balas, usando ligas metálicas e plásticos de alto impacto para uma forma de proteção mais leve e mais fina.
 
-**Corrente:** Essa armadura consiste em uma malha feita de elos metálicos trançados. Ela é extremamente flexível, mas bastante pesada.
+**Corrente**: Essa armadura consiste em uma malha feita de elos metálicos trançados. Ela é extremamente flexível, mas bastante pesada.
 
-**Roupas pesadas:** O equivalente a usar uma capa pesada, uma jaqueta de inverno, roupas de couro justas ou várias camadas de roupas.
+**Roupas pesadas**: O equivalente a usar uma capa pesada, uma jaqueta de inverno, roupas de couro justas ou várias camadas de roupas.
 
 **Armadura de energia: Essa armadura consiste em um pacote de energia interno usado no cinto ou pendurado nas costas, entre os ombros, e possivelmente conectado a emissores distribuídos pelo corpo. Quando ativada, ela cobre o personagem com uma bainha de energia protetora.
 
-**Jaqueta antibala:** É uma jaqueta completa semelhante a um colete à prova de balas antigo, embora menos blindada, útil tanto para pilotos quanto para tropas terrestres.
+**Jaqueta antibala**: É uma jaqueta completa semelhante a um colete à prova de balas antigo, embora menos blindada, útil tanto para pilotos quanto para tropas terrestres.
 
-**Capacete, pesado ou leve:** Quase todos esses tipos de armadura têm capacetes. Trajes completos de armadura geralmente incluem capacetes. Se um capacete não for usado, reduza o valor da armadura em -1 para um capacete leve e -2 para um capacete pesado. Se estiver usando valores de armadura aleatórios, modifique o intervalo em -1 ou -2, conforme apropriado. Se forem usados locais de acerto, um capacete terá o mesmo valor de proteção que um braço ou uma perna do material de armadura relevante.
+**Capacete, pesado ou leve**: Quase todos esses tipos de armadura têm capacetes. Trajes completos de armadura geralmente incluem capacetes. Se um capacete não for usado, reduza o valor da armadura em -1 para um capacete leve e -2 para um capacete pesado. Se estiver usando valores de armadura aleatórios, modifique o intervalo em -1 ou -2, conforme apropriado. Se forem usados locais de acerto, um capacete terá o mesmo valor de proteção que um braço ou uma perna do material de armadura relevante.
 
-**Couro:** Uma pelagem animal curtida ou não curtida, usada como capa ou peça de roupa, com o pelo intacto.
+**Couro**: Uma pelagem animal curtida ou não curtida, usada como capa ou peça de roupa, com o pelo intacto.
 
-**Lamelar (cravejada, com fendas):** Essa armadura consiste em tiras finas de metal (fendas) geralmente presas ao suporte de couro com rebites (fendas).
+**Lamelar (cravejada, com fendas)**: Essa armadura consiste em tiras finas de metal (fendas) geralmente presas ao suporte de couro com rebites (fendas).
 
-**Couro macio:** Equivalente a uma jaqueta ou colete de couro, o couro macio costuma ser usado sob outras armaduras como acolchoamento e proteção adicionais.
+**Couro macio**: Equivalente a uma jaqueta ou colete de couro, o couro macio costuma ser usado sob outras armaduras como acolchoamento e proteção adicionais.
 
-**Couro duro:** Equivale a meio centímetro de couro curado, com a mesma espessura da sola de um sapato social. Pode ter tachas de couro ou trabalho em relevo.
+**Couro duro**: Equivale a meio centímetro de couro curado, com a mesma espessura da sola de um sapato social. Pode ter tachas de couro ou trabalho em relevo.
 
-**Couro, Cuirbouilli:** Couro grosso e semirrígido que foi curado e fervido em óleo e cera e, em seguida, moldado de acordo com a forma do usuário. É frequentemente ornamentado e manchado de cores.
+**Couro, Cuirbouilli**: Couro grosso e semirrígido que foi curado e fervido em óleo e cera e, em seguida, moldado de acordo com a forma do usuário. É frequentemente ornamentado e manchado de cores.
 
-**Acolchoada/ acolchoada:** Essa armadura consiste em camadas ensanduichadas de tecido grosso endurecido, costuradas como se fossem uma almofada ou colcha. Barata e fácil de fazer, ela não oferece muita proteção, embora possa ser usada por baixo de armaduras de metal, como meias placas e correntes.
+**Acolchoada/ acolchoada**: Essa armadura consiste em camadas ensanduichadas de tecido grosso endurecido, costuradas como se fossem uma almofada ou colcha. Barata e fácil de fazer, ela não oferece muita proteção, embora possa ser usada por baixo de armaduras de metal, como meias placas e correntes.
 
-**Acolchoada/ acolchoada, pesada:** Semelhante à armadura acolchoada ou acolchoada, mas mais pesada e mais espessa.
+**Acolchoada/ acolchoada, pesada**: Semelhante à armadura acolchoada ou acolchoada, mas mais pesada e mais espessa.
 
-**Placa, metade:** Essa armadura consiste em um traje parcial de placa (veja abaixo) que não cobre todo o corpo. Normalmente, é um peitoral, um elmo e algumas peças menores, com correntes cobrindo o restante.
+**Placa, metade**: Essa armadura consiste em um traje parcial de placa (veja abaixo) que não cobre todo o corpo. Normalmente, é um peitoral, um elmo e algumas peças menores, com correntes cobrindo o restante.
 
-**Placa, completa:** Essa armadura consiste em placas sólidas de metal, moldadas ao corpo e presas com tiras de couro cobertas. Historicamente, ela era superior a qualquer outro tipo de armadura corporal, mas a construção toda em metal a torna a mais pesada e menos confortável.
+**Placa, completa**: Essa armadura consiste em placas sólidas de metal, moldadas ao corpo e presas com tiras de couro cobertas. Historicamente, ela era superior a qualquer outro tipo de armadura corporal, mas a construção toda em metal a torna a mais pesada e menos confortável.
 
-**Anel:** É um couro macio ou outro suporte com anéis de metal costurados em um padrão próximo ou sobreposto.
+**Anel**: É um couro macio ou outro suporte com anéis de metal costurados em um padrão próximo ou sobreposto.
 
-**Equipamento anti-motim:** Uma jaqueta pesada à prova de balas e um macacão de roupas resistentes, com placas em partes estratégicas do corpo e um capacete.
+**Equipamento anti-motim**: Uma jaqueta pesada à prova de balas e um macacão de roupas resistentes, com placas em partes estratégicas do corpo e um capacete.
 
-**Escala:** A armadura de escamas (às vezes chamada de malha de escamas) consiste em escamas de metal sobrepostas de várias formas e tamanhos presas em um suporte.
+**Escala**: A armadura de escamas (às vezes chamada de malha de escamas) consiste em escamas de metal sobrepostas de várias formas e tamanhos presas em um suporte.
 
-**Splint:** Consulte a descrição para lamelar.
+**Splint**: Consulte a descrição para lamelar.
 
-**Estampado:** Consulte a descrição para lamelar.
+**Estampado**: Consulte a descrição para lamelar.
 
 **Armaduras primitivas**
 
@@ -1138,17 +1138,17 @@ Todos os escudos são usados em combate corpo a corpo ou para defesa contra mís
 
 Cada tipo de escudo tem os seguintes atributos:
 
-- Nome:** O nome comum do escudo.
-- Chance de base:** A chance de base para qualquer um que pegue o escudo. Essa chance básica também é o valor inicial para atacar com o escudo.
-- Skill:** A habilidade usada para o escudo.
-- AV/HP:** Esse é o valor de pontos de armadura do escudo, bem como seu valor de pontos de vida. Esse valor é usado se o escudo for danificado ou atingido. Consulte Slung Shields (a seguir) para obter detalhes.
-- Dano:** A quantidade de dano que o escudo causa se for usado como arma.
-- Especial:** O tipo de sucesso especial que o escudo causa. A maioria dos escudos causa sucessos especiais de repulsão.
-- Carga:** Descreve o incômodo ou a carga relativa do escudo.
-- ENC:** (Opcional) O valor ENC do escudo.
-- Locais:** (Opcional) Para locais de acerto, os locais de acerto cobertos pelo escudo. Normalmente, isso só é apropriado para escudos suspensos. Consulte **Slung Shields**.
-- STR/DEX:** O mínimo de STR e DEX necessário para usar o escudo. Se o seu personagem não tiver o mínimo exigido de STR e DEX, qualquer uso do escudo será difícil.
-- Valor:** O custo do escudo em uma configuração apropriada.
+- Nome**: O nome comum do escudo.
+- Chance de base**: A chance de base para qualquer um que pegue o escudo. Essa chance básica também é o valor inicial para atacar com o escudo.
+- Skill**: A habilidade usada para o escudo.
+- AV/HP**: Esse é o valor de pontos de armadura do escudo, bem como seu valor de pontos de vida. Esse valor é usado se o escudo for danificado ou atingido. Consulte Slung Shields (a seguir) para obter detalhes.
+- Dano**: A quantidade de dano que o escudo causa se for usado como arma.
+- Especial**: O tipo de sucesso especial que o escudo causa. A maioria dos escudos causa sucessos especiais de repulsão.
+- Carga**: Descreve o incômodo ou a carga relativa do escudo.
+- ENC**: (Opcional) O valor ENC do escudo.
+- Locais**: (Opcional) Para locais de acerto, os locais de acerto cobertos pelo escudo. Normalmente, isso só é apropriado para escudos suspensos. Consulte **Slung Shields**.
+- STR/DEX**: O mínimo de STR e DEX necessário para usar o escudo. Se o seu personagem não tiver o mínimo exigido de STR e DEX, qualquer uso do escudo será difícil.
+- Valor**: O custo do escudo em uma configuração apropriada.
 
 Cada tipo de escudo é descrito em **Descrições de escudo**.
 
@@ -1162,31 +1162,31 @@ Normalmente, os escudos são usados pendurados no braço/ombro ou nas costas qua
 
 Esta seção descreve todos os tipos de blindagens, organizados em ordem alfabética.
 
-**Buckler:** Um pequeno escudo que protege a parte inferior do braço, geralmente preso com um punho ou uma única alça. Esses escudos são usados no cinto (ou faixa), o que deu origem ao termo "swashbuckler".
+**Buckler**: Um pequeno escudo que protege a parte inferior do braço, geralmente preso com um punho ou uma única alça. Esses escudos são usados no cinto (ou faixa), o que deu origem ao termo "swashbuckler".
 
-**Escudo de energia:** Um dispositivo defensivo que consiste em um pequeno pacote de energia montado no braço do defensor e um projetor que emite um escudo circular de tamanho variável.
+**Escudo de energia**: Um dispositivo defensivo que consiste em um pequeno pacote de energia montado no braço do defensor e um projetor que emite um escudo circular de tamanho variável.
 
-**Escudo completo:** Maior do que um escudo pequeno e de vários formatos, um escudo completo geralmente é grande o suficiente para cobrir a parte inferior do rosto e a virilha do defensor.
+**Escudo completo**: Maior do que um escudo pequeno e de vários formatos, um escudo completo geralmente é grande o suficiente para cobrir a parte inferior do rosto e a virilha do defensor.
 
-**Meio escudo:** Um escudo menor de vários formatos, geralmente usado por cavaleiros, arqueiros ou escaramuçadores leves (em comparação com lutadores pesados da linha de frente).
+**Meio escudo**: Um escudo menor de vários formatos, geralmente usado por cavaleiros, arqueiros ou escaramuçadores leves (em comparação com lutadores pesados da linha de frente).
 
-**Aquecedor:** Um escudo médio com o formato de um aquecedor de ferro fundido (e que recebeu esse nome). Esse é o formato tradicional de muitos brasões heráldicos.
+**Aquecedor**: Um escudo médio com o formato de um aquecedor de ferro fundido (e que recebeu esse nome). Esse é o formato tradicional de muitos brasões heráldicos.
 
-**Hoplita:** Um grande escudo retangular, muito protetor, mas muito pesado e desajeitado para cavaleiros. Os escudos hoplitas são frequentemente usados apoiados no chão. Geralmente de formato retangular, mas alguns são oblongos e com bordas arredondadas.
+**Hoplita**: Um grande escudo retangular, muito protetor, mas muito pesado e desajeitado para cavaleiros. Os escudos hoplitas são frequentemente usados apoiados no chão. Geralmente de formato retangular, mas alguns são oblongos e com bordas arredondadas.
 
-**Kite:** Um escudo grande, em forma de lágrima, com a parte superior redonda e a parte inferior pontiaguda, que cobre o corpo dos ombros até o joelho ou tornozelo.
+**Kite**: Um escudo grande, em forma de lágrima, com a parte superior redonda e a parte inferior pontiaguda, que cobre o corpo dos ombros até o joelho ou tornozelo.
 
-**Redondo grande:** Idêntico a um escudo redondo (abaixo), só que maior.
+**Redondo grande**: Idêntico a um escudo redondo (abaixo), só que maior.
 
-**Primitivo:** Um escudo usado em culturas guerreiras primitivas. Normalmente, nada mais é do que uma estrutura de madeira com couro esticado sobre ela, vime, tecido rígido ou até mesmo couro animal extremamente rígido.
+**Primitivo**: Um escudo usado em culturas guerreiras primitivas. Normalmente, nada mais é do que uma estrutura de madeira com couro esticado sobre ela, vime, tecido rígido ou até mesmo couro animal extremamente rígido.
 
-**Redondo:** Um escudo redondo preso dentro da saliência central. É único por ter bordas finas e desprotegidas que podem ser usadas para pegar e quebrar armas afiadas com uma manobra especial.
+**Redondo**: Um escudo redondo preso dentro da saliência central. É único por ter bordas finas e desprotegidas que podem ser usadas para pegar e quebrar armas afiadas com uma manobra especial.
 
-**Motim:** Um grande escudo retangular de plástico transparente usado por policiais de choque. Leve e resistente, ele permite proteger paredes e oferece defesa adequada contra a maioria dos agressores.
+**Motim**: Um grande escudo retangular de plástico transparente usado por policiais de choque. Leve e resistente, ele permite proteger paredes e oferece defesa adequada contra a maioria dos agressores.
 
-**Espigado:** Um tipo de alvo com um espigão central, uma lâmina ou uma série de pequenos espigões voltados para fora, na direção do oponente.
+**Espigado**: Um tipo de alvo com um espigão central, uma lâmina ou uma série de pequenos espigões voltados para fora, na direção do oponente.
 
-**Alvo:** Um escudo redondo de tamanho médio, comum em muitas culturas. Geralmente feito com uma borda de metal.
+**Alvo**: Um escudo redondo de tamanho médio, comum em muitas culturas. Geralmente feito com uma borda de metal.
 
 **Escudos primitivos
 
@@ -1230,21 +1230,21 @@ Há quase tantos tipos de armas de artilharia quanto de armas corpo a corpo, e e
 
 Cada arma de artilharia tem os seguintes atributos:
 
-- Nome:** O nome comum do tipo de arma de artilharia.
-- Habilidade:** A habilidade usada para essa arma de artilharia.
-- Base:** A chance básica de usar a arma de artilharia.
-- Dmg:** O dano causado pela arma de artilharia, às vezes expresso como dado/metro. O dano é reduzido em 1D6 por metro além do raio inicial.
-- Ataque:** O número de ataques por rodada que a arma de artilharia permite.
-- Especial:** O tipo de sucesso especial.
+- Nome**: O nome comum do tipo de arma de artilharia.
+- Habilidade**: A habilidade usada para essa arma de artilharia.
+- Base**: A chance básica de usar a arma de artilharia.
+- Dmg**: O dano causado pela arma de artilharia, às vezes expresso como dado/metro. O dano é reduzido em 1D6 por metro além do raio inicial.
+- Ataque**: O número de ataques por rodada que a arma de artilharia permite.
+- Especial**: O tipo de sucesso especial.
 - Alcance: O alcance da arma de cerco.
-- Equipe:** O número de personagens que a arma de artilharia exige para ser usada com eficácia. Abaixo desse número, todos os ataques são *Difíceis*.
-- HP:** Os pontos de vida da arma de artilharia.
-- AV:** O valor de armadura da arma de artilharia, se aplicável.
+- Equipe**: O número de personagens que a arma de artilharia exige para ser usada com eficácia. Abaixo desse número, todos os ataques são *Difíceis*.
+- HP**: Os pontos de vida da arma de artilharia.
+- AV**: O valor de armadura da arma de artilharia, se aplicável.
 - Munição: O tipo de munição, seja sólida, de estilhaços, de energia, química ou outra?
-- CAP:** A capacidade da arma; quantos tiros ela pode disparar antes de recarregar ou recarregar.
-- Mal:** A chance de mau funcionamento da arma de artilharia.
+- CAP**: A capacidade da arma; quantos tiros ela pode disparar antes de recarregar ou recarregar.
+- Mal**: A chance de mau funcionamento da arma de artilharia.
 - Valor: O custo médio da arma em uma configuração apropriada.
-- SIZ:** O tamanho da arma de artilharia.
+- SIZ**: O tamanho da arma de artilharia.
 - Taxa: A taxa de disparo da arma, definida como o número de cartuchos necessários para carregar e lançar, como 1/X, sendo X o número de cartuchos.
 
 Cada arma de artilharia é descrita em **Descrições de armas de artilharia**.
@@ -1253,8 +1253,8 @@ Cada arma de artilharia é descrita em **Descrições de armas de artilharia**.
 
 Essas classes têm alguma sobreposição, especialmente com a habilidade Heavy Weapons (Armas pesadas), e essa habilidade pode permitir que os jogadores usem armas de artilharia como se fossem *Difíceis*, ou vice-versa.
 
-- Canhão:** Canhão, canhão de energia, canhão de campo, obuseiro, canhão de tanque.
-- Lançador:** Morteiro.
+- Canhão**: Canhão, canhão de energia, canhão de campo, obuseiro, canhão de tanque.
+- Lançador**: Morteiro.
 - Canhão montado: canhão ferroviário.
 - Motor de cerco: balista, catapulta, springald, trebuchet.
 - Míssil: Torpedo.
@@ -1264,11 +1264,11 @@ Essas classes têm alguma sobreposição, especialmente com a habilidade Heavy W
 
 As armas de artilharia raramente são usadas contra indivíduos. Elas são disparadas contra massas de homens ou contra paredes e outras estruturas, geralmente afetando uma área de SIZ 40 (cerca de quatro metros de raio a partir do centro, aproximadamente o SIZ de um avião pequeno). Qualquer pessoa atingida por essa área é ferida. Se o alvo for menor que SIZ 40, reduza a chance de acerto em -1% para cada ponto de SIZ menor que 40.
 
-**Por exemplo, *usar uma arma de artilharia contra uma pessoa de tamanho 14 resultaria em uma redução de -26% na habilidade apropriada*.
+**Por exemplo,** *usar uma arma de artilharia contra uma pessoa de tamanho 14 resultaria em uma redução de -26% na habilidade apropriada*.
 
 Se o projétil falhar, use as regras da habilidade Arremesso para determinar onde o projétil realmente foi parar, multiplicando a distância por ×5.
 
-**Por exemplo, se a habilidade Arremesso indicar que um projétil errou por quatro metros, multiplique o resultado por ×5 para obter um resultado de 20 metros. Isso é para garantir que uma falha ainda seja uma falha.
+**Por exemplo,** se a habilidade Arremesso indicar que um projétil errou por quatro metros, multiplique o resultado por ×5 para obter um resultado de 20 metros. Isso é para garantir que uma falha ainda seja uma falha.
 
 **Mísseis guiados
 
@@ -1282,51 +1282,51 @@ Muitas armas de artilharia podem disparar projéteis que se fragmentam ou grande
 
 Os estilhaços danificam tudo em seu raio de explosão, mas geralmente não causam grandes danos estruturais aos edifícios. Normalmente, o dano causado por estilhaços é de apenas 1/6 do dano normal (divida o número de dados, se possível; caso contrário, role e divida por 6, arredondando para cima) de um projétil sólido comparável, mas é causado a tudo em um raio igual em metros ao número de dados exigido pelo rolamento de dano do projétil sólido.
 
-**Por exemplo, um trebuchet dispara um projétil que causa 12D6 de dano ao atingir. Se ele disparar estilhaços, causará 2D6 a tudo que estiver em um raio de 12 metros do ponto de impacto.
+**Por exemplo,** um trebuchet dispara um projétil que causa 12D6 de dano ao atingir. Se ele disparar estilhaços, causará 2D6 a tudo que estiver em um raio de 12 metros do ponto de impacto.
 
 **Descrições de armas de artilharia
 
 Aqui está uma amostra das armas de artilharia, organizadas em ordem alfabética.
 
-**Arbalest, Siege:** Uma versão mais pesada do arbalest, recarregada com a ajuda de um guindaste.
+**Arbalest, Siege**: Uma versão mais pesada do arbalest, recarregada com a ajuda de um guindaste.
 
-**Balista:** Uma grande arma de cerco montada que lança flechas no estilo de besta, geralmente em pessoas no campo de batalha em vez de estruturas ou outros veículos.
+**Balista**: Uma grande arma de cerco montada que lança flechas no estilo de besta, geralmente em pessoas no campo de batalha em vez de estruturas ou outros veículos.
 
-**Canhão:** Um canhão dispara projéteis sólidos, como conchas, balas de canhão ou tiros menores, usando uma carga explosiva contida na base do cano. Quanto mais antigo for o canhão, menos sofisticado será o projétil. Alguns piratas carregavam os canhões com correntes para sujar as velas.
+**Canhão**: Um canhão dispara projéteis sólidos, como conchas, balas de canhão ou tiros menores, usando uma carga explosiva contida na base do cano. Quanto mais antigo for o canhão, menos sofisticado será o projétil. Alguns piratas carregavam os canhões com correntes para sujar as velas.
 
-**Canhão de energia:** Uma arma de projeção de energia com estrutura pesada, que dispara rajadas únicas ou usa uma série rotativa de barris para disparos múltiplos. Geralmente montada em naves estelares ou em bases, embora algumas sejam portáteis.
+**Canhão de energia**: Uma arma de projeção de energia com estrutura pesada, que dispara rajadas únicas ou usa uma série rotativa de barris para disparos múltiplos. Geralmente montada em naves estelares ou em bases, embora algumas sejam portáteis.
 
-**Catapulta:** Uma arma de cerco que lança pedras e outros objetos em um arco parabólico sobre a área visada. Devido à trajetória de voo dos mísseis catapultados, eles são ideais para atingir muros de fortificações abertas ou atirar em veículos terrestres ou marítimos que se movem lentamente.
+**Catapulta**: Uma arma de cerco que lança pedras e outros objetos em um arco parabólico sobre a área visada. Devido à trajetória de voo dos mísseis catapultados, eles são ideais para atingir muros de fortificações abertas ou atirar em veículos terrestres ou marítimos que se movem lentamente.
 
-**Canhão de campo:** Um canhão menor e mais móvel.
+**Canhão de campo**: Um canhão menor e mais móvel.
 
-**Arma, Gatling:** A primeira arma de fogo de repetição rápida. Grandes demais para serem transportadas, as pistolas Gatling eram montadas em carroças ou carrinhos de duas rodas semelhantes a caixotões. A maioria das metralhadoras modernas descende desse projeto inicial.
+**Arma, Gatling**: A primeira arma de fogo de repetição rápida. Grandes demais para serem transportadas, as pistolas Gatling eram montadas em carroças ou carrinhos de duas rodas semelhantes a caixotões. A maioria das metralhadoras modernas descende desse projeto inicial.
 
-**Gun, Rail:** Uma imensa arma que utiliza uma série de campos magnéticos para impulsionar um projétil ao longo de um trilho, acelerando o projétil a uma velocidade incrível.
+**Gun, Rail**: Uma imensa arma que utiliza uma série de campos magnéticos para impulsionar um projétil ao longo de um trilho, acelerando o projétil a uma velocidade incrível.
 
-**Arma, tanque:** A principal arma de um tanque, que dispara projéteis de grande calibre e alta velocidade com uma variedade de tipos de munição. Alguns dos projéteis mais comuns disparados por armas de tanque são altamente explosivos, perfurantes de blindagem ou mísseis guiados.
+**Arma, tanque**: A principal arma de um tanque, que dispara projéteis de grande calibre e alta velocidade com uma variedade de tipos de munição. Alguns dos projéteis mais comuns disparados por armas de tanque são altamente explosivos, perfurantes de blindagem ou mísseis guiados.
 
-**Howitzer:** Um tipo de artilharia de campo semelhante ao canhão, embora com um cano mais curto e mais estreito. Os obuseiros disparam projéteis em um ângulo e uma trajetória mais altos, lançando fogo de mergulho (fogo caindo de cima) em um inimigo.
+**Howitzer**: Um tipo de artilharia de campo semelhante ao canhão, embora com um cano mais curto e mais estreito. Os obuseiros disparam projéteis em um ângulo e uma trajetória mais altos, lançando fogo de mergulho (fogo caindo de cima) em um inimigo.
 
 **Um pequeno lançador de foguetes baseado no solo, que dispara uma bomba autopropulsada em um arco alto contra o alvo. Geralmente são pouco mais do que uma base sólida e um tubo com um mecanismo de disparo simples.
 
 **Balestra: Semelhante à balista em termos de função, essa arma de cerco lança imensos dardos em uma área-alvo, mas também pode ser usada para lançar pedras ou parafusos. As setas são lançadas em uma trajetória direta e as pedras são lançadas indiretamente.
 
-**Torpedo:** Míssil autopropelido usado debaixo d'água ou no espaço, programado para explodir ao entrar em contato com o alvo. Os torpedos mais antigos às vezes eram disparados a uma distância calculada para evitar que se tornassem um perigo para a navegação. Os modelos mais sofisticados têm sistemas de orientação e a capacidade de travar nos alvos.
+**Torpedo**: Míssil autopropelido usado debaixo d'água ou no espaço, programado para explodir ao entrar em contato com o alvo. Os torpedos mais antigos às vezes eram disparados a uma distância calculada para evitar que se tornassem um perigo para a navegação. Os modelos mais sofisticados têm sistemas de orientação e a capacidade de travar nos alvos.
 
-**Trebuchet:** Esse mecanismo de cerco semelhante a uma gangorra usa um imenso contrapeso para lançar pedras grandes ou outras cargas úteis na área visada. Geralmente montado em um campo de batalha, ele visa apenas uma única área, e a única maneira de mudar a mira é encurtar a distância ou mover o trebuchet inteiro.
+**Trebuchet**: Esse mecanismo de cerco semelhante a uma gangorra usa um imenso contrapeso para lançar pedras grandes ou outras cargas úteis na área visada. Geralmente montado em um campo de batalha, ele visa apenas uma única área, e a única maneira de mudar a mira é encurtar a distância ou mover o trebuchet inteiro.
 
-**Torre de energia:** Usada no espaço ou no solo, uma torre de energia é uma grande arma de projeção de energia que consome uma quantidade imensa de energia. Comumente usada em estações espaciais, naves espaciais de médio a grande porte ou em grandes batalhas terrestres. De outra forma, é semelhante a uma torre de metralhadora (abaixo).
+**Torre de energia**: Usada no espaço ou no solo, uma torre de energia é uma grande arma de projeção de energia que consome uma quantidade imensa de energia. Comumente usada em estações espaciais, naves espaciais de médio a grande porte ou em grandes batalhas terrestres. De outra forma, é semelhante a uma torre de metralhadora (abaixo).
 
-**Torre, lança-chamas:** Um lança-chamas montado em torre, geralmente com armadura adicional protegendo o usuário, oferecendo maior alcance do que um projetor de chamas portátil.
+**Torre, lança-chamas**: Um lança-chamas montado em torre, geralmente com armadura adicional protegendo o usuário, oferecendo maior alcance do que um projetor de chamas portátil.
 
-**Torre, laser:** Um canhão laser montado em uma torre, geralmente montado em uma estação espacial ou em um satélite defensivo. Semelhante a uma torre de energia (acima), mas usando luz laser em vez de rajadas de energia bruta.
+**Torre, laser**: Um canhão laser montado em uma torre, geralmente montado em uma estação espacial ou em um satélite defensivo. Semelhante a uma torre de energia (acima), mas usando luz laser em vez de rajadas de energia bruta.
 
-**Torre, metralhadora:** Uma metralhadora grande instalada em uma base giratória, capaz de um grande arco de fogo, geralmente guiada de longe ou por um artilheiro interno ou externo. As torres geralmente são montadas em aviões de médio ou grande porte, navios, tanques ou outros veículos motorizados, ou até mesmo em paredes ou outras estruturas defensivas.
+**Torre, metralhadora**: Uma metralhadora grande instalada em uma base giratória, capaz de um grande arco de fogo, geralmente guiada de longe ou por um artilheiro interno ou externo. As torres geralmente são montadas em aviões de médio ou grande porte, navios, tanques ou outros veículos motorizados, ou até mesmo em paredes ou outras estruturas defensivas.
 
-**Torre de choque:** Uma torre capaz de projetar raios ou arcos elétricos à distância, geralmente utilizando alguma forma de corrente alternada. Uma torre de choque tem +20% de acerto contra um alvo metálico ou um alvo coberto por armadura de metal.
+**Torre de choque**: Uma torre capaz de projetar raios ou arcos elétricos à distância, geralmente utilizando alguma forma de corrente alternada. Uma torre de choque tem +20% de acerto contra um alvo metálico ou um alvo coberto por armadura de metal.
 
-**Torre, arremessador de lança:** Arma de lança automática montada em torre, geralmente disparando parafusos de metal com um metro de comprimento em vez de lanças reais. Alguns modelos antigos são usados no setor baleeiro, embora também sejam utilizados em cenários pós-apocalípticos.
+**Torre, arremessador de lança**: Arma de lança automática montada em torre, geralmente disparando parafusos de metal com um metro de comprimento em vez de lanças reais. Alguns modelos antigos são usados no setor baleeiro, embora também sejam utilizados em cenários pós-apocalípticos.
 
 **Armas de artilharia antigas
 
@@ -1470,96 +1470,96 @@ Assim como os tipos de armas e armaduras, a seção a seguir inclui uma variedad
 
 Os termos a seguir são usados para definir cada veículo:
 
-- **Tipo:** O tipo genérico de veículo.
-- Habilidade:** A habilidade a ser usada ao pilotar o veículo.
-- Velocidade nominal:** A velocidade máxima do veículo, um valor abstrato usado no sistema de perseguição.
+- **Tipo**: O tipo genérico de veículo.
+- Habilidade**: A habilidade a ser usada ao pilotar o veículo.
+- Velocidade nominal**: A velocidade máxima do veículo, um valor abstrato usado no sistema de perseguição.
 - Manuseio: O modificador aplicado à habilidade do seu personagem, refletindo a capacidade de manobra do veículo ou a relativa facilidade de uso.
 - Aceleração: o número de incrementos de velocidade que o veículo pode acelerar ou desacelerar a partir de sua velocidade nominal atual a cada rodada de combate. Isso é fornecido como um valor de ± e é usado no sistema de perseguição de veículos.
-- MOV:** A velocidade máxima do veículo em uma rodada de combate, expressa em sua classificação MOV. A MOV tem um valor deslizante de 1 a 5 metros; isso pressupõe um valor médio de 3.
+- MOV**: A velocidade máxima do veículo em uma rodada de combate, expressa em sua classificação MOV. A MOV tem um valor deslizante de 1 a 5 metros; isso pressupõe um valor médio de 3.
 - Armadura: O valor geral da armadura do veículo e a proteção que ele oferece à tripulação ou aos passageiros. Normalmente, os ataques aos passageiros são feitos através de uma janela ou seção aberta da cabine. Se esses dois números forem diferentes, eles serão expressos como dois valores separados por uma barra. Seu mestre de jogo deve determinar se um personagem tem proteção contra o veículo. Atacar alguém dentro de um veículo é *difícil*.
-- **SIZ:** O valor de SIZ aparente do veículo.
-- HP:** Os pontos de vida do veículo. Os veículos não sofrem os efeitos secundários de sucessos especiais, a não ser o aumento de dano, e os sucessos críticos ignoram a armadura do veículo e causam aumento de dano.
+- **SIZ**: O valor de SIZ aparente do veículo.
+- HP**: Os pontos de vida do veículo. Os veículos não sofrem os efeitos secundários de sucessos especiais, a não ser o aumento de dano, e os sucessos críticos ignoram a armadura do veículo e causam aumento de dano.
 - Tripulação: O número de personagens necessários para pilotar e manter o veículo com eficiência total durante a rota. Para embarcações maiores, isso geralmente é 1/3 do complemento normal, pois as tripulações trabalham em turnos de 8 horas. As rolagens de perícia relacionadas ao veículo podem ser *difíceis* se o veículo estiver com tripulação insuficiente.
-- Passageiros:** O número de passageiros que o veículo normalmente transporta, combinado com o número de tripulantes fora de serviço (se apropriado).
-- Carga:** O espaço que o veículo tem para carga, expresso em ENC. Para fins de jogo, 1 ENC é igual a 1 ponto de SIZ.
+- Passageiros**: O número de passageiros que o veículo normalmente transporta, combinado com o número de tripulantes fora de serviço (se apropriado).
+- Carga**: O espaço que o veículo tem para carga, expresso em ENC. Para fins de jogo, 1 ENC é igual a 1 ponto de SIZ.
 - Valor: Um valor geral para o veículo, conforme descrito em **Money** e **Purchasing Equipment**.
-- Notas:** Notas adicionais sobre o veículo e suas capacidades.
+- Notas**: Notas adicionais sobre o veículo e suas capacidades.
 
 **Descrições dos veículos
 
 Esta seção descreve uma variedade de veículos, organizados em ordem alfabética.
 
-**Veículo aéreo, bombardeiro:** Aeronave enorme, movida a hélice ou turbina, utilizada para missões de bombardeio de longo alcance, geralmente equipada com várias torres de metralhadora.
+**Veículo aéreo, bombardeiro**: Aeronave enorme, movida a hélice ou turbina, utilizada para missões de bombardeio de longo alcance, geralmente equipada com várias torres de metralhadora.
 
-**Veículo aéreo, Dirigível:** Um balão com uma estrutura limitada e uma pequena cabine suspensa abaixo, geralmente inflado com um gás mais leve que o ar. Acionado por rotores.
+**Veículo aéreo, Dirigível**: Um balão com uma estrutura limitada e uma pequena cabine suspensa abaixo, geralmente inflado com um gás mais leve que o ar. Acionado por rotores.
 
-**Veículo aéreo, helicóptero:** Um pequeno veículo aéreo movido a lâmina rotativa. As cabines variam de simples bolhas de plexiglass a blindadas com compartimentos para tropas e suportes para armas.
+**Veículo aéreo, helicóptero**: Um pequeno veículo aéreo movido a lâmina rotativa. As cabines variam de simples bolhas de plexiglass a blindadas com compartimentos para tropas e suportes para armas.
 
-**Veículo aéreo, jato:** Um avião comercial a jato longo, com pelo menos duas turbinas a jato montadas na asa.
+**Veículo aéreo, jato**: Um avião comercial a jato longo, com pelo menos duas turbinas a jato montadas na asa.
 
-**Veículo aéreo, caça a jato:** Um jato relativamente pequeno, altamente manobrável, projetado para combate aéreo e ataques de bombardeio.
+**Veículo aéreo, caça a jato**: Um jato relativamente pequeno, altamente manobrável, projetado para combate aéreo e ataques de bombardeio.
 
-**Veículo aéreo, avião a hélice:** Um pequeno avião de passageiros movido a hélice.
+**Veículo aéreo, avião a hélice**: Um pequeno avião de passageiros movido a hélice.
 
-**Veículo aéreo, Skyskimmer:** Um veículo aéreo ultraleve de alta tecnologia capaz de decolar e aterrissar verticalmente, utilizando tecnologia avançada de propulsores.
+**Veículo aéreo, Skyskimmer**: Um veículo aéreo ultraleve de alta tecnologia capaz de decolar e aterrissar verticalmente, utilizando tecnologia avançada de propulsores.
 
-**Automóvel, sedã moderno:** Um automóvel moderno médio de quatro portas.
+**Automóvel, sedã moderno**: Um automóvel moderno médio de quatro portas.
 
-**Automóvel, carro esportivo moderno:** Um automóvel extremamente rápido, de duas portas, dois assentos e alto desempenho.
+**Automóvel, carro esportivo moderno**: Um automóvel extremamente rápido, de duas portas, dois assentos e alto desempenho.
 
-**Automóvel, Vintage:** Um automóvel antigo e quadradão, equivalente ao Modelo-T.
+**Automóvel, Vintage**: Um automóvel antigo e quadradão, equivalente ao Modelo-T.
 
-**Barco a motor:** Um pequeno barco a motor com uma única hélice e uma pequena cabine dianteira.
+**Barco a motor**: Um pequeno barco a motor com uma única hélice e uma pequena cabine dianteira.
 
-**Barco pequeno a remo:** Um pequeno barco a remo com dois bancos.
+**Barco pequeno a remo**: Um pequeno barco a remo com dois bancos.
 
-**Carruagem:** Uma pequena carruagem de dois cavalos, com espaço para um condutor, um guerreiro e um pequeno suporte para armas ou objetos pessoais.
+**Carruagem**: Uma pequena carruagem de dois cavalos, com espaço para um condutor, um guerreiro e um pequeno suporte para armas ou objetos pessoais.
 
-**Carruagem de quatro cavalos:** Uma carruagem de quatro cavalos aberta ou com capota de tecido.
+**Carruagem de quatro cavalos**: Uma carruagem de quatro cavalos aberta ou com capota de tecido.
 
-**Carroça de quatro cavalos:** Uma diligência de madeira com uma cabine de passageiros apertada e espaço para armazenamento na parte traseira e superior.
+**Carroça de quatro cavalos**: Uma diligência de madeira com uma cabine de passageiros apertada e espaço para armazenamento na parte traseira e superior.
 
-**Cavalo:** Consulte o *Capítulo 11: Criaturas*.
+**Cavalo**: Consulte o *Capítulo 11: Criaturas*.
 
-**Hovercraft:** Uma balsa hovercraft comercial adequada para cerca de 20 passageiros em águas relativamente calmas.
+**Hovercraft**: Uma balsa hovercraft comercial adequada para cerca de 20 passageiros em águas relativamente calmas.
 
-**Land Skimmer:** Um veículo terrestre de alta tecnologia movido a turbina que desliza em um leito de ar comprimido, como um hovercraft.
+**Land Skimmer**: Um veículo terrestre de alta tecnologia movido a turbina que desliza em um leito de ar comprimido, como um hovercraft.
 
-**Motocicleta:** Um veículo motorizado de duas rodas com espaço para um motorista e um passageiro. Carro lateral opcional.
+**Motocicleta**: Um veículo motorizado de duas rodas com espaço para um motorista e um passageiro. Carro lateral opcional.
 
-**Navio, porta-aviões:** Um navio imenso (com mais de 300 metros de comprimento) com um convés plano capaz de lançar aeronaves de combate e fazê-las aterrissar nele.
+**Navio, porta-aviões**: Um navio imenso (com mais de 300 metros de comprimento) com um convés plano capaz de lançar aeronaves de combate e fazê-las aterrissar nele.
 
-**Navio a remo antigo:** Navio longo com fileiras simples de remos a bombordo e a estibordo, geralmente remado por escravos da galera ou por homens de combate.
+**Navio a remo antigo**: Navio longo com fileiras simples de remos a bombordo e a estibordo, geralmente remado por escravos da galera ou por homens de combate.
 
 **Navio de batalha moderno**: Um enorme navio de guerra (mais de 165 metros de comprimento), fortemente blindado com uma grande variedade de sistemas de artilharia e mísseis de longo alcance.
 
-**Navio, cruzeiro moderno:** Um enorme navio de passageiros (mais de 300 metros de comprimento) que funciona quase como um hotel móvel, com lojas, instalações de entretenimento e inúmeras comodidades.
+**Navio, cruzeiro moderno**: Um enorme navio de passageiros (mais de 300 metros de comprimento) que funciona quase como um hotel móvel, com lojas, instalações de entretenimento e inúmeras comodidades.
 
-**Navio, Vintage Sailing:** Um galeão, com cerca de 35 metros de comprimento, com dois ou mais mastros.
+**Navio, Vintage Sailing**: Um galeão, com cerca de 35 metros de comprimento, com dois ou mais mastros.
 
-**Veículo espacial, carga:** A base do comércio espacial, essa é uma nave de carga com uma pequena tripulação. Levemente blindado e armado. Pode ter blindagem de energia.
+**Veículo espacial, carga**: A base do comércio espacial, essa é uma nave de carga com uma pequena tripulação. Levemente blindado e armado. Pode ter blindagem de energia.
 
-**Veículo espacial, foguete:** Um foguete alimentado por vários estágios com uma pequena cabine de passageiros/módulo de aterrissagem.
+**Veículo espacial, foguete**: Um foguete alimentado por vários estágios com uma pequena cabine de passageiros/módulo de aterrissagem.
 
-**Veículo espacial, caça estelar:** Uma espaçonave relativamente pequena e altamente manobrável, equivalente a um caça a jato. Fortemente armado, embora com blindagem leve. Pode ter blindagem de energia.
+**Veículo espacial, caça estelar**: Uma espaçonave relativamente pequena e altamente manobrável, equivalente a um caça a jato. Fortemente armado, embora com blindagem leve. Pode ter blindagem de energia.
 
-**Veículo espacial, transporte:** Nave espacial de tamanho moderado usada principalmente para transporte de passageiros ou carga, levemente blindada e armada. Pode ter blindagem de energia.
+**Veículo espacial, transporte**: Nave espacial de tamanho moderado usada principalmente para transporte de passageiros ou carga, levemente blindada e armada. Pode ter blindagem de energia.
 
-**Submarino:** Embarcação submersível usada pelas forças armadas para fins de furtividade, infiltração em águas inimigas e combate naval.
+**Submarino**: Embarcação submersível usada pelas forças armadas para fins de furtividade, infiltração em águas inimigas e combate naval.
 
-**Tanque moderno:** Um veículo de combate sobre esteiras fortemente blindado, equipado com um canhão central de grande calibre e outros armamentos.
+**Tanque moderno**: Um veículo de combate sobre esteiras fortemente blindado, equipado com um canhão central de grande calibre e outros armamentos.
 
-**Tanque, Vintage:** Um veículo de combate sobre esteiras fortemente blindado, geralmente equipado com um canhão central de grande calibre.
+**Tanque, Vintage**: Um veículo de combate sobre esteiras fortemente blindado, geralmente equipado com um canhão central de grande calibre.
 
-**Trem, Bullet:** Um trem de passageiros de alta velocidade e aerodinâmico construído em uma pista especializada, geralmente movido a eletricidade.
+**Trem, Bullet**: Um trem de passageiros de alta velocidade e aerodinâmico construído em uma pista especializada, geralmente movido a eletricidade.
 
-**Trem, Mag-lev:** Um trem que levita em um trilho magnético.
+**Trem, Mag-lev**: Um trem que levita em um trilho magnético.
 
-**Train, Steam Engine:** Um motor a vapor que data do final do século XIX. O valor do SIZ é por vagão.
+**Train, Steam Engine**: Um motor a vapor que data do final do século XIX. O valor do SIZ é por vagão.
 
-**Caminhão, caminhonete:** Uma caminhonete com tração nas quatro rodas.
+**Caminhão, caminhonete**: Uma caminhonete com tração nas quatro rodas.
 
-**Truck, Semi (18-wheeler):** Um caminhão comercial grande com uma cabine pequena e um compartimento de carga longo.
+**Truck, Semi (18-wheeler)**: Um caminhão comercial grande com uma cabine pequena e um compartimento de carga longo.
 
 **Veículos puxados por cavalos e cavalos**
 
@@ -1652,20 +1652,20 @@ Essa categoria abrange uma grande variedade de materiais de leitura, desde jorna
 
 Quando um livro é procurado ou encontrado, o mestre de jogo deve determinar o seguinte:
 
-- Idioma:** Se o livro estiver escrito em um idioma diferente do idioma nativo do seu personagem, ele deverá traduzir o livro ou fazer lançamentos de Idioma conforme apropriado (ou Alfabetização, se essa habilidade for usada).
-- Habilidade:** Seu personagem pode aprender a melhorar uma habilidade com esse livro? Em geral, um livro contém uma única habilidade, embora volumes raros e valiosos possam incluir mais de um assunto.
-- Recompensa:** Que bônus em uma habilidade pode ser obtido pela leitura do livro? Geralmente, esse valor varia de 1% para algo breve ou preenchido em sua maior parte com materiais não essenciais a 20% para um volume abrangente que serve como autoridade máxima sobre o assunto. Em geral, um valor entre +1% e +10% é apropriado. Se mais de uma habilidade puder ser aprendida com o livro, o mestre de jogo deverá determinar duas classificações, mesmo que sejam idênticas.
-- Tempo de leitura:** Quanto tempo o livro leva para ser lido? Isso representa um exame minucioso do texto do livro e uma tentativa de entendê-lo em seu contexto. Isso pode envolver leitura suplementar adicional, pesquisa ou análise para aumentar a compreensão e dominar o material.
-- Poderes:** Alguns livros raros contêm feitiços mágicos ou de feitiçaria, invocações a demônios ou outros seres sobrenaturais, ou algum outro meio de aprender um poder. Seu mestre de jogo deve determinar se o livro tem algum desses poderes, quais são eles e o quanto pode ser aprendido (como um limite de nível ou porcentagem, se for o caso). Em algumas obras, o nome real do poder pode ser obscuro ou deliberadamente vago, para proteger o conteúdo do neófito. Consulte as diretrizes dos poderes de magia e feitiçaria para aprender feitiços. O livro pode não ter feitiços, mas incluir o nome verdadeiro de um demônio, elemental ou até mesmo de um deus.
+- Idioma**: Se o livro estiver escrito em um idioma diferente do idioma nativo do seu personagem, ele deverá traduzir o livro ou fazer lançamentos de Idioma conforme apropriado (ou Alfabetização, se essa habilidade for usada).
+- Habilidade**: Seu personagem pode aprender a melhorar uma habilidade com esse livro? Em geral, um livro contém uma única habilidade, embora volumes raros e valiosos possam incluir mais de um assunto.
+- Recompensa**: Que bônus em uma habilidade pode ser obtido pela leitura do livro? Geralmente, esse valor varia de 1% para algo breve ou preenchido em sua maior parte com materiais não essenciais a 20% para um volume abrangente que serve como autoridade máxima sobre o assunto. Em geral, um valor entre +1% e +10% é apropriado. Se mais de uma habilidade puder ser aprendida com o livro, o mestre de jogo deverá determinar duas classificações, mesmo que sejam idênticas.
+- Tempo de leitura**: Quanto tempo o livro leva para ser lido? Isso representa um exame minucioso do texto do livro e uma tentativa de entendê-lo em seu contexto. Isso pode envolver leitura suplementar adicional, pesquisa ou análise para aumentar a compreensão e dominar o material.
+- Poderes**: Alguns livros raros contêm feitiços mágicos ou de feitiçaria, invocações a demônios ou outros seres sobrenaturais, ou algum outro meio de aprender um poder. Seu mestre de jogo deve determinar se o livro tem algum desses poderes, quais são eles e o quanto pode ser aprendido (como um limite de nível ou porcentagem, se for o caso). Em algumas obras, o nome real do poder pode ser obscuro ou deliberadamente vago, para proteger o conteúdo do neófito. Consulte as diretrizes dos poderes de magia e feitiçaria para aprender feitiços. O livro pode não ter feitiços, mas incluir o nome verdadeiro de um demônio, elemental ou até mesmo de um deus.
 
 **Tipos de livros
 
 A seguir, apresentamos uma variedade de tipos de livros e como eles podem ser usados no jogo:
 
-- Livros instrucionais:** Um livro destinado a ensinar um determinado assunto ou habilidade, organizado e escrito com esse objetivo. Presume-se que, quando seu personagem estiver treinando sozinho, os livros instrucionais estejam sendo usados como referência. Os livros de instrução, quando lidos com sucesso, fornecem uma verificação de experiência (consulte **Pesquisa de aumentos de habilidade**), embora o mestre do jogo possa conceder um aumento de habilidade padrão.
+- Livros instrucionais**: Um livro destinado a ensinar um determinado assunto ou habilidade, organizado e escrito com esse objetivo. Presume-se que, quando seu personagem estiver treinando sozinho, os livros instrucionais estejam sendo usados como referência. Os livros de instrução, quando lidos com sucesso, fornecem uma verificação de experiência (consulte **Pesquisa de aumentos de habilidade**), embora o mestre do jogo possa conceder um aumento de habilidade padrão.
 - Livros de conhecimento: Um livro de conhecimento contém conhecimento especializado do tipo não científico, seja oculto ou folclórico ou algum outro campo "suave". Eles variam tremendamente em estrutura, mas geralmente dão uma impressão de um campo específico de conhecimento a partir da perspectiva do autor, seja uma visão geral acadêmica ou o diário particular de um lunático. A leitura de um livro de conhecimento geralmente permite que o leitor aumente a(s) habilidade(s) em que o livro se concentra. Esses livros são semelhantes aos livros de instrução, embora a leitura bem-sucedida de um livro de conhecimento conceda um aumento automático da classificação de uma habilidade. Seu gamemaster pode determinar que os livros que contêm conhecimentos diabólicos ou horríveis causem perda automática de pontos de sanidade sem que seja necessário rolar a sanidade para evitar a perda. Para livros que aumentam uma habilidade de Conhecimento e custam pontos de sanidade, seu gamemaster deve impor um limite de SAN máxima com base no total de 99 menos a classificação da habilidade nessa habilidade, conforme descrito na descrição da habilidade Conhecimento Blasfemo e **Sanidade máxima**.
-- Livros de referência:** Um livro de referência pode ser um dicionário, uma enciclopédia ou outra referência em papel, eletrônica ou outro formato. A principal diferença entre um livro de referência e outro tipo de livro é que não há tentativa de contextualizar as informações - em vez disso, elas são apresentadas em um formato não hierárquico, com todas as informações no mesmo nível. É um desafio aprender com uma obra de referência sem um quadro de referência ou contexto para o assunto, mas a leitura de uma obra de referência é um excelente meio de aumentar outra habilidade de conhecimento. Se um livro de referência estiver sendo usado para pesquisar uma habilidade para aprimorá-la, é necessário um lançamento bem-sucedido para ler o livro e, em seguida, a própria habilidade que está sendo estudada. O tempo necessário para pesquisar uma habilidade por meio de um livro de referência é o dobro do tempo de um livro instrucional. As rolagens de habilidade bem-sucedidas feitas para pesquisar ou aumentar um aumento de habilidade não rendem uma verificação de experiência adicional.
-- Livros de feitiços:** Também chamados de grimórios, são livros, pergaminhos, tábuas, peles, pedras escritas, cordas com nós ou outros meios usados para transmitir as informações necessárias para que um mago ou feiticeiro aprenda feitiços mágicos ou armazene os feitiços que já conhece, ou que contenham informações secretas sobre seres mágicos ou demônios. Esses livros de feitiços são descritos nos poderes de magia e feitiçaria no *Capítulo 4: Poderes*.
+- Livros de referência**: Um livro de referência pode ser um dicionário, uma enciclopédia ou outra referência em papel, eletrônica ou outro formato. A principal diferença entre um livro de referência e outro tipo de livro é que não há tentativa de contextualizar as informações - em vez disso, elas são apresentadas em um formato não hierárquico, com todas as informações no mesmo nível. É um desafio aprender com uma obra de referência sem um quadro de referência ou contexto para o assunto, mas a leitura de uma obra de referência é um excelente meio de aumentar outra habilidade de conhecimento. Se um livro de referência estiver sendo usado para pesquisar uma habilidade para aprimorá-la, é necessário um lançamento bem-sucedido para ler o livro e, em seguida, a própria habilidade que está sendo estudada. O tempo necessário para pesquisar uma habilidade por meio de um livro de referência é o dobro do tempo de um livro instrucional. As rolagens de habilidade bem-sucedidas feitas para pesquisar ou aumentar um aumento de habilidade não rendem uma verificação de experiência adicional.
+- Livros de feitiços**: Também chamados de grimórios, são livros, pergaminhos, tábuas, peles, pedras escritas, cordas com nós ou outros meios usados para transmitir as informações necessárias para que um mago ou feiticeiro aprenda feitiços mágicos ou armazene os feitiços que já conhece, ou que contenham informações secretas sobre seres mágicos ou demônios. Esses livros de feitiços são descritos nos poderes de magia e feitiçaria no *Capítulo 4: Poderes*.
 
 **Usando um livro
 
@@ -1679,23 +1679,23 @@ As propriedades físicas dos livros geralmente são menos impressionantes do que
 
 O dano físico é uma ameaça constante ao seu personagem, e existem muitos equipamentos para ajudar no tratamento de ferimentos e doenças. Os equipamentos médicos a seguir estão listados em ordem de complexidade relativa, desde os mais primitivos até os futuristas. Cada uma dessas coleções de equipamentos é definida como um **kit**, uma variedade de equipamentos e materiais usados para uma finalidade específica. Seu gamemaster pode determinar se um kit específico é de qualidade *inferior*, *média* ou *superior*, com modificadores relevantes para o uso da habilidade.
 
-- Kit de ervanário ou de parteira:** Usado por xamãs, curandeiros, parteiras e sanguessugas, é uma variedade de tecidos para curativos, cataplasmas, linha e uma agulha afiada (de osso ou metal), além de alguns outros itens estranhos, incluindo remédios à base de ervas de vários níveis de eficácia. Esse kit é barato na maioria dos cenários e geralmente é obtido pelo proprietário usando a habilidade Conhecimento (Herbalismo).
-- Kit de primeiros socorros:** Um kit de primeiros socorros padrão inclui equivalentes apropriados para o ambiente de bandagens limpas (ou estéreis), luvas de borracha, pomadas menores, comprimidos para doenças ou infecções menores, colírio, tratamento para veneno ou peçonha e pequenas ferramentas, como pinças, tesouras ou até mesmo um bisturi pequeno. Os kits maiores têm uma variedade maior dos itens acima, mais medicamentos diversos e podem vir com um pequeno manual de primeiros socorros. Um kit de primeiros socorros é usado com a habilidade de Primeiros Socorros e geralmente é barato.
-- Bolsa de médico:** Uma bolsa de médico tradicional inclui uma variedade de pílulas e antibióticos adequados ao ambiente, um estetoscópio, uma lanterna, um bloco de receitas e vários implementos e ferramentas médicas para diagnóstico no local e tratamento médico de emergência. Uma maleta de médico é usada com a habilidade de Primeiros Socorros, mas pode ser usada para rolar a habilidade de Medicina, dependendo do procedimento. A bolsa do médico é cara.
-- Kit cirúrgico:** Um conjunto de ferramentas cirúrgicas embaladas e esterilizadas, prontas para uso. Contém várias luvas de borracha, curativos, antissépticos, suturas etc., e é essencial para qualquer cirurgia envolvida ou uso da habilidade de Medicina que envolva cirurgia. Qualquer hospital deve ter vários exemplares de tudo o que faz parte de um kit cirúrgico. Um kit de cirurgia é caro.
+- Kit de ervanário ou de parteira**: Usado por xamãs, curandeiros, parteiras e sanguessugas, é uma variedade de tecidos para curativos, cataplasmas, linha e uma agulha afiada (de osso ou metal), além de alguns outros itens estranhos, incluindo remédios à base de ervas de vários níveis de eficácia. Esse kit é barato na maioria dos cenários e geralmente é obtido pelo proprietário usando a habilidade Conhecimento (Herbalismo).
+- Kit de primeiros socorros**: Um kit de primeiros socorros padrão inclui equivalentes apropriados para o ambiente de bandagens limpas (ou estéreis), luvas de borracha, pomadas menores, comprimidos para doenças ou infecções menores, colírio, tratamento para veneno ou peçonha e pequenas ferramentas, como pinças, tesouras ou até mesmo um bisturi pequeno. Os kits maiores têm uma variedade maior dos itens acima, mais medicamentos diversos e podem vir com um pequeno manual de primeiros socorros. Um kit de primeiros socorros é usado com a habilidade de Primeiros Socorros e geralmente é barato.
+- Bolsa de médico**: Uma bolsa de médico tradicional inclui uma variedade de pílulas e antibióticos adequados ao ambiente, um estetoscópio, uma lanterna, um bloco de receitas e vários implementos e ferramentas médicas para diagnóstico no local e tratamento médico de emergência. Uma maleta de médico é usada com a habilidade de Primeiros Socorros, mas pode ser usada para rolar a habilidade de Medicina, dependendo do procedimento. A bolsa do médico é cara.
+- Kit cirúrgico**: Um conjunto de ferramentas cirúrgicas embaladas e esterilizadas, prontas para uso. Contém várias luvas de borracha, curativos, antissépticos, suturas etc., e é essencial para qualquer cirurgia envolvida ou uso da habilidade de Medicina que envolva cirurgia. Qualquer hospital deve ter vários exemplares de tudo o que faz parte de um kit cirúrgico. Um kit de cirurgia é caro.
 - Kit de trauma: Uma coleção especializada de suprimentos médicos para lidar com traumas imediatos. Geralmente destinado ao uso em campos de batalha, um kit de trauma tem suprimentos como injeções de adrenalina, antitoxinas, outros remédios para proteção contra agentes químicos, suprimentos médicos de emergência para lidar imediatamente com ferimentos grandes e abertos, um desfibrilador portátil e um conjunto limitado de ferramentas cirúrgicas. Um kit de trauma é caro.
 - Kit médico: Um conjunto de equipamentos altamente avançado, que inclui regeneradores dérmicos, hiposprays, agentes de coagulação sanguínea instantânea, um scanner médico simples, antitóxicos e antídotos universais, injeções de estímulo, spray de pele sintética, gessos em spray e outras formas de vedação instantânea de ferimentos. Normalmente, um kit médico tem um pequeno computador ou leitor médico capaz de descrever milhares de tratamentos e diagnosticar ferimentos simples. O uso de um kit médico torna todas as tentativas de primeiros socorros *fáceis* e dobra o número de pontos de vida que uma rolagem de primeiros socorros bem-sucedida cura. Se estiver disponível em seu ambiente, o kit médico é caro.
-- Auto-doc:** Um sistema de tratamento médico totalmente automatizado, completo com habilidades de diagnóstico complexas, capaz de reconhecer e implementar tratamento para praticamente qualquer condição médica conhecida. Os autodocs podem incluir componentes robóticos capazes de manobrar pacientes ou podem ser do tamanho de uma sala, com membros extrusivos e outros manipuladores para interagir com o paciente em um leito central. Um autodidata tem 100% de habilidade em medicina e primeiros socorros, e uma rolagem bem-sucedida restaura o dobro do número de pontos de vida do paciente, com o tempo de recuperação reduzido pela metade. Um autodoc é caro ou inestimável, enquanto o tratamento em um autodoc varia de gratuito a inestimável.
+- Auto-doc**: Um sistema de tratamento médico totalmente automatizado, completo com habilidades de diagnóstico complexas, capaz de reconhecer e implementar tratamento para praticamente qualquer condição médica conhecida. Os autodocs podem incluir componentes robóticos capazes de manobrar pacientes ou podem ser do tamanho de uma sala, com membros extrusivos e outros manipuladores para interagir com o paciente em um leito central. Um autodidata tem 100% de habilidade em medicina e primeiros socorros, e uma rolagem bem-sucedida restaura o dobro do número de pontos de vida do paciente, com o tempo de recuperação reduzido pela metade. Um autodoc é caro ou inestimável, enquanto o tratamento em um autodoc varia de gratuito a inestimável.
 
 **Outros equipamentos
 
 Veja a seguir outros tipos úteis de equipamentos que seu personagem pode querer utilizar. **Habilidades e equipamentos** contém mais detalhes sobre os equipamentos necessários ou que auxiliam no uso das habilidades.
 
-- Conjunto de Química:** Uma ampla seleção de pequenas porções de produtos químicos e substâncias, com um microscópio e meios de misturar e armazenar compostos. Normalmente, é apenas uma ferramenta educacional, mas pode ser utilizada com a habilidade Science (Chemistry) para tarefas básicas. Barato e prontamente disponível para estudantes ou qualquer outra pessoa interessada.
-- Computadores:** Dependendo do cenário, um computador é uma ferramenta simples (recupera informações quando consultado e executa comandos simples) ou complexa (possui inteligência artificial ou uma aproximação da senciência) que pode ser usada com outras habilidades, como Avaliação, Arte, Jogos, Conhecimento, Ciência, Ensino e, especialmente, Pesquisa. Qualquer habilidade que se beneficie de uma base de conhecimento ampla e pesquisável ou de uma comunicação quase instantânea com outros no campo pode se beneficiar do uso de um computador. Os programas contidos ou acessíveis e a relativa facilidade de uso permitem um bônus de até +20% se o computador for adequado para a habilidade que está sendo usada; uma configuração de computador mediana não oferece bônus; e uma configuração de computador inferior ou ineficiente pode penalizar uma habilidade em até -20%. Se você e seu mestre de jogo desejarem que o computador tenha mais capacidade do que um computador apropriado para a época, crie-o como um dispositivo superpoderoso com INT.
+- Conjunto de Química**: Uma ampla seleção de pequenas porções de produtos químicos e substâncias, com um microscópio e meios de misturar e armazenar compostos. Normalmente, é apenas uma ferramenta educacional, mas pode ser utilizada com a habilidade Science (Chemistry) para tarefas básicas. Barato e prontamente disponível para estudantes ou qualquer outra pessoa interessada.
+- Computadores**: Dependendo do cenário, um computador é uma ferramenta simples (recupera informações quando consultado e executa comandos simples) ou complexa (possui inteligência artificial ou uma aproximação da senciência) que pode ser usada com outras habilidades, como Avaliação, Arte, Jogos, Conhecimento, Ciência, Ensino e, especialmente, Pesquisa. Qualquer habilidade que se beneficie de uma base de conhecimento ampla e pesquisável ou de uma comunicação quase instantânea com outros no campo pode se beneficiar do uso de um computador. Os programas contidos ou acessíveis e a relativa facilidade de uso permitem um bônus de até +20% se o computador for adequado para a habilidade que está sendo usada; uma configuração de computador mediana não oferece bônus; e uma configuração de computador inferior ou ineficiente pode penalizar uma habilidade em até -20%. Se você e seu mestre de jogo desejarem que o computador tenha mais capacidade do que um computador apropriado para a época, crie-o como um dispositivo superpoderoso com INT.
 - Kit de criminologia Usado por laboratórios forenses e detetives, um kit de criminologia contém métodos de detecção de impressões digitais, dispositivos de medição, luvas de borracha, sacos de coleta e garrafas para armazenamento de evidências, lentes de aumento, produtos químicos e sprays apropriados, ferramentas menores, lanternas normais e de luz negra e outros meios de detecção de traços de atividade criminosa. Um kit de criminologia é caro.
 - Kit de disfarce: Uma coleção de tinturas e cores de pele, maquiagem e outros meios para mudar a aparência de uma pessoa, um kit de disfarce geralmente é montado pelo usuário para ser de máxima utilidade para suas características físicas e/ou gênero. Um kit de disfarce pode incluir perucas, dentes falsos, pelos faciais falsos, tinturas de cabelo e outras ferramentas de modelagem, tesouras, um espelho, lentes de contato ou óculos falsos e até mesmo peças de guarda-roupa. Kits mais sofisticados podem incluir próteses para alterar as características faciais. Um kit de disfarce também pode ser de uso geral, mas geralmente não é tão eficaz. Um kit pode ser montado a partir de itens disponíveis no mercado por um custo barato ou médio, ou um kit de alta qualidade pode ser caro.
-- Kits, vários:** Conforme descrito em **Habilidades e equipamentos**, praticamente qualquer tipo de habilidade de Ofício pode ter um kit ou conjunto de ferramentas que auxilie em seu uso. O valor e a utilidade desses kits devem ser determinados pelo seu mestre de jogo com base no cenário.
+- Kits, vários**: Conforme descrito em **Habilidades e equipamentos**, praticamente qualquer tipo de habilidade de Ofício pode ter um kit ou conjunto de ferramentas que auxilie em seu uso. O valor e a utilidade desses kits devem ser determinados pelo seu mestre de jogo com base no cenário.
 - Isso pode variar de algumas picaretas simples a um conjunto mais sofisticado com estetoscópio, brocas e uma variedade de ferramentas e implementos para abrir as fechaduras mais complexas e desafiadoras. Eles podem variar de baratos a caros.
 - Um silenciador é um tubo longo cheio de defletores, preso ao cano de uma arma de fogo, que abafa o som dos tiros disparados. Isso diminui a velocidade do projétil, reduzindo pela metade seu alcance básico. Um silenciador geralmente é feito sob encomenda para um tipo específico de arma de fogo e geralmente se desgasta após D100+10 disparos. Um silenciador não pode ser acoplado a uma espingarda ou metralhadora pesada, mas pode ser usado em uma metralhadora leve ou média. Na maioria dos cenários em que existem, os silenciadores são caros e restritos.
 - Escopetas telescópicas e miras a laser: são acopladas a uma arma de fogo e permitem que seu personagem dobre efetivamente o alcance básico. As miras a laser quadruplicam o alcance básico. Quando combinadas com **Ataques com mira**, ambas podem ser bastante eficazes. São de valor médio, embora as miras de precisão possam ser mais caras.
@@ -1706,23 +1706,23 @@ Um mecha (às vezes abreviado como "mech") é essencialmente uma armadura superd
 
 **Exoframe móvel modelo D142, também conhecido como "Skyhammer "**
 
-**Valor:** Inestimável
+**Valor**: Inestimável
 
 O Skyhammer é um mecha em forma de humanoide, fortemente blindado, com um torso alongado que serve como cabine de comando, abrigando o piloto. Sua cabeça é um conjunto de equipamentos sensoriais e seus membros são funcionais. Projetando-se de seu "umbigo", há um grande canhão a laser que o piloto usa como base.
 
 **STR** 100 **CON** 50 **SIZ** 50
 
-**Hit Points:** 50 **Major Wound**: 25 **Pontos de Poder:** 110
+**Hit Points**: 50 **Major Wound**: 25 **Pontos de Poder**: 110
 
-**Modificador de Dano:** +8D6 **MOV:** 15
+**Modificador de Dano**: +8D6 **MOV**: 15
 
-**Armadura:** Revestimento com liga de 30 pontos (veja abaixo)
+**Armadura**: Revestimento com liga de 30 pontos (veja abaixo)
 
-**Armas:** Canhão de laser (usa a % da habilidade de projeção do piloto), alcance de 75 metros, 5D6 de dano; Punhos de martelo (usa a % da habilidade de luta do piloto), 1D3+8D6 de dano
+**Armas**: Canhão de laser (usa a % da habilidade de projeção do piloto), alcance de 75 metros, 5D6 de dano; Punhos de martelo (usa a % da habilidade de luta do piloto), 1D3+8D6 de dano
 
-**Habilidades:** Manipulação fina 45%, Saltar 65%, Ouvir 65%, Navegar 70%, Pilotar (piloto automático próprio) 41%, Reparar (diagnóstico interno e reparo) 55%, Localizar 65%, Rastrear 30%, Voar 100%.
+**Habilidades**: Manipulação fina 45%, Saltar 65%, Ouvir 65%, Navegar 70%, Pilotar (piloto automático próprio) 41%, Reparar (diagnóstico interno e reparo) 55%, Localizar 65%, Rastrear 30%, Voar 100%.
 
-**Poderes:** Adaptação 6 (frio, calor, alta pressão, radiação, vácuo; custo = 15 pontos); Armadura 30 (elétrica 30, cinética 30, radiação 30; custo = 90 pontos); Projeção de Energia 5 (luz; custo = 50 pontos); Energia Extra 11 (+110 pontos de energia; custo = 11 pontos); Voo 17 (custo = 17 pontos); Supercaracterísticas 200 (STR, CON, SIZ; custo = 200 pontos); Supersentido 5 (Audição 5, Visão 5, Visão Escura 5, Visão Infravermelha 5, Detecção de Sonar 5; custo = 75 pontos); Superhabilidade (Manipulação Fina 2, Salto 2, Ouvir 2, Navegar 3, Pilotar 2, Reparar 2, Localizar 2, Rastrear 1, Voar 5; custo = 42 pontos).  
+**Poderes**: Adaptação 6 (frio, calor, alta pressão, radiação, vácuo; custo = 15 pontos); Armadura 30 (elétrica 30, cinética 30, radiação 30; custo = 90 pontos); Projeção de Energia 5 (luz; custo = 50 pontos); Energia Extra 11 (+110 pontos de energia; custo = 11 pontos); Voo 17 (custo = 17 pontos); Supercaracterísticas 200 (STR, CON, SIZ; custo = 200 pontos); Supersentido 5 (Audição 5, Visão 5, Visão Escura 5, Visão Infravermelha 5, Detecção de Sonar 5; custo = 75 pontos); Superhabilidade (Manipulação Fina 2, Salto 2, Ouvir 2, Navegar 3, Pilotar 2, Reparar 2, Localizar 2, Rastrear 1, Voar 5; custo = 42 pontos).  
  Custo total do orçamento de energia = 500 pontos.
 
 **Qualidades gerais dos objetos

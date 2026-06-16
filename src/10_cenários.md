@@ -10,231 +10,231 @@ O *Basic Roleplaying* foi criado para ajudar você, o mestre de jogo, a criar se
 
 Qualquer ambiente tribal pré-histórico ou primitivo anterior ao surgimento da civilização, ou de alguma forma separado dela. A vida é curta e brutal e, geralmente, a única organização social é a família ou a tribo. Os mamíferos pré-históricos geralmente são a principal ameaça, embora as histórias alternativas às vezes incluam dinossauros.
 
-- Tipos de personagem:** Artesão, Fazendeiro, Caçador, Xamã e Tribo.
-- Poderes:** Xamãs primitivos podem usar magia, e mutações e habilidades psíquicas podem existir.
+- Tipos de personagem**: Artesão, Fazendeiro, Caçador, Xamã e Tribo.
+- Poderes**: Xamãs primitivos podem usar magia, e mutações e habilidades psíquicas podem existir.
 - Tecnologia: Nenhum item manufaturado está disponível em um mundo pré-histórico, com tudo sendo moldado a partir de recursos primitivos, como madeira, pedra, osso, couro, pele, penas e argila - sejam roupas, ferramentas e armas, totens religiosos ou lembranças. Embora um artesão habilidoso possa fazer machados de pedra melhores e moldar talismãs melhores, não há muito mais além disso. A maioria dos itens é de qualidade ruim ou média, e não há riqueza.
-- Aventuras:** Conflitos tribais entre grupos de caçadores-coletores por causa de locais de caça privilegiados, clima adverso, animais agressivos ou até mesmo grandes caçadas podem formar o núcleo das aventuras pré-históricas. As pré-histórias alternativas podem incluir criaturas antigas do Cthulhu Mythos, alienígenas empenhados em escravizar a humanidade primitiva ou até mesmo caminhos evolutivos divergentes em que dinossauros ou macacos inteligentes se tornaram a espécie dominante e a humanidade, sua forragem.
-- **Opções:** Nenhuma.
+- Aventuras**: Conflitos tribais entre grupos de caçadores-coletores por causa de locais de caça privilegiados, clima adverso, animais agressivos ou até mesmo grandes caçadas podem formar o núcleo das aventuras pré-históricas. As pré-histórias alternativas podem incluir criaturas antigas do Cthulhu Mythos, alienígenas empenhados em escravizar a humanidade primitiva ou até mesmo caminhos evolutivos divergentes em que dinossauros ou macacos inteligentes se tornaram a espécie dominante e a humanidade, sua forragem.
+- **Opções**: Nenhuma.
 
 **Mundo antigo
 
 A era de reinos como Suméria, Grécia, Roma, Egito, Pérsia e outros impérios poderosos, desde a época mesopotâmica até a antiguidade bíblica, Grécia clássica, até a queda de Roma e o subsequente colapso caótico da Europa. Como alternativa, esse pode ser um cenário de fantasia de espada e escândalo em um mundo antigo imaginado.
 
-- Tipos de personagem:** Qualquer um, exceto jornalista, cientista e técnico.
-- Poderes:** Magia e feitiçaria, provavelmente de origem divina. Podem existir poderes psíquicos e os monstros podem ter mutações. Semideuses ou heróis lendários podem ter superpoderes.
+- Tipos de personagem**: Qualquer um, exceto jornalista, cientista e técnico.
+- Poderes**: Magia e feitiçaria, provavelmente de origem divina. Podem existir poderes psíquicos e os monstros podem ter mutações. Semideuses ou heróis lendários podem ter superpoderes.
 - Tecnologia: O apogeu da Idade do Bronze e o florescimento da Idade do Ferro, em que a metalurgia transformou a cultura e o comércio. Esse é o florescimento da arte e o nascimento da civilização.
-- Aventuras:** Essa era é adequada para épicos de fantasia corajosos, bem como para temas mitológicos mais grandiosos com forte ênfase na cultura e na adoração.
-- Opções:** Fidelidade, Ataques e Paradas acima de 100%, Escolha de valores de característica, Modificadores culturais, Locais de dano e acerto, Esquiva de armas de mísseis, Pontos de fadiga, Características iniciais mais altas, Pontos de acerto por local, Aumento de pontos de habilidade pessoal, Alfabetização, Paixões, Uso de poder na fase de ação, Reputação, Classificações de habilidade acima de 100%, Total de pontos de acerto.
+- Aventuras**: Essa era é adequada para épicos de fantasia corajosos, bem como para temas mitológicos mais grandiosos com forte ênfase na cultura e na adoração.
+- Opções**: Fidelidade, Ataques e Paradas acima de 100%, Escolha de valores de característica, Modificadores culturais, Locais de dano e acerto, Esquiva de armas de mísseis, Pontos de fadiga, Características iniciais mais altas, Pontos de acerto por local, Aumento de pontos de habilidade pessoal, Alfabetização, Paixões, Uso de poder na fase de ação, Reputação, Classificações de habilidade acima de 100%, Total de pontos de acerto.
 
 **Medieval precoce
 
 Após a queda do Império Romano, grande parte da Europa está em desordem. Embora haja avanços sociais e melhorias na qualidade de vida em geral, essa época é frequentemente caracterizada como brutal e não iluminada. Isso inclui o surgimento da cultura nórdica (viking) e as guerras regionais em toda a Europa para preencher o vácuo deixado por Roma. Esse também pode ser um cenário de fantasia, incluindo raças não humanas, como elfos e anões, ou até mesmo animais e monstros míticos.
 
-- Tipos de personagem:** Qualquer um, exceto jornalista, cientista e técnico. Os políticos geralmente são nobres e os escritores geralmente são sacerdotes ou podem ser poetas.
-- Poderes:** Magia e feitiçaria são os dois tipos de poder mais comuns e podem ser de natureza divina, infernal ou pagã.
+- Tipos de personagem**: Qualquer um, exceto jornalista, cientista e técnico. Os políticos geralmente são nobres e os escritores geralmente são sacerdotes ou podem ser poetas.
+- Poderes**: Magia e feitiçaria são os dois tipos de poder mais comuns e podem ser de natureza divina, infernal ou pagã.
 - Tecnologia: Apesar de às vezes ser chamada de "Idade das Trevas", há desenvolvimentos científicos, melhorias na engenharia mecânica e tratamento de doenças. O estudo do mundo físico floresce, e a criação de livros e a preservação do conhecimento se tornam predominantes entre a nobreza e o clero. Os navios a vela se tornam cada vez mais sofisticados.
-- Aventuras:** A Europa depois de Roma é um verdadeiro deserto pós-apocalíptico, e a vida era difícil para os plebeus. Guerras mesquinhas e opressão são comuns. A divisão entre as religiões é repleta de conflitos e tumultos.
-- Opções:** Fidelidade, Modificadores culturais, Locais de dano e acerto, Rolo de educação/conhecimento, Pontos de fadiga, Pontos de acerto por local, Alfabetização, Paixões, Reputação, Sanidade.
+- Aventuras**: A Europa depois de Roma é um verdadeiro deserto pós-apocalíptico, e a vida era difícil para os plebeus. Guerras mesquinhas e opressão são comuns. A divisão entre as religiões é repleta de conflitos e tumultos.
+- Opções**: Fidelidade, Modificadores culturais, Locais de dano e acerto, Rolo de educação/conhecimento, Pontos de fadiga, Pontos de acerto por local, Alfabetização, Paixões, Reputação, Sanidade.
 
 **Alta Medieval
 
 Essa é uma era feudal. A nobreza, a cavalaria, os governos dinásticos e as estruturas sociais caracterizam o período. O romance idealizado impulsiona o mundo cavalheiresco, contrastando com a realidade brutal e sombria. Acredita-se que a magia seja diabólica, e o divino é considerado tão real quanto o infernal. Isso também pode descrever um mundo pós-apocalíptico distante, onde os últimos vestígios da civilização caíram no neofeudalismo.
 
-- Tipos de personagem:** Qualquer um, exceto jornalista, cientista e técnico. Os escritores geralmente são sacerdotes ou podem ser poetas, e os cientistas provavelmente são sacerdotes com interesse no mundo natural.
-- Poderes:** Magia e feitiçaria são os dois tipos de poder mais comuns e podem ser de natureza divina, infernal ou pagã.
+- Tipos de personagem**: Qualquer um, exceto jornalista, cientista e técnico. Os escritores geralmente são sacerdotes ou podem ser poetas, e os cientistas provavelmente são sacerdotes com interesse no mundo natural.
+- Poderes**: Magia e feitiçaria são os dois tipos de poder mais comuns e podem ser de natureza divina, infernal ou pagã.
 - Tecnologia: A produção em massa de mercadorias, as primeiras estruturas de guildas, o comércio ampliado e a ampla distribuição de mercadorias transformaram o mundo. Em geral, a falta de alfabetização generalizada limita a disponibilidade de livros e conhecimentos avançados. A armadura e o armamento continuam a se tornar mais eficazes e depois barrocos.
 - Aventuras: Aventuras arturianas ou carolíngias, cavaleiros em busca, etc.
-- **Opções:** Fidelidade, Ataques e Paradas acima de 100%, Escolha de valores de característica, Modificadores culturais, Locais de dano e acerto, Pontos de fadiga, Características iniciais mais altas, Pontos de acerto por local, Aumento de pontos de habilidade pessoal, Alfabetização, Personagens não humanos, Paixões, Reputação, Classificações de habilidade acima de 100%.
+- **Opções**: Fidelidade, Ataques e Paradas acima de 100%, Escolha de valores de característica, Modificadores culturais, Locais de dano e acerto, Pontos de fadiga, Características iniciais mais altas, Pontos de acerto por local, Aumento de pontos de habilidade pessoal, Alfabetização, Personagens não humanos, Paixões, Reputação, Classificações de habilidade acima de 100%.
 
 **Alta Fantasia
 
 Semelhante ao cenário da Alta Medievalidade, difere no fato de que os não humanos, como elfos, anões etc., existem ao lado dos seres humanos, frequentemente aliados aos humanos contra orcs, trolls, goblins etc. Os deuses podem estar ativos e seus adoradores ganham habilidades divinas. A magia é predominante, com itens mágicos como poções de cura, espadas mágicas, armaduras encantadas, etc., comuns. Ruínas antigas são abundantes e as masmorras se espalham pelo subsolo.
 
-- Tipos de personagem:** Como no caso da Alta Medieval (acima).
-- Poderes:** Qualquer um. A magia e a feitiçaria podem ser de natureza divina, infernal ou pagã. Mutações podem ser encontradas em certos tipos de monstros e pode haver raças que usam habilidades psíquicas. Seres sobrenaturais poderosos podem usar superpoderes sob o disfarce de habilidades divinas ou infernais.
+- Tipos de personagem**: Como no caso da Alta Medieval (acima).
+- Poderes**: Qualquer um. A magia e a feitiçaria podem ser de natureza divina, infernal ou pagã. Mutações podem ser encontradas em certos tipos de monstros e pode haver raças que usam habilidades psíquicas. Seres sobrenaturais poderosos podem usar superpoderes sob o disfarce de habilidades divinas ou infernais.
 - Tecnologia: Como na Alta Medieval, mas menos realista.
-- Aventuras:** Incursões em masmorras, missões de itens mágicos, guerra, exploração etc.
-- **Opções:** Fidelidade, Ataques e Parries acima de 100%, Escolha de valores de característica, Modificadores culturais, Locais de dano e acerto, Pontos de fadiga, Características iniciais mais altas, Pontos de acerto por local, Aumento de pontos de habilidade pessoal, Alfabetização, Personagens não humanos, Paixões, Uso de poder na fase de ação, Reputação, Classificações de habilidade acima de 100%.
+- Aventuras**: Incursões em masmorras, missões de itens mágicos, guerra, exploração etc.
+- **Opções**: Fidelidade, Ataques e Parries acima de 100%, Escolha de valores de característica, Modificadores culturais, Locais de dano e acerto, Pontos de fadiga, Características iniciais mais altas, Pontos de acerto por local, Aumento de pontos de habilidade pessoal, Alfabetização, Personagens não humanos, Paixões, Uso de poder na fase de ação, Reputação, Classificações de habilidade acima de 100%.
 
 **Ásia imperial
 
 Um termo geral para o Japão ou a China históricos, incluindo também o fantástico mundo das artes marciais. Essa categoria também pode descrever a Índia Mughal.
 
-- Tipos de personagem:** Qualquer um que não seja jornalista, cientista ou técnico. Os escritores provavelmente são poetas.
-- Poderes:** Magia e feitiçaria são comuns e podem se basear em princípios elementares. O estudo intenso de disciplinas esotéricas de artes marciais permite habilidades como poderes psíquicos ou superpoderes.
+- Tipos de personagem**: Qualquer um que não seja jornalista, cientista ou técnico. Os escritores provavelmente são poetas.
+- Poderes**: Magia e feitiçaria são comuns e podem se basear em princípios elementares. O estudo intenso de disciplinas esotéricas de artes marciais permite habilidades como poderes psíquicos ou superpoderes.
 - Tecnologia: As artes e as ciências da China e do Japão se desenvolveram muito mais do que as do mundo ocidental na mesma época, com prensas de impressão, pólvora etc., juntamente com o florescimento do aprendizado institucionalizado e da burocracia.
 - Aventuras: Podem variar de batalhas por um clã ou líder regional e podem até incorporar elementos anacrônicos, como os encontrados em mangás ou animes.
-- **Opções:** Fidelidade, Ataques e Parries acima de 100%, Escolha de valores de características, Esquiva de armas de mísseis, Rolagem de educação/conhecimento, Características iniciais mais altas, Aumento de pontos de habilidade pessoal, Paixões, Uso de poder na fase de ação, Reputação, Classificações de habilidade acima de 100%, Total de pontos de vida.
+- **Opções**: Fidelidade, Ataques e Parries acima de 100%, Escolha de valores de características, Esquiva de armas de mísseis, Rolagem de educação/conhecimento, Características iniciais mais altas, Aumento de pontos de habilidade pessoal, Paixões, Uso de poder na fase de ação, Reputação, Classificações de habilidade acima de 100%, Total de pontos de vida.
 
 **Noites Árabes
 
 O antigo mundo árabe ou persa, geralmente um mundo definido por desertos e aventuras ousadas.
 
-- Tipos de personagem:** Qualquer um, exceto jornalista, cientista e técnico. Os escritores geralmente são sacerdotes ou podem ser poetas, e os cientistas provavelmente são sacerdotes com interesse no mundo natural.
-- Poderes:** Magia e feitiçaria, embora os seres sobrenaturais possam ter superpoderes.
+- Tipos de personagem**: Qualquer um, exceto jornalista, cientista e técnico. Os escritores geralmente são sacerdotes ou podem ser poetas, e os cientistas provavelmente são sacerdotes com interesse no mundo natural.
+- Poderes**: Magia e feitiçaria, embora os seres sobrenaturais possam ter superpoderes.
 - Tecnologia: O conhecimento do mundo físico - matemática, química, astronomia, medicina e outras ciências - era altamente desenvolvido e, em geral, a riqueza era capaz de comprar qualidade de vida e liberdade de ação.
 - Aventuras: Podem se assemelhar a contos de fadas ou a contos clássicos da época, exploração ou maldições antigas, barganhas com seres míticos e personagens corajosos, desde o mais humilde dos ladrões até nobres príncipes ou princesas.
-- Opções:** Fidelidade, ataques e defesas acima de 100%, escolha de valores de características, aumento de pontos de habilidade pessoal, paixões, reputação, classificações de habilidades acima de 100%.
+- Opções**: Fidelidade, ataques e defesas acima de 100%, escolha de valores de características, aumento de pontos de habilidade pessoal, paixões, reputação, classificações de habilidades acima de 100%.
 
 **Iluminismo e Renascimento
 
 Principalmente sobre a Europa na era do Renascimento, embora também pudesse incorporar fantasia e realidade fantasiosa, como o uso generalizado das invenções de Leonardo da Vinci. Uma época em que as artes e as ciências tiveram um crescimento extraordinário, o mecenato incentivou o desenvolvimento artístico, com uma notável influência do mundo clássico da antiguidade.
 
-- Tipos de personagem:** Quase todos.
-- Poderes:** A magia e a feitiçaria podem existir, mas são proibidas pelas instituições religiosas. A alquimia (criação de itens mágicos e elixires) é uma busca popular entre os estudiosos.
+- Tipos de personagem**: Quase todos.
+- Poderes**: A magia e a feitiçaria podem existir, mas são proibidas pelas instituições religiosas. A alquimia (criação de itens mágicos e elixires) é uma busca popular entre os estudiosos.
 - Tecnologia: Assim como na Alta Era Medieval, é o auge da habilidade artesanal, da ciência e da invenção: com relógios, pólvora e ferramentas de precisão, e princípios como vapor, água e energia eólica sendo explorados. A introdução da besta praticamente eliminou o uso de armaduras corporais.
-- Aventuras:** Uma atmosfera política barroca e um profundo cisma entre a Igreja e o Iluminismo criam um cenário dinâmico em que os personagens podem ser patronos das artes atraídos por intrigas ou inventores rebeldes cujas descobertas os levam a problemas. Como alternativa, eles podem ir para o alto-mar ou viajar para o Novo Mundo.
-- Opções:** Escolha de valores de característica, modificadores culturais, rolagem de educação/conhecimento, aumento de pontos de habilidade pessoal, alfabetização, paixões, reputação.
+- Aventuras**: Uma atmosfera política barroca e um profundo cisma entre a Igreja e o Iluminismo criam um cenário dinâmico em que os personagens podem ser patronos das artes atraídos por intrigas ou inventores rebeldes cujas descobertas os levam a problemas. Como alternativa, eles podem ir para o alto-mar ou viajar para o Novo Mundo.
+- Opções**: Escolha de valores de característica, modificadores culturais, rolagem de educação/conhecimento, aumento de pontos de habilidade pessoal, alfabetização, paixões, reputação.
 
 **Idade da Exploração
 
 Esse período é marcado pela expansão para fora da Europa, para as Américas do Norte e do Sul, África, Índia, China etc., principalmente para fins de colonização, conversão religiosa, anexação territorial e oportunismo. Isso inevitavelmente é ruim para os povos indígenas, vitimados, explorados e até mesmo escravizados, com suas culturas deixadas de lado, criminalizadas ou até mesmo erradicadas. Na Inglaterra, o reinado da Rainha Elizabeth I é considerado uma era de ouro: uma explosão de poesia, literatura, moda e teatro. A Europa continental, entretanto, está dividida pela guerra. As aventuras de fanfarrão são uma convenção do período.
 
-- Tipos de personagem:** Quase todos.
-- Poderes:** A feitiçaria, se praticada, provavelmente se baseia em origens infernais. Culturas nativas menos avançadas tecnicamente podem usar magia ou feitiçaria na forma de conhecimento xamânico ou bruxaria.
+- Tipos de personagem**: Quase todos.
+- Poderes**: A feitiçaria, se praticada, provavelmente se baseia em origens infernais. Culturas nativas menos avançadas tecnicamente podem usar magia ou feitiçaria na forma de conhecimento xamânico ou bruxaria.
 - Tecnologia: Principalmente marcada por um aprimoramento e refinamento do que foi fornecido no Renascimento. A pólvora se torna predominante nas guerras, com as primeiras máquinas definindo o período. Os povos indígenas cujas terras foram anexadas durante esse período eram, em geral, menos avançados tecnologicamente, vencidos pelo poder de fogo superior.
-- Aventuras:** Esse é um período desafiador devido às instituições de escravidão e exploração que acompanham a expansão colonialista. É menos provável que as aventuras no continente europeu tratem desses tópicos, como façanhas de fanfarrão ou campanhas militares entre as igrejas ou a nobreza em guerra.
-- Opções:** Ataques e defesas acima de 100%, Escolha de valores de características, Modificadores culturais, Esquiva de armas de mísseis, Aumento de pontos de habilidade pessoal, Alfabetização, Paixões, Reputação, Classificações de habilidades acima de 100%.
+- Aventuras**: Esse é um período desafiador devido às instituições de escravidão e exploração que acompanham a expansão colonialista. É menos provável que as aventuras no continente europeu tratem desses tópicos, como façanhas de fanfarrão ou campanhas militares entre as igrejas ou a nobreza em guerra.
+- Opções**: Ataques e defesas acima de 100%, Escolha de valores de características, Modificadores culturais, Esquiva de armas de mísseis, Aumento de pontos de habilidade pessoal, Alfabetização, Paixões, Reputação, Classificações de habilidades acima de 100%.
 
 **Idade da Vela
 
 O início do século XIX é marcado por batalhas marítimas e navais, acompanhadas por guerras terrestres em toda a Europa. É uma época de soldados e oficiais em cada lado do campo de batalha, peões em guerras fúteis, enquanto a vida na corte permanece praticamente intocada.
 
-- Tipos de personagem:** Quase todos.
-- Poderes:** A feitiçaria, se praticada, provavelmente será proibida pela Igreja.
+- Tipos de personagem**: Quase todos.
+- Poderes**: A feitiçaria, se praticada, provavelmente será proibida pela Igreja.
 - Tecnologia: Tecnologicamente, esse período é quase idêntico ao da era colonial, embora tenha havido avanços na fabricação de navios e dispositivos de guerra em grande escala.
-- Aventuras:** Algumas das maiores batalhas terrestres e marítimas do mundo estão sendo travadas, fornecendo amplo material para combates com temática militar. As aventuras podem se aprofundar em escapadas políticas barrocas, missões secretas, engenhosos trabalhos de espionagem, intrigas na corte ou duelos de honra.
-- Opções:** Ataques e defesas acima de 100%, escolha de valores de características, modificadores culturais, rolagem de educação/conhecimento, aumento de pontos de habilidade pessoal, alfabetização, paixões, reputação, classificações de habilidades acima de 100%.
+- Aventuras**: Algumas das maiores batalhas terrestres e marítimas do mundo estão sendo travadas, fornecendo amplo material para combates com temática militar. As aventuras podem se aprofundar em escapadas políticas barrocas, missões secretas, engenhosos trabalhos de espionagem, intrigas na corte ou duelos de honra.
+- Opções**: Ataques e defesas acima de 100%, escolha de valores de características, modificadores culturais, rolagem de educação/conhecimento, aumento de pontos de habilidade pessoal, alfabetização, paixões, reputação, classificações de habilidades acima de 100%.
 
 **Idade industrial
 
 Essa era corresponde à Era Vitoriana e é repleta de invenções. Definida quase que inteiramente pelos avanços tecnológicos e de fabricação que transformam o mundo anterior no precursor da era moderna, a seção Tecnologia abaixo é a descrição mais informativa do cenário.
 
-- Tipos de personagem:** Quase todos.
-- Poderes:** Essa era viu outra divisão entre espiritualidade e modernização. A magia e as habilidades psíquicas representariam um lado da luta, enquanto a tecnologia pode oferecer uma variedade de superpoderes na forma de tecnologia incomum e experimental.
-- Tecnologia:** A produção em massa e a fabricação em estilo industrial tornaram os produtos padronizados mais amplamente disponíveis e mais baratos do que em qualquer outro momento da história da humanidade. O vapor, o carvão, o gás e outras fontes de energia são amplamente conhecidos e utilizados nos lares e nas cidades, com cidades iluminadas por luz a gás, motores a vapor correndo pelos Estados Unidos e pela Europa e os oceanos atravessados por grandes navios com motores a vapor e a carvão. A química está sendo refinada, e os cientistas estão começando a descobrir muitos dos segredos do universo. Logo surge o automóvel, transformando radicalmente as viagens humanas e as cidades. As histórias alternativas geralmente se concentram no steampunk, misturando a energia a vapor e a estética vitoriana, e no retrofuturismo.
+- Tipos de personagem**: Quase todos.
+- Poderes**: Essa era viu outra divisão entre espiritualidade e modernização. A magia e as habilidades psíquicas representariam um lado da luta, enquanto a tecnologia pode oferecer uma variedade de superpoderes na forma de tecnologia incomum e experimental.
+- Tecnologia**: A produção em massa e a fabricação em estilo industrial tornaram os produtos padronizados mais amplamente disponíveis e mais baratos do que em qualquer outro momento da história da humanidade. O vapor, o carvão, o gás e outras fontes de energia são amplamente conhecidos e utilizados nos lares e nas cidades, com cidades iluminadas por luz a gás, motores a vapor correndo pelos Estados Unidos e pela Europa e os oceanos atravessados por grandes navios com motores a vapor e a carvão. A química está sendo refinada, e os cientistas estão começando a descobrir muitos dos segredos do universo. Logo surge o automóvel, transformando radicalmente as viagens humanas e as cidades. As histórias alternativas geralmente se concentram no steampunk, misturando a energia a vapor e a estética vitoriana, e no retrofuturismo.
 - Aventuras: As aventuras emblemáticas devem reforçar os temas de indústria versus espiritualidade, com a exploração e a nova tecnologia entrando em contato dramático com os antigos modos de vida.
-- Opções:** Escolha de valores de característica, modificadores culturais, rolagem de educação/conhecimento, aumento de pontos de habilidade pessoal, paixões, reputação.
+- Opções**: Escolha de valores de característica, modificadores culturais, rolagem de educação/conhecimento, aumento de pontos de habilidade pessoal, paixões, reputação.
 
 **Era Vitoriana
 
 O auge da revolução industrial britânica e a maior influência do Império Britânico, a Era Vitoriana é caracterizada por uma grande disparidade entre as classes sociais e pela agressiva expansão imperialista na Ásia e na África. É também uma época de grande austeridade na expressão pessoal.
 
-- Tipos de personagem:** Quase todos.
-- Poderes:** A magia e a feitiçaria podem ser praticadas por ocultistas e intelectuais que buscam o limite exterior da experiência, enquanto as culturas nativas usam esses mesmos poderes em suas religiões. Criaturas estranhas e blasfemas podem ser mutantes, e o interesse crescente da época em mentalismo utiliza habilidades psíquicas.
+- Tipos de personagem**: Quase todos.
+- Poderes**: A magia e a feitiçaria podem ser praticadas por ocultistas e intelectuais que buscam o limite exterior da experiência, enquanto as culturas nativas usam esses mesmos poderes em suas religiões. Criaturas estranhas e blasfemas podem ser mutantes, e o interesse crescente da época em mentalismo utiliza habilidades psíquicas.
 - Tecnologia: Idêntica à descrita na Era Industrial (acima).
 - Aventuras: O período Gaslight apresenta uma grande dicotomia entre diletantes ricos que vivem lado a lado com um ventre escuro e fervilhante que contém algumas das condições mais injustas e desumanas que a humanidade foi capaz de infligir a si mesma.
-- Opções:** Escolha de valores de característica, rolagem de educação/conhecimento, aumento de pontos de habilidade pessoal, paixões, reputação, sanidade.
+- Opções**: Escolha de valores de característica, rolagem de educação/conhecimento, aumento de pontos de habilidade pessoal, paixões, reputação, sanidade.
 
 **Oeste Selvagem
 
 Essa era ocorre nos Estados Unidos durante e após a Guerra Civil, com cowboys, pistoleiros, guerras de campo, a Corrida do Ouro e a expansão da fronteira. O Oeste está sendo transformado por novos trilhos de trem, sobre os quais chega um fluxo constante de orientais, europeus, chineses e escravos libertados, todos buscando um lugar no novo mundo selvagem. Os perigos incluem as várias nações nativas americanas que lutam por sua própria sobrevivência e o vasto e indomável ambiente em si.
 
-- Tipos de personagem:** Quase todos.
-- Poderes:** Magia ou feitiçaria podem simular xamãs nativos americanos, bruxaria, vodu ou outras tradições mágicas que possam existir.
-- Tecnologia:** A Era Industrial resultou em trens cruzando o país, telégrafos formando uma rede de comunicação, fotografia e mídia impressa generalizada. No final da era, surgem os primeiros automóveis, os primeiros submarinos e submersíveis e até mesmo máquinas voadoras. A corrente elétrica substitui a luz a gás e o mundo moderno começa aqui.
-- Aventuras:** O mítico Oeste Selvagem inclui pistoleiros lendários que encenam histórias de vingança e heroísmo em um cenário de grande tensão. Os horrores da escravidão e as atrocidades cometidas contra os nativos americanos pairam sobre essa época, no entanto, é aconselhável não ignorar esses aspectos e sua seriedade.
-- Opções:** Escolha de valores de característica, modificadores culturais, rolagem de educação/conhecimento, aumento de pontos de habilidade pessoal, paixões, reputação.
+- Tipos de personagem**: Quase todos.
+- Poderes**: Magia ou feitiçaria podem simular xamãs nativos americanos, bruxaria, vodu ou outras tradições mágicas que possam existir.
+- Tecnologia**: A Era Industrial resultou em trens cruzando o país, telégrafos formando uma rede de comunicação, fotografia e mídia impressa generalizada. No final da era, surgem os primeiros automóveis, os primeiros submarinos e submersíveis e até mesmo máquinas voadoras. A corrente elétrica substitui a luz a gás e o mundo moderno começa aqui.
+- Aventuras**: O mítico Oeste Selvagem inclui pistoleiros lendários que encenam histórias de vingança e heroísmo em um cenário de grande tensão. Os horrores da escravidão e as atrocidades cometidas contra os nativos americanos pairam sobre essa época, no entanto, é aconselhável não ignorar esses aspectos e sua seriedade.
+- Opções**: Escolha de valores de característica, modificadores culturais, rolagem de educação/conhecimento, aumento de pontos de habilidade pessoal, paixões, reputação.
 
 **Era da Polpa
 
 Batizada com o nome do papel de jornal barato das revistas de aventura que definiram a época, a cultura pop do período entre a primeira e a segunda guerras mundiais é uma cultura de entretenimento de massa, viagens internacionais para locais exóticos, crime organizado, inovação tecnológica, caça ao tesouro, individualismo robusto, além de horror estranho e combatentes do crime mascarados.
 
 - Tipos de personagens: Qualquer um.
-- **Poderes:** Qualquer um.
-- Tecnologia:** O Pulp geralmente apresenta ciência estranha, como raios da morte, robôs gigantes, máquinas voadoras, dispositivos que alteram a mente e tuneladores de terra, bem como maravilhas incríveis, como naves capazes de voar interestelarmente, mochilas a jato, rádios de pulso, carros voadores e similares. A tecnologia anacrônica é um elemento básico da era pulp.
-- Aventuras:** Mistérios; thrillers; horror terrível; exploração do desconhecido, do espaço e da terra oca; cidades perdidas ainda habitadas; aventuras aéreas; suspense; histórias estranhas e sinistras de crimes estranhos; heróis de queixo quadrado lutando contra sinistros senhores do crime e seus asseclas; invasão alienígena; e até mesmo vingadores mascarados fazendo justiça fria... todos esses são elementos de possíveis aventuras pulp.
-- **Opções:** Ataques e defesas acima de 100%, Escolha de valores de característica, Esquiva de armas de mísseis, Rolagem de educação/conhecimento, Características iniciais mais altas, Aumento de pontos de habilidade pessoal, Uso de poder na fase de ação, Paixões, Reputação, Sanidade, Classificações de habilidade acima de 100%, Total de pontos de vida.
+- **Poderes**: Qualquer um.
+- Tecnologia**: O Pulp geralmente apresenta ciência estranha, como raios da morte, robôs gigantes, máquinas voadoras, dispositivos que alteram a mente e tuneladores de terra, bem como maravilhas incríveis, como naves capazes de voar interestelarmente, mochilas a jato, rádios de pulso, carros voadores e similares. A tecnologia anacrônica é um elemento básico da era pulp.
+- Aventuras**: Mistérios; thrillers; horror terrível; exploração do desconhecido, do espaço e da terra oca; cidades perdidas ainda habitadas; aventuras aéreas; suspense; histórias estranhas e sinistras de crimes estranhos; heróis de queixo quadrado lutando contra sinistros senhores do crime e seus asseclas; invasão alienígena; e até mesmo vingadores mascarados fazendo justiça fria... todos esses são elementos de possíveis aventuras pulp.
+- **Opções**: Ataques e defesas acima de 100%, Escolha de valores de característica, Esquiva de armas de mísseis, Rolagem de educação/conhecimento, Características iniciais mais altas, Aumento de pontos de habilidade pessoal, Uso de poder na fase de ação, Paixões, Reputação, Sanidade, Classificações de habilidade acima de 100%, Total de pontos de vida.
 
 **Aventura planetária
 
 Esse cenário se concentra em viagens a mundos estranhos, vistas pelos olhos de humanos enviados a eles por meios misteriosos. Lá, eles inevitavelmente encontram espécies alienígenas, costumes estranhos, ruínas antigas e supertecnologia barroca, muitas vezes lado a lado com aventuras de espada e escândalo.
 
-- Tipos de personagem:** Qualquer um.
-- Poderes:** Geralmente mutações ou habilidades psíquicas, ou até mesmo superpoderes.
-- Tecnologia:** Geralmente uma mistura de tecnologia antiga e quase esquecida de incrível poder e utilidade, lado a lado com a superciência de inventores engenhosos. Os guerreiros podem carregar pistolas de energia junto com espadas, pilotar dirigíveis e montar montarias alienígenas.
-- Aventuras:** Os personagens geralmente são enviados a esses mundos por meios inexplicáveis e muitas vezes lutam para entender seu novo ambiente e seus desafios. Eles precisam lidar com costumes estranhos e tradições antigas e podem ser agentes de mudança nesses lugares alienígenas bizarros. Traição, amor épico, traições dramáticas, reviravoltas repentinas da sorte, alianças com criaturas estranhas, cidades perdidas cheias de tecnologia antiga e esquecida... todos esses são elementos básicos da aventura planetária.
-- **Opções:** Ataques e defesas acima de 100%, Escolha de valores de características, Modificadores culturais, Esquiva de armas de mísseis, Características iniciais mais altas, Aumento de pontos de habilidade pessoal, Personagens não humanos, Uso de poder na fase de ação, Reputação, Classificações de habilidades acima de 100%, Total de pontos de vida.
+- Tipos de personagem**: Qualquer um.
+- Poderes**: Geralmente mutações ou habilidades psíquicas, ou até mesmo superpoderes.
+- Tecnologia**: Geralmente uma mistura de tecnologia antiga e quase esquecida de incrível poder e utilidade, lado a lado com a superciência de inventores engenhosos. Os guerreiros podem carregar pistolas de energia junto com espadas, pilotar dirigíveis e montar montarias alienígenas.
+- Aventuras**: Os personagens geralmente são enviados a esses mundos por meios inexplicáveis e muitas vezes lutam para entender seu novo ambiente e seus desafios. Eles precisam lidar com costumes estranhos e tradições antigas e podem ser agentes de mudança nesses lugares alienígenas bizarros. Traição, amor épico, traições dramáticas, reviravoltas repentinas da sorte, alianças com criaturas estranhas, cidades perdidas cheias de tecnologia antiga e esquecida... todos esses são elementos básicos da aventura planetária.
+- **Opções**: Ataques e defesas acima de 100%, Escolha de valores de características, Modificadores culturais, Esquiva de armas de mísseis, Características iniciais mais altas, Aumento de pontos de habilidade pessoal, Personagens não humanos, Uso de poder na fase de ação, Reputação, Classificações de habilidades acima de 100%, Total de pontos de vida.
 
 **Segunda Guerra Mundial
 
 A Segunda Guerra Mundial e os anos anteriores e posteriores foram marcados por fervor nacionalista, incerteza, conflito global e espionagem. Esse também é um bom cenário para atividades de super-heróis da era da guerra.
 
-- Tipos de personagem:** Quase todos.
-- **Poderes:** O Terceiro Reich de Hitler acreditava na magia como um meio de obter poder, e talvez eles estivessem no caminho certo. Além disso, muitos desses cenários têm a era como o início dos primeiros super-heróis fantasiados do mundo.
+- Tipos de personagem**: Quase todos.
+- **Poderes**: O Terceiro Reich de Hitler acreditava na magia como um meio de obter poder, e talvez eles estivessem no caminho certo. Além disso, muitos desses cenários têm a era como o início dos primeiros super-heróis fantasiados do mundo.
 - Tecnologia: Novos desenvolvimentos na tecnologia de guerra incluíram navios de guerra maiores e melhores, submarinos, tanques e aviões mais sofisticados, etc., mas todos foram ofuscados pelo surgimento da bomba atômica, que definiu fundamentalmente o curso da ciência e da política para sempre.
-- Aventuras:** Os personagens podem ser combatentes da resistência na Europa ocupada, soldados ou agentes aliados no campo de batalha, espiões atrás das linhas inimigas, combatentes do crime e agentes do governo lutando contra sabotadores em casa ou até mesmo super-heróis fantasiados lutando em casa e no exterior.
-- Opções:** Rolagem de educação/conhecimento, pontos de fadiga, aumento dos pontos de habilidade pessoal, paixões, sanidade.
+- Aventuras**: Os personagens podem ser combatentes da resistência na Europa ocupada, soldados ou agentes aliados no campo de batalha, espiões atrás das linhas inimigas, combatentes do crime e agentes do governo lutando contra sabotadores em casa ou até mesmo super-heróis fantasiados lutando em casa e no exterior.
+- Opções**: Rolagem de educação/conhecimento, pontos de fadiga, aumento dos pontos de habilidade pessoal, paixões, sanidade.
 
 **Noir**
 
 O noir é quase sempre urbano e definido por uma perspectiva sombria, com heróis cansados do mundo, seduções, criminalidade insidiosa, socialites amorais, corrupção moral, traições inevitáveis etc. Geralmente, os protagonistas são assombrados por demônios internos e precisam lutar para sobreviver, sozinhos contra um universo hostil e indiferente, muitas vezes ainda traumatizado pela Segunda Guerra Mundial.
 
 - Tipos de personagem: Qualquer um.
-- Poderes:** Geralmente nenhum, mas o noir mágico tem protagonistas que se opõem à feitiçaria ou a usam.
-- Tecnologia:** Equivalente à dos Estados Unidos e da Europa do pós-guerra.
+- Poderes**: Geralmente nenhum, mas o noir mágico tem protagonistas que se opõem à feitiçaria ou a usam.
+- Tecnologia**: Equivalente à dos Estados Unidos e da Europa do pós-guerra.
 - Aventuras: Inevitavelmente, mistérios que lidam com dilemas éticos e morais, muitas vezes cenários "sem saída" em que pessoas normais são presas por circunstâncias ruins e precisam recorrer a medidas desesperadas.
-- Opções:** Rolagem de educação/conhecimento, aumento dos pontos de habilidade pessoal, paixões.
+- Opções**: Rolagem de educação/conhecimento, aumento dos pontos de habilidade pessoal, paixões.
 
 **Moderno
 
 O presente, o alvorecer do século XXI, com sociedades avançadas, estrutura informacional global, capitalismo sem controle e tecnologia ilimitada, tudo progredindo em um ritmo inimaginável em direção a um colapso global quase certo. Essa configuração também é a era padrão para thrillers e terror moderno. Isso também pode abranger a Guerra Fria.
 
 - Tipos de personagens: Qualquer um.
-- **Poderes:** Qualquer um.
-- Tecnologia:** Pode ser realista ou superavançada, conforme desejado.
+- **Poderes**: Qualquer um.
+- Tecnologia**: Pode ser realista ou superavançada, conforme desejado.
 - Aventuras: Qualquer uma, desde terror, thrillers, ação militar, espiões, intrigas corporativas, ficção científica de futuro próximo, distópica, intrigas internacionais, conspiração, super-heróis etc.
-- Opções:** Elas podem variar de acordo com o gênero.
+- Opções**: Elas podem variar de acordo com o gênero.
 
 **Supermundo
 
 Nosso mundo, mas com super-heróis fantasiados e as ramificações dos super-heróis, faz parte da história e da vida moderna. Um cenário de super-heróis pode incorporar história alternativa, realidades paralelas, viagens no tempo, alienígenas, magia, teorias da conspiração ou qualquer coisa que se deseje.
 
-- **Tipos de personagem:** Qualquer um.
-- Poderes:** Qualquer um, e muitos personagens têm mais de um tipo de poder.
-- Tecnologia:** A mais moderna. Embora a superciência seja conhecida, ela ainda não causou um impacto significativo na vida da maioria dos humanos normais.
-- Aventuras:** Histórias de heroísmo e desafios, exploração de estranhas dimensões paralelas etc. Os super-heróis geralmente lutam com alter egos e identidades secretas, além de questões complexas de certo e errado. Uma campanha de supermundo pode variar de um mundo vistoso de quatro cores com vilões vagamente ridículos, um tratamento quase mítico dos super-heróis como semideuses modernos, uma exploração vertiginosa da galáxia e de cantos estranhos da Terra, crimes de rua com muita força, diferenciados apenas por trajes de lycra, ou até mesmo uma estrutura paramilitar para intervenções de super-heróis que mudam o mundo.
-- **Opções:** Ataques e defesas acima de 100%, Escolha de valores de característica, Esquiva de armas de mísseis, Rolagem de educação/conhecimento, Características iniciais mais altas, Aumento de pontos de habilidade pessoal, Alfabetização, Personagens não humanos, Paixões, Uso de poder na fase de ação, Reputação, Classificações de habilidade acima de 100%, Total de pontos de vida.
+- **Tipos de personagem**: Qualquer um.
+- Poderes**: Qualquer um, e muitos personagens têm mais de um tipo de poder.
+- Tecnologia**: A mais moderna. Embora a superciência seja conhecida, ela ainda não causou um impacto significativo na vida da maioria dos humanos normais.
+- Aventuras**: Histórias de heroísmo e desafios, exploração de estranhas dimensões paralelas etc. Os super-heróis geralmente lutam com alter egos e identidades secretas, além de questões complexas de certo e errado. Uma campanha de supermundo pode variar de um mundo vistoso de quatro cores com vilões vagamente ridículos, um tratamento quase mítico dos super-heróis como semideuses modernos, uma exploração vertiginosa da galáxia e de cantos estranhos da Terra, crimes de rua com muita força, diferenciados apenas por trajes de lycra, ou até mesmo uma estrutura paramilitar para intervenções de super-heróis que mudam o mundo.
+- **Opções**: Ataques e defesas acima de 100%, Escolha de valores de característica, Esquiva de armas de mísseis, Rolagem de educação/conhecimento, Características iniciais mais altas, Aumento de pontos de habilidade pessoal, Alfabetização, Personagens não humanos, Paixões, Uso de poder na fase de ação, Reputação, Classificações de habilidade acima de 100%, Total de pontos de vida.
 
 **Postapocalíptico**
 
 Uma catástrofe abalou para sempre o mundo moderno, mergulhando-o em um estado em que a humanidade precisa lutar para sobreviver. A causa pode ser uma troca nuclear limitada, ciência que deu errado, invasão alienígena, o despertar dos Deuses Anciões, colapso da sociedade, pandemia, catástrofe ambiental ou zumbis... ou mais de uma dessas causas. O cenário pode incluir mutantes, tecnologia descartada e gangues de invasores. Alguns cenários pós-apocalípticos são como os faroestes, com pequenos enclaves de habitantes suspeitos e solitários errantes que precisam confiar em sua inteligência e em suas armas para sobreviver.
 
-- Tipos de personagem:** Em um apocalipse recente, os sobreviventes podem ser de qualquer profissão, enquanto mais tarde as opções se tornam mais limitadas.
-- Poderes:** Mutações em ambientes com radioatividade, enquanto habilidades psíquicas e superpoderes também podem ter se desenvolvido a partir da precipitação radioativa. Séculos depois, as pessoas também podem ter redescoberto a magia ou a feitiçaria.
-- Tecnologia:** Dependendo da natureza da catástrofe, a tecnologia pode ser antiquada em comparação com a do mundo moderno, idêntica, ou pode apresentar avanços científicos muito distantes de nossa própria era. Se forem alienígenas, pode haver tecnologia alienígena.
-- Aventuras:** As histórias pós-apocalípticas geralmente tratam da brutalidade e do custo da sobrevivência, ou dos esforços para reconstruir a sociedade. Pode haver a necessidade de vasculhar tecnologias antigas e aprender o que pode ser encontrado nas ruínas.
-- Opções:** Escolha de valores de característica, pontos de fadiga, aumento de pontos de habilidade pessoal, alfabetização, personagens não humanos, sanidade.
+- Tipos de personagem**: Em um apocalipse recente, os sobreviventes podem ser de qualquer profissão, enquanto mais tarde as opções se tornam mais limitadas.
+- Poderes**: Mutações em ambientes com radioatividade, enquanto habilidades psíquicas e superpoderes também podem ter se desenvolvido a partir da precipitação radioativa. Séculos depois, as pessoas também podem ter redescoberto a magia ou a feitiçaria.
+- Tecnologia**: Dependendo da natureza da catástrofe, a tecnologia pode ser antiquada em comparação com a do mundo moderno, idêntica, ou pode apresentar avanços científicos muito distantes de nossa própria era. Se forem alienígenas, pode haver tecnologia alienígena.
+- Aventuras**: As histórias pós-apocalípticas geralmente tratam da brutalidade e do custo da sobrevivência, ou dos esforços para reconstruir a sociedade. Pode haver a necessidade de vasculhar tecnologias antigas e aprender o que pode ser encontrado nas ruínas.
+- Opções**: Escolha de valores de característica, pontos de fadiga, aumento de pontos de habilidade pessoal, alfabetização, personagens não humanos, sanidade.
 
 **Futuro próximo/Cyberpunk
 
 A humanidade continuou a interagir com a tecnologia e perdeu muito no processo. As megacorporações assumiram níveis governamentais de controle sobre os cidadãos, e o conhecimento é a moeda mais valiosa. A vida é rápida, conveniente, barata e prontamente descartável. A união da humanidade e das máquinas levou a desenvolvimentos surpreendentes na manipulação genética. O Dataspace é tão real, se não mais, do que o mundo material distópico.
 
-- Tipos de personagem:** Quase todos.
-- Poderes:** Qualquer um, geralmente simulado por tecnologia.
-- Tecnologia:** O mundo moderno em alta velocidade. As viagens espaciais podem ter se tornado comuns, e os mundos virtuais são ilimitados.
+- Tipos de personagem**: Quase todos.
+- Poderes**: Qualquer um, geralmente simulado por tecnologia.
+- Tecnologia**: O mundo moderno em alta velocidade. As viagens espaciais podem ter se tornado comuns, e os mundos virtuais são ilimitados.
 - Aventuras: A rebelião e a busca de identidade são temas comuns nessas aventuras, e os personagens podem se encontrar correndo para salvar suas vidas, tentando ficar à frente de inimigos monolíticos e impessoais que parecem estar em toda parte.
-- Opções:** Ataques e defesas acima de 100%, escolha de valores de característica, rolagem de educação/conhecimento, aumento de pontos de habilidade pessoal, sanidade, classificações de habilidade acima de 100%.
+- Opções**: Ataques e defesas acima de 100%, escolha de valores de característica, rolagem de educação/conhecimento, aumento de pontos de habilidade pessoal, sanidade, classificações de habilidade acima de 100%.
 
 **Exploração espacial
 
 Nesse cenário de ficção científica, a exploração espacial em grande escala está em andamento ou foi estabelecida recentemente. A vida dentro e fora da Terra continua da mesma forma que antes. Os conflitos políticos moldam a dispersão pelas estrelas, e a busca por planetas habitáveis ou recursos domina grande parte da exploração.
 
-- **Tipos de personagens:** Qualquer um.
-- **Poderes:** Mutações e habilidades psíquicas podem existir, mas geralmente são anormais e aterrorizantes.
+- **Tipos de personagens**: Qualquer um.
+- **Poderes**: Mutações e habilidades psíquicas podem existir, mas geralmente são anormais e aterrorizantes.
 - Tecnologia: Em geral, esse cenário tem uma abordagem científica para a exploração espacial, e a tecnologia é facilmente extrapolada da tecnologia moderna.
-- Aventuras:** Muitos dramas e conflitos humanos podem se desenrolar no mar do espaço, apresentando o maior desafio à sobrevivência. Desafios ambientais ou empreendimentos épicos podem ser aventuras notáveis, e explorar as bordas do Sistema Solar pode colocar a humanidade frente a frente com outros mistérios, como o primeiro contato com vida alienígena. Será horrível ou maravilhoso?
-- **Opções:** Escolha de valores de característica, aumento de pontos de habilidade pessoal, personagens não humanos, classificações de habilidade acima de 100%.
+- Aventuras**: Muitos dramas e conflitos humanos podem se desenrolar no mar do espaço, apresentando o maior desafio à sobrevivência. Desafios ambientais ou empreendimentos épicos podem ser aventuras notáveis, e explorar as bordas do Sistema Solar pode colocar a humanidade frente a frente com outros mistérios, como o primeiro contato com vida alienígena. Será horrível ou maravilhoso?
+- **Opções**: Escolha de valores de característica, aumento de pontos de habilidade pessoal, personagens não humanos, classificações de habilidade acima de 100%.
 
 **Ópera espacial
 
 Essa fusão de viagem espacial e aventura pulp é escrita em um cenário galáctico, repleto de alienígenas que trabalham e vivem ao lado da humanidade, em vários graus de cooperação. Pode haver algum conflito galáctico que defina tudo, ou pode ser o caso de uma ameaça épica à Terra (ou a outro planeta). Em alguns cenários de ópera espacial, podem existir poderes místicos - sistemas de crenças psíquicas ou alienígenas que dão poderes estranhos aos seus usuários.
 
-- **Tipos de personagem:** Qualquer um.
-- Poderes:** Os alienígenas podem ser criados por meio de mutações, as habilidades psíquicas podem representar poderes místicos ou poderes emergentes e os superpoderes podem modelar implantes cibernéticos. Em alguns cenários de ópera espacial, a feitiçaria ou a magia também podem existir, baseando-se em princípios científicos em vez de forças sobrenaturais.
+- **Tipos de personagem**: Qualquer um.
+- Poderes**: Os alienígenas podem ser criados por meio de mutações, as habilidades psíquicas podem representar poderes místicos ou poderes emergentes e os superpoderes podem modelar implantes cibernéticos. Em alguns cenários de ópera espacial, a feitiçaria ou a magia também podem existir, baseando-se em princípios científicos em vez de forças sobrenaturais.
 - Tecnologia: O nível de tecnologia difere muito de planeta para planeta: alguns podem ter apenas armas e engenharia primitivas, enquanto outros serão mais avançados tecnologicamente do que o padrão. Armas de energia, lasers, naves espaciais pessoais, escudos de energia... tudo isso está disponível.
-- Aventuras:** Muitas vezes, isso é fortemente associado a outro cenário arquetípico, como pulp ou espada e feitiçaria. Os personagens em cenários de ópera espacial embarcam em grandes aventuras e lutam por objetivos grandiosos, como a realeza, a correção de erros ou a restauração de uma era dourada anterior.
-- **Opções:** Fidelidade, Ataques e Paradas acima de 100%, Escolha de valores de características, Modificadores culturais, Esquiva de armas de mísseis, Características iniciais mais altas, Aumento de pontos de habilidade pessoal, Alfabetização, Personagens não humanos, Paixões, Uso de poder na fase de ação, Reputação, Classificações de habilidades acima de 100%, Total de pontos de vida.
+- Aventuras**: Muitas vezes, isso é fortemente associado a outro cenário arquetípico, como pulp ou espada e feitiçaria. Os personagens em cenários de ópera espacial embarcam em grandes aventuras e lutam por objetivos grandiosos, como a realeza, a correção de erros ou a restauração de uma era dourada anterior.
+- **Opções**: Fidelidade, Ataques e Paradas acima de 100%, Escolha de valores de características, Modificadores culturais, Esquiva de armas de mísseis, Características iniciais mais altas, Aumento de pontos de habilidade pessoal, Alfabetização, Personagens não humanos, Paixões, Uso de poder na fase de ação, Reputação, Classificações de habilidades acima de 100%, Total de pontos de vida.
 
 **Configurações híbridas
 
@@ -270,7 +270,7 @@ Tratar um cenário como um trampolim para sua própria criatividade é melhor pa
 
 Pergunte aos próprios jogadores o que eles gostariam de ver em um ambiente adaptado e descubra o nível de liberdade que eles querem ter.
 
-**Por exemplo, em uma campanha de Robin Hood, você e seus jogadores talvez queiram manter um tema geral de bandidos-heróis lutando contra as autoridades vilãs, tentando conquistar o coração e a mente do povo de Nottingham. Eles querem fazer parte do bando de Robin Hood, recebendo ordens dele e lutando ao lado de Will Scarlet, Maid Marian e Frei Tuck, ou querem substituir o bando completamente, com Robin Hood sendo pouco mais do que uma identidade fictícia que todos usam. Talvez o Rei Ricardo os tenha ungido como guardiões da Floresta de Sherwood e eles tenham a função de defendê-la contra os inimigos sobrenaturais do reino, um mundo repleto de lobisomens, os habitantes de Faerie, cada vez menos numerosos, e antigos deuses pagãos.
+**Por exemplo,** em uma campanha de Robin Hood, você e seus jogadores talvez queiram manter um tema geral de bandidos-heróis lutando contra as autoridades vilãs, tentando conquistar o coração e a mente do povo de Nottingham. Eles querem fazer parte do bando de Robin Hood, recebendo ordens dele e lutando ao lado de Will Scarlet, Maid Marian e Frei Tuck, ou querem substituir o bando completamente, com Robin Hood sendo pouco mais do que uma identidade fictícia que todos usam. Talvez o Rei Ricardo os tenha ungido como guardiões da Floresta de Sherwood e eles tenham a função de defendê-la contra os inimigos sobrenaturais do reino, um mundo repleto de lobisomens, os habitantes de Faerie, cada vez menos numerosos, e antigos deuses pagãos.
 
 O ideal é que seus jogadores e você possam encontrar um ponto em comum para jogar em um cenário adaptado e todos ficarão felizes. O fato de todos se interessarem pelo cenário e estarem ansiosos para explorá-lo faz toda a diferença no jogo, e você pode fazer questão de fazer check-ins periódicos para perguntar aos jogadores como eles estão se sentindo em relação ao jogo. (Em geral, essa é uma boa ideia para qualquer tipo de campanha).
 
@@ -278,9 +278,9 @@ O ideal é que seus jogadores e você possam encontrar um ponto em comum para jo
 
 A adaptação do material de origem em um cenário é mais fácil se você determinar primeiro como os personagens dos jogadores se encaixam nesse cenário. Se o material de origem for fortemente baseado em personagens, você quer que os personagens dos jogadores sejam como eles, que os substituam ou que cruzem o caminho com eles? A seguir, há maneiras totalmente diferentes de lidar com os personagens dos jogadores em mundos adaptados:
 
-- Inspirado por...:** Muitas vezes, o principal motivo para querer usar um cenário específico é jogar aventuras como as do material de origem, portanto, fazer com que os personagens sejam como os originais geralmente é uma aposta segura. Os personagens dos jogadores podem ser originais, mas moldados da mesma forma, ou podem ter funções semelhantes.
-- Heróis substitutos:** Às vezes, os jogadores não querem se sentir como figuras de segunda classe, vivendo nas sombras de um grupo de personagens muito mais famoso. Nesse caso, faça com que os personagens jogadores substituam as figuras originais, criando novos personagens que desempenhem exatamente as mesmas funções ou simplesmente usando os personagens originais como seus próprios personagens jogadores.
-- Rivais amigáveis:** Outra opção com grande apelo é fazer com que os personagens dos jogadores existam no mesmo mundo que os protagonistas originais. Eles podem conhecê-los, ter parentesco com eles ou até mesmo cruzar com eles. Em casos como esse, é importante garantir que os jogadores não sintam que seus personagens estão em segundo plano em relação aos "verdadeiros" protagonistas.
+- Inspirado por...**: Muitas vezes, o principal motivo para querer usar um cenário específico é jogar aventuras como as do material de origem, portanto, fazer com que os personagens sejam como os originais geralmente é uma aposta segura. Os personagens dos jogadores podem ser originais, mas moldados da mesma forma, ou podem ter funções semelhantes.
+- Heróis substitutos**: Às vezes, os jogadores não querem se sentir como figuras de segunda classe, vivendo nas sombras de um grupo de personagens muito mais famoso. Nesse caso, faça com que os personagens jogadores substituam as figuras originais, criando novos personagens que desempenhem exatamente as mesmas funções ou simplesmente usando os personagens originais como seus próprios personagens jogadores.
+- Rivais amigáveis**: Outra opção com grande apelo é fazer com que os personagens dos jogadores existam no mesmo mundo que os protagonistas originais. Eles podem conhecê-los, ter parentesco com eles ou até mesmo cruzar com eles. Em casos como esse, é importante garantir que os jogadores não sintam que seus personagens estão em segundo plano em relação aos "verdadeiros" protagonistas.
 
 **Descrição do ambiente
 
@@ -516,10 +516,10 @@ O mestre do jogo tem a palavra final sobre se uma rolagem de paixão para inspir
 Lembre-se de que o mestre de jogo tem a palavra final sobre a adequação da tentativa de Inspiração e sua duração. O jogador deve rolar contra a classificação da paixão em um D100:
 
 - Sucesso crítico: Uma habilidade escolhida recebe temporariamente um bônus de +50% enquanto durar a tarefa ou situação.
-- Sucesso Especial:** Uma habilidade escolhida recebe temporariamente um bônus de +30% durante a tarefa ou situação. Uma verificação de experiência é obtida na paixão.
-- Sucesso:** Uma habilidade escolhida recebe temporariamente um bônus de +20% pela duração da tarefa ou situação. Uma verificação de experiência é obtida na paixão.
-- Fracasso:** O personagem fica desanimado, modificando em -10% todas as rolagens adicionais feitas na situação ou cena. Essa penalidade termina na próxima cena.
-- Fumble:** A paixão é imediatamente modificada em -1D10% e o personagem é dominado pelo desespero (consulte a tabela Desespero, a seguir). Durante o período de desespero, o personagem é efetivamente incapaz de fazer qualquer coisa além de fugir ou se esconder, embora o mestre de jogo possa permitir algum grau de ação além disso nas circunstâncias certas.
+- Sucesso Especial**: Uma habilidade escolhida recebe temporariamente um bônus de +30% durante a tarefa ou situação. Uma verificação de experiência é obtida na paixão.
+- Sucesso**: Uma habilidade escolhida recebe temporariamente um bônus de +20% pela duração da tarefa ou situação. Uma verificação de experiência é obtida na paixão.
+- Fracasso**: O personagem fica desanimado, modificando em -10% todas as rolagens adicionais feitas na situação ou cena. Essa penalidade termina na próxima cena.
+- Fumble**: A paixão é imediatamente modificada em -1D10% e o personagem é dominado pelo desespero (consulte a tabela Desespero, a seguir). Durante o período de desespero, o personagem é efetivamente incapaz de fazer qualquer coisa além de fugir ou se esconder, embora o mestre de jogo possa permitir algum grau de ação além disso nas circunstâncias certas.
 
 **Desespero
 
@@ -662,11 +662,11 @@ A reputação pode ser usada para tentar aumentar algumas habilidades de comunic
 
 Para usar a reputação para aumentar outra habilidade, role contra a reputação do personagem:
 
-- Sucesso crítico:** A reputação do personagem adiciona um bônus de +50% à habilidade de comunicação a ser usada.
-- Sucesso especial:** A reputação do personagem adiciona um bônus de +30% à habilidade de comunicação a ser usada.
-- Sucesso:** A reputação do personagem adiciona um bônus de +20% à habilidade de comunicação a ser usada.
-- Falha:** O personagem subtrai -20% da habilidade de comunicação a ser usada.
-- Fumble:** O personagem subtrai -50% da habilidade de comunicação a ser usada.
+- Sucesso crítico**: A reputação do personagem adiciona um bônus de +50% à habilidade de comunicação a ser usada.
+- Sucesso especial**: A reputação do personagem adiciona um bônus de +30% à habilidade de comunicação a ser usada.
+- Sucesso**: A reputação do personagem adiciona um bônus de +20% à habilidade de comunicação a ser usada.
+- Falha**: O personagem subtrai -20% da habilidade de comunicação a ser usada.
+- Fumble**: O personagem subtrai -50% da habilidade de comunicação a ser usada.
 
 **Modificadores de Reputação**
 
@@ -741,11 +741,11 @@ Certas habilidades, como a especialidade Blasphemous Lore da habilidade Knowledg
 
 Um personagem pode recuperar a SAN perdida, mas nunca em um valor que exceda o total máximo de Sanidade inicial. Veja a seguir algumas maneiras pelas quais a SAN pode ser restaurada:
 
-- **Sucesso:** Derrotar ou destruir uma causa de perda de SAN pode valer uma quantia igual à metade da perda potencial de SAN que a causa ameaçava. O mestre de jogo deve interpretar as condições para "derrotar" e determinar o valor exato restaurado. Isso pode ser rolado ou concedido como um valor geral a qualquer pessoa que tenha participado da derrota, não apenas àqueles que perderam SAN.
-- Aconselhamento:** Veja a habilidade Psicoterapia. Em geral, uma rolagem de habilidade bem-sucedida recupera 1D3-1 SAN.
-- Drogas:** Algumas drogas ou substâncias podem, a critério do mestre de jogo, restaurar a SAN perdida.
-- Poderes:** Várias habilidades psíquicas e o superpoder de Transferência podem restaurar a SAN perdida.
-- Autoaperfeiçoamento:** Atingir uma classificação de 91% em uma habilidade restaura instantaneamente 2D6 pontos de SAN, representando a autoconfiança e a disciplina associadas ao domínio de uma habilidade (esse é um bônus único). Se um personagem começar com essa classificação de habilidade ou superior, não haverá ganho de SAN.
+- **Sucesso**: Derrotar ou destruir uma causa de perda de SAN pode valer uma quantia igual à metade da perda potencial de SAN que a causa ameaçava. O mestre de jogo deve interpretar as condições para "derrotar" e determinar o valor exato restaurado. Isso pode ser rolado ou concedido como um valor geral a qualquer pessoa que tenha participado da derrota, não apenas àqueles que perderam SAN.
+- Aconselhamento**: Veja a habilidade Psicoterapia. Em geral, uma rolagem de habilidade bem-sucedida recupera 1D3-1 SAN.
+- Drogas**: Algumas drogas ou substâncias podem, a critério do mestre de jogo, restaurar a SAN perdida.
+- Poderes**: Várias habilidades psíquicas e o superpoder de Transferência podem restaurar a SAN perdida.
+- Autoaperfeiçoamento**: Atingir uma classificação de 91% em uma habilidade restaura instantaneamente 2D6 pontos de SAN, representando a autoconfiança e a disciplina associadas ao domínio de uma habilidade (esse é um bônus único). Se um personagem começar com essa classificação de habilidade ou superior, não haverá ganho de SAN.
 
 Todos os ganhos de Sanidade ficam inteiramente a critério do mestre do jogo, que é o único juiz da situação e do que é apropriado.
 

@@ -48,20 +48,20 @@ A habilidade Fly abrange o voo em detalhes consideráveis. Se o seu personagem n
 
 Se o seu personagem puder fazer uma rolagem de Fly bem-sucedida durante a fase de poderes de um turno de combate (isso não custa uma ação), todos os ataques, defesas e outras ações de combate não serão prejudicados. Os modificadores a seguir podem afetar a capacidade de seu personagem de usar a habilidade Fly. Consulte também **Condições climáticas** com relação a chuva, granizo, granizo e neve.
 
-- Acrobacia simples (como uma rolagem de barril):** Sem penalidade
-- Acrobacia moderadamente difícil (roll):** -10% de penalidade
-- Acrobacia difícil (wingover):** -25% de penalidade
-- Acrobacia extremamente difícil (loop-the-loop):** -50% de penalidade
-- Vento leve ou moderado:** Nenhuma penalidade
-- Vento forte:** -10% de penalidade (sem penalidade para vento de cauda forte)
-- Vento forte:** penalidade de -25% (penalidade de -10% para vento forte na cauda)
-- Tempestade de vento:** -50% de penalidade (-25% para vento de cauda)
-- Vento com força de furacão:** penalidade de -75% (penalidade de -50% para vento de cauda)
-- Vento com força de tornado:** -100% de penalidade
-- Altitude elevada / baixa pressão / maré baixa:** penalidade de -25%
-- Usando armadura leve:** -10% de penalidade
-- Usando armadura média:** -25% de penalidade
-- Usando armadura pesada:** -50% de penalidade
+- Acrobacia simples (como uma rolagem de barril)**: Sem penalidade
+- Acrobacia moderadamente difícil (roll)**: -10% de penalidade
+- Acrobacia difícil (wingover)**: -25% de penalidade
+- Acrobacia extremamente difícil (loop-the-loop)**: -50% de penalidade
+- Vento leve ou moderado**: Nenhuma penalidade
+- Vento forte**: -10% de penalidade (sem penalidade para vento de cauda forte)
+- Vento forte**: penalidade de -25% (penalidade de -10% para vento forte na cauda)
+- Tempestade de vento**: -50% de penalidade (-25% para vento de cauda)
+- Vento com força de furacão**: penalidade de -75% (penalidade de -50% para vento de cauda)
+- Vento com força de tornado**: -100% de penalidade
+- Altitude elevada / baixa pressão / maré baixa**: penalidade de -25%
+- Usando armadura leve**: -10% de penalidade
+- Usando armadura média**: -25% de penalidade
+- Usando armadura pesada**: -50% de penalidade
 
 Todos os modificadores são cumulativos.
 
@@ -102,7 +102,7 @@ Quando um ataque é direcionado a uma área com a intenção de causar dano a qu
 
 Ataques de ácido, fogo ou outros ataques corrosivos ou altamente cáusticos podem danificar ou até mesmo destruir a armadura. Também é possível que uma peça de armadura possa ser destruída por acertos críticos ou até mesmo por falhas, embora isso fique a critério do mestre de jogo. Se a armadura for danificada ou perder peças, reduza seu valor de armadura em 1/2, arredondando para baixo.
 
-**Por exemplo, uma armadura que vale 5 pontos de proteção é rebaixada para ter apenas 2 pontos de valor de armadura. Se for usado um valor de armadura aleatório, a armadura que vale 1D8+1 pode ser reduzida para 1D4 de proteção, que é 1/2 de 1D8, com o +1 arredondado para baixo.*
+**Por exemplo,** uma armadura que vale 5 pontos de proteção é rebaixada para ter apenas 2 pontos de valor de armadura. Se for usado um valor de armadura aleatório, a armadura que vale 1D8+1 pode ser reduzida para 1D4 de proteção, que é 1/2 de 1D8, com o +1 arredondado para baixo.*
 
 A armadura já danificada que é danificada novamente antes de ser reparada é destruída, não oferecendo nenhuma proteção, mas ENC e carga completos.
 
@@ -114,11 +114,11 @@ Seu personagem pode tentar um ataque de aura, chamando a atenção com uma demon
 
 Quando um ataque de aura é realizado, qualquer pessoa que possa ver seu personagem deve fazer uma rolagem de resistência com a característica POW dela versus o total da aura do seu personagem. Alguns ou todos os fatores a seguir podem modificar a rolagem de resistência:
 
-- Comando:** Seu personagem pode tentar fazer uma rolagem de Comando antes de fazer um ataque de aura. Se for bem-sucedido, adicione +1 ao total da aura, um sucesso especial +2 e um sucesso crítico +3. Uma rolagem errada reduz o total da aura pela metade (arredondado para cima).
-- Sucesso anterior:** Se o seu personagem tiver sido bem-sucedido anteriormente em um ataque de aura contra um alvo, adicione +1 ao total da aura. Um personagem sortudo ou poderoso pode fazer ataques contínuos de aura contra um oponente para mantê-lo à distância ou paralisá-lo com medo.
+- Comando**: Seu personagem pode tentar fazer uma rolagem de Comando antes de fazer um ataque de aura. Se for bem-sucedido, adicione +1 ao total da aura, um sucesso especial +2 e um sucesso crítico +3. Uma rolagem errada reduz o total da aura pela metade (arredondado para cima).
+- Sucesso anterior**: Se o seu personagem tiver sido bem-sucedido anteriormente em um ataque de aura contra um alvo, adicione +1 ao total da aura. Um personagem sortudo ou poderoso pode fazer ataques contínuos de aura contra um oponente para mantê-lo à distância ou paralisá-lo com medo.
 - Experiência: A critério do mestre do jogo, a fama relativa, um histórico com o alvo ou uma rolagem de reputação bem-sucedida podem adicionar +1-3 ao total da aura.
 - Paixões: Uma rolagem de Paixão apropriada bem-sucedida pode adicionar +1 ao total da aura, um sucesso especial +2 e um sucesso crítico +3. Uma rolagem fracassada reduz o total da aura pela metade (arredondado para cima).
-- Circunstâncias:** A situação também pode modificar positivamente o total da aura de seu personagem ou negativamente o POW do alvo em ±1-3. Os motivos podem ser a exibição de um item mágico poderoso com qualidades lendárias, inferioridade ou superioridade esmagadora em poder de fogo, morte de combatentes aliados, derrota anterior ou estado de ferimento ou qualquer ameaça implícita que acompanhe o ataque de aura.
+- Circunstâncias**: A situação também pode modificar positivamente o total da aura de seu personagem ou negativamente o POW do alvo em ±1-3. Os motivos podem ser a exibição de um item mágico poderoso com qualidades lendárias, inferioridade ou superioridade esmagadora em poder de fogo, morte de combatentes aliados, derrota anterior ou estado de ferimento ou qualquer ameaça implícita que acompanhe o ataque de aura.
 
 Se a rolagem de resistência falhar, o(s) alvo(s) do ataque da aura ficará(ão) hipnotizado(s) pelo restante da rodada de combate. Eles podem se esquivar, aparar ou reagir a ataques contra eles, mas não podem iniciar nenhum ataque ou outras ações por vontade própria.
 
@@ -132,7 +132,7 @@ Muitas armas, como metralhadoras e submetralhadoras, podem disparar rajadas curt
 
 Contra um único alvo, uma rajada aumenta a chance de sucesso em +20% e o disparo automático em +40%. O atacante deve anunciar quantos tiros estão sendo disparados (as rajadas geralmente são de três tiros, enquanto o disparo automático pode esvaziar todo o pente), mantendo o controle da munição gasta. O ataque é rolado normalmente.
 
-Se o tiro falhar, todos os tiros da rajada falharão. Se for bem-sucedido e atingir o alvo, role um dado apropriado com base no número de tiros disparados. Para obter um número ímpar, role um tipo de dado apropriado e divida por dois (arredonde para cima). **Por exemplo, se forem disparados 8 tiros, role um D8; se forem disparados 5 tiros, role um D10 e divida-o pela metade, arredondando para cima, etc.
+Se o tiro falhar, todos os tiros da rajada falharão. Se for bem-sucedido e atingir o alvo, role um dado apropriado com base no número de tiros disparados. Para obter um número ímpar, role um tipo de dado apropriado e divida por dois (arredonde para cima). **Por exemplo,** se forem disparados 8 tiros, role um D8; se forem disparados 5 tiros, role um D10 e divida-o pela metade, arredondando para cima, etc.
 
 O mestre de jogo pode exigir que todas as rajadas ou disparos automáticos ocorram em números equivalentes aos dados, como 2, 3, 4, 5, 6, 8, 10 etc. O resultado dessa rolagem de dados é o número de tiros que atingiram o alvo. Somente o primeiro ataque é capaz de obter um sucesso especial ou crítico - todos os demais são sucessos normais.
 
@@ -160,7 +160,7 @@ Diferentemente das emboscadas, as situações em que ambos os lados são surpree
 
 Os equipamentos são frequentemente danificados ou quebrados durante o combate. Uma arma ou escudo se quebra se for usado para desviar de um ataque que reduz os pontos de vida da arma a 0 ou por outros meios. Uma arma quebrada causa metade do dano normal rolado (arredondado para cima). Todos os ataques ou defesas com a arma são *difíceis*, embora a habilidade possa não ser modificada se ela se assemelhar a uma arma semelhante com a qual o personagem esteja familiarizado.
 
-**Por exemplo, uma espada larga com a lâmina quebrada ao meio ainda pode ser usada como uma espada curta. No entanto, metade de um arco longo não pode ser usada, exceto como uma clava leve, e uma pistola a laser quebrada é um peso de papel.
+**Por exemplo,** uma espada larga com a lâmina quebrada ao meio ainda pode ser usada como uma espada curta. No entanto, metade de um arco longo não pode ser usada, exceto como uma clava leve, e uma pistola a laser quebrada é um peso de papel.
 
 **Faixas
 
@@ -168,12 +168,12 @@ As perseguições ocorrem quando uma das partes precisa ultrapassar ou manobrar 
 
 Antes de iniciar uma perseguição, o mestre de jogo deve decidir esses seis aspectos:
 
-- Posições iniciais:** Uma das partes na perseguição começa com uma vantagem significativa (uma vantagem inicial) ou a perseguição começa em condições relativamente iguais? Eles estão próximos um do outro ou já estão a uma certa distância?
+- Posições iniciais**: Uma das partes na perseguição começa com uma vantagem significativa (uma vantagem inicial) ou a perseguição começa em condições relativamente iguais? Eles estão próximos um do outro ou já estão a uma certa distância?
 - O percurso: Quão complexo ou perigoso é o caminho e o quanto os participantes podem alterar as condições? O ambiente da perseguição mudará? Os outros espectadores estão em risco ou apresentam um perigo próprio? O percurso é uma combinação de vários ambientes? O ambiente apresenta algum perigo ou desafio especial?
-- **Habilidades necessárias:** Quais habilidades podem ser usadas nessa perseguição (por exemplo, dirigir, voar ou pilotar)? Quais poderes? Quais habilidades são necessárias se as condições da perseguição mudarem? Se o veículo apresentar um defeito, outros personagens precisarão agir para mantê-lo funcionando?
+- **Habilidades necessárias**: Quais habilidades podem ser usadas nessa perseguição (por exemplo, dirigir, voar ou pilotar)? Quais poderes? Quais habilidades são necessárias se as condições da perseguição mudarem? Se o veículo apresentar um defeito, outros personagens precisarão agir para mantê-lo funcionando?
 - Combate: Os participantes da perseguição estarão atacando uns aos outros e com quais armas ou habilidades? Na maioria das vezes, são armas de mísseis, mas quando estão lado a lado, podem ser usadas armas corpo a corpo. Os outros seres no ambiente representam uma ameaça?
-- Duração:** Existe alguma limitação quanto à duração da perseguição, como uma distância fixa antes que a perseguição termine naturalmente? A fadiga desempenha algum papel?
-- Conclusão:** Que local, mudança de situação ou status encerra a perseguição? Isso geralmente é óbvio, mas deve ficar claro antes do início da perseguição.
+- Duração**: Existe alguma limitação quanto à duração da perseguição, como uma distância fixa antes que a perseguição termine naturalmente? A fadiga desempenha algum papel?
+- Conclusão**: Que local, mudança de situação ou status encerra a perseguição? Isso geralmente é óbvio, mas deve ficar claro antes do início da perseguição.
 
 O rastreamento de uma perseguição usa a **trilha de alcance** (veja abaixo). Se estiverem jogando juntos, é útil copiá-la ou imprimi-la e colocá-la sobre a mesa, ou compartilhar a imagem se estiverem jogando on-line. Defina as posições iniciais de cada participante na trilha apropriada em relação um ao outro, com "comprimentos" equivalentes a um MOV completo em distância. Marque essas posições com moedas, miniaturas, dados sobressalentes ou outros marcadores.
 
@@ -206,10 +206,10 @@ A cada rodada, o mestre de jogo deve determinar o seguinte:
 
 Os termos a seguir são relevantes para perseguições de veículos:
 
-- Velocidade nominal:** A velocidade máxima sustentável do veículo. Ele pode viajar na velocidade máxima nominal ou em qualquer velocidade inferior a essa. Todas as entidades em uma perseguição começam na Velocidade 0 e aceleram até a velocidade de deslocamento.
+- Velocidade nominal**: A velocidade máxima sustentável do veículo. Ele pode viajar na velocidade máxima nominal ou em qualquer velocidade inferior a essa. Todas as entidades em uma perseguição começam na Velocidade 0 e aceleram até a velocidade de deslocamento.
 - Alcance: A distância entre os participantes de uma perseguição. Há cinco faixas, conforme mostrado na trilha de faixa. Para cada velocidade maior que a de um oponente, um personagem ou veículo pode se mover um incremento de alcance para mais perto ou para mais longe do outro personagem ou veículo por rodada de combate - se estiver à frente, o líder se afasta do perseguidor; se estiver atrás, o perseguidor se aproxima um incremento de alcance.
-- Acelerar, desacelerar:** Em uma rodada, um veículo pode acelerar/desacelerar em X velocidades (consulte as descrições de veículos no *Capítulo 8: Equipamento*).
-- Manuseio:** A facilidade e a capacidade de resposta de uma manobra. Adicione ou subtraia o modificador de manuseio do veículo da habilidade apropriada do piloto.
+- Acelerar, desacelerar**: Em uma rodada, um veículo pode acelerar/desacelerar em X velocidades (consulte as descrições de veículos no *Capítulo 8: Equipamento*).
+- Manuseio**: A facilidade e a capacidade de resposta de uma manobra. Adicione ou subtraia o modificador de manuseio do veículo da habilidade apropriada do piloto.
 
 **Manobras
 
@@ -217,10 +217,10 @@ As manobras são descritas na **Tabela de modificadores de rolagem de habilidade
 
 - Uma curva pode exigir que o veículo desacelere em 1+ incrementos de velocidade. Um retorno sempre exige que o veículo desacelere para a Velocidade 1. O sucesso dessa manobra em circunstâncias normais é *Automático*.
 - Quando um veículo tenta fazer isso, o personagem deve ser bem-sucedido na habilidade relevante, com um modificador de -10% aplicado.
-- Reversão "Bootlegger":** Uma manobra em que o uso de freios (jatos de frenagem, propulsores de reversão etc.) faz com que o veículo derrape e gire, terminando seu movimento na direção de onde veio. Para conseguir isso, faça um rolamento de habilidade relevante com um modificador de -25%. O sucesso reorienta o veículo na direção oposta e ele pode acelerar até a Velocidade 2 na próxima rodada. Isso não pode ser feito com cavalos ou veículos puxados por cavalos. A falha faz com que o veículo se mova em uma direção indesejável ou continue na mesma direção.
-- Colisão:** O veículo se choca contra um alvo em movimento ou parado ou passa ao lado dele. Uma colisão causa 1D6 de dano por nível de velocidade ao veículo com o qual colidiu, e os passageiros de cada veículo recebem 1D3 de dano por nível de velocidade. A proteção adequada (cintos de segurança, etc.) pode reduzir o dano sofrido pelos passageiros em ½ (arredondado para cima). A proteção excepcional (cadeiras de choque, espuma de impacto etc.) pode reduzir o dano sofrido pelos passageiros em ¾ (arredondado para cima). Faça um rolamento de resistência SIZ vs. SIZ para os dois veículos ou para o alvo para determinar se um deles foi tirado da linha ou do lado.
+- Reversão "Bootlegger"**: Uma manobra em que o uso de freios (jatos de frenagem, propulsores de reversão etc.) faz com que o veículo derrape e gire, terminando seu movimento na direção de onde veio. Para conseguir isso, faça um rolamento de habilidade relevante com um modificador de -25%. O sucesso reorienta o veículo na direção oposta e ele pode acelerar até a Velocidade 2 na próxima rodada. Isso não pode ser feito com cavalos ou veículos puxados por cavalos. A falha faz com que o veículo se mova em uma direção indesejável ou continue na mesma direção.
+- Colisão**: O veículo se choca contra um alvo em movimento ou parado ou passa ao lado dele. Uma colisão causa 1D6 de dano por nível de velocidade ao veículo com o qual colidiu, e os passageiros de cada veículo recebem 1D3 de dano por nível de velocidade. A proteção adequada (cintos de segurança, etc.) pode reduzir o dano sofrido pelos passageiros em ½ (arredondado para cima). A proteção excepcional (cadeiras de choque, espuma de impacto etc.) pode reduzir o dano sofrido pelos passageiros em ¾ (arredondado para cima). Faça um rolamento de resistência SIZ vs. SIZ para os dois veículos ou para o alvo para determinar se um deles foi tirado da linha ou do lado.
 - Batida: Esmaga o veículo diretamente em um obstáculo à sua frente. O alvo recebe 1D10 de dano por nível de velocidade em que o veículo estiver viajando e os ocupantes de ambos os veículos recebem 1D6 de dano por nível de velocidade (incluindo os que estiverem dentro da estrutura, se estiverem dentro do alcance do impacto). Compare esse valor com os pontos de armadura do veículo, objeto ou estrutura alvo e, em seguida, subtraia o dano restante de seus pontos de vida. Se o objeto visado for totalmente destruído, o veículo de choque pode continuar passando por ele, embora sofra metade do dano infligido (arredondado para cima) ao alvo. Faça uma rolagem de resistência de SIZ vs. SIZ para o veículo e seu alvo. O vencedor prevalece, seja continuando seu caminho ou permanecendo imóvel, conforme apropriado.
-- Dano do veículo:** Exemplos de pontos de vida do veículo são fornecidos na página 184. Quando um veículo colidir ou for abalroado, subtraia o valor da armadura do veículo e subtraia o dano restante de seus pontos de vida atuais. Quando o veículo tiver sofrido mais da metade de seus pontos de vida, reduza sua velocidade máxima pela metade (arredondando para cima). Quando tiver 5 ou menos pontos de vida, o veículo deixará de funcionar (e poderá bater ao parar). Se um veículo estiver visivelmente danificado, o mestre de jogo pode optar por rolar na **Tabela de problemas de perseguição**. Quando o total de pontos de vida de um veículo chega a 0, ele é destruído. O mestre de jogo deve determinar o que acontece com os passageiros dentro dele com base na natureza e no local do veículo (consulte as regras de local para explosivos, queda, fogo, radiação etc., conforme apropriado). Consulte a habilidade Repair (Reparo) (página 50) para obter mais informações sobre como reparar ou consertar o veículo para mantê-lo funcionando.
+- Dano do veículo**: Exemplos de pontos de vida do veículo são fornecidos na página 184. Quando um veículo colidir ou for abalroado, subtraia o valor da armadura do veículo e subtraia o dano restante de seus pontos de vida atuais. Quando o veículo tiver sofrido mais da metade de seus pontos de vida, reduza sua velocidade máxima pela metade (arredondando para cima). Quando tiver 5 ou menos pontos de vida, o veículo deixará de funcionar (e poderá bater ao parar). Se um veículo estiver visivelmente danificado, o mestre de jogo pode optar por rolar na **Tabela de problemas de perseguição**. Quando o total de pontos de vida de um veículo chega a 0, ele é destruído. O mestre de jogo deve determinar o que acontece com os passageiros dentro dele com base na natureza e no local do veículo (consulte as regras de local para explosivos, queda, fogo, radiação etc., conforme apropriado). Consulte a habilidade Repair (Reparo) (página 50) para obter mais informações sobre como reparar ou consertar o veículo para mantê-lo funcionando.
 
 **Tabela de modificadores de rolagem de habilidade
 
@@ -384,12 +384,12 @@ O primeiro ponto de característica é perdido dentro de 24 horas após a contra
 
 A seguir estão os tipos de doenças genéricas, cada uma ligada a uma única característica. O mestre de jogo é incentivado a desenvolver uma lista mais adequada ao cenário da campanha (ou renomeá-las conforme apropriado). Toda perda de característica afeta os atributos associados (pontos de vida, modificadores de categoria de habilidade, etc.). Chegar a 0 em uma característica geralmente significa morte ou debilitação permanente (consulte **Características**).
 
-- Atrofia:** Afeta o sistema muscular, causando perda de STR.
-- Calafrios:** Calafrios e febre, arruinando a saúde e diminuindo a CON.
-- Delirium:** Um estado febril marcado por pensamentos confusos e cognição turva, afetando INT.
-- Mal-estar:** Uma doença sobrenatural ou psíquica, que ataca o prisioneiro de guerra no plano espiritual, ou um simples tédio, que causa falta de vontade e energia.
+- Atrofia**: Afeta o sistema muscular, causando perda de STR.
+- Calafrios**: Calafrios e febre, arruinando a saúde e diminuindo a CON.
+- Delirium**: Um estado febril marcado por pensamentos confusos e cognição turva, afetando INT.
+- Mal-estar**: Uma doença sobrenatural ou psíquica, que ataca o prisioneiro de guerra no plano espiritual, ou um simples tédio, que causa falta de vontade e energia.
 - Tremores: uma doença nervosa que causa tremores e instabilidade e afeta a DEX.
-- Pox:** Qualquer doença que afete o CHA, geralmente pela deterioração da condição da pele ou outros sintomas visíveis. Também pode representar uma doença geral, causando tosse regular e/ou uma aparência doentia.
+- Pox**: Qualquer doença que afete o CHA, geralmente pela deterioração da condição da pele ou outros sintomas visíveis. Também pode representar uma doença geral, causando tosse regular e/ou uma aparência doentia.
 
 A critério do gamemaster, algumas doenças podem combinar os efeitos dessas doenças e ter outros efeitos também. A doença crônica de longo prazo também pode reduzir o SIZ, conforme descrito acima.
 
@@ -417,7 +417,7 @@ O efeito especial da arma de emaranhamento é descrito detalhadamente na página
 
 Uma explosão inflige uma combinação de dano de choque e de projétil a qualquer pessoa capturada dentro do alcance da explosão. O mestre de jogo deve determinar a potência da explosão (dados de dano) e seu raio de efeito em metros (alcance). Uma boa regra geral é dois metros por D6 de dano. O dano das explosões diminui do epicentro para o perímetro do raio da explosão. Os dados de dano típicos para explosivos são D6s; reduza os dados de dano em -1D6 para cada dois metros de distância do epicentro.
 
-**Por exemplo, um bastão de dinamite causa 5D6 de dano no centro da explosão para os primeiros dois metros, 4D6 para três a quatro metros, 3D6 para cinco a seis metros, 2D6 para sete a oito metros, 1D6 para nove a dez metros e nenhum dano fora do raio de 10 metros.
+**Por exemplo,** um bastão de dinamite causa 5D6 de dano no centro da explosão para os primeiros dois metros, 4D6 para três a quatro metros, 3D6 para cinco a seis metros, 2D6 para sete a oito metros, 1D6 para nove a dez metros e nenhum dano fora do raio de 10 metros.
 
 Para determinar o dano sofrido por qualquer pessoa atingida no raio da explosão, determine a distância do epicentro e role o dano conforme apropriado. O dano da maioria dos explosivos é geral e não se aplica a nenhum local atingido específico. Se estiver usando locais de acerto, divida o dano entre 1D4 locais de acerto, rolados aleatoriamente. Um personagem no raio de explosão de uma explosão também pode sofrer os efeitos do sucesso especial de repulsão.
 
@@ -467,7 +467,7 @@ Um personagem que recebe mais de 1/4 do total de seus pontos de vida (arredondad
 
 Os locais de acerto podem determinar onde o fogo afeta um personagem. Nesses casos, a quantidade de locais de acerto afetados deriva do tamanho do fogo, a critério do gamemaster.
 
-**Por exemplo, uma tocha afeta apenas um local de acerto, mas se for pega em um incêndio intenso em uma casa, todos os locais de acerto serão afetados.
+**Por exemplo,** uma tocha afeta apenas um local de acerto, mas se for pega em um incêndio intenso em uma casa, todos os locais de acerto serão afetados.
 
 Apagar um incêndio não é difícil, ele pode ser facilmente abafado com uma capa, sujeira, água, extintor de incêndio etc. A tentativa de apagar um incêndio pequeno leva uma rodada de combate, e mais tempo para incêndios maiores. Se houver alguma chance de fracasso, um lançamento de Sorte o apaga. A falha significa que o fogo continua a queimar, enquanto uma falha significa que o personagem que está apagando o fogo se incendiou inadvertidamente.
 
@@ -491,7 +491,7 @@ A maioria das armas de mísseis pode ser usada para aparar se houver necessidade
 
 A chance básica de aparar com uma arma de mísseis é metade da chance básica da arma (ou 20%, o que for maior). Presume-se que, no treinamento e na experiência de um personagem, ele teve de usar a arma para aparar por necessidade e aprendeu com isso. Isso pode variar de acordo com o tipo de arma e o estilo de treinamento.
 
-**Por exemplo, o treinamento militar básico em combate corpo a corpo inclui o uso do fuzil como um porrete improvisado, incluindo a defesa. A caça raramente requer o uso de parrying com um rifle.*
+**Por exemplo,** o treinamento militar básico em combate corpo a corpo inclui o uso do fuzil como um porrete improvisado, incluindo a defesa. A caça raramente requer o uso de parrying com um rifle.*
 
 Se os pontos de vida de uma arma de mísseis usada para aparar forem excedidos pelo dano rolado, ela sofrerá 1 ponto de vida de dano (ou mais, dependendo da qualidade do ataque e do aparar).
 
@@ -561,7 +561,7 @@ Além disso, com base na posição do personagem montado e do personagem não mo
 
 As armas naturais fazem parte do corpo do agressor.
 
-**Por exemplo, o punho e o pé de um humano são suas armas naturais, e seu personagem pode usar as mãos e até mesmo as pernas para agarrar um oponente.
+**Por exemplo,** o punho e o pé de um humano são suas armas naturais, e seu personagem pode usar as mãos e até mesmo as pernas para agarrar um oponente.
 
 A maioria das outras criaturas tem armas naturais, como garras, presas, caudas preênseis, ferrões e chifres. Algumas têm até armas de mísseis naturais. Conforme descrito no *Capítulo 11: Criaturas*, a maioria das criaturas assim equipadas causa 1D6 de dano com garras e 1D3 de dano com uma mordida ou chifre, mais o modificador de dano.
 
@@ -610,7 +610,7 @@ Presume-se que qualquer ataque seja realizado com a intenção de causar o máxi
 
 Se uma arma causar vários dados de dano, você pode optar por reduzir todos os dados de dano ou rolar menos dados, mas não pode dividir os dados e aplicar reduções diferentes.
 
-**Por exemplo, *uma espingarda que causa 4D6 de dano pode ter o dano reduzido para 4D4, 4D3 ou 4D2, ou pode ser reduzida para 3D6, 2D6 ou 1D6.*
+**Por exemplo,** *uma espingarda que causa 4D6 de dano pode ter o dano reduzido para 4D4, 4D3 ou 4D2, ou pode ser reduzida para 3D6, 2D6 ou 1D6.*
 
 Se houver uma pergunta sobre a redução do valor dos dados, a ordem é a seguinte, do menor para o maior: D2, D3, D4, D6, D8, D10, D12, até D20.
 
@@ -706,7 +706,7 @@ As armas de arremesso geralmente são mais frágeis do que as armas corpo a corp
 
 **Duas armas
 
-Seu personagem pode usar duas armas corpo a corpo (ou pequenos mísseis) ao mesmo tempo, em vez de uma arma ou uma arma e um escudo. As armas não precisam ser do mesmo tipo ou classe. **Por exemplo, seu personagem pode lutar com uma adaga em cada mão ou com uma espada em uma mão e uma pistola na outra. Lutar com duas armas simultaneamente tem as seguintes condições:
+Seu personagem pode usar duas armas corpo a corpo (ou pequenos mísseis) ao mesmo tempo, em vez de uma arma ou uma arma e um escudo. As armas não precisam ser do mesmo tipo ou classe. **Por exemplo,** seu personagem pode lutar com uma adaga em cada mão ou com uma espada em uma mão e uma pistola na outra. Lutar com duas armas simultaneamente tem as seguintes condições:
 
 - O uso de duas armas em combate não concede automaticamente um segundo ataque ou mais defesas do que o permitido normalmente.
 - Se o seu personagem tiver uma habilidade de 100% ou mais em cada arma usada, ele poderá dividir o ataque de acordo com as regras opcionais para habilidades acima de 100%. Nesse caso, cada ataque é *Difícil*, e o outro ataque de cada arma é ignorado.
@@ -720,7 +720,7 @@ Seu personagem pode usar duas armas corpo a corpo (ou pequenos mísseis) ao mesm
 - Lutar com uma arma de longo alcance e uma arma corpo a corpo permite que seu personagem tenha a vantagem de poder alternar entre os dois modos. Consulte **Firing into Combat** e **Point-Blank Range**.
 - Uma segunda arma nem sempre precisa ser uma arma e pode ser uma ferramenta ou outro implemento útil.
 
-**Por exemplo, seu personagem pode lutar com uma espada em uma mão e uma tocha na outra, usando a tocha para iluminar e como um porrete em potencial. O mestre do jogo pode exigir rolagens de Sorte se o item secundário for frágil ou potencialmente perigoso (como uma lanterna cheia de óleo).*
+**Por exemplo,** seu personagem pode lutar com uma espada em uma mão e uma tocha na outra, usando a tocha para iluminar e como um porrete em potencial. O mestre do jogo pode exigir rolagens de Sorte se o item secundário for frágil ou potencialmente perigoso (como uma lanterna cheia de óleo).*
 
 Como regra geral, se o seu personagem tiver DEX 15 ou menos, ele será destro ou canhoto. Se o seu personagem tiver DEX 16 ou mais, ele poderá ser ambidestro, se assim desejar. Se a lateralidade não tiver sido estabelecida antes e for uma preocupação, o mestre do jogo poderá pedir que você faça um teste de sorte. Um sucesso especial permite que seu personagem seja ambidestro. O sucesso permite que você escolha, enquanto o fracasso deve ser determinado com um lançamento de D6 (1-3=direita, 4-6=esquerda). Uma vez determinada a mão, você deve anotá-la na ficha do personagem para referência futura.
 
@@ -753,7 +753,7 @@ As regras de fogo de rajada se aplicam especificamente a armas lançadas/autopro
 
 Se o seu personagem optar por arremessar, disparar ou lançar armas o mais rápido possível, use a entrada de ataques por rodada da arma relevante, com o primeiro ataque no nível de DEX normal e os ataques subsequentes ocorrendo em intervalos de 5 níveis de DEX. Todos os ataques de fogo de saraivada são *difíceis*. Se os níveis de DEX de qualquer ataque forem inferiores a 0, seu personagem não poderá atacar mais. Embora seu personagem possa ter níveis de DEX suficientes para atacar mais do que os ataques por rodada, essa quantidade é o limite e todos os ataques adicionais de nível de DEX não são usados.
 
-**Por exemplo, se o seu personagem com DEX 12 usar fogo de vôlei com pedras de arremesso (que recebem dois ataques por rodada), o primeiro arremesso ocorrerá no nível 12 de DEX e o segundo ocorrerá no nível 7 de DEX. Embora exista a possibilidade de atacar no nível 2 de DEX, uma pedra arremessada permite apenas dois ataques por rodada.*
+**Por exemplo,** se o seu personagem com DEX 12 usar fogo de vôlei com pedras de arremesso (que recebem dois ataques por rodada), o primeiro arremesso ocorrerá no nível 12 de DEX e o segundo ocorrerá no nível 7 de DEX. Embora exista a possibilidade de atacar no nível 2 de DEX, uma pedra arremessada permite apenas dois ataques por rodada.*
 
 No entanto, além de ser *difícil*, a desvantagem do fogo de saraivada é que ele consome munição mais rapidamente e não permite que o atacante se desvie ou se esquive ao lançar ataques de saraivada.
 
@@ -779,12 +779,12 @@ Os ventos fortes podem afetar o movimento e o disparo de mísseis (armas de arre
 
 O valor de STR é atribuído pelo gamemaster, para rolagens de resistência STR vs. STR a cada rodada para que seu personagem continue em pé, e o modificador é aplicado a quaisquer habilidades relevantes (armas de mísseis, habilidades de movimento etc.) e pode ser usado para ajustar a taxa de MOV. Esses valores representam a exposição direta à força total do vento e podem ser menores quanto mais longe do epicentro ou com base em cobertura parcial.
 
-- **Vento leve a moderado (STR 0-1):** -%.
-- Vento forte (STR 2-6):** -10%
-- Vento severo (STR 7-9):** -25%
-- Tempestade de vento (STR 10-12):** -50%
-- Vento com força de furacão (FV 13-15):** -75%
-- Vento com força de tornado (STR 16+):** -90%
+- **Vento leve a moderado (STR 0-1)**: -%.
+- Vento forte (STR 2-6)**: -10%
+- Vento severo (STR 7-9)**: -25%
+- Tempestade de vento (STR 10-12)**: -50%
+- Vento com força de furacão (FV 13-15)**: -75%
+- Vento com força de tornado (STR 16+)**: -90%
 
 A falha na rolagem de resistência significa que seu personagem cai, podendo sofrer danos (consulte **Queda**).
 
@@ -792,19 +792,19 @@ A falha na rolagem de resistência significa que seu personagem cai, podendo sof
 
 A cobertura de nuvens define a quantidade de céu obscurecido por nuvens. O modificador também determina a porcentagem de chance de chuva (role a penalidade como uma chance, não como um modificador, e consulte **Chuva**, abaixo). As habilidades afetadas pela cobertura de nuvens incluem Navegação e Conhecimento (Astronomia). Isso também pode modificar poderes ou quaisquer condições que exijam luz solar direta. Uma cobertura de nuvens severa ou completa também pode funcionar como escuridão parcial (consulte **Escuridão**).
 
-- **Cobertura de nuvens leve a moderada:** - -
-- Cobertura de nuvens pesadas:** -25%
-- Cobertura severa de nuvens:** -50%
-- Cobertura completa de nuvens:** -90%
+- **Cobertura de nuvens leve a moderada**: - -
+- Cobertura de nuvens pesadas**: -25%
+- Cobertura severa de nuvens**: -50%
+- Cobertura completa de nuvens**: -90%
 
 **Chuva
 
 Para dias com condições climáticas adequadas, se desejar, role D100 a cada dia. Se o resultado for igual ou menor que a porcentagem de céu coberto (consulte **Cloud Cover**, acima), chove. A quantidade de precipitação que cai é igual à do rolamento D100, em milímetros. Dependendo do clima e da época do ano, a chuva pode se transformar em neve, granizo ou granizo. O modificador afeta todas as habilidades apropriadas.
 
-- **Chuva:** -10%
-- **Neve:** -25%
-- Chuva:** -50%
-- Granizo:** -75%
+- **Chuva**: -10%
+- **Neve**: -25%
+- Chuva**: -50%
+- Granizo**: -75%
 
 **Combate em gravidade zero
 

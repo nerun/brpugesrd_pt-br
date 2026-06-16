@@ -16,9 +16,9 @@ Se estiver apenas começando como gamemaster, talvez precise recrutar alguns jog
 
 Um grupo de RPG pode ter desde um único jogador e um gamemaster até muitos outros. Cada grupo tem sua própria dinâmica e é único - alguns têm alguém que sempre dirige o jogo e outros trocam de gamemaster, dando a todos a chance de jogar. A dinâmica do tamanho do grupo é diferente e, a seguir, apresentamos diretrizes para grupos de diferentes tamanhos:
 
-- Grupos médios:** Geralmente são de três a sete jogadores mais um gamemaster. Grupos menores tendem a ser mais unidos e geralmente são mais fáceis de organizar e manter. Em geral, quanto maior o grupo, mais difícil é reunir todos em um só lugar ao mesmo tempo. Leve em consideração um grupo de jogadores que muda ocasionalmente: alguém pode faltar em uma sessão ou trazer um amigo na próxima. Os jogos ambientados em ambientes densamente povoados costumam ser melhores para isso, pois os personagens ausentes podem simplesmente fazer outra coisa enquanto os outros personagens jogam. Os jogos em que o grupo é isolado ou muito unido significam que os jogadores ausentes precisam ter seus personagens explicados, controlados por outros jogadores ou tratados como personagens não-jogadores.
-- Grupos individuais:** Os jogos com um jogador e um gamemaster geralmente são muito focados no personagem e as sessões podem ser intensas, com muitas conquistas. O planejamento é mais fácil e, muitas vezes, o combate desempenha um papel menor e mais fácil de resolver. Praticamente qualquer cenário funciona para jogos individuais, embora os cenários de super-heróis, terror ou espada e feitiçaria sejam ideais. Os inimigos devem evitar matar o personagem, fazendo-o prisioneiro ou abandonando-o à própria sorte depois de derrotado. O jogador pode participar da descrição do ambiente e pode ter mercenários, ajudantes etc. para tornar as coisas menos solitárias.
-- Grupos grandes:** Se o seu grupo tiver mais de oito jogadores, talvez você precise de um assistente de mestre de jogo. Para lidar com esse tamanho de grupo, peça a um ou mais jogadores que ajudem a rolar os dados e a manter os registros durante os combates, talvez até mesmo deixando que um jogador não envolvido controle alguns personagens oponentes não jogadores. Também é uma boa ideia manter algum tipo de sistema para verificar como estão todos e mantê-los engajados: mantenha os personagens agrupados com os personagens com os quais eles se dão bem e circule pela mesa (ou tela) periodicamente para garantir que todos estejam incluídos.
+- Grupos médios**: Geralmente são de três a sete jogadores mais um gamemaster. Grupos menores tendem a ser mais unidos e geralmente são mais fáceis de organizar e manter. Em geral, quanto maior o grupo, mais difícil é reunir todos em um só lugar ao mesmo tempo. Leve em consideração um grupo de jogadores que muda ocasionalmente: alguém pode faltar em uma sessão ou trazer um amigo na próxima. Os jogos ambientados em ambientes densamente povoados costumam ser melhores para isso, pois os personagens ausentes podem simplesmente fazer outra coisa enquanto os outros personagens jogam. Os jogos em que o grupo é isolado ou muito unido significam que os jogadores ausentes precisam ter seus personagens explicados, controlados por outros jogadores ou tratados como personagens não-jogadores.
+- Grupos individuais**: Os jogos com um jogador e um gamemaster geralmente são muito focados no personagem e as sessões podem ser intensas, com muitas conquistas. O planejamento é mais fácil e, muitas vezes, o combate desempenha um papel menor e mais fácil de resolver. Praticamente qualquer cenário funciona para jogos individuais, embora os cenários de super-heróis, terror ou espada e feitiçaria sejam ideais. Os inimigos devem evitar matar o personagem, fazendo-o prisioneiro ou abandonando-o à própria sorte depois de derrotado. O jogador pode participar da descrição do ambiente e pode ter mercenários, ajudantes etc. para tornar as coisas menos solitárias.
+- Grupos grandes**: Se o seu grupo tiver mais de oito jogadores, talvez você precise de um assistente de mestre de jogo. Para lidar com esse tamanho de grupo, peça a um ou mais jogadores que ajudem a rolar os dados e a manter os registros durante os combates, talvez até mesmo deixando que um jogador não envolvido controle alguns personagens oponentes não jogadores. Também é uma boa ideia manter algum tipo de sistema para verificar como estão todos e mantê-los engajados: mantenha os personagens agrupados com os personagens com os quais eles se dão bem e circule pela mesa (ou tela) periodicamente para garantir que todos estejam incluídos.
 
 **O jogo
 
@@ -64,51 +64,51 @@ A seguir estão todas as regras opcionais e seus efeitos no jogo.
 
 **Personagens e criação de personagens
 
-- Escolha de valores de características:** Os jogadores atribuem características onde quiserem, resultando em personagens mais adequados às suas preferências.
-- Características iniciais mais altas:** Personagens mais robustos e geralmente mais competentes.
-- Rolagem de educação/conhecimento:** Útil para jogos em cenários modernos.
+- Escolha de valores de características**: Os jogadores atribuem características onde quiserem, resultando em personagens mais adequados às suas preferências.
+- Características iniciais mais altas**: Personagens mais robustos e geralmente mais competentes.
+- Rolagem de educação/conhecimento**: Útil para jogos em cenários modernos.
 - Modificadores culturais: melhores em cenários com culturas e sociedades muito diferentes.
 - Personagens não humanos: Usados em cenários de alta fantasia e ficção científica.
 - Criação de personagens baseada em pontos: os personagens são criados pelos jogadores, permitindo uma personalização precisa.
 - Sétima etapa: resulta em personagens competentes e completos.
 - Aumento dos pontos de habilidade pessoal: os personagens são profissionais com experiência prévia.
-- Pontos de vida por local:** Útil para cenários com muito combate, idealmente com armadura por locais de vida.
-- Total de pontos de vida:** Os personagens podem sobreviver a danos consideráveis. Se apenas os personagens jogadores e os personagens não jogadores importantes usarem isso, a jogabilidade se tornará muito heroica.
+- Pontos de vida por local**: Útil para cenários com muito combate, idealmente com armadura por locais de vida.
+- Total de pontos de vida**: Os personagens podem sobreviver a danos consideráveis. Se apenas os personagens jogadores e os personagens não jogadores importantes usarem isso, a jogabilidade se tornará muito heroica.
 - Pontos de fadiga: Melhor usado em jogos com foco em combate, sobrevivência ou viagens.
 - Sanidade: Útil em jogos com elementos de terror.
-- Características distintivas:** Principalmente para dar sabor, útil em qualquer lugar.
+- Características distintivas**: Principalmente para dar sabor, útil em qualquer lugar.
 - Profissões de forma livre: úteis para personagens de jogadores personalizados e difíceis de categorizar.
 - Envelhecimento e inatividade:Útil para campanhas de longo prazo em que os personagens envelhecem significativamente.
 
 **Habilidades**
 
-- **Bônus de categoria de habilidade:** Se as habilidades forem importantes, os bônus de habilidade serão úteis. Não compatível com os bônus de habilidade mais simples.
-- Bônus de habilidade mais simples:** Uma abordagem mais simples para os bônus de habilidade. Não compatível com os bônus de categoria de habilidade.
+- **Bônus de categoria de habilidade**: Se as habilidades forem importantes, os bônus de habilidade serão úteis. Não compatível com os bônus de habilidade mais simples.
+- Bônus de habilidade mais simples**: Uma abordagem mais simples para os bônus de habilidade. Não compatível com os bônus de categoria de habilidade.
 - Habilidades complementares: Úteis em qualquer jogo ou ambiente.
-- Agir sem habilidade:** Permite uma pequena chance de sucesso em qualquer habilidade, independentemente do treinamento. A sorte esquisita pode quebrar a suspensão da descrença em alguns jogos.
+- Agir sem habilidade**: Permite uma pequena chance de sucesso em qualquer habilidade, independentemente do treinamento. A sorte esquisita pode quebrar a suspensão da descrença em alguns jogos.
 - Alfabetização: Útil sempre que a leitura e a escrita forem menos comuns.
-- Classificações de habilidade acima de 100%:** Essencial para cenários de alta potência com personagens extremamente competentes.
+- Classificações de habilidade acima de 100%**: Essencial para cenários de alta potência com personagens extremamente competentes.
 
 **Poderes
 
-- Projeção:** Necessária ao usar superpoderes.
+- Projeção**: Necessária ao usar superpoderes.
 
 **Sistema**
 
 - Sistemas de rolagem de habilidade opostos: Em grande parte uma questão de preferência.
-- Incumbência:** Útil para jogos mais corajosos, orientados para combate, sobrevivência ou viagem, especialmente quando combinada com Fadiga.
+- Incumbência**: Útil para jogos mais corajosos, orientados para combate, sobrevivência ou viagem, especialmente quando combinada com Fadiga.
 
 **Combate
 
-- **Eliminação ou reversão da declaração de intenções:** Isso acelera consideravelmente o combate.
+- **Eliminação ou reversão da declaração de intenções**: Isso acelera consideravelmente o combate.
 - Rolos de iniciativa: adiciona aleatoriedade ao combate rodada a rodada.
 - Uso de poderes na fase de ação: enfatiza os poderes em combate.
-- Ataques e bloqueios acima de 100%:** Melhor para aventuras de fantasia e super-heróis de alta potência, embora o combate fique um pouco mais lento.
+- Ataques e bloqueios acima de 100%**: Melhor para aventuras de fantasia e super-heróis de alta potência, embora o combate fique um pouco mais lento.
 - Desviar de armas de mísseis: melhor para jogos em que o combate é exagerado e irrealista.
 - Golpes mortais: Útil para dar um final dramático a um personagem amado do jogador (ou a um vilão odiado).
 - Locais de armadura por acerto: melhores para jogos detalhados e orientados para a simulação.
 - Locais de dano e acerto: melhores para jogos detalhados e de simulação.
-- Miniaturas, mapas e mesas virtuais:** Melhor para jogos detalhados e de simulação.
+- Miniaturas, mapas e mesas virtuais**: Melhor para jogos detalhados e de simulação.
 
 **Diversos
 
@@ -124,7 +124,7 @@ Quando todos os personagens forem criados, revise-os para entender com que tipo 
 
 Use esse tempo para anotar os aspectos importantes de cada personagem do jogador, como seu nome, profissão, características elevadas e habilidades importantes (Ouvir, Sentir, Localizar etc.). Você também pode anotar quaisquer habilidades acima de 70%, que podem informar os tipos de coisas em que o jogador gostaria que seu personagem se destacasse.
 
-**Por exemplo, se um personagem tiver altas habilidades de comunicação e linguagem, você pode dar a ele a chance de usar essas habilidades no jogo, sempre que possível.
+**Por exemplo,** se um personagem tiver altas habilidades de comunicação e linguagem, você pode dar a ele a chance de usar essas habilidades no jogo, sempre que possível.
 
 Não deve ser muito difícil criar uma cena ou um elemento de enredo que se concentre nas habilidades desejadas e faça com que os jogadores sintam que não cometeram um erro com seus personagens.
 
@@ -136,7 +136,7 @@ Lembre-se, sempre, de que é apenas um jogo e tente manter as pessoas concentrad
 
 Depois que os jogadores terminarem a criação do personagem, é útil perguntar a eles quais são os objetivos que têm para seus personagens. Isso pode ser um pouco cedo, pois eles ainda não começaram a jogar, mas se os jogadores conhecerem o cenário, pergunte o que seus personagens (e eles) gostariam de fazer. Isso pode ser valioso, pois permite que você personalize o jogo de acordo com os personagens e os gostos dos jogadores. Você pode criar momentos heroicos, objetivos de vida, esforços prolongados ou colocá-los onde forem mais eficazes. Um jogador pode até achar que seria legal que seu personagem morresse de uma forma heroica específica, em algum momento.
 
-**Por exemplo, se estiver conduzindo um jogo de faroeste, um dos jogadores pode surpreendê-lo dizendo que quer que seu personagem se candidate a xerife de uma cidade pequena. Isso parece interessante e, como o cenário planejado era ter os personagens baseados em uma cidade de fronteira, ter um jogador como xerife seria um elemento de enredo útil e uma fonte rica de ganchos de enredo. No entanto, os outros personagens também devem ter coisas para fazer, para que não fiquem todos sob o comando do xerife.
+**Por exemplo,** se estiver conduzindo um jogo de faroeste, um dos jogadores pode surpreendê-lo dizendo que quer que seu personagem se candidate a xerife de uma cidade pequena. Isso parece interessante e, como o cenário planejado era ter os personagens baseados em uma cidade de fronteira, ter um jogador como xerife seria um elemento de enredo útil e uma fonte rica de ganchos de enredo. No entanto, os outros personagens também devem ter coisas para fazer, para que não fiquem todos sob o comando do xerife.
 
 Às vezes, mesmo sem tentar, os jogadores o ajudarão a escrever aventuras, usando apenas as ideias que eles fornecem no início do jogo.
 
@@ -146,7 +146,7 @@ As regras do *Basic Roleplaying* são intuitivas o suficiente para que você nã
 
 **Ensinar as regras** (a seguir) fornece uma visão geral de alto nível e uma única leitura das seções de regras relevantes antes do jogo é sempre útil. Um truque útil é fornecer uma lista rápida das regras relevantes e anotar os números das páginas dessas seções. As notas adesivas são outra ferramenta útil para esse tipo de preparação, marcando as seções das regras usadas com frequência.
 
-**Por exemplo, se sua aventura tiver uma parede que os personagens devem escalar, é útil ter em mãos os números de página para Escalada e Queda.
+**Por exemplo,** se sua aventura tiver uma parede que os personagens devem escalar, é útil ter em mãos os números de página para Escalada e Queda.
 
 Há muitas regras opcionais para diferentes cenários e estilos de jogo. Escolha as que você vai usar e informe aos jogadores com antecedência, quando for relevante para o jogo deles. Em caso de dúvida sobre o efeito que uma regra opcional pode ter, não a use ou experimente-a por um tempo limitado, como em uma sessão. Se você não gostar da maneira como ela funciona, descarte-a.
 
@@ -176,13 +176,13 @@ Para começar, você precisa criar uma aventura ou usar uma já publicada. Mais 
 
 A estrutura se aproxima de uma estrutura narrativa dramática tradicional, embora não seja o único exemplo que você possa usar. Normalmente, ela segue as seguintes fases:
 
-- Introdução:** Os personagens principais (protagonistas e antagonistas) e o conflito central são apresentados. Os personagens jogadores geralmente são os protagonistas, e o(s) antagonista(s) encarna(m) ou serve(m) a algum conflito central que será resolvido posteriormente. Os protagonistas talvez não encontrem o antagonista cara a cara aqui ou sequer saibam de sua existência, mas estão cientes do conflito central. Se a aventura começar com uma ação que dá início à trama... isso é ainda mais emocionante e envolvente.
-- Complicação:** Uma ou mais complicações surgem na situação, geralmente para forçar os protagonistas a agir. Eles podem descobrir que não podem escapar da atenção de seus inimigos, que podem perder suas casas ou que seus entes queridos serão ameaçados. Em muitos casos, é nesse ponto que os riscos são definidos, geralmente informando o que acontecerá se eles não agirem. É aqui que o grande conflito se torna o problema dos protagonistas. Agora é preciso fazer algo a respeito.
-- Ação crescente:** Agora o martelo cai, com os protagonistas ficando cara a cara com o antagonista e/ou seus agentes. Isso pode ser um único confronto ou uma série de pequenos compromissos que levam a um confronto dramático. Geralmente, o resultado é que o antagonista leva a melhor, forçando os protagonistas a se reagruparem e se unirem.
-- Perda:** Às vezes, o antagonista força um impasse, mas quase sempre tem uma vantagem mais tarde. Um aliado dos protagonistas pode ser morto ou incapacitado. Os protagonistas podem ser capturados, exilados ou perder alguma vantagem significativa. Os protagonistas devem sentir que há apenas uma pequena chance de vencer e que o resultado infeliz do conflito ocorrerá se eles não arriscarem tudo. Se a história terminar aqui, pode ser deprimente. Felizmente, ela geralmente não termina nesse ponto, embora possa ser usada como um bom local para um suspense.
-- Ação crescente:** Começa com os protagonistas se recuperando da perda na fase anterior. Ela pode ter se tornado pessoal. Eles podem ganhar aliados novos ou inesperados ou descobrir alguma fraqueza nas forças do antagonista. Há uma nova esperança, embora ela possa ser desesperada e imprudente. Isso leva a um segundo desafio, no qual os protagonistas e o antagonista devem se confrontar.
-- Clímax:** A ação crescente do segmento anterior atingiu seu ponto mais alto. O que está em jogo geralmente é a sobrevivência de tudo o que importa para os protagonistas. Isso pode se resumir a um único instante em que o destino de todos depende de uma única ação, ou a uma sequência crescente de etapas que devem se encaixar exatamente (e a tensão aumenta quando isso não acontece). Em uma história heróica, os protagonistas vencem porque superaram alguma dúvida ou fraqueza pessoal ou demonstram alguma qualidade (como misericórdia) que falta ao antagonista. Normalmente, se o antagonista vence, é porque haverá uma continuação em que os protagonistas terão outra chance de vitória.
-- Dénouement:** Esse termo francês significa "resolução", e aqui se desenrola todo o resultado do clímax. As recompensas são concedidas e um novo status quo é estabelecido (ou sugerido). Nas histórias de heróis, esse é o final feliz.
+- Introdução**: Os personagens principais (protagonistas e antagonistas) e o conflito central são apresentados. Os personagens jogadores geralmente são os protagonistas, e o(s) antagonista(s) encarna(m) ou serve(m) a algum conflito central que será resolvido posteriormente. Os protagonistas talvez não encontrem o antagonista cara a cara aqui ou sequer saibam de sua existência, mas estão cientes do conflito central. Se a aventura começar com uma ação que dá início à trama... isso é ainda mais emocionante e envolvente.
+- Complicação**: Uma ou mais complicações surgem na situação, geralmente para forçar os protagonistas a agir. Eles podem descobrir que não podem escapar da atenção de seus inimigos, que podem perder suas casas ou que seus entes queridos serão ameaçados. Em muitos casos, é nesse ponto que os riscos são definidos, geralmente informando o que acontecerá se eles não agirem. É aqui que o grande conflito se torna o problema dos protagonistas. Agora é preciso fazer algo a respeito.
+- Ação crescente**: Agora o martelo cai, com os protagonistas ficando cara a cara com o antagonista e/ou seus agentes. Isso pode ser um único confronto ou uma série de pequenos compromissos que levam a um confronto dramático. Geralmente, o resultado é que o antagonista leva a melhor, forçando os protagonistas a se reagruparem e se unirem.
+- Perda**: Às vezes, o antagonista força um impasse, mas quase sempre tem uma vantagem mais tarde. Um aliado dos protagonistas pode ser morto ou incapacitado. Os protagonistas podem ser capturados, exilados ou perder alguma vantagem significativa. Os protagonistas devem sentir que há apenas uma pequena chance de vencer e que o resultado infeliz do conflito ocorrerá se eles não arriscarem tudo. Se a história terminar aqui, pode ser deprimente. Felizmente, ela geralmente não termina nesse ponto, embora possa ser usada como um bom local para um suspense.
+- Ação crescente**: Começa com os protagonistas se recuperando da perda na fase anterior. Ela pode ter se tornado pessoal. Eles podem ganhar aliados novos ou inesperados ou descobrir alguma fraqueza nas forças do antagonista. Há uma nova esperança, embora ela possa ser desesperada e imprudente. Isso leva a um segundo desafio, no qual os protagonistas e o antagonista devem se confrontar.
+- Clímax**: A ação crescente do segmento anterior atingiu seu ponto mais alto. O que está em jogo geralmente é a sobrevivência de tudo o que importa para os protagonistas. Isso pode se resumir a um único instante em que o destino de todos depende de uma única ação, ou a uma sequência crescente de etapas que devem se encaixar exatamente (e a tensão aumenta quando isso não acontece). Em uma história heróica, os protagonistas vencem porque superaram alguma dúvida ou fraqueza pessoal ou demonstram alguma qualidade (como misericórdia) que falta ao antagonista. Normalmente, se o antagonista vence, é porque haverá uma continuação em que os protagonistas terão outra chance de vitória.
+- Dénouement**: Esse termo francês significa "resolução", e aqui se desenrola todo o resultado do clímax. As recompensas são concedidas e um novo status quo é estabelecido (ou sugerido). Nas histórias de heróis, esse é o final feliz.
 
 Se esse esboço lhe parecer familiar, é porque deve ser. Ele está codificado em cem ou até mil filmes que você já viu ou livros que já leu. Muitas histórias são codificadas dessa forma e os espectadores são subconscientemente treinados para reagir a elas, mesmo que reconheçam os elementos à medida que eles acontecem. A estrutura pode ser clichê, mas funciona e pode servir como uma base sólida para suas próprias aventuras. No entanto, não tenha medo de criar suas próprias variações dessa estrutura básica ou de ignorá-la completamente, para que suas aventuras não sejam todas parecidas umas com as outras. Você pode misturar as coisas, adicionar ou subtrair elementos e desafiar as expectativas, desde que a história que você está fornecendo seja convincente.
 
@@ -208,11 +208,11 @@ As campanhas podem ser contínuas e sem um tema, em que os personagens simplesme
 
 Se precisar de ajuda para pensar em um tema unificador para sua campanha, aqui estão algumas sugestões, embora essa lista não seja exaustiva:
 
-- Missão:** Uma campanha baseada em missões é a mais fácil de entender e funciona melhor em um cenário de fantasia. Os personagens recebem uma tarefa poderosa que eles se sentem compelidos a concluir, e lutam e viajam para alcançar essa missão. Quando e se ela for concluída, a campanha termina. Se eles falharem, geralmente haverá consequências graves.
+- Missão**: Uma campanha baseada em missões é a mais fácil de entender e funciona melhor em um cenário de fantasia. Os personagens recebem uma tarefa poderosa que eles se sentem compelidos a concluir, e lutam e viajam para alcançar essa missão. Quando e se ela for concluída, a campanha termina. Se eles falharem, geralmente haverá consequências graves.
 - Dever: Em uma campanha baseada em dever, os personagens são empregados ou servem a uma única entidade (grupo, indivíduo, país etc.), onde recebem uma variedade de tarefas. As aventuras podem variar a cada vez, mas a estrutura permanece essencialmente inalterada. Ao contrário da missão, os participantes fazem o que fazem porque é o trabalho deles.
-- Tarefa:** Essa estrutura de campanha gira em torno de um determinado número finito de tarefas que devem ser realizadas para que a história seja resolvida. Isso pode ser recuperar uma série de itens espalhados pelo mundo, caçar um determinado número de entidades, desfazer uma série de erros etc. Há quase um cronômetro de contagem regressiva aqui, e quando todas as etapas são concluídas, algo grande acontece e resolve a campanha.
+- Tarefa**: Essa estrutura de campanha gira em torno de um determinado número finito de tarefas que devem ser realizadas para que a história seja resolvida. Isso pode ser recuperar uma série de itens espalhados pelo mundo, caçar um determinado número de entidades, desfazer uma série de erros etc. Há quase um cronômetro de contagem regressiva aqui, e quando todas as etapas são concluídas, algo grande acontece e resolve a campanha.
 - História: Essa campanha é fortemente narrativa, geralmente rica em drama e oportunidades de interpretação de papéis, seguindo um enredo principal e subenredos, com os personagens dos jogadores como participantes ativos. Geralmente é a mais gratificante de se realizar, mas requer muito planejamento antecipado. Nesse tipo de jogo, lembre-se sempre de que os personagens devem fazer a diferença e que devem ser eles, e não um personagem não-jogador, que tomam a ação ou a decisão final fundamental em torno da qual a história é resolvida.
-- Local:** Os personagens são designados ou ficam "presos" em um local específico. Pode ser sua cidade natal, algum lugar que lhes foi designado, como um bairro, ou pode ser um posto avançado remoto. Eles permanecem no mesmo lugar e as aventuras chegam até eles. Uma variação é quando a base é móvel, como uma nave (espacial, marítima ou até mesmo um dirigível). Essas campanhas podem ser episódicas, mas as ameaças ao local devem aparecer com destaque.
+- Local**: Os personagens são designados ou ficam "presos" em um local específico. Pode ser sua cidade natal, algum lugar que lhes foi designado, como um bairro, ou pode ser um posto avançado remoto. Eles permanecem no mesmo lugar e as aventuras chegam até eles. Uma variação é quando a base é móvel, como uma nave (espacial, marítima ou até mesmo um dirigível). Essas campanhas podem ser episódicas, mas as ameaças ao local devem aparecer com destaque.
 
 **Sombreamento
 
@@ -270,9 +270,9 @@ A cena de abertura costuma ser crucial, pois define o tom para o restante da ave
 
 Há muitas maneiras de fazer isso, mas uma cena inicial quase sempre precisa consistir nos seguintes elementos:
 
-- Local:** Um local que simbolize os desafios que a aventura apresenta ou um ponto de partida natural. Quanto mais interessante ou dramaticamente apropriado for o local inicial, melhor. Ele define o tom para o restante da campanha.
-- Apresentações:** Descreva todos os personagens não-jogadores presentes, mas, mais importante, cada jogador deve descrever seu personagem como ele aparece para os outros presentes. Os jogadores podem fazer apresentações completas, informando seus nomes, profissões, habilidades importantes etc., ou mantê-las em "segredo" por enquanto e revelá-las mais tarde durante o jogo.
-- Motivo:** Por que os personagens dos jogadores estão ali? Conforme mencionado anteriormente, forneça um motivo para que os personagens jogadores estejam envolvidos ou deixe que eles criem seus próprios motivos.
+- Local**: Um local que simbolize os desafios que a aventura apresenta ou um ponto de partida natural. Quanto mais interessante ou dramaticamente apropriado for o local inicial, melhor. Ele define o tom para o restante da campanha.
+- Apresentações**: Descreva todos os personagens não-jogadores presentes, mas, mais importante, cada jogador deve descrever seu personagem como ele aparece para os outros presentes. Os jogadores podem fazer apresentações completas, informando seus nomes, profissões, habilidades importantes etc., ou mantê-las em "segredo" por enquanto e revelá-las mais tarde durante o jogo.
+- Motivo**: Por que os personagens dos jogadores estão ali? Conforme mencionado anteriormente, forneça um motivo para que os personagens jogadores estejam envolvidos ou deixe que eles criem seus próprios motivos.
 - "A cenoura": Como em "a cenoura ou o bastão", a cenoura é uma pista ou uma faísca de ação que faz com que os personagens jogadores se envolvam no que está acontecendo. Se você não usar uma cenoura (deixando a "fome" conduzir os personagens), deverá usar um bastão (veja abaixo).
 - "O bastão": Trata-se de uma ameaça, seja para os personagens, seus entes queridos, pessoas pelas quais eles se sentem responsáveis ou o mundo em geral. Normalmente, isso significa um ataque ou o potencial iminente de violência, geralmente ligado ao antagonista de alguma forma. Se não for uma pessoa, então é uma ameaça do ambiente que leva os personagens a agir.
 - Drama: Normalmente, a cena inicial precisa realmente dar o pontapé inicial na aventura com alguma noção do que está em jogo. Um forte conflito visual ou emocional, estabelecendo um retorno necessário, é sempre útil. A menos que haja uma razão para começar de forma mundana, geralmente é melhor começar interpondo drama em uma cena inicial para convencer os jogadores de que eles estão aqui para ter uma aventura!
@@ -323,7 +323,7 @@ Você pode achar que os jogadores estão sobrecarregando-o com solicitações ou
 
 Também é bom se levantar e se alongar. Os jogos de mesa, ou jogos on-line, são sedentários, pois envolvem sentar-se em uma mesa ou em algum outro lugar mais confortável, conversando uns com os outros. Você pode gesticular bastante, mas isso não é uma atividade física muito intensa. A cada uma ou duas horas, talvez seja necessário fazer um intervalo rápido para que as pessoas se levantem, se alonguem, se movimentem, reabasteçam suas bebidas ou lanches e até mesmo vão ao banheiro. Às vezes, se as coisas ficarem muito paradas, uma pausa rápida é o truque para quebrar um ponto lento e fazer com que os jogadores voltem à mesa revigorados. As pausas também podem dar aos jogadores a chance de fazer suas próprias anotações e fazer seus próprios planos, e você provavelmente deve permitir que os jogadores solicitem pausas se acharem necessário.
 
-Você pode até começar uma pausa com um suspense ou no início de um grande empreendimento. Você deve presumir que o mundo do jogo simplesmente faz uma pausa, sem que haja qualquer passagem de tempo entre o início e o fim do intervalo, ou pode usar o intervalo como uma boa maneira de indicar uma pausa no tempo do jogo. **Por exemplo, você pode dizer aos jogadores: "Você chega à cidade pouco antes de escurecer. Está tudo calmo, mas você encontra uma pousada com alguns quartos abertos. O dono da pousada o adverte para ficar longe das ruas, pois elas podem ser um pouco perigosas. Vamos fazer uma pausa agora. Quando voltarmos, você pode me contar em que problemas se meteu antes do amanhecer. "*
+Você pode até começar uma pausa com um suspense ou no início de um grande empreendimento. Você deve presumir que o mundo do jogo simplesmente faz uma pausa, sem que haja qualquer passagem de tempo entre o início e o fim do intervalo, ou pode usar o intervalo como uma boa maneira de indicar uma pausa no tempo do jogo. **Por exemplo,** você pode dizer aos jogadores: "Você chega à cidade pouco antes de escurecer. Está tudo calmo, mas você encontra uma pousada com alguns quartos abertos. O dono da pousada o adverte para ficar longe das ruas, pois elas podem ser um pouco perigosas. Vamos fazer uma pausa agora. Quando voltarmos, você pode me contar em que problemas se meteu antes do amanhecer. "*
 
 Se uma pausa indicar que muito tempo se passou, talvez seja hora de lidar com a cura, as verificações de experiência e o treinamento.
 
@@ -415,11 +415,11 @@ Esse é um truque clássico de narração de histórias, em que os jogadores rec
 
 Os objetivos dos jogadores podem ser muito diferentes, mesmo dentro dos mesmos grupos. Se você os conhecer, poderá identificar o que eles gostam nos jogos e por que jogam. Para facilitar, você poderia classificar os jogadores com base nos seguintes tipos gerais, codificados por Robin Laws em seu excelente livro de conselhos para gamemaster, Robin's Laws of Good Game Mastering (Steve Jackson Games, Inc., 2002):
 
-- O líder:** Esse jogador acaba liderando e cria personagens que impõem respeito e autoridade à estrutura de poder existente (policiais, agentes do governo, oficiais militares etc.). Esse tipo de jogador geralmente busca atenção, muitas vezes dos outros jogadores e também do mestre do jogo.
-- O especialista:** O jogador cria personagens secundários, quase no nível de personagens de fundo, mas extremamente habilidosos em um campo restrito, seja em armas, computadores, pilotagem etc. Em seu campo de especialidade, o jogador quer ser bem-sucedido, e bem-sucedido.
-- The Power Gamer:** Esse jogador cria personagens extremamente poderosos (às vezes com aplicação criteriosa das regras). Esses personagens geralmente buscam mais poder, seja a arma mágica mais poderosa, o feitiço mais aterrorizante etc.
+- O líder**: Esse jogador acaba liderando e cria personagens que impõem respeito e autoridade à estrutura de poder existente (policiais, agentes do governo, oficiais militares etc.). Esse tipo de jogador geralmente busca atenção, muitas vezes dos outros jogadores e também do mestre do jogo.
+- O especialista**: O jogador cria personagens secundários, quase no nível de personagens de fundo, mas extremamente habilidosos em um campo restrito, seja em armas, computadores, pilotagem etc. Em seu campo de especialidade, o jogador quer ser bem-sucedido, e bem-sucedido.
+- The Power Gamer**: Esse jogador cria personagens extremamente poderosos (às vezes com aplicação criteriosa das regras). Esses personagens geralmente buscam mais poder, seja a arma mágica mais poderosa, o feitiço mais aterrorizante etc.
 - O ator metódico: Esse jogador cria histórias de fundo elaboradas e se concentra em seu personagem como se ele fosse de outra mídia, até mesmo assumindo falhas e desvantagens desnecessárias só porque elas parecem "certas".
-- O seguidor:** Esse é o tipo mais simples de jogador. Geralmente, ele se contenta em ficar parado e assistir à diversão, rolando dados ou agindo quando necessário. Eles podem gostar de estar no centro das atenções de vez em quando, mas geralmente não precisam, nem querem, atenção.
+- O seguidor**: Esse é o tipo mais simples de jogador. Geralmente, ele se contenta em ficar parado e assistir à diversão, rolando dados ou agindo quando necessário. Eles podem gostar de estar no centro das atenções de vez em quando, mas geralmente não precisam, nem querem, atenção.
 
 Nem todos os jogadores são do mesmo tipo em todas as campanhas. Às vezes, um jogador é sempre de um tipo, enquanto em outras ocasiões, ele pode escolher seu papel com base no cenário e na campanha. Os jogadores também podem agir como mais de um desses tipos de sessão para sessão. No entanto, quando você tiver uma boa ideia do que esses papéis geralmente buscam, poderá ver se as preferências e necessidades estão sendo atendidas no jogo e fazer os ajustes necessários.
 
@@ -455,13 +455,13 @@ Honesto | Honest | \__\_ \| \__\_ | Dishonest |
 | Humorística | \__\_ \| \__\_ | Dourada |
 | Conservador | \__\_ \| \___ | Inovador |
 
-**Por exemplo, um personagem não jogador é altamente agressivo, com um valor de 90 em seu traço de personalidade Agressivo. O traço oposto é Passivo e, portanto, tem um valor de 10 (100-90=10). Um personagem não-jogador com Aggressive 90 está pronto para brigar, responde a qualquer desafio e geralmente parte para a violência, enquanto alguém com Passive 90 geralmente se afasta de conflitos e evita confrontos diretos.*
+**Por exemplo,** um personagem não jogador é altamente agressivo, com um valor de 90 em seu traço de personalidade Agressivo. O traço oposto é Passivo e, portanto, tem um valor de 10 (100-90=10). Um personagem não-jogador com Aggressive 90 está pronto para brigar, responde a qualquer desafio e geralmente parte para a violência, enquanto alguém com Passive 90 geralmente se afasta de conflitos e evita confrontos diretos.*
 
 Não é necessário determinar todos os traços de personalidade de seus personagens não jogadores importantes. Em vez disso, escolha um ou alguns relevantes e atribua valores a eles. Você não precisa nem mesmo determinar o valor do traço oposto, pois ele é aparente. Atribua os valores que desejar ou escolha os relevantes e divida uma rolagem D100 por 2 e adicione 50 ao resultado, para obter uma variação de 51 a 100. Ou role 3D10+70 para casos extremos.
 
 Os traços de personalidade podem orientar sua interpretação do personagem não-jogador simplesmente observando o valor, ou você pode rolar para ver como o personagem não-jogador se comporta. O sucesso em um traço significa que ele age de acordo com esse traço de personalidade, enquanto o fracasso significa que o traço oposto é seguido. Você também pode optar por utilizar resultados especiais ou críticos para essas rolagens, mas apenas em um sentido geral.
 
-**Por exemplo, os personagens encontram o personagem não-jogador com o traço de personalidade "Agressivo 90 \| 10 Passivo" e um deles se comporta de forma rude com o personagem não-jogador. Você sabe pela distribuição como eles provavelmente reagirão, mas decide rolar para ver o que acontece. Qualquer rolagem de 01-90 e o personagem não jogador reage agressivamente, enquanto uma rolagem de 91-100 indica uma resposta passiva. Talvez eles estejam distraídos ou não queiram entrar em conflito com os personagens nesse momento?
+**Por exemplo,** os personagens encontram o personagem não-jogador com o traço de personalidade "Agressivo 90 \| 10 Passivo" e um deles se comporta de forma rude com o personagem não-jogador. Você sabe pela distribuição como eles provavelmente reagirão, mas decide rolar para ver o que acontece. Qualquer rolagem de 01-90 e o personagem não jogador reage agressivamente, enquanto uma rolagem de 91-100 indica uma resposta passiva. Talvez eles estejam distraídos ou não queiram entrar em conflito com os personagens nesse momento?
 
 **Habilidades e traços de personalidade
 

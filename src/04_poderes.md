@@ -6,11 +6,11 @@ Os personagens podem ter poderes extraordinários acima e além de suas habilida
 
 Aqui estão incluídos cinco conjuntos de poderes: feitiços, mutações, feitiçaria, habilidades psíquicas e superpoderes:
 
-- Magia:** Os feitiços são lançados como habilidades, usando rolagens de percentil para determinar o sucesso. Os feitiços podem se tornar mais poderosos de várias maneiras, geralmente gastando mais pontos de poder. Um mago geralmente tem um pequeno número de magias que usa com frequência.
-- Mutações:** Modificações ou habilidades especiais que acentuam ou expandem capacidades além das normas humanas, como um membro extra, toxinas ou um olfato aguçado. Ao contrário de outros conjuntos de poderes, algumas mutações não são benéficas e até atrapalham.
-- Habilidades psíquicas:** Estranhos poderes da mente, manifestados por meio da força mental e da força de vontade. As habilidades psíquicas geralmente são resolvidas como rolagens de resistência com sua INT ou POW contra uma característica oposta. Um psíquico pode ter algumas ou muitas habilidades nas quais é relativamente poderoso.
-- Feitiçaria:** Esse tipo de magia consiste em encantamentos mágicos curtos que causam um efeito sobrenatural. A feitiçaria funciona automaticamente, exceto quando resistida com sucesso, e pode ter diferentes níveis de eficácia. Um feiticeiro pode alterar os feitiços que memoriza diariamente, escolhendo os desejados em um repertório maior. A busca de novos feitiços faz parte do jogo de um feiticeiro.
-- Superpoderes:** Esses poderes são quase sempre expansões de habilidades existentes, novas habilidades ou permitem que o personagem exceda significativamente seus limites naturais (características etc.). O uso de superpoderes geralmente é resolvido com rolagens de resistência, embora alguns superpoderes sejam automáticos. Os superpoderes e os personagens com superpoderes podem ter vantagens ou desvantagens.
+- Magia**: Os feitiços são lançados como habilidades, usando rolagens de percentil para determinar o sucesso. Os feitiços podem se tornar mais poderosos de várias maneiras, geralmente gastando mais pontos de poder. Um mago geralmente tem um pequeno número de magias que usa com frequência.
+- Mutações**: Modificações ou habilidades especiais que acentuam ou expandem capacidades além das normas humanas, como um membro extra, toxinas ou um olfato aguçado. Ao contrário de outros conjuntos de poderes, algumas mutações não são benéficas e até atrapalham.
+- Habilidades psíquicas**: Estranhos poderes da mente, manifestados por meio da força mental e da força de vontade. As habilidades psíquicas geralmente são resolvidas como rolagens de resistência com sua INT ou POW contra uma característica oposta. Um psíquico pode ter algumas ou muitas habilidades nas quais é relativamente poderoso.
+- Feitiçaria**: Esse tipo de magia consiste em encantamentos mágicos curtos que causam um efeito sobrenatural. A feitiçaria funciona automaticamente, exceto quando resistida com sucesso, e pode ter diferentes níveis de eficácia. Um feiticeiro pode alterar os feitiços que memoriza diariamente, escolhendo os desejados em um repertório maior. A busca de novos feitiços faz parte do jogo de um feiticeiro.
+- Superpoderes**: Esses poderes são quase sempre expansões de habilidades existentes, novas habilidades ou permitem que o personagem exceda significativamente seus limites naturais (características etc.). O uso de superpoderes geralmente é resolvido com rolagens de resistência, embora alguns superpoderes sejam automáticos. Os superpoderes e os personagens com superpoderes podem ter vantagens ou desvantagens.
 
 ### **O escopo destas regras**
 
@@ -43,10 +43,10 @@ O ideal é que a decisão sobre os poderes seja tomada antes da criação do per
 
 Qual é o nível de poder do jogo? Você e seu gamemaster devem discutir e concordar com isso, o que leva a expectativas compartilhadas e à satisfação de todos. Estes são os níveis de poder usuais:
 
-- Normal:** Os personagens não têm nenhum, um ou alguns poderes menores, às vezes pouco mais do que um talento extraordinário. Esse nível de poder é o mais adequado para cenários de terror ou de aventuras modernas, em que a tecnologia e a inteligência costumam ser o fator decisivo para a sobrevivência.
-- Heroico:** Os personagens têm alguns poderes fortes ou uma ampla gama de poderes de nível médio a baixo. Esse nível de poder é melhor para jogos sobre jovens super-heróis ou aprendizes de feiticeiros, sobreviventes mutantes de um apocalipse radioativo, heróis vigilantes históricos ou um mundo de alta fantasia de feiticeiros e guerreiros. Em civilizações ou eras muito avançadas, os cidadãos normais podem ter esse nível de poder, com muitas habilidades incríveis concedidas por manipulação genética ou princípios científicos agora desconhecidos.
-- Épico:** Os personagens estão no nível de super-heróis fantasiados, arqui-magos ou seres sobrenaturais formidáveis. Jogos como esse são de alto risco, muitas vezes com o destino do mundo em jogo, e os personagens de nível épico são adequados para esses desafios.
-- Super-humano:** Esses personagens são seres primordiais ou os mais poderosos dos heróis. Os jogos nesse nível de poder podem apresentar o escalão superior de super-heróis fantasiados, guardiões galácticos, encarnações modernas de grandes semideuses ou todos eles lutando lado a lado.
+- Normal**: Os personagens não têm nenhum, um ou alguns poderes menores, às vezes pouco mais do que um talento extraordinário. Esse nível de poder é o mais adequado para cenários de terror ou de aventuras modernas, em que a tecnologia e a inteligência costumam ser o fator decisivo para a sobrevivência.
+- Heroico**: Os personagens têm alguns poderes fortes ou uma ampla gama de poderes de nível médio a baixo. Esse nível de poder é melhor para jogos sobre jovens super-heróis ou aprendizes de feiticeiros, sobreviventes mutantes de um apocalipse radioativo, heróis vigilantes históricos ou um mundo de alta fantasia de feiticeiros e guerreiros. Em civilizações ou eras muito avançadas, os cidadãos normais podem ter esse nível de poder, com muitas habilidades incríveis concedidas por manipulação genética ou princípios científicos agora desconhecidos.
+- Épico**: Os personagens estão no nível de super-heróis fantasiados, arqui-magos ou seres sobrenaturais formidáveis. Jogos como esse são de alto risco, muitas vezes com o destino do mundo em jogo, e os personagens de nível épico são adequados para esses desafios.
+- Super-humano**: Esses personagens são seres primordiais ou os mais poderosos dos heróis. Os jogos nesse nível de poder podem apresentar o escalão superior de super-heróis fantasiados, guardiões galácticos, encarnações modernas de grandes semideuses ou todos eles lutando lado a lado.
 
 Cada conjunto de poderes abrange os poderes disponíveis para um personagem inicial em cada nível de poder.
 
@@ -54,7 +54,7 @@ Cada conjunto de poderes abrange os poderes disponíveis para um personagem inic
 
 O nível de poder de um jogo não define necessariamente os conjuntos de pontos de habilidade iniciais descritos na **Step Seven** da criação do personagem. Você pode misturar e combinar níveis de habilidade e níveis de poder conforme desejar.
 
-**Por exemplo, personagens de super-heróis podem ter um poder enorme, mas pontos de habilidade iniciais normais, ou vice-versa.
+**Por exemplo,** personagens de super-heróis podem ter um poder enorme, mas pontos de habilidade iniciais normais, ou vice-versa.
 
 Isso permite que você personalize o jogo como quiser para se adequar ao seu estilo de jogo preferido.
 
@@ -64,14 +64,14 @@ Todos os personagens em um jogo devem ter poderes ou não há problema se alguns
 
 Essas regras pressupõem que todos os jogadores tenham acesso aos mesmos recursos para criar seus personagens. No entanto, nem todos querem jogar com o mesmo tipo de personagem com o mesmo conjunto de poderes. A seguir, apresentamos algumas opções para ajudar a equilibrar personagens com e sem poderes, personagens com diferentes conjuntos de poderes ou aqueles com diferentes níveis de poder:
 
-- Habilidades vs. Poderes:** Varie os níveis de poder das habilidades vs. poderes, como diminuir o nível de poder do personagem com poder em um passo ou aumentar o nível de habilidade de qualquer personagem sem poder em um passo, conforme apropriado.
+- Habilidades vs. Poderes**: Varie os níveis de poder das habilidades vs. poderes, como diminuir o nível de poder do personagem com poder em um passo ou aumentar o nível de habilidade de qualquer personagem sem poder em um passo, conforme apropriado.
 
 **Por exemplo,** * *os personagens poderosos em um jogo de nível heroico começam em um nível normal para poderes e habilidades, enquanto todos os outros têm conjuntos de habilidades de nível heroico.*
 
 Dito isso, é quase impossível equilibrar todas as combinações possíveis. O mais importante é garantir que todos os jogadores estejam satisfeitos e que as coisas pareçam justas.
 
-- Poderes óbvios vs. intrínsecos:** Muitos poderes são sutis e podem ser definidos apenas como habilidades excepcionais, capacidade ou treinamento superlativo. Muitos poderes podem ser explicados como o resultado natural de treinamento intensificado, capacidades especiais, domínio intenso ou disciplina mental ou física excepcional.
-- Equipamento:** Você pode substituir os poderes por itens físicos. *O Capítulo 8: Equipamentos abrange a criação de armas, armaduras, veículos e outras peças de equipamento que podem ter seus próprios poderes e habilidades, com regras sobre como eles podem ser comprados como poderes. Os personagens podem ter outras vantagens, como bases secretas, vasta riqueza, exércitos de seguidores leais ou outros recursos. Algumas diretrizes estão na seção de equipamentos, embora esses tipos de vantagens sejam mais bem tratados entre você e o mestre de jogo.
+- Poderes óbvios vs. intrínsecos**: Muitos poderes são sutis e podem ser definidos apenas como habilidades excepcionais, capacidade ou treinamento superlativo. Muitos poderes podem ser explicados como o resultado natural de treinamento intensificado, capacidades especiais, domínio intenso ou disciplina mental ou física excepcional.
+- Equipamento**: Você pode substituir os poderes por itens físicos. *O Capítulo 8: Equipamentos abrange a criação de armas, armaduras, veículos e outras peças de equipamento que podem ter seus próprios poderes e habilidades, com regras sobre como eles podem ser comprados como poderes. Os personagens podem ter outras vantagens, como bases secretas, vasta riqueza, exércitos de seguidores leais ou outros recursos. Algumas diretrizes estão na seção de equipamentos, embora esses tipos de vantagens sejam mais bem tratados entre você e o mestre de jogo.
 
 Com qualquer um ou mais desses métodos em uso, um personagem aparentemente sem poderes deve ser capaz de ser criado ao lado de um personagem que obviamente possui uma série de poderes. Por exemplo, um personagem super arqueiro pode ter poucos poderes pessoais, mas, em vez disso, uma série de flechas com truques tecnológicos que simulam superpoderes.
 
@@ -79,7 +79,7 @@ Com qualquer um ou mais desses métodos em uso, um personagem aparentemente sem 
 
 Mais de um conjunto de poderes pode estar disponível para os personagens, sejam eles iniciantes ou mais experientes.
 
-**Por exemplo, seu personagem pode ser um mutante telepático superpoderoso, ou usar magia e feitiçaria, ou talvez até mesmo usar todos os cinco tipos de poderes apresentados neste capítulo.
+**Por exemplo,** seu personagem pode ser um mutante telepático superpoderoso, ou usar magia e feitiçaria, ou talvez até mesmo usar todos os cinco tipos de poderes apresentados neste capítulo.
 
 Entretanto, o mestre do jogo deve ter a palavra final sobre se o personagem pode começar com mais de um conjunto de poderes.
 
@@ -144,7 +144,7 @@ Os pontos de energia são regenerados de acordo com a **Tabela de taxa de recupe
 
 Apenas um feitiço pode ser lançado por rodada de combate, mas um mago pode lançar vários níveis do mesmo feitiço juntos na mesma tentativa. Cada feitiço custa 1 nível de DEX para ser lançado por nível de feitiço e é considerado como ação de ataque se lançado em combate.
 
-**Por exemplo, se um mago com DEX 15 quiser lançar um feitiço em uma rodada de combate, o feitiço será lançado no nível de DEX -1 por nível do feitiço. Assim, um feitiço de nível 1 é lançado no nível de DEX 14 (15-1=14).*
+**Por exemplo,** se um mago com DEX 15 quiser lançar um feitiço em uma rodada de combate, o feitiço será lançado no nível de DEX -1 por nível do feitiço. Assim, um feitiço de nível 1 é lançado no nível de DEX 14 (15-1=14).*
 
 Um feitiço mágico com mais níveis é lançado mais tarde na rodada. *O Capítulo 6: Combate* aborda os tempos de lançamento de feitiços e as seções a seguir descrevem os níveis de feitiços mágicos em mais detalhes.
 
@@ -158,7 +158,7 @@ Adicionar mais níveis leva mais tempo do que lançar o feitiço no nível 1. Ca
 
 Há um limite de quantos níveis podem ser adicionados a um feitiço, igual a ½ INT do seu personagem (arredondado para cima).
 
-**Por exemplo, um mago com INT 15 está limitado a magias de níveis 1 a 8. Se o tempo adicional para lançar o feitiço diminuir sua classificação de DEX para menos de 0, o feitiço será lançado na próxima rodada, subtraindo o número abaixo de 0 de sua classificação normal de DEX na próxima rodada.*
+**Por exemplo,** um mago com INT 15 está limitado a magias de níveis 1 a 8. Se o tempo adicional para lançar o feitiço diminuir sua classificação de DEX para menos de 0, o feitiço será lançado na próxima rodada, subtraindo o número abaixo de 0 de sua classificação normal de DEX na próxima rodada.*
 
 Isso provavelmente só ocorre se o nível de DEX do mago for baixo ou tiver sido reduzido devido a outras atividades na rodada de combate.
 
@@ -170,7 +170,7 @@ Sempre que um feitiço afetar um alvo vivo, o lançador deverá superar o POW ou
 
 Dois feitiços de nível baixo do mesmo tipo não podem ser combinados para formar um feitiço de nível mais alto.
 
-**Por exemplo, um mágico não pode combinar dois feitiços de Proteção 2 para criar um feitiço de Proteção 4.
+**Por exemplo,** um mágico não pode combinar dois feitiços de Proteção 2 para criar um feitiço de Proteção 4.
 
 Se dois ou mais feitiços de níveis desiguais forem aplicados à mesma pessoa, lugar ou coisa ao mesmo tempo, somente o feitiço de nível mais alto terá efeito, embora todos os pontos de poder para lançar esses feitiços ainda sejam gastos. Se as durações se sobrepuserem, o feitiço de nível inferior entrará em vigor pelo restante de sua duração assim que o feitiço de nível superior expirar, caso ainda não tenha expirado. Em nenhum momento dois ou mais feitiços iguais são aplicados ao mesmo sujeito ao mesmo tempo.
 
@@ -190,18 +190,18 @@ Um mago sabe automaticamente como preparar, memorizar e descartar feitiços e po
 
 Veja a seguir os feitiços iniciais por nível de poder do jogo:
 
-- Normal:** Um mago conhece quatro feitiços de sua escolha, com uma habilidade inicial igual a INT×1.
-- Heroico:** Um mago conhece seis feitiços com INT×1.
+- Normal**: Um mago conhece quatro feitiços de sua escolha, com uma habilidade inicial igual a INT×1.
+- Heroico**: Um mago conhece seis feitiços com INT×1.
 - Épico: um mago conhece oito magias com INT×1. Se desejar, o mago começa com um familiar (o custo de POW é assumido no passado, portanto, não é necessário ajustar).
-- Super-humano:** Um mago começa com 10 feitiços em INT×1, um cajado de mago já construído (seus pontos de poder são baseados em sua pontuação atual de POW - o sacrifício de POW é presumido, não há necessidade de ajuste) e um familiar de sua escolha (como acima).
+- Super-humano**: Um mago começa com 10 feitiços em INT×1, um cajado de mago já construído (seus pontos de poder são baseados em sua pontuação atual de POW - o sacrifício de POW é presumido, não há necessidade de ajuste) e um familiar de sua escolha (como acima).
 
 As restrições normais para ter feitiços na memória se aplicam, e todos os feitiços conhecidos estão disponíveis no grimório do mago.
 
 **O Familiar do Mago
 
-**Alcance de base:** O POW do mago em metros.
+**Alcance de base**: O POW do mago em metros.
 
-Um mágico pode ter um familiar, um animal ou criatura especial com uma conexão mágica com o mágico. Um familiar ajuda na magia e oferece outras habilidades úteis. Para obter um familiar, o mago deve primeiro capturar ou fazer amizade com o animal apropriado. Consulte o *Capítulo 11: Criaturas* para obter exemplos, ou você e o seu mestre de jogo podem criar uma nova criatura, conforme desejado. O tamanho da criatura não pode ser maior que ¼ do POW do mago, arredondado para cima. **Por exemplo, um mago com POW 16 está limitado a criaturas de SIZ 4 ou inferior. Todos os magos aprendem o ritual de amarrar um familiar, embora o seu mestre de jogo possa exigir que um mago sem instrução busque o conhecimento em algum grimório ou com um mentor.
+Um mágico pode ter um familiar, um animal ou criatura especial com uma conexão mágica com o mágico. Um familiar ajuda na magia e oferece outras habilidades úteis. Para obter um familiar, o mago deve primeiro capturar ou fazer amizade com o animal apropriado. Consulte o *Capítulo 11: Criaturas* para obter exemplos, ou você e o seu mestre de jogo podem criar uma nova criatura, conforme desejado. O tamanho da criatura não pode ser maior que ¼ do POW do mago, arredondado para cima. **Por exemplo,** um mago com POW 16 está limitado a criaturas de SIZ 4 ou inferior. Todos os magos aprendem o ritual de amarrar um familiar, embora o seu mestre de jogo possa exigir que um mago sem instrução busque o conhecimento em algum grimório ou com um mentor.
 
 Depois que a criatura é capturada, o mágico deve viver próximo a ela por três meses. Durante esse período, eles não podem se separar por mais de um dia. Cada dia desses três meses é gasto na preparação de rituais, estabelecendo um relacionamento sobrenatural com a criatura. Ao final desse processo, o mago deve gastar 1 ponto de POW permanente e derrotar a criatura em um teste de resistência POW vs. POW (usando o valor de POW antes de o ponto ser gasto). Isso é conhecido como vinculação. Quando o ritual é concluído, todos os pontos de poder atuais do mago são gastos, mas agora ele tem um vínculo mágico inquebrável com a criatura. Se a rolagem de resistência falhar, a criatura nunca poderá ser tomada como familiar e o ponto de POW será perdido.
 
@@ -218,7 +218,7 @@ Enquanto o familiar estiver dentro do alcance (o POW do mago em metros), o mago 
 
 O familiar pode sair livremente do alcance do mágico, mas não deixa o mágico se o fizer - ele simplesmente passou para além do alcance em que o mágico pode tirar proveito de qualquer uma das habilidades listadas acima. Quando o mágico deseja, o familiar retorna instintivamente ao seu lado o mais rápido possível.
 
-Os familiares às vezes assumem aspectos reconhecíveis dos maneirismos e da aparência do dono, a seu critério ou do mestre de jogo. Esses aspectos podem ser extraídos de **Características distintivas**, **Traços de personalidade** ou até mesmo dos resultados de ferimentos graves. Se um mago puder fazer uma rolagem de Ideia *Difícil* ao examinar um familiar, e se o proprietário for conhecido pelo mago, ele poderá determinar a quem o familiar está vinculado. **Por exemplo, o gato familiar de um mágico mancou levemente, pois o mágico foi ferido com um grande ferimento no mesmo membro que nunca cicatrizou. Um rival do mágico, ao ver um gato mancando, pode fazer uma rolagem de \*Difficult\* Idea. Se for bem-sucedido, o segundo mago reconhece o animal como o familiar do primeiro mago.
+Os familiares às vezes assumem aspectos reconhecíveis dos maneirismos e da aparência do dono, a seu critério ou do mestre de jogo. Esses aspectos podem ser extraídos de **Características distintivas**, **Traços de personalidade** ou até mesmo dos resultados de ferimentos graves. Se um mago puder fazer uma rolagem de Ideia *Difícil* ao examinar um familiar, e se o proprietário for conhecido pelo mago, ele poderá determinar a quem o familiar está vinculado. **Por exemplo,** o gato familiar de um mágico mancou levemente, pois o mágico foi ferido com um grande ferimento no mesmo membro que nunca cicatrizou. Um rival do mágico, ao ver um gato mancando, pode fazer uma rolagem de \*Difficult\* Idea. Se for bem-sucedido, o segundo mago reconhece o animal como o familiar do primeiro mago.
 
 Um mágico só pode ter um familiar ativo por vez. Se o mágico tentar transformar o familiar de outro mágico em seu próprio familiar, ele deverá realizar todos os preparativos acima e, em seguida, derrotar o total combinado do POW do proprietário original mais o POW do familiar em uma rolagem de resistência POW vs. POW para assumir o comando do familiar. Se for bem-sucedido, o familiar muda de dono. O proprietário original sabe imediatamente que o familiar foi perdido.
 
@@ -274,16 +274,16 @@ Se um personagem não começar a jogar como mago ou não tiver acesso a feitiço
 
 Como cada feitiço usa uma rolagem para determinar o sucesso ou o fracasso, os níveis de sucesso também podem medir a qualidade da rolagem do feitiço mágico. No entanto, diferentemente das habilidades, os feitiços não são simples em relação a como seus efeitos devem ser aplicados com base no resultado da rolagem. Muitos feitiços mágicos têm efeitos que são "ativados" ou "desativados", sem diferença entre um sucesso crítico ou especial e um sucesso normal. Seu mestre de jogo deve considerar a natureza do feitiço e os possíveis efeitos ao decidir esses resultados. A seguir, apresentamos guias de níveis de sucesso e como eles podem se aplicar a feitiços mágicos:
 
-- Erro:** Todos os pontos de poder destinados a serem gastos no feitiço são perdidos. Além disso, o mago não pode tentar usar esse feitiço por uma rodada de combate após a rodada em que o feitiço falhou. Se o feitiço envolver causar dano, o mago deve fazer uma rolagem de Sorte: o sucesso indica que o feitiço simplesmente fracassou e não funcionou, enquanto o fracasso indica que o feitiço atingiu um alvo não intencional (um espectador inocente, um aliado, um equipamento valioso etc.), causando dano colateral e potencialmente complicando a situação.
-- Falha:** O feitiço não funciona, mas não causa danos ou complicações. Um ponto de energia é gasto, mas o feitiço não tem efeito útil.
+- Erro**: Todos os pontos de poder destinados a serem gastos no feitiço são perdidos. Além disso, o mago não pode tentar usar esse feitiço por uma rodada de combate após a rodada em que o feitiço falhou. Se o feitiço envolver causar dano, o mago deve fazer uma rolagem de Sorte: o sucesso indica que o feitiço simplesmente fracassou e não funcionou, enquanto o fracasso indica que o feitiço atingiu um alvo não intencional (um espectador inocente, um aliado, um equipamento valioso etc.), causando dano colateral e potencialmente complicando a situação.
+- Falha**: O feitiço não funciona, mas não causa danos ou complicações. Um ponto de energia é gasto, mas o feitiço não tem efeito útil.
 - Sucesso: O feitiço funciona conforme descrito e os pontos de energia necessários são gastos.
 - Especial: O feitiço funciona com eficácia aumentada. Se causar dano, o feitiço causa dano especial, como se fosse um ataque (consulte *Capítulo 6: Combate*). Se um dos tipos de dano especial bem-sucedido (esmagamento, emaranhamento, empalamento, repulsão ou corte) for apropriado, seu mestre de jogo deverá incorporá-lo à eficácia do feitiço.
 
-**Por exemplo, uma rolagem especial bem-sucedida para um feitiço de relâmpago pode causar um impacto.
+**Por exemplo,** uma rolagem especial bem-sucedida para um feitiço de relâmpago pode causar um impacto.
 
 A critério do seu mestre de jogo, outro aspecto do feitiço (alcance, influência etc.) pode ter 150% de efeito. Como alternativa, se o feitiço exigir uma rolagem de resistência, aumente o nível do feitiço em ×1,5.
 
-- Crítico:** O feitiço funciona perfeitamente. Se causar dano, ele ignora qualquer armadura que o alvo possua e causa o máximo de dano possível. Se normalmente não causar dano, seu mestre de jogo deve determinar um aspecto (ou aspectos) apropriado(s) do feitiço e dobrar sua eficácia. Como alternativa, se o feitiço envolver uma rolagem de resistência, o mestre de jogo poderá dobrar temporariamente o nível do poder ou a característica relevante para a rolagem de resistência.
+- Crítico**: O feitiço funciona perfeitamente. Se causar dano, ele ignora qualquer armadura que o alvo possua e causa o máximo de dano possível. Se normalmente não causar dano, seu mestre de jogo deve determinar um aspecto (ou aspectos) apropriado(s) do feitiço e dobrar sua eficácia. Como alternativa, se o feitiço envolver uma rolagem de resistência, o mestre de jogo poderá dobrar temporariamente o nível do poder ou a característica relevante para a rolagem de resistência.
 
 Esses resultados podem exigir interpretação adicional, ou o mestre de jogo pode simplesmente usar os resultados dos lançamentos de dados sem nenhum ajuste para os graus de sucesso. Isso deve ser aplicado de forma justa e consistente, e os jogadores devem ser informados se níveis de sucesso detalhados estão sendo usados.
 
@@ -291,53 +291,53 @@ Esses resultados podem exigir interpretação adicional, ou o mestre de jogo pod
 
 A seguir, há uma variedade de feitiços básicos. Eles são definidos da seguinte maneira:
 
-- Nome:** O nome comum do feitiço. Você pode optar por chamá-lo de algo mais saboroso, se desejar.
-- Alcance:** O alcance máximo efetivo de qualquer feitiço é de 100 metros, a menos que especificado de outra forma. Se ele afetar diretamente um alvo (vivo ou não), o alvo deverá estar dentro da linha de visão.
-- Duração:** Os feitiços geralmente ocorrem instantaneamente na Fase de Poderes da rodada de combate em que são lançados. Geralmente duram uma única rodada de combate, 10 rodadas de combate ou 15 minutos, conforme indicado na descrição de cada feitiço.
-- Custo de pontos de poder por nível:** O poder custa esse número de pontos de poder para ser lançado por nível.
+- Nome**: O nome comum do feitiço. Você pode optar por chamá-lo de algo mais saboroso, se desejar.
+- Alcance**: O alcance máximo efetivo de qualquer feitiço é de 100 metros, a menos que especificado de outra forma. Se ele afetar diretamente um alvo (vivo ou não), o alvo deverá estar dentro da linha de visão.
+- Duração**: Os feitiços geralmente ocorrem instantaneamente na Fase de Poderes da rodada de combate em que são lançados. Geralmente duram uma única rodada de combate, 10 rodadas de combate ou 15 minutos, conforme indicado na descrição de cada feitiço.
+- Custo de pontos de poder por nível**: O poder custa esse número de pontos de poder para ser lançado por nível.
 
 **Resumo do feitiço mágico
 
 A seguir estão os feitiços mais conhecidos. O custo de cada feitiço por nível é dado entre parênteses, e o efeito de cada feitiço dura a duração do feitiço.
 
-- Explosão (3):** De longo alcance, causa 1D6 pontos de dano mágico por nível.
-- Change (1):** Transforma 3 pontos de SIZ de um item ou ser por nível.
-- Conjurar (tipo) Elemental (1):** Invoca ou dispensa um elemental de um tipo específico.
+- Explosão (3)**: De longo alcance, causa 1D6 pontos de dano mágico por nível.
+- Change (1)**: Transforma 3 pontos de SIZ de um item ou ser por nível.
+- Conjurar (tipo) Elemental (1)**: Invoca ou dispensa um elemental de um tipo específico.
 - Controle (3): permite o controle sobre a mente de um alvo, exigindo uma rolagem de resistência.
-- Contra-mágica (1):** Reflete os feitiços recebidos de volta para o mago.
-- Dark (1):** Preenche uma área com escuridão.
-- Diminuir (1):** Reduz uma das características do alvo em 1 por nível.
+- Contra-mágica (1)**: Reflete os feitiços recebidos de volta para o mago.
+- Dark (1)**: Preenche uma área com escuridão.
+- Diminuir (1)**: Reduz uma das características do alvo em 1 por nível.
 - Dispel (1): elimina efeitos de feitiços existentes, pode banir seres sobrenaturais.
 - Entorpecimento (1)**: Reduz a chance de ataque e o dano de uma arma.
 - Enhance (1):Aumenta uma das características do alvo em 1 por nível.
-- Fire (3):** À distância, causa 1D6 pontos de dano de fogo por nível.
-- Frost (3):** À distância, causa 1D6 pontos de dano de gelo por nível.
-- Cura (3):** Cura 1D6 pontos de dano por nível.
-- Ilusão (1):** Cria 3 pontos de SIZ de uma ilusão por nível.
-- Invisibilidade (1):** Cada nível torna invisíveis 3 pontos de SIZ de um objeto ou pessoa.
-- Levantamento (1):** Levanta 3 pontos de SIZ de um objeto ou pessoa por nível.
-- Light (1):** Preenche uma área com luz.
-- Lightning (3):** À distância, causa 1D6 pontos de dano de raio por nível.
-- Percepção (1):** Permite que o mago detecte uma coisa dentro do alcance.
-- Proteção (1):** Adiciona 1 ponto de valor de armadura por nível contra ataques físicos.
-- Resistência (1):** Reduz o dano causado por calor e/ou frio em 1 ponto por nível.
-- Seal (1):** Une dois objetos inanimados.
-- Sharpen (1):** Aumenta a chance de ataque e o dano de uma arma.
-- Speak to Mind (1):** Permite a comunicação mental entre o mágico e um alvo.
-- Teleport (1):** Teleporta 3 pontos de SIZ por nível para qualquer lugar dentro do alcance.
-- Unseal (1):** Separa dois objetos conectados.
-- Visão (1):** Permite que o mago veja o que está acontecendo em outro lugar ou no passado.
-- Wall (1):** Cria uma barreira para proteger seu personagem.
-- Ward (1):** Define uma área protegida por Blast e Countermagic.
-- Ferimento (3):** Causa 1D6 pontos de dano por nível.
+- Fire (3)**: À distância, causa 1D6 pontos de dano de fogo por nível.
+- Frost (3)**: À distância, causa 1D6 pontos de dano de gelo por nível.
+- Cura (3)**: Cura 1D6 pontos de dano por nível.
+- Ilusão (1)**: Cria 3 pontos de SIZ de uma ilusão por nível.
+- Invisibilidade (1)**: Cada nível torna invisíveis 3 pontos de SIZ de um objeto ou pessoa.
+- Levantamento (1)**: Levanta 3 pontos de SIZ de um objeto ou pessoa por nível.
+- Light (1)**: Preenche uma área com luz.
+- Lightning (3)**: À distância, causa 1D6 pontos de dano de raio por nível.
+- Percepção (1)**: Permite que o mago detecte uma coisa dentro do alcance.
+- Proteção (1)**: Adiciona 1 ponto de valor de armadura por nível contra ataques físicos.
+- Resistência (1)**: Reduz o dano causado por calor e/ou frio em 1 ponto por nível.
+- Seal (1)**: Une dois objetos inanimados.
+- Sharpen (1)**: Aumenta a chance de ataque e o dano de uma arma.
+- Speak to Mind (1)**: Permite a comunicação mental entre o mágico e um alvo.
+- Teleport (1)**: Teleporta 3 pontos de SIZ por nível para qualquer lugar dentro do alcance.
+- Unseal (1)**: Separa dois objetos conectados.
+- Visão (1)**: Permite que o mago veja o que está acontecendo em outro lugar ou no passado.
+- Wall (1)**: Cria uma barreira para proteger seu personagem.
+- Ward (1)**: Define uma área protegida por Blast e Countermagic.
+- Ferimento (3)**: Causa 1D6 pontos de dano por nível.
 
 **Blast**
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia por nível:** 3
+**Custo de pontos de energia por nível**: 3
 
 Use esse feitiço para atacar um único alvo com um feixe de energia mágica. O alvo recebe 1D6 de dano por nível. Na maioria das circunstâncias, a armadura não mágica absorve o dano, e esse feitiço pode ser esquivado. Se Blast for defendido com um escudo, o escudo recebe o dano, e o restante vai para o alvo.
 
@@ -345,11 +345,11 @@ A contra-mágica pode interromper o Blast, mas a proteção não funciona. A res
 
 **Mudança**
 
-**Alcance:** 30 metros
+**Alcance**: 30 metros
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para transformar um ser ou objeto alvo em uma variedade de formas do mesmo tipo relativo (animal em animal, vegetal em vegetal, mineral em mineral, etc.). Cada nível afeta 3 SIZ do alvo se o mago conseguir superar o POW do alvo em uma rolagem de resistência. Se o alvo estiver disposto (ou o próprio mágico), não será necessário rolar a resistência. Para atingir algo maior que 3 SIZ, use níveis suficientes para afetar o SIZ completo da criatura ou do objeto. O ser visado é então transformado em uma criatura ou objeto daquele tamanho exato. A nova forma tem os atributos externos e as limitações da forma (incluindo habilidades naturais, se houver), mas as características permanecem inalteradas. Sempre que aplicável, as características e habilidades do alvo são usadas, ou a classificação básica em uma habilidade recém-adquirida (como Voar).
 
@@ -361,11 +361,11 @@ Além do número de pontos de SIZ que esse feitiço pode afetar, níveis adicion
 
 **Conjurar (tipo) Elemental**
 
-**Alcance:** 12 metros
+**Alcance**: 12 metros
 
-**Duração:** 10 rodadas de combate
+**Duração**: 10 rodadas de combate
 
-**Custo de pontos de energia por nível:** 1 por ponto de POW elementar
+**Custo de pontos de energia por nível**: 1 por ponto de POW elementar
 
 Esse feitiço conjura ou afasta um tipo específico de elemental, escolhido no momento em que o feitiço é aplicado. Durante a duração do feitiço, o elemental deve ser dirigido pela atenção total do mago. Cada ponto de POW que o elemental possui custa 1 ponto de poder.
 
@@ -374,17 +374,17 @@ Os seguintes elementais são descritos no *Capítulo 11: Criaturas*.
 - Ar: Chamados de silfos, eles geralmente aparecem como humanóides bonitos e quase transparentes, nus ou vestidos com roupas diáfanas. Eles têm asas transparentes, com penas ou como as de um inseto. Geralmente planam acima do solo.
 - Terra: Chamados de gnomos, geralmente são seres humanoides de corpo grosso feitos de terra e rocha, frequentemente do sexo masculino, com barbas de musgo e raízes que cruzam seus corpos como veias.
 - Fogo: Chamados de salamandras, eles geralmente aparecem como humanoides sem pelos envoltos em fogo, com a pele escura brilhando em rachaduras por dentro. Como alternativa, eles aparecem como répteis ou serpentes.
-- Água:** Chamados de ondinas, geralmente aparecem como belas sereias, metade peixe e metade humano, verde-claro e azul. Quando aparecem em terra, seus rabos de peixe são substituídos por pernas humanas.
+- Água**: Chamados de ondinas, geralmente aparecem como belas sereias, metade peixe e metade humano, verde-claro e azul. Quando aparecem em terra, seus rabos de peixe são substituídos por pernas humanas.
 
 Os elementais podem aparecer em formas totalmente diferentes, e outros tipos podem existir.
 
 **Controle
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** 10 rodadas de combate
+**Duração**: 10 rodadas de combate
 
-**Custo de pontos de energia por nível:** 3
+**Custo de pontos de energia por nível**: 3
 
 Use esse feitiço para controlar os pensamentos e/ou as ações de um ser inteligente. O mago deve ser bem-sucedido em uma rolagem de resistência de POW vs. POW contra o alvo. Cada nível do feitiço permite que o mago controle um ser. Esse feitiço não pode ser usado em animais não inteligentes. Cada ataque é independente com uma rolagem de POW vs. POW feita contra cada alvo. O mago deve se concentrar no feitiço, sem usar outros feitiços ou fazer nada além de se mover lentamente e falar brevemente, ou o alvo simplesmente ficará parado. O mago deve fazer uma rolagem de Ideia se estiver distraído,
 
@@ -396,11 +396,11 @@ Quando o feitiço de Controle é concluído, o alvo pode fazer uma rolagem de Id
 
 **Contador mágico
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** 5 minutos
+**Duração**: 5 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para criar um escudo mágico ao redor do mago ou de qualquer objeto desejado que ele queira impedir que a magia afete. O nível de qualquer feitiço que esteja entrando deve superar o nível da contramágica na tabela de resistência. Se a rolagem de resistência do feitiço atacante for bem-sucedida, o feitiço penetra na contramágica, mas ainda deve superar o POW do alvo, se necessário. Se não for necessária uma rolagem de resistência, ele age como se nenhum feitiço de contramágica tivesse sido lançado. Se o feitiço de contramágica for bem-sucedido na tabela de resistência, o feitiço recebido se recuperou no lançador original. Se esse lançador tiver contra-mágica em si mesmo, o feitiço deverá superar essa contra-mágica para ter efeito. Qualquer feitiço que não consiga penetrar em dois feitiços de contramágica se dissipa e não existe mais. A contramágica protege o alvo e tudo o que ele estiver carregando, dentro do razoável (em caso de dúvida, use a força de resistência do personagem como diretriz para saber o quanto ele pode carregar).
 
@@ -408,31 +408,31 @@ Se o personagem ou objeto a receber a contramágica já tiver um feitiço de pro
 
 **Escuro
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para amortecer toda a luz em um círculo de 3 metros de raio mais 3 metros por nível. Essa escuridão é absoluta, e a luz não pode atravessá-la. O feitiço deve ser lançado em um objeto; ele não fica suspenso no ar. A área afetada fica em total escuridão para qualquer pessoa que enxergue na faixa normal de luz visível, mesmo que uma tocha ou outra fonte de luz esteja ativa dentro do raio do feitiço. Dark pode ser lançado em um objeto sobre o qual Light tenha sido lançado anteriormente. Cada nível de Escuridão cancela um único nível de Luz.
 
 **Diminuir**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para superar o POW do alvo com uma rolagem de resistência e reduzir sua STR, CON, SIZ ou DEX em -1 por nível do feitiço. Escolha qual das características do alvo será afetada antes de lançar o feitiço. Os lançamentos subsequentes podem reduzir a mesma característica ou afetar uma característica diferente. Esse feitiço afeta quaisquer atributos derivados dessas características, como pontos de vida, pontos de poder, rolagens de características, modificadores de características, etc. As características não podem ser reduzidas a menos de 1, e pontos de Diminish superiores a esse valor não têm mais efeito.
 
 **Dispelir**
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse poder para livrar a si mesmo (ou outro alvo) dos efeitos prejudiciais ou positivos de um feitiço. Assim como a contramágica, ele deve superar o nível do feitiço na tabela de resistência. O Dispel deve ser direcionado a um feitiço específico em vigor no alvo. Identifique os efeitos do feitiço a ser eliminado (se houver vários efeitos mágicos em vigor, o mestre de jogo decide quais serão afetados). Se o alvo estiver protegido por contramágica, o feitiço deve atravessar a contramágica para afetar o alvo. Se a intenção for que o Dispel seja eficaz contra várias magias, o nível da magia será rolado contra cada uma delas na tabela de resistência. No caso de vários alvos, o lançador deve especificar se a intenção é que o Dispel funcione contra um único feitiço ou contra todos eles.  
  Se vários feitiços tiverem de ser dissipados, aquele com os níveis mais altos será verificado primeiro contra o poder de Dissipação na tabela de resistência. Todos os efeitos que não forem dissipados permanecem, e qualquer falha em Dissipar um feitiço significa que o feitiço de Dissipação deixa de funcionar e não pode ser usado contra outros feitiços.
@@ -443,31 +443,31 @@ Dispel também pode ser usado para banir ou destruir criaturas invocadas menores
 
 **Fácil**
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para reduzir a chance de ataque de uma arma em -5% e seu dano em -1 ponto. Mais de um nível pode reduzir ainda mais a chance de ataque (para -10%, -15%, etc.) ou reduzir o dano em -2, -3, etc., ou pode ser distribuído igualmente entre várias armas de nível superior ao do feitiço e dentro do alcance. Se uma arma sair do alcance, ela não será mais afetada. O dano não pode ser reduzido abaixo de 1 ponto, e uma rolagem de 01% sempre acerta, independentemente dos modificadores.
 
 **Aprimoramento
 
-**Alcance:** Toque
+**Alcance**: Toque
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para superar o POW do alvo em uma rolagem de resistência e adicionar +1 a uma das características de STR, CON, SIZ ou DEX do alvo por nível do feitiço. Escolha qual das características do alvo será afetada antes de lançar o feitiço. Os lançamentos subsequentes podem aumentar a mesma característica ou afetar uma característica diferente. Isso afetará temporariamente outros atributos derivados dessas características, como pontos de vida, pontos de poder, rolagens de características, modificadores de características etc. Os pontos de vida e de poder acima do alcance normal do alvo são perdidos.
 
 **Fogo
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia por nível:** 3
+**Custo de pontos de energia por nível**: 3
 
 Use esse feitiço para criar um pilar de fogo que causa 1D6 de dano de fogo a tudo que estiver em um círculo de 1 metro de diâmetro. Vários níveis podem ser usados para criar vários fogos em vez de um grande fogo ou podem combinar os efeitos.
 
@@ -477,11 +477,11 @@ Os níveis desse feitiço podem ser usados para cancelar níveis de Gelo na tabe
 
 **Geada
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia por nível:** 3
+**Custo de pontos de energia por nível**: 3
 
 Use esse feitiço para criar um pilar de frio intenso que causa 1D6 de dano de frio por nível a tudo que estiver em um círculo de 1 metro de diâmetro. Vários níveis podem ser usados para criar várias áreas geladas em vez de uma grande, ou podem combinar os efeitos.
 
@@ -491,21 +491,21 @@ Os níveis desse feitiço podem ser usados para cancelar os níveis de Fogo na t
 
 **Cura
 
-**Alcance:** Toque
+**Alcance**: Toque
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia por nível:** 3
+**Custo de pontos de energia por nível**: 3
 
 Esse feitiço cura 1D6 pontos de vida de dano por nível. Restaurar um personagem a um total positivo de pontos de vida com Heal pode restaurá-lo à vida se for lançado com sucesso até o final da rodada seguinte àquela em que a vítima sofreu o ferimento mortal. Quaisquer membros cortados ou perdidos devido a um ferimento grave ou ao uso do sistema de localização de acertos ainda são cortados ou perdidos, embora os pontos de vida ainda sejam restaurados. A cura não tem efeito sobre doença, veneno ou radiação, embora possa restaurar os pontos de vida perdidos causados por eles.
 
 **Ilusão
 
-**Alcance:** 30 metros
+**Alcance**: 30 metros
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para criar até 3 pontos de SIZ por nível da aparência de um objeto. Isso é apenas visual, sem som, cheiro, tato ou sabor. Se tocado, ele permanece, mas é insubstancial. As ilusões podem ser usadas para enganar ou aterrorizar os oponentes, ou para prendê-los, disfarçando paredes, escondendo armadilhas etc. A ilusão é imóvel, a menos que o lançador se concentre na ilusão, excluindo todo o resto. Aqueles que testemunham uma ilusão podem tentar detectar a falsidade de várias maneiras, dependendo das circunstâncias:
 
@@ -514,11 +514,11 @@ Use esse feitiço para criar até 3 pontos de SIZ por nível da aparência de um
 
 **Visibilidade
 
-**Alcance:** Toque
+**Alcance**: Toque
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para tornar invisível 3 SIZ por nível de um objeto ou outro ser. Itens ou seres vivos não podem ser tornados parcialmente invisíveis, embora os componentes possam se o objeto consistir em mais de uma "peça".
 
@@ -528,11 +528,11 @@ Um personagem invisível pode se mover, atacar, fugir ou ficar parado enquanto o
 
 **Elevador
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para elevar 3 SIZ por nível de um objeto ou ser e movê-lo pelo ar. Esse feitiço pode ser lançado em si mesmo, usando-o para voar. O alvo do feitiço é movido até 24 metros por rodada de combate. Cada nível do feitiço acima do mínimo necessário para mover o SIZ adiciona +6 metros de movimento por rodada de combate. Não é necessária nenhuma rolagem de resistência para peso igual ou inferior ao número de SIZ afetado pelo feitiço (por exemplo, lançar Lift 4 permite que seu personagem manipule até 12 pontos de SIZ sem precisar fazer uma rolagem na tabela de resistência). Se o alvo não quiser ser levantado (ou estiver preso ou conectado a alguma coisa), o mago deve superar seu POW ou SIZ com um rolamento de resistência (escolha do gamemaster).
 
@@ -542,21 +542,21 @@ O feitiço também pode mover um objeto, como uma carroça ou um trenó, pelo ch
 
 **Luz**
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para iluminar um círculo de 3 metros por nível de raio. Essa luz tem o brilho de uma lanterna ou de uma lâmpada pequena. O feitiço deve ser lançado em um objeto; ele não fica suspenso no ar. A luz pode ser lançada em um objeto que já tenha sido lançado com a magia Dark previdously, cancelando ambas as magias em uma base de nível por nível.
 
 **Relâmpago
 
-**Alcance:** 60 metros
+**Alcance**: 60 metros
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia por nível:** 3
+**Custo de pontos de energia por nível**: 3
 
 Use esse feitiço para lançar um raio que causa 1D6 de dano por nível diretamente nos pontos de vida do alvo desejado (geralmente um ser vivo). Se lançado, o feitiço acertará se não for esquivado ou aparado. Se dois alvos estiverem igualmente próximos, o raio atingirá o alvo que estiver usando ou empunhando mais metal. A contramágica protege contra o feitiço e outros isolamentos podem proteger o personagem (a critério do gamemaster). Quando usado em um objeto metálico, o Relâmpago tem uma chance igual ao POW do mago multiplicado pelo seu nível de viajar (e saltar) ao longo de qualquer superfície metálica conectada ou próxima para atingir qualquer outro personagem que toque a superfície metálica, causando ½ de dano. Além disso, ele pode "fritar" qualquer equipamento eletrônico que tenha como alvo, usando o POW do mago contra os pontos de vida do item em uma rolagem de resistência.
 
@@ -564,33 +564,33 @@ Um alvo pode se esquivar ou aparar um raio com um escudo. Esquivar-se de um raio
 
 **Percepção**
 
-**Alcance:** 60 metros
+**Alcance**: 60 metros
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para indicar a direção do exemplo mais próximo de um tipo de coisa (especificado pelo lançador quando o feitiço é lançado), como a armadilha mais próxima, porta secreta, ouro, magia, escada, pensamentos desconhecidos etc. dentro do alcance. Níveis adicionais permitem que o lançador procure mais de uma coisa ao mesmo tempo. O mestre de jogo pode determinar se coisas semelhantes estão próximas o suficiente para contar.
 
-**Por exemplo, a *Percepção 2 pode encontrar as duas armadilhas mais próximas ou pode encontrar a armadilha mais próxima e a porta secreta mais próxima.
+**Por exemplo,** a *Percepção 2 pode encontrar as duas armadilhas mais próximas ou pode encontrar a armadilha mais próxima e a porta secreta mais próxima.
 
 **Proteção**
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para adicionar +1 ponto por nível aos pontos de armadura do alvo (mesmo que não esteja usando armadura). Qualquer contramágica lançada sobre o alvo deve superar o feitiço de proteção na tabela de resistência. Se for bem-sucedido, os dois feitiços permanecerão no alvo e em vigor. A critério do seu mestre de jogo, esse feitiço também pode fornecer proteção contra tipos de dano que normalmente não são bloqueados pela armadura.
 
 **Resistência
 
-**Alcance:** Toque
+**Alcance**: Toque
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para ganhar 1 ponto de resistência por nível contra danos causados por temperaturas extremas ou pelo ambiente, como feitiços de Fogo ou Geada. Se o personagem protegido for atingido por mais de um ataque desse tipo, cada rolagem de dano será reduzida pelo nível do efeito.
 
@@ -605,11 +605,11 @@ Alguns ataques, como uma espada em chamas ou uma viga de telhado em chamas em qu
 
 **Selo**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para unir as bordas de quaisquer dois objetos inanimados que estejam em repouso e encaixados um no outro, como uma porta em uma moldura, uma tampa em uma caixa ou uma faca em uma bainha. Os dois objetos se unem como se fossem um único objeto e não podem ser separados enquanto o feitiço estiver em vigor. Os objetos podem ser abertos ou destruídos com pancadas, seus pontos de vida e outros valores combinados, quando aplicável. O selo adiciona +20 pontos de vida ao total de pontos de vida combinados dos dois itens.
 
@@ -617,39 +617,39 @@ Cada nível acrescenta 15 minutos à duração do feitiço ou acrescenta +20 pon
 
 **Afiar**
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para adicionar +5% à chance de ataque e +1 de dano a qualquer arma (inclusive armas contundentes e armas de mísseis) em que ele for aplicado com sucesso, até o dano máximo possível com essa arma. Níveis adicionais podem adicionar múltiplos de +5% e +1 ponto de dano à arma (+10% e +2 de dano, +15% e +3 de dano etc.) ou podem ser distribuídos igualmente entre várias armas, até o nível do feitiço e dentro do alcance.
 
-**Por exemplo, o *Sharpen 6 pode ser usado para adicionar +5% e +1 de dano a todas as seis balas de um revólver.
+**Por exemplo,** o *Sharpen 6 pode ser usado para adicionar +5% e +1 de dano a todas as seis balas de um revólver.
 
 O bônus de dano é aplicado somente ao alcance natural de dano da arma, com o modificador de dano do usuário (se aplicável) aplicado separadamente, sem ser modificado pelo feitiço.
 
 **Fale com a mente
 
-**Alcance:** 100 metros
+**Alcance**: 100 metros
 
-**Duração:** 10 rodadas de combate
+**Duração**: 10 rodadas de combate
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para falar com uma outra mente por nível, seja ela inteligente ou não. Somente conversas superficiais ou sentimentos são transmitidos, e o alvo pode precisar fazer um teste de Ideia para entender se não for tradicionalmente inteligente. Entretanto, o idioma não é uma barreira para esse feitiço. Vários alvos do feitiço não podem se comunicar uns com os outros usando esse feitiço, embora conjurar Falar com a mente 1 em um alvo permita que ele se comunique com outra mente.
 
 **Teleporte**
 
-**Alcance:** 1.000 metros
+**Alcance**: 1.000 metros
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use Teleport para teletransportar instantaneamente 3 SIZ por nível de sua localização atual para outro local dentro do alcance. Somente objetos completos podem ser teletransportados - é impossível teletransportar uma parte de um ser vivo. Se um objeto não estiver diretamente afixado a outro objeto, ele poderá ser teletransportado.
 
-**Por exemplo, uma arma pode ser teletransportada do coldre de um alvo, mas não o bloco do motor de um carro.
+**Por exemplo,** uma arma pode ser teletransportada do coldre de um alvo, mas não o bloco do motor de um carro.
 
 Níveis adicionais acima do SIZ do alvo podem ser usados para aumentar o alcance em mais 1.000 metros. Se o alvo do feitiço estiver afixado a algo ou for um ser vivo que não deseja ser transportado, o lançador deve superar os pontos de vida do item (ou o valor da armadura) em relação ao seu POW na tabela de resistência. Para um alvo vivo, o POW do alvo é a força oposta. Um alvo disposto (como o próprio) não requer uma rolagem de resistência.
 
@@ -659,21 +659,21 @@ A tentativa de teletransportar um inimigo ou um item para uma estrutura sólida 
 
 **Desbloqueio**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para abrir portas ou caixas destrancadas e fazer com que as armas saiam de suas bainhas e caiam no chão. Ele não desfará um contêiner trancado ou algum objeto que tenha sido fechado com um cadeado. Ele pode ser conjurado para cancelar o Seal se o nível de Unseal superar o nível de Seal na tabela de resistência.
 
 **Visão**
 
-**Alcance:** 100/10 metros
+**Alcance**: 100/10 metros
 
-**Duração:** 10 rodadas de combate
+**Duração**: 10 rodadas de combate
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para ver o que está acontecendo em qualquer área em um raio de 100 metros de uma área conhecida ou em um raio de 10 metros de uma área desconhecida. Isso proporciona visão e audição plenas, como se estivessem nessa área, permitindo que esse ponto de vista tenha qualquer mobilidade que possua, enquanto estiver dentro do alcance do feitiço. Um lançador fisicamente próximo de uma área dentro do alcance de 10 metros pode lançá-lo nessa área, independentemente da familiaridade.
 
@@ -685,11 +685,11 @@ Enquanto estiver usando o feitiço Visão, o lançador não poderá usar nenhum 
 
 **Parede
 
-**Alcance:** 12 metros
+**Alcance**: 12 metros
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de energia por nível:** 1
+**Custo de pontos de energia por nível**: 1
 
 Use esse feitiço para formar uma barreira semelhante a uma parede a partir do solo, formada por um tipo específico de material disponível que normalmente poderia ser esculpido em uma parede desse tipo, como terra, neve, gelo, pedra, metal, madeira, concreto, cascalho, areia etc. A parede geralmente aparece imediatamente antes do lançador para protegê-lo contra ataques ou atacantes, embora possa aparecer em qualquer lugar dentro do alcance. Quando criada, a barreira tem 1 metro quadrado por nível do feitiço. Esses metros quadrados podem ser distribuídos conforme desejado ao longo das dimensões de largura, altura e comprimento.
 
@@ -703,11 +703,11 @@ Se desejar, o valor de 30 pontos de vida da parede pode ser baseado nas diretriz
 
 **Ward**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
-**Duração:** Permanente
+**Duração**: Permanente
 
-**Custo de pontos de energia por nível:** 3
+**Custo de pontos de energia por nível**: 3
 
 Use o Ward para formar um quadrado de proteção de até nove metros quadrados ao redor da pessoa ou do objeto que precisa ser guardado ou protegido. A proteção é definida por quatro objetos (chamados de wards) encantados em um ritual preliminar para obter o efeito. Esses wards não recebem nenhum aprimoramento mágico além de estarem sintonizados uns com os outros para o propósito do feitiço. A proteção atua como uma combinação de contramágica e explosão. Quaisquer pontos de energia que passem pela região definida por Ward (em qualquer direção) devem superar Countermagic 1. Qualquer objeto que cruze a linha em qualquer direção recebe Blast 1. Cada nível extra acrescenta +3 metros a qualquer dimensão da área definida pelo ward ou outro nível de Countermagic e Blast. O feitiço deve ser lançado com sucesso para estabelecer as proteções e lançado com sucesso novamente para removê-las sem causar danos ao lançador. Os efeitos do feitiço duram até que as proteções sejam movidas pelo lançador original ou destruídas, ou até que o feitiço seja dissipado.
 
@@ -715,11 +715,11 @@ Somente o lançador pode mover os objetos da ala sem perturbar o feitiço. No en
 
 **Ferimento
 
-**Alcance:** Toque
+**Alcance**: Toque
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia por nível:** 3
+**Custo de pontos de energia por nível**: 3
 
 Use esse feitiço para causar 1D6 pontos de dano mágico por nível diretamente ao alvo. O ferimento requer uma rolagem de Brawl bem-sucedida para tocar o alvo em combate, ou uma rolagem de Agilidade se não estiver em combate. Qualquer uma das rolagens se torna *Fácil* se o alvo estiver desavisado. A armadura não protege contra esse dano, embora qualquer proteção seja subtraída do dano do feitiço. O ataque de Brawl não causa nenhum dano, independentemente dos poderes ou armas que estejam sendo usados, e pode ser aparado, esquivado ou bloqueado como em um ataque normal de Brawl.
 
@@ -735,19 +735,19 @@ Poucas mutações agem como habilidades, embora muitas vezes seja atribuída a e
 
 Ao determinar as mutações iniciais do seu personagem, uma mutação maior equivale a duas mutações menores e duas mutações menores valem uma mutação maior. Cada mutação começa como uma mutação secundária e, se você escolher ou rolar aleatoriamente o mesmo resultado duas vezes, ela se tornará uma mutação principal. A descrição de cada mutação define as versões menor e maior. Todas as referências a CON referem-se ao CON inicial de seu personagem, antes que os efeitos de qualquer mutação sejam aplicados. A seguir, o número sugerido de mutações por nível de poder:
 
-- Normal:** Seu mestre de jogo pode permitir que você escolha em vez de rolar, mas, caso contrário, role D100 duas vezes na **Tabela de mutações aleatórias**. Cada mutação é menor, mas se você obtiver o mesmo resultado duas vezes, será maior. Faça uma rolagem de Sorte se a mutação for adversa. Se for bem-sucedido, role novamente para outra mutação. Se a mutação rolada for adversa mais uma vez, repita o processo até que você falhe em uma rolagem de Sorte ou obtenha uma mutação benéfica.
-- Heroico:** Escolha mutações iguais a ¼ da CON do seu personagem (arredondando para cima), com um mínimo de 2. As mutações maiores contam como duas escolhas e você só pode escolher duas mutações maiores se o seu gamemaster permitir. Você pode pegar mutações adversas para aumentar o número de escolhas benéficas na proporção de 1 para 1 (escolher uma mutação adversa menor permite que você escolha uma mutação benéfica menor, duas mutações adversas menores equivalem a uma mutação benéfica maior etc.). Seu gamemaster deve aprovar a escolha de mais de quatro mutações adversas, e você não pode escolher mais mutações adversas do que ¼ do seu CON.
-- Épico:** Escolha mutações menores (ou escolha uma mutação duas vezes) até ½ do CON do seu personagem (arredondando para cima) conforme achar necessário. A orientação para a obtenção de mutações adversas é como acima, limitada a ½ CON (arredondada para cima).
-- Super-humano:** Escolha mutações iguais a CON, com um limite de até ½ CON (arredondado para cima) em mutações adversas. Mutações maiores são altamente recomendadas. Seu mestre de jogo pode permitir que você pegue uma mutação com qualidade acima de maior (por três escolhas) e trabalhe com você para determinar seus efeitos se eles não forem óbvios.
+- Normal**: Seu mestre de jogo pode permitir que você escolha em vez de rolar, mas, caso contrário, role D100 duas vezes na **Tabela de mutações aleatórias**. Cada mutação é menor, mas se você obtiver o mesmo resultado duas vezes, será maior. Faça uma rolagem de Sorte se a mutação for adversa. Se for bem-sucedido, role novamente para outra mutação. Se a mutação rolada for adversa mais uma vez, repita o processo até que você falhe em uma rolagem de Sorte ou obtenha uma mutação benéfica.
+- Heroico**: Escolha mutações iguais a ¼ da CON do seu personagem (arredondando para cima), com um mínimo de 2. As mutações maiores contam como duas escolhas e você só pode escolher duas mutações maiores se o seu gamemaster permitir. Você pode pegar mutações adversas para aumentar o número de escolhas benéficas na proporção de 1 para 1 (escolher uma mutação adversa menor permite que você escolha uma mutação benéfica menor, duas mutações adversas menores equivalem a uma mutação benéfica maior etc.). Seu gamemaster deve aprovar a escolha de mais de quatro mutações adversas, e você não pode escolher mais mutações adversas do que ¼ do seu CON.
+- Épico**: Escolha mutações menores (ou escolha uma mutação duas vezes) até ½ do CON do seu personagem (arredondando para cima) conforme achar necessário. A orientação para a obtenção de mutações adversas é como acima, limitada a ½ CON (arredondada para cima).
+- Super-humano**: Escolha mutações iguais a CON, com um limite de até ½ CON (arredondado para cima) em mutações adversas. Mutações maiores são altamente recomendadas. Seu mestre de jogo pode permitir que você pegue uma mutação com qualidade acima de maior (por três escolhas) e trabalhe com você para determinar seus efeitos se eles não forem óbvios.
 
 **Obtenção de novas mutações
 
 As mutações, diferentemente das habilidades ou dos poderes mágicos, não são aprendidas ou obtidas por meio de aventuras. Entretanto, mutação é mudança, e um mundo com mutações está repleto de maneiras de promovê-la. Aqui estão algumas das maneiras pelas quais as mutações podem aparecer ou evoluir no jogo:
 
-- Exposição mutagênica:** Exposição prolongada ou deliberada a um mutagênico, uma substância ou condição que pode causar ou aumentar a mutação. Geralmente de natureza científica (produtos químicos, radiação, etc.), pode ser por meio de magia. Seu mestre de jogo deve determinar se isso causa uma mutação menor e, em seguida, escolher ou rolar na **Tabela de Mutações Aleatórias**. Geralmente, essa é uma mutação menor, embora as mutações possam ser maiores.
-- Evolução:** Uma mutação adversa existente, uma vez exposta a um mutagênico, pode aumentar ou diminuir. Aumentar uma mutação já existente de menor para maior, ou vice-versa. Uma mutação adversa menor pode ser totalmente eliminada. Essa é apenas uma etapa, mas, sob as circunstâncias certas, uma mutação adversa maior pode se tornar nenhuma mutação.
-- Transformação:** Algumas mutações se tornam transformações absolutas e totais. Em uma "tempestade perfeita" de condições mutagênicas, o mutante pode entrar em um estado de crisálida (um casulo ou equivalente) e emergir com todas as mutações transformadas em outras mutações. Seu mestre de jogo deve aprovar isso, e deve levar tempo (a CON do mutante em dias, por exemplo). Durante esse tempo, o mutante pode trocar quaisquer mutações por novas, como se estivesse criando um personagem.
-- Aumento de CON:** Um aumento de CON (consulte **Características de aumento**) aumenta o potencial de mutação: para cada ponto de CON aumentado, escolha ou determine aleatoriamente uma nova mutação menor, aprimore uma mutação ou rebaixe uma mutação existente em um nível. Uma diminuição em CON não requer a perda de mutações.
+- Exposição mutagênica**: Exposição prolongada ou deliberada a um mutagênico, uma substância ou condição que pode causar ou aumentar a mutação. Geralmente de natureza científica (produtos químicos, radiação, etc.), pode ser por meio de magia. Seu mestre de jogo deve determinar se isso causa uma mutação menor e, em seguida, escolher ou rolar na **Tabela de Mutações Aleatórias**. Geralmente, essa é uma mutação menor, embora as mutações possam ser maiores.
+- Evolução**: Uma mutação adversa existente, uma vez exposta a um mutagênico, pode aumentar ou diminuir. Aumentar uma mutação já existente de menor para maior, ou vice-versa. Uma mutação adversa menor pode ser totalmente eliminada. Essa é apenas uma etapa, mas, sob as circunstâncias certas, uma mutação adversa maior pode se tornar nenhuma mutação.
+- Transformação**: Algumas mutações se tornam transformações absolutas e totais. Em uma "tempestade perfeita" de condições mutagênicas, o mutante pode entrar em um estado de crisálida (um casulo ou equivalente) e emergir com todas as mutações transformadas em outras mutações. Seu mestre de jogo deve aprovar isso, e deve levar tempo (a CON do mutante em dias, por exemplo). Durante esse tempo, o mutante pode trocar quaisquer mutações por novas, como se estivesse criando um personagem.
+- Aumento de CON**: Um aumento de CON (consulte **Características de aumento**) aumenta o potencial de mutação: para cada ponto de CON aumentado, escolha ou determine aleatoriamente uma nova mutação menor, aprimore uma mutação ou rebaixe uma mutação existente em um nível. Uma diminuição em CON não requer a perda de mutações.
 
 **Mutações**
 
@@ -809,7 +809,7 @@ Um ser normalmente quadrúpede com essa mutação tem a musculatura e a estrutur
 
 Use essa coloração não natural, forma externa ou capacidade de mudar de cor para se esconder dos inimigos ou imitar um objeto ou outro tipo de ser. A mutação menor representa uma coloração alternativa ou uma textura de pele incomum, e a versão maior permite mudar a cor e/ou a textura da pele para combinar com o ambiente, como um camaleão.
 
-**Por exemplo, um mutante sem pelos com pele de pedra pode se enrolar e se assemelhar a uma rocha ou pode ter pele semelhante a uma casca e imitar uma árvore.
+**Por exemplo,** um mutante sem pelos com pele de pedra pode se enrolar e se assemelhar a uma rocha ou pode ter pele semelhante a uma casca e imitar uma árvore.
 
 A versão secundária dessa mutação fornece +20% para Hide (ocultar) e +40% para a versão principal.
 
@@ -882,10 +882,10 @@ Use a **Tabela de alteração de característica**, mas os resultados são posit
 
 Um sentido primário (escolha) é aprimorado, aumentando quaisquer habilidades correspondentes em +20% para uma mutação menor e +40% para uma mutação maior (veja abaixo). Essa mutação pode ter um aspecto físico, como órgãos sensoriais aumentados ou de formato incomum (olhos, orelhas, nariz etc.). Se estiver usando **Distinctive Features**, qualquer mutação visível deve ser descrita. A seguir estão os sentidos afetados:
 
-- Audição:** A versão menor dobra o alcance efetivo da habilidade Ouvir e a versão maior o quadruplica. O alcance normal da audição é de 15 metros, supondo que não haja obstáculos ou interferência. Adicione +20% a Ouvir para uma mutação menor e +40% se for maior.
-- Cheiro/Gosto:** A habilidade Sentido pode detectar o gosto ou o cheiro de algo que um humano normal não consegue detectar, como um veneno sem gosto. Adicione +20% a Sense para uma mutação menor e +40% se for maior.
-- Toque:** A habilidade Sentido pode detectar mudanças sutis na textura por meio da ponta dos dedos ou de outras partes do corpo. A versão maior permite a "visão" com a pele exposta, permitindo que o mutante aja na escuridão como se estivesse na luz do dia normal, ignorando quaisquer penalidades da escuridão com uma rolagem bem-sucedida da habilidade de percepção. Adicione +20% a Sense para uma mutação menor e +40% se for maior.
-- Visão:** A versão menor dobra o alcance efetivo da habilidade Local e a versão maior o quadruplica. Ela também aumenta a distância em que o mutante pode executar habilidades, permitindo que ele avalie ou pesquise a qualquer distância à vista. Adicione +20% a Spot para uma mutação menor e +40% se for maior.
+- Audição**: A versão menor dobra o alcance efetivo da habilidade Ouvir e a versão maior o quadruplica. O alcance normal da audição é de 15 metros, supondo que não haja obstáculos ou interferência. Adicione +20% a Ouvir para uma mutação menor e +40% se for maior.
+- Cheiro/Gosto**: A habilidade Sentido pode detectar o gosto ou o cheiro de algo que um humano normal não consegue detectar, como um veneno sem gosto. Adicione +20% a Sense para uma mutação menor e +40% se for maior.
+- Toque**: A habilidade Sentido pode detectar mudanças sutis na textura por meio da ponta dos dedos ou de outras partes do corpo. A versão maior permite a "visão" com a pele exposta, permitindo que o mutante aja na escuridão como se estivesse na luz do dia normal, ignorando quaisquer penalidades da escuridão com uma rolagem bem-sucedida da habilidade de percepção. Adicione +20% a Sense para uma mutação menor e +40% se for maior.
+- Visão**: A versão menor dobra o alcance efetivo da habilidade Local e a versão maior o quadruplica. Ela também aumenta a distância em que o mutante pode executar habilidades, permitindo que ele avalie ou pesquise a qualquer distância à vista. Adicione +20% a Spot para uma mutação menor e +40% se for maior.
 
 Essa mutação vem com uma sensibilidade aumentada (prejudicial) do sentido relevante. Se a mutação for menor, seu personagem deverá fazer um teste de Ideia para evitar ficar atordoado por uma rodada se for exposto a uma forma intensa da sensação (faróis iluminando um mutante com visão aguçada, por exemplo). Se a mutação for grave, a rolagem de Ideia será *difícil*.
 
@@ -931,7 +931,7 @@ O mutante se cura rapidamente, recuperando 1 ponto de vida a cada minuto na vers
 
 O mutante está sintonizado com um determinado item ou substância - animal, vegetal, mineral, tipo de energia etc. - que ele pode detectar automaticamente à distância. Isso deve ser natural para o cenário do jogo (não pode ser "mágico" em um cenário sem magia) e não funciona em uma forma específica de objeto ou ser.
 
-**Por exemplo, poderia ser prata, mas não moedas de prata.
+**Por exemplo,** poderia ser prata, mas não moedas de prata.
 
 A mutação menor detecta a substância dentro de CON em metros, e na mutação maior o alcance é de CON em milhas. Se mais de um exemplo da substância estiver ao alcance, faça uma rolagem de Ideia para distinguir aspectos como a intensidade/quantidade/tamanho e sua distância relativa. Se estiver procurando um exemplo muito específico, a rolagem de Ideia se torna *Difícil*.
 
@@ -988,10 +988,10 @@ As habilidades psíquicas instantâneas podem ser executadas durante a fase de p
 Algumas habilidades psíquicas são bem ou mal-sucedidas, mas a maioria, assim como as habilidades, permite diferentes níveis de sucesso. Em vez de determinar os resultados por habilidade, sugerimos as seguintes diretrizes:
 
 - Fracasso espetacular, custando todos os pontos de poder pretendidos. Faça uma rolagem de Ideia bem-sucedida para evitar ficar atordoado pelo resto da rodada de combate.
-- Fracasso:** Sem efeito, custando 1 ponto de poder.
-- Sucesso:** O efeito desejado é obtido (embora possa ser necessária uma rolagem de resistência), custando os pontos de poder necessários.
-- Êxito Especial:** Êxito, mais um dos seguintes efeitos, conforme apropriado, escolhido pelo mestre do jogo: custo de meio ponto de poder (mínimo de 1), alcance dobrado, duração dobrada, dano dobrado, qualidade superior de informação, o valor da característica do psíquico é multiplicado por 1,5 (arredondado para cima) durante a duração.
-- Sucesso Crítico:** Um sucesso perfeito, mais um dos seguintes efeitos, conforme apropriado, escolhido pelo mestre de jogo: o custo em pontos de energia é de apenas 1, alcance triplo, duração tripla, dano dobrado sem proteção permitida, qualidade excepcional da informação fornecida, o valor característico do psíquico é dobrado pela duração.
+- Fracasso**: Sem efeito, custando 1 ponto de poder.
+- Sucesso**: O efeito desejado é obtido (embora possa ser necessária uma rolagem de resistência), custando os pontos de poder necessários.
+- Êxito Especial**: Êxito, mais um dos seguintes efeitos, conforme apropriado, escolhido pelo mestre do jogo: custo de meio ponto de poder (mínimo de 1), alcance dobrado, duração dobrada, dano dobrado, qualidade superior de informação, o valor da característica do psíquico é multiplicado por 1,5 (arredondado para cima) durante a duração.
+- Sucesso Crítico**: Um sucesso perfeito, mais um dos seguintes efeitos, conforme apropriado, escolhido pelo mestre de jogo: o custo em pontos de energia é de apenas 1, alcance triplo, duração tripla, dano dobrado sem proteção permitida, qualidade excepcional da informação fornecida, o valor característico do psíquico é dobrado pela duração.
 
 Seu mestre de jogo pode permitir que você escolha efeitos especiais ou críticos, quando apropriado.
 
@@ -999,10 +999,10 @@ Seu mestre de jogo pode permitir que você escolha efeitos especiais ou crítico
 
 Os psíquicos geralmente desenvolvem suas habilidades em segredo, às vezes com um mentor ou em uma organização ou tradição clandestina. O cenário da campanha pode ter mais influência do que o nível de poder, mas use as seguintes diretrizes para cada nível de poder do jogo. Para qualquer classificação de habilidade inicial, gaste pontos de habilidade de seu conjunto pessoal de pontos de habilidade para melhorá-la.
 
-- Normal:** Duas habilidades psíquicas com classificações de habilidade iguais a seu POW×1.
-- Heroico:** Quatro habilidades psíquicas com classificações de habilidade iguais a seu POW×1.
-- Épico:** Seis habilidades psíquicas com classificações de habilidade iguais a seu POW×1.
-- Super-humano:** Dez habilidades psíquicas com classificações de habilidade iguais a seu POW×1.
+- Normal**: Duas habilidades psíquicas com classificações de habilidade iguais a seu POW×1.
+- Heroico**: Quatro habilidades psíquicas com classificações de habilidade iguais a seu POW×1.
+- Épico**: Seis habilidades psíquicas com classificações de habilidade iguais a seu POW×1.
+- Super-humano**: Dez habilidades psíquicas com classificações de habilidade iguais a seu POW×1.
 
 Em cenários em que as habilidades psíquicas são transformadas em armas (em ambientes governamentais ou corporativos), os pontos de habilidade podem vir do conjunto de habilidades profissionais, além do conjunto de habilidades pessoais. Adicione o modificador de categoria de habilidade Mental se esse sistema opcional for usado.
 
@@ -1010,8 +1010,8 @@ Em cenários em que as habilidades psíquicas são transformadas em armas (em am
 
 Quando o POW de um psíquico tiver aumentado além de seu valor inicial, ele poderá aprender uma nova habilidade psíquica por meio de um dos seguintes métodos:
 
-- Treinamento:** Uma nova habilidade psíquica pode surgir por meio de treinamento intenso, geralmente com um mentor que tenha essa habilidade psíquica em 75%+. O tempo necessário é de semanas igual ao POW do psíquico menos 30. No final desse período, o psíquico deve sacrificar 1 ponto de POW permanente e fazer uma rolagem de Sorte. Se for bem-sucedido, a nova habilidade será classificada como POW×1 (após a subtração). Se falhar, ele poderá tentar novamente após outro período de treinamento e o sacrifício de POW.
-- Involuntariamente:** Uma nova habilidade psíquica pode se desenvolver repentinamente, sem escolha consciente. Fale com o seu mestre de jogo e descreva a habilidade que gostaria de aprender. Se o mestre de jogo concordar, ele oferecerá uma oportunidade de jogo em que seu psíquico seja colocado em uma situação ou oportunidade estressante, seja exposição a um mutagênico, um trauma pessoal intenso, um flashback etc. Você deve então sacrificar 2 pontos permanentes de POW e receber a nova habilidade psíquica, avaliada em seu POW x5 (após a subtração).
+- Treinamento**: Uma nova habilidade psíquica pode surgir por meio de treinamento intenso, geralmente com um mentor que tenha essa habilidade psíquica em 75%+. O tempo necessário é de semanas igual ao POW do psíquico menos 30. No final desse período, o psíquico deve sacrificar 1 ponto de POW permanente e fazer uma rolagem de Sorte. Se for bem-sucedido, a nova habilidade será classificada como POW×1 (após a subtração). Se falhar, ele poderá tentar novamente após outro período de treinamento e o sacrifício de POW.
+- Involuntariamente**: Uma nova habilidade psíquica pode se desenvolver repentinamente, sem escolha consciente. Fale com o seu mestre de jogo e descreva a habilidade que gostaria de aprender. Se o mestre de jogo concordar, ele oferecerá uma oportunidade de jogo em que seu psíquico seja colocado em uma situação ou oportunidade estressante, seja exposição a um mutagênico, um trauma pessoal intenso, um flashback etc. Você deve então sacrificar 2 pontos permanentes de POW e receber a nova habilidade psíquica, avaliada em seu POW x5 (após a subtração).
 
 Assim como nas habilidades iniciais, o modificador da categoria de habilidade Mental, se houver, é adicionado à classificação da habilidade inicial.
 
@@ -1061,14 +1061,14 @@ Cada habilidade custa no mínimo 1 ponto de poder para ser usada, com pontos de 
 - Criocinese: criar uma área de frio intenso em uma área, objeto ou alvo.
 - Senso de perigo: detecta o perigo de outros personagens ou situações.
      ou situações.
-- Dead Calm:** Resistir ao choque mental ou retardar os efeitos da perda de sanidade.
+- Dead Calm**: Resistir ao choque mental ou retardar os efeitos da perda de sanidade.
 - Dominação: Peça orientação e discernimento a um poder superior.
 - Memória eidética: recordação perfeita e total de experiências anteriores.
 - Controle de emoção: afete o estado emocional de um alvo ou alvos.
 - Empatia: detecta os sentimentos internos de um alvo ou alvos.
 - Intuição: Detectar uma determinada pessoa ou classe de item.
 - Levitação: movimento flutuante acima do solo.
-- Mind Blast:** Um ataque psíquico contra um alvo.
+- Mind Blast**: Um ataque psíquico contra um alvo.
 - Controle da mente: controle do corpo físico e da vontade de um alvo.
 - Escudo mental: proteção contra interferência e ataques psíquicos.
 - Reconhecimento: um breve vislumbre do futuro.
@@ -1084,11 +1084,11 @@ Veja a seguir uma lista de habilidades psíquicas.
 
 **Projeção astral**
 
-**Alcance:** POW×10 quilômetros
+**Alcance**: POW×10 quilômetros
 
-**Duração:** 1 turno completo por ponto de energia gasto
+**Duração**: 1 turno completo por ponto de energia gasto
 
-**Custo em pontos de energia:** 1 para ativar, 1 por turno completo para manter ativo
+**Custo em pontos de energia**: 1 para ativar, 1 por turno completo para manter ativo
 
 O psíquico pode deixar seu corpo e viajar pelo mundo físico em sua forma astral, uma projeção invisível e intangível de si mesmo. O corpo astral tem os mesmos atributos que o corpo normal, embora na forma astral o psíquico não possa usar nenhuma habilidade para afetar o mundo material. Eles podem ver e interagir com outros personagens astrais como se estivessem no mundo real e podem lutar normalmente. Os personagens astrais podem usar qualquer habilidade mágica, psíquica ou semelhante em alvos no mundo físico, a critério do mestre de jogo. Algumas proteções físicas podem proteger os seres em forma astral, dependendo do cenário. Uma forma astral se move na velocidade de movimento normal do psíquico, embora possa se deslocar, flutuar ou caminhar conforme desejado. Como alternativa, se estiver familiarizado com um local e dentro do alcance, ele pode voar até lá com velocidade ofuscante, chegando quase instantaneamente.
 
@@ -1100,11 +1100,11 @@ Um psíquico em forma astral pode se envolver em combate psíquico. Consulte **C
 
 **Detecção de aura
 
-**Alcance:** POW em metros
+**Alcance**: POW em metros
 
-**Duração:** 1 rodada de combate por ponto de poder gasto
+**Duração**: 1 rodada de combate por ponto de poder gasto
 
-**Custo em pontos de energia:** 1 para ativar, 1 por rodada de combate para manter ativo
+**Custo em pontos de energia**: 1 para ativar, 1 por rodada de combate para manter ativo
 
 Todo ser vivo emite uma aura, nua ao olho humano, que pode revelar informações sobre a alma, a origem e a condição atual. Um psíquico pode ver a aura de outro ser vivo e interpretar essa aura. Uma vez detectada a aura, uma rolagem de Ideia pode determinar se o ser é...:
 
@@ -1121,31 +1121,31 @@ O Escudo Mental funciona contra a Detecção de Aura.
 
 **Clarividência
 
-**Alcance:** 10×POW em quilômetros
+**Alcance**: 10×POW em quilômetros
 
-**Duração:** 1 turno completo por ponto de energia gasto
+**Duração**: 1 turno completo por ponto de energia gasto
 
-**Custo em pontos de energia:** 1 para ativar, 1 por turno completo para manter ativo
+**Custo em pontos de energia**: 1 para ativar, 1 por turno completo para manter ativo
 
 O vidente pode projetar toda a sua consciência em outra área, experimentando-a como se estivesse presente nela. A habilidade é *difícil* se o médium nunca tiver estado no local de destino. Essa consciência é limitada aos sentidos - o vidente não foi fisicamente a lugar algum, nem sua alma, como na Projeção Astral. As informações são atuais - não permitem a visão do passado, do futuro, de outra dimensão ou da linha do tempo. O vidente não pode interagir com o ambiente que está sendo visitado, embora possa tentar usar as habilidades baseadas em Comunicação, Mental e Percepção ou algumas habilidades psíquicas (como Psicometria) para obter mais informações. O mestre de jogo deve determinar se alguém pode sentir a presença do vidente e como. O vidente não pode usar nenhuma outra habilidade psíquica enquanto estiver usando Clarividência ou a visualização termina. No final da duração, os sentidos do vidente retornam ou ele pode encerrar a habilidade imediatamente antes.
 
 **Criocinese
 
-**Alcance:** POW em metros
+**Alcance**: POW em metros
 
-**Duração:** Instantânea ou 1 volta completa
+**Duração**: Instantânea ou 1 volta completa
 
-**Custo em pontos de energia:** 3 pontos de energia por 1D6 de dano ou por 3 pontos de SIZ
+**Custo em pontos de energia**: 3 pontos de energia por 1D6 de dano ou por 3 pontos de SIZ
 
 O psíquico pode criar um frio intenso em torno de um único ser ou objeto dentro do alcance. Isso causa dano aos seres vivos, colocando seus pontos de poder atuais contra a CON do alvo como uma rolagem de resistência. Se você for bem-sucedido, o alvo sofrerá 1D6 pontos de dano para cada 3 pontos de energia gastos em Criocinese (o custo em pontos deve ser declarado antes do ataque). Além disso, quaisquer efeitos ambientais também são aplicados. Se o alvo tiver alguma proteção, como roupas de inverno, isso pode servir como uma armadura limitada contra o dano. A criocinese também pode ser usada para cobrir um item ou uma seção do piso com gelo, para congelar um líquido ou para tornar um item frágil e mais fácil de quebrar. Sempre que o SIZ do alvo for aplicável, o poder afeta 1 ponto de SIZ por ponto de poder gasto. Qualquer gelo remanescente desse poder dura 1 turno completo em condições climáticas normais; no entanto, ele só causa dano quando é usado pela primeira vez.
 
 **Senso de perigo
 
-**Alcance:** POW em metros
+**Alcance**: POW em metros
 
-**Duração:** Instantânea ou 1 rodada de combate
+**Duração**: Instantânea ou 1 rodada de combate
 
-**Custo de pontos de energia:** 0 pontos de energia se for passivo, 1 ponto de energia para ativar, 1 por rodada de combate para manter ativo
+**Custo de pontos de energia**: 0 pontos de energia se for passivo, 1 ponto de energia para ativar, 1 por rodada de combate para manter ativo
 
 O médium pode sentir ameaças imediatas da vizinhança próxima - como um franco-atirador, um ataque furtivo ou uma armadilha - em uma área em que esteja ou na qual esteja entrando. Essa habilidade psíquica assume a forma de uma espécie de formigamento nos cabelos do pescoço, um palpite repentino ou até mesmo uma visão. Seu mestre de jogo sempre rola secretamente para o resultado desse poder. Um sucesso especial dá uma impressão da direção exata de onde vem a ameaça, e um sucesso crítico fornece mais informações sobre a natureza da ameaça, como o tipo de armadilha ou a identidade do atacante.
 
@@ -1158,11 +1158,11 @@ Outras tentativas de Sentido de Perigo (quer a inicial tenha sido passiva ou ati
 
 **Calmaria Mortal
 
-**Faixa:** Autônomo
+**Faixa**: Autônomo
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia:** 1 ponto de energia ou mais se for usado para retardar a perda de pontos de sanidade
+**Custo de pontos de energia**: 1 ponto de energia ou mais se for usado para retardar a perda de pontos de sanidade
 
 O psíquico nunca é abalado, usando Dead Calm reflexivamente quando confrontado com uma força que o atordoaria ou o incapacitaria por meio de choque mental. Quando ocorre um choque ou um ataque psíquico, ele pode fazer isso como uma reação, como se fosse um parry. Se for bem-sucedido, ele ignora o atordoamento e pode agir normalmente.
 
@@ -1172,11 +1172,11 @@ Consulte **Sanidade** para obter mais informações. Se o sistema de sanidade n�
 
 **Divinação**
 
-**Faixa:** Autônomo
+**Faixa**: Autônomo
 
-**Duração:** 10 horas para realizar (-1 hora por ponto de energia adicional gasto), a visão real é instantânea
+**Duração**: 10 horas para realizar (-1 hora por ponto de energia adicional gasto), a visão real é instantânea
 
-**Custo em pontos de energia:** 10 pontos de energia (+1 por hora de preparação reduzida)
+**Custo em pontos de energia**: 10 pontos de energia (+1 por hora de preparação reduzida)
 
 O médium pode se comunicar com uma força superior, seja uma divindade ou alguma entidade espiritual, para ter uma visão de uma situação ou pergunta, ou para receber informações sobre o curso de eventos futuros. A adivinhação leva tempo - cada tentativa requer 10 horas de meditação, preparação de rituais, queima de incenso, consumo de alimentos sagrados, jejum, flagelação etc., conforme apropriado. A rolagem de adivinhação é feita no final da duração, e os pontos de poder são gastos independentemente de sucesso ou fracasso.
 
@@ -1188,31 +1188,31 @@ Um psíquico que gasta seu último ponto de energia entra em colapso imediatamen
 
 Quando essa habilidade psíquica é usada com sucesso, o vidente deve anunciar qual é a pergunta ou o assunto da Adivinhação. Quanto mais explícita, mais específica será a resposta. A seguir estão os resultados sugeridos para a rolagem, que o mestre de jogo deve rolar secretamente:
 
-- Erro:** A informação é enganosa ou impossível de entender. O vidente acredita que essa informação está correta.
-- Falha:** A visão é obscura, difícil de interpretar, possivelmente até contraditória. O vidente está ciente de que falhou.
+- Erro**: A informação é enganosa ou impossível de entender. O vidente acredita que essa informação está correta.
+- Falha**: A visão é obscura, difícil de interpretar, possivelmente até contraditória. O vidente está ciente de que falhou.
 - Sucesso: Uma percepção que fornece uma resposta, uma dica ou sugestão curta que parece correta.
-- Sucesso especial:** Uma resposta sólida e clara, com uma sensação de certeza absoluta.
-- Sucesso Crítico:** Informações completas, uma instrução clara e imediata, talvez até fornecida por um encontro com a força que está sendo questionada (um deus, uma entidade etc.).
+- Sucesso especial**: Uma resposta sólida e clara, com uma sensação de certeza absoluta.
+- Sucesso Crítico**: Informações completas, uma instrução clara e imediata, talvez até fornecida por um encontro com a força que está sendo questionada (um deus, uma entidade etc.).
 
 Com base no cenário e na natureza da entidade, as preparações rituais podem aumentar a chance em +5-20%. **A aliança** pode ser usada para aumentar as rolagens de adivinhação.
 
 **Memória eidética
 
-**Faixa:** Autônomo
+**Faixa**: Autônomo
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo do ponto de energia:** 1 ponto de energia ou mais
+**Custo do ponto de energia**: 1 ponto de energia ou mais
 
 O psíquico pode se lembrar de informações de experiências anteriores com atenção meticulosa aos detalhes. Uma rolagem bem-sucedida permite a recordação de todas as informações sobre qualquer coisa que ele tenha testemunhado ou lido, até seu POW em anos. Pontos de poder adicionais podem ser gastos para aumentar o número de anos: multiplique o número de pontos de poder gastos pelo POW do vidente para obter o total de anos, até o momento de seu nascimento. Uma rolagem de Memória Eidética bem-sucedida permite que o psíquico tente outras rolagens baseadas como se estivesse presente naquele momento, embora isso seja estritamente memória, e ele não pode alterar eventos passados. A habilidade é instantânea, embora o uso de habilidades baseadas em Percepção para investigar memórias possa levar mais tempo, embora não sejam necessários pontos de poder ou rolagens adicionais.
 
 **Controle de movimento
 
-**Alcance:** POW×10 metros
+**Alcance**: POW×10 metros
 
-**Duração:** 1 turno completo por ponto de energia gasto
+**Duração**: 1 turno completo por ponto de energia gasto
 
-**Custo de pontos de energia:** 1 ponto de energia por 3 INT para ativar, 1 por turno completo para manter ativo
+**Custo de pontos de energia**: 1 ponto de energia por 3 INT para ativar, 1 por turno completo para manter ativo
 
 O psíquico pode controlar o estado emocional de um ou mais seres sencientes, com um uso bem-sucedido de Emotion Control manipulando 3 pontos de INT em um ser selecionado. Cada ponto adicional gasto aumenta a INT afetada em +3, e o psíquico deve gastar pontos de poder suficientes para igualar ou ultrapassar a INT do alvo (portanto, o custo é de 1/3 da INT do alvo, arredondado para cima). Para usar o Emotion Control (Controle de emoções), supere os pontos de poder atuais do alvo contra os pontos de poder atuais do psíquico em uma rolagem da tabela de resistência (o custo é pago depois que a rolagem de resistência é feita). Se for bem-sucedido, o psíquico controla o estado emocional do alvo e pode introduzir ou manter uma emoção desejada (amor, confiança, ódio, medo, luxúria, calma etc.). Os sucessos especiais ou críticos podem aumentar a duração ou a intensidade. Um fracasso desencadeia o estado emocional dentro do lançador!
 
@@ -1228,11 +1228,11 @@ O Mind Shield funciona contra essa habilidade.
 
 **Empatia
 
-**Alcance:** POW em metros
+**Alcance**: POW em metros
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo do ponto de energia:** 1 ponto de energia
+**Custo do ponto de energia**: 1 ponto de energia
 
 O vidente pode ler o estado emocional de um alvo para determinar seu estado emocional mais íntimo. O psíquico deve ser capaz de ver o alvo ou senti-lo com outra habilidade psíquica. Se a rolagem de poder for bem-sucedida, uma rolagem de resistência de POW vs. POW do alvo permite conhecer seu estado emocional. O sucesso revela o estado dominante de emoção que o alvo está experimentando no momento. Um sucesso especial revela a origem do estado emocional (a causa, a pessoa responsável, etc.) e um sucesso crítico revela o que o alvo planeja fazer em relação a esse estado emocional. O fracasso não produz nada, enquanto o fracasso fornece informações falsas ou enganosas. Com uma rolagem bem-sucedida de Idea, o alvo reconhece que seus sentimentos foram revelados a alguém e, com uma rolagem bem-sucedida de INT×1, descobre a origem da espionagem.
 
@@ -1240,25 +1240,25 @@ O Mind Shield funciona contra essa habilidade.
 
 **Intuição
 
-**Alcance:** 100 metros por ponto de energia gasto
+**Alcance**: 100 metros por ponto de energia gasto
 
-**Duração:** 1 turno completo por ponto de energia gasto
+**Duração**: 1 turno completo por ponto de energia gasto
 
-**Custo em pontos de energia:** 1 para ativar
+**Custo em pontos de energia**: 1 para ativar
 
 O vidente pode fazer saltos intuitivos além dos limites da percepção normal. Com uma rolagem bem-sucedida, o vidente pode especificar um tipo de coisa que está procurando, como uma armadilha, um item perdido, uma porta secreta, um item valioso, um cofre escondido, uma arma oculta ou até mesmo os pensamentos ocultos de outro personagem. Seu gamemaster fornecerá a direção para o exemplo mais próximo de tal item (ou tipo de coisa) dentro do alcance. Pontos de poder adicionais podem ser gastos para aumentar o alcance em 100 metros por ponto de poder adicional gasto.
 
 Se desejar, a Intuição pode ser usada como uma habilidade passiva, com seu mestre de jogo rolando secretamente e permitindo que dicas ou suposições ajudem a orientar o curso da aventura. Quando usada dessa forma passiva, nenhum ponto de poder é gasto.
 
-**Nota:** Esse poder pode ser prejudicial para alguns tipos de jogos, e seu mestre de jogo pode optar por não permiti-lo.
+**Nota**: Esse poder pode ser prejudicial para alguns tipos de jogos, e seu mestre de jogo pode optar por não permiti-lo.
 
 **Levitação
 
-**Alcance:** POW em metros
+**Alcance**: POW em metros
 
-**Duração:** 1 turno completo por ponto de energia gasto
+**Duração**: 1 turno completo por ponto de energia gasto
 
-**Custo de pontos de energia:** 1 ponto de energia para cada 3 pontos de SIZ
+**Custo de pontos de energia**: 1 ponto de energia para cada 3 pontos de SIZ
 
 O psíquico pode levantar 3 pontos de SIZ por ponto de poder gasto, seja em seu próprio corpo ou em outro ser vivo. A levitação não requer uma rolagem de resistência - uma rolagem bem-sucedida eleva o peso até a altura do psíquico. A levitação é uma forma relaxante de movimento, e a direção e a velocidade podem ser ajustadas tão instintivamente quanto ao caminhar. A levitação pode ser usada para atravessar abismos ou outros obstáculos semelhantes, até os pontos de poder gastos em metros horizontalmente, e pode contornar terrenos perigosos (consulte **Superfícies escorregadias ou instáveis**). Enquanto estiver levitando, o psíquico pode continuar a se elevar indefinidamente, desde que tenha pontos de energia suficientes disponíveis. A levitação não requer pensamento consciente para ser mantida, embora se for atacado mental ou fisicamente, o psíquico deve fazer uma rolagem de Ideia para se manter à tona. Se falhar, a habilidade termina e o indivíduo levantado cai no chão, mas gradualmente o suficiente para evitar danos por queda.
 
@@ -1268,11 +1268,11 @@ Para mover objetos inanimados ou mover criaturas vivas à força, use a telecine
 
 **Explosão mental
 
-**Alcance:** POW em metros
+**Alcance**: POW em metros
 
-**Duração:** Até que o alvo se recupere
+**Duração**: Até que o alvo se recupere
 
-**Custo de pontos de energia:** 1 ponto de energia para cada 3 POW afetados
+**Custo de pontos de energia**: 1 ponto de energia para cada 3 POW afetados
 
 O psíquico pode fazer um ataque mental, atordoando o alvo. Esse ataque não causa dano, mas sobrecarrega o oponente, podendo colocá-lo em desvantagem. Se a rolagem do poder for bem-sucedida, faça uma rolagem de resistência dos pontos de poder atuais do psíquico contra os pontos de poder atuais do alvo. Cada uso do poder custa 1/3 do POW do alvo (arredondado para cima) pago depois que a rolagem de resistência é feita. O sucesso atordoa o alvo por 1D6 rodadas de combate. Os personagens atordoados podem se recuperar normalmente, conforme descrito nessa seção (consulte **Atordoar ou subjugar**). Em um sucesso especial, o alvo fica inconsciente por 1D6 turnos completos. Para um sucesso crítico, a duração é de 1D6 horas.
 
@@ -1280,11 +1280,11 @@ Independentemente de o Mind Blast ter sido bem-sucedido ou não, o alvo percebe 
 
 **Controle da mente
 
-**Alcance:** POW em metros
+**Alcance**: POW em metros
 
-**Duração:** 1 turno completo por ponto de energia gasto
+**Duração**: 1 turno completo por ponto de energia gasto
 
-**Custo de pontos de energia:** 1 ponto de energia para cada 3 pontos de POW do alvo (arredondado para cima) +1 ponto por rodada de combate adicional
+**Custo de pontos de energia**: 1 ponto de energia para cada 3 pontos de POW do alvo (arredondado para cima) +1 ponto por rodada de combate adicional
 
 O psíquico pode dominar as ações e o livre-arbítrio de outro ser inteligente. Se a rolagem de poder for bem-sucedida, o psíquico deve vencer uma rolagem de ponto de poder vs. ponto de poder contra o alvo. Isso custa 1 ponto de poder para cada 3 pontos de POW do alvo (arredondado para cima), pago depois que a rolagem de resistência for feita. Se for bem-sucedido, o psíquico obtém o controle do movimento e da fala do alvo, embora não obtenha nenhuma percepção da mente ou do estado físico do alvo. Esse controle é completo, embora, uma vez por rodada de combate, o alvo dominado possa tentar uma rolagem de POW×1 para ignorar ou hesitar no controle se uma ação for contrária à sua vontade. Uma vez estabelecido o controle, o psíquico pode continuar a controlar o alvo gastando 1 ponto de poder por rodada de combate.
 
@@ -1294,11 +1294,11 @@ O Mind Control não pode ser usado em animais ou em pessoas sem cérebros vivos 
 
 **Escudo mental
 
-**Faixa:** Autônomo
+**Faixa**: Autônomo
 
-**Duração:** 1 turno completo por ponto de energia gasto
+**Duração**: 1 turno completo por ponto de energia gasto
 
-**Custo de pontos de energia:** 1 ponto de energia ou mais para ativar
+**Custo de pontos de energia**: 1 ponto de energia ou mais para ativar
 
 Para usar o Mind Shield contra ataques psíquicos, o psíquico deve fazer uma rolagem bem-sucedida e declarar quantos pontos de poder vai gastar. Cada ponto de Mind Shield é usado como uma rolagem de resistência contra os pontos de poder gastos em um ataque ou influência psíquica. O Mind Shield pode ser usado antes de qualquer ameaça ou pode ser usado como uma tentativa de defesa, levantada como reação a uma influência recebida. Mantenha o Mind Shield ativo por mais um turno completo gastando pontos de poder quando o uso anterior estiver prestes a expirar.
 
@@ -1308,11 +1308,11 @@ Para influências que não sejam habilidades psíquicas, cada ponto em Mind Shie
 
 **Reconhecimento**
 
-**Faixa:** Autônomo
+**Faixa**: Autônomo
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia:** 1 ponto de energia para ativar mais 1 ponto de energia por passo no tempo (consulte a **Tabela de passos no tempo**, abaixo)
+**Custo de pontos de energia**: 1 ponto de energia para ativar mais 1 ponto de energia por passo no tempo (consulte a **Tabela de passos no tempo**, abaixo)
 
 O vidente obtém um breve vislumbre intuitivo do futuro. Quanto mais longe no futuro, mais pontos custa.
 
@@ -1334,25 +1334,25 @@ O vidente obtém um breve vislumbre intuitivo do futuro. Quanto mais longe no fu
 
 A precognição pode ser usada de forma ativa ou passiva. Em ambos os casos, o seu mestre de jogo rola para a habilidade e anuncia os resultados (se houver) para você. Os resultados são os seguintes:
 
-- Tropeço:** Uma visão clara e coerente que é completamente imprecisa e enganosa.
-- Fracasso:** Um lampejo incompreensível ou contraditório de percepção que faz pouco além de proporcionar uma sensação de desconforto em relação a uma situação e o conhecimento de que a tentativa fracassou.
+- Tropeço**: Uma visão clara e coerente que é completamente imprecisa e enganosa.
+- Fracasso**: Um lampejo incompreensível ou contraditório de percepção que faz pouco além de proporcionar uma sensação de desconforto em relação a uma situação e o conhecimento de que a tentativa fracassou.
 - Sucesso: Um vislumbre do futuro até a etapa de tempo especificada, fornecendo uma forte impressão do que está por vir.
 - Especial: Uma visão do futuro com detalhes consideráveis, fornecendo um senso intuitivo de como as coisas acontecerão. Uma rolagem de Ideia bem-sucedida fornece orientação sobre as ações que devem ser tomadas (se houver) para obter ou evitar esse resultado.
-- Crítico:** Uma visão cristalina do futuro, incluindo a série de eventos que o precedem imediatamente, com uma ideia clara de como prevenir ou garantir esse resultado.
+- Crítico**: Uma visão cristalina do futuro, incluindo a série de eventos que o precedem imediatamente, com uma ideia clara de como prevenir ou garantir esse resultado.
 
 A Precognição ativa permite que o vidente gaste quantos pontos de poder quiser para ver o futuro o mais longe possível, e então o mestre de jogo rola e anuncia os resultados, como acima. Depois que os pontos são gastos, o vidente deve fazer uma rolagem de Ideia bem-sucedida para interpretar a visão, se houver algo vago ou confuso nela.
 
 Com a Precognição passiva, seu mestre de jogo rola secretamente para a habilidade e, se for bem-sucedido, oferece um vislumbre do futuro. Nesse caso, o jogador pode nem saber que os dados estão sendo lançados. Não há custo de pontos de energia para o uso passivo dessa habilidade psíquica, e o mestre de jogo pode querer que algum aspecto do ambiente ou da situação provoque um vislumbre precognitivo do futuro, talvez como uma ferramenta dramática ou narrativa.
 
-**Nota:** A precognição inevitavelmente implica predestinação e pode exigir um esforço considerável por parte do mestre de jogo para ser eficaz. Sua função está totalmente sujeita à preferência do mestre de jogo e ele deve considerar cuidadosamente seu uso e impacto na jogabilidade antes de permiti-la, talvez até adicionando algumas desvantagens de longo ou curto prazo, como custo de pontos de sanidade ou fadiga.
+**Nota**: A precognição inevitavelmente implica predestinação e pode exigir um esforço considerável por parte do mestre de jogo para ser eficaz. Sua função está totalmente sujeita à preferência do mestre de jogo e ele deve considerar cuidadosamente seu uso e impacto na jogabilidade antes de permiti-la, talvez até adicionando algumas desvantagens de longo ou curto prazo, como custo de pontos de sanidade ou fadiga.
 
 **Psicometria
 
-**Faixa:** Autônomo
+**Faixa**: Autônomo
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de energia:** 1 ponto de energia por ponto SIZ do objeto, mais 1 ponto por etapa de tempo
+**Custo de pontos de energia**: 1 ponto de energia por ponto SIZ do objeto, mais 1 ponto por etapa de tempo
 
 Objetos e ambientes são esponjas psíquicas, absorvendo emoções e impressões carregadas daqueles que os usam e habitam, ou de eventos que ocorreram envolvendo-os. A psicometria permite que um vidente examine um item ou local inanimado e sinta as emoções absorvidas. Esse poder se aplica somente a objetos inanimados.
 
@@ -1360,7 +1360,7 @@ Para objetos, faça uma rolagem de Psicometria e gaste os pontos de poder equiva
 
 Para uma área, escolha um subconjunto dessa área para obter uma impressão e use as diretrizes de TAM como acima.
 
-**Por exemplo, em vez de tentar usar a psicometria em um carro inteiro (SIZ 60), use-a em um assento de carro (que é do tamanho de um ser humano, aproximadamente SIZ 8).
+**Por exemplo,** em vez de tentar usar a psicometria em um carro inteiro (SIZ 60), use-a em um assento de carro (que é do tamanho de um ser humano, aproximadamente SIZ 8).
 
 A falha significa que o vidente não pode tentar novamente no item ou local específico até que sua habilidade com psicometria tenha aumentado.
 
@@ -1370,11 +1370,11 @@ Seu mestre de jogo pode usar essa habilidade de forma passiva, rolando secretame
 
 **Pirocinese
 
-**Alcance:** POW em metros
+**Alcance**: POW em metros
 
-**Duração:** Instantânea ou 1 rodada de combate
+**Duração**: Instantânea ou 1 rodada de combate
 
-**Custo em pontos de energia:** 3 pontos de energia por 1D6 de dano ou 3 pontos de SIZ
+**Custo em pontos de energia**: 3 pontos de energia por 1D6 de dano ou 3 pontos de SIZ
 
 A pirocinese cria calor intenso, enchendo uma área com chamas, podendo incendiar um objeto e até mesmo fornecer luz ou calor. Ele pode ser moldado e manipulado de outra forma. A área afetada é igual a 3 SIZ por 3 pontos de poder. O uso bem-sucedido contra um ser vivo inflige 1D6 pontos de dano por 3 pontos de poder usados. Pontos de poder adicionais aumentam o dano (6 pontos = 2D6 de dano, etc.). Se o alvo tiver alguma proteção, como roupas isolantes, isso pode servir como armadura contra o dano. O dano é instantâneo, embora o calor permaneça por uma rodada de combate adicional ou mais.
 
@@ -1384,25 +1384,25 @@ A pirocinese também pode extinguir a chama drenando o oxigênio de que ela nece
 
 **Sensibilidade**
 
-**Faixa:** Autônomo
+**Faixa**: Autônomo
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo do ponto de energia:** 1 ponto de energia
+**Custo do ponto de energia**: 1 ponto de energia
 
 Essa consciência psíquica permite que o vidente reconheça alguns aspectos sobrenaturais ou espirituais de um objeto ou área ou detecte a presença de seres sobrenaturais ou espíritos nas proximidades. Os aspectos emocionais, espirituais ou sobrenaturais negativos criam pressentimento e inquietação, enquanto os aspectos positivos promovem uma sensação de paz e harmonia. Se as impressões estiverem vindo de um objeto dentro da vizinhança imediata do médium (1/3 do POW em metros), um rolamento de Ideia identifica esse objeto. A sensibilidade também informa se outras habilidades psíquicas estão sendo usadas ou foram usadas recentemente na área, ou mesmo se alguém nas proximidades usou recentemente habilidades psíquicas de forma extrema.
 
 Seu mestre de jogo pode querer usar a habilidade de forma passiva, rolando secretamente e anunciando qualquer lampejo repentino de sensibilidade. Nesses casos, ela não custa pontos de poder para ser usada.
 
-**Nota:** A sensibilidade pode potencialmente inviabilizar enredos baseados em mistério, e o mestre do jogo pode optar por proibi-la totalmente. Em alguns cenários, essa pode ser a única habilidade psíquica presente.
+**Nota**: A sensibilidade pode potencialmente inviabilizar enredos baseados em mistério, e o mestre do jogo pode optar por proibi-la totalmente. Em alguns cenários, essa pode ser a única habilidade psíquica presente.
 
 **Telecinesia
 
-**Alcance:** POW em metros
+**Alcance**: POW em metros
 
-**Duração:** 1 rodada de combate
+**Duração**: 1 rodada de combate
 
-**Custo de pontos de energia:** 1 ponto de energia por 3 SIZ a cada rodada de combate
+**Custo de pontos de energia**: 1 ponto de energia por 3 SIZ a cada rodada de combate
 
 O psíquico pode levantar objetos e movê-los com sua mente. Cada ponto de poder gasto afeta 3 pontos de SIZ. Para usar o poder, determine o SIZ do objeto a ser movido e divida seu SIZ por 3 (arredondando para cima). Se a telecinesia for bem-sucedida, o psíquico poderá pegar o objeto e movê-lo no ar ou no chão na velocidade normal de MOV. O objeto deve permanecer dentro do alcance do psíquico. Cada ponto gasto acima do SIZ amplia o alcance do objeto que pode ser arremessado em mais 15 metros ou aumenta a velocidade para o dobro (triplo, etc.) do MOV normal. Se algo tiver rodas e/ou for arrastado por um terreno plano, cada ponto afeta 6 SIZ. Quando um item é mantido com telecinesia, o psíquico pode mantê-lo indefinidamente se gastar os pontos de poder para mantê-lo no ar. Se ficar inconsciente ou receber um ferimento grave, o item cairá no chão. Se estiver distraído, for atacado ou estiver tentando realizar uma tarefa complexa, faça uma rolagem de Ideia bem-sucedida para manter o controle.
 
@@ -1414,11 +1414,11 @@ Além disso, a telecinesia pode ser usada como armadura contra ataques físicos,
 
 **Telepatia
 
-**Alcance:** 10×POW em quilômetros
+**Alcance**: 10×POW em quilômetros
 
-**Duração:** 1 rodada de combate por ponto de poder gasto
+**Duração**: 1 rodada de combate por ponto de poder gasto
 
-**Custo de pontos de energia:** 1 ponto de energia para ativar ou 1 ponto de energia por 3 POW
+**Custo de pontos de energia**: 1 ponto de energia para ativar ou 1 ponto de energia por 3 POW
 
 Um psíquico pode ler a mente de um alvo fazendo uma rolagem bem-sucedida de Telepatia e, em seguida, derrotando-o em uma rolagem de resistência de POW vs. POW. Se for bem-sucedido, o psíquico deve gastar 1 ponto de poder para cada 3 pontos de POW do alvo (divida POW por três, arredondando para cima). Nesse ponto, ele tem acesso às memórias e aos pensamentos ativos do alvo durante o restante da rodada de combate até o próximo nível de DEX do psíquico. A rolagem de resistência deve ser feita com sucesso a cada rodada desejada. Não é necessário fazer rolagem de resistência com um alvo disposto, e apenas 1 ponto é necessário para usar a habilidade.
 
@@ -1429,7 +1429,7 @@ Quando um vínculo telepático for estabelecido, escolha uma das seguintes açõ
 - Ler pensamentos e sentimentos superficiais.
 - Implantar uma memória falsa ou criar uma impressão sensorial que dura até que o alvo seja bem-sucedido em uma rolagem de Ideia *Difícil* ou até o final da duração da habilidade.
 
-**Por exemplo, um vidente pode criar uma falsa lembrança de ter dado uma nota de \$100 a alguém ou fazê-lo pensar que uma carta de baralho é essa nota de \$100.
+**Por exemplo,** um vidente pode criar uma falsa lembrança de ter dado uma nota de \$100 a alguém ou fazê-lo pensar que uma carta de baralho é essa nota de \$100.
 
 - Escava memórias enterradas ou informações suprimidas no subconsciente do alvo. Uma memória específica pode levar 1D3 rodadas de combate, e 1D3+3 rodadas para uma memória suprimida ou traumática. O alvo vivenciará essa memória novamente, como se estivesse se lembrando dela vividamente.
 
@@ -1453,10 +1453,10 @@ A característica de POW de um feiticeiro influencia a frequência e a potência
 
 Um feiticeiro começa sabendo como inscrever os feitiços que conhece em seu grimório e sabe como preparar ou descartar um feitiço. Além disso, ele já possui um grimório adaptado a seus gostos. Ele conhece os feitiços de acordo com os seguintes níveis de poder, e todos os feitiços conhecidos estão inscritos em seus grimórios:
 
-- Normal:** Até ½ INT (arredondado para cima) em níveis de feitiços conhecidos.
-- Heroico:** Até INT em níveis de feitiços conhecidos.
-- Épico:** Até INT×2 em níveis de magias conhecidas e/ou marcadas em seu grimório.
-- Super-humano:** Até INT×4 em níveis de feitiços conhecidos e/ou marcados em seu grimório.
+- Normal**: Até ½ INT (arredondado para cima) em níveis de feitiços conhecidos.
+- Heroico**: Até INT em níveis de feitiços conhecidos.
+- Épico**: Até INT×2 em níveis de magias conhecidas e/ou marcadas em seu grimório.
+- Super-humano**: Até INT×4 em níveis de feitiços conhecidos e/ou marcados em seu grimório.
 
 Um feiticeiro pode manter até sua INT em níveis de feitiço armazenados em sua mente a qualquer momento; portanto, qualquer feitiço além desse está em seu grimório, disponível, mas não pronto.
 
@@ -1539,11 +1539,11 @@ Conforme observado anteriormente, um feiticeiro não pode lançar automaticament
 
 Para preparar um feitiço, o grimório deve estar disponível e o feitiço relevante deve existir nesse grimório. Trazer um feitiço para a memória é chamado de preparar um feitiço. Remover um feitiço da memória é chamado de descartar um feitiço. Isso é feito sempre que desejado: os feiticeiros geralmente escolhem seus feitiços com base em seus planos imediatos.
 
-**Por exemplo, um feiticeiro que planeja lançar um feitiço importante (como a invocação de um demônio) deve preparar feitiços como Brazier of Power, Chain of Being, Refutation, Bolster the Soul e Witch Sight, juntamente com o feitiço Summon Demon. Se estiver se aventurando, outros feitiços, como Inescapable Bonds (laços inescapáveis), Cloak of Night (capa da noite), Heal (cura), Muddle (confusão), Sorcerous Armor (armadura feiticeira), Undo Sorcery (desfazer feitiçaria) e um aprimoramento de arma podem ser mais apropriados.*
+**Por exemplo,** um feiticeiro que planeja lançar um feitiço importante (como a invocação de um demônio) deve preparar feitiços como Brazier of Power, Chain of Being, Refutation, Bolster the Soul e Witch Sight, juntamente com o feitiço Summon Demon. Se estiver se aventurando, outros feitiços, como Inescapable Bonds (laços inescapáveis), Cloak of Night (capa da noite), Heal (cura), Muddle (confusão), Sorcerous Armor (armadura feiticeira), Undo Sorcery (desfazer feitiçaria) e um aprimoramento de arma podem ser mais apropriados.*
 
 A leitura e a compreensão de um feitiço no grimório levam uma rodada de combate para cada ponto do feitiço a ser lido. Para feitiços que variam em pontos, o número de rodadas de combate necessárias é sempre igual ao valor máximo conhecido.
 
-**Por exemplo, são necessárias quatro rodadas de combate para ler Hammer of the Gods (4) do grimório e deixá-lo pronto para ser lançado.
+**Por exemplo,** são necessárias quatro rodadas de combate para ler Hammer of the Gods (4) do grimório e deixá-lo pronto para ser lançado.
 
 Se um feitiço requer 20 pontos de poder para ser lançado, o feiticeiro precisa de 20 rodadas de combate para prepará-lo.
 
@@ -1573,7 +1573,7 @@ Depois que um feiticeiro começa a lançar um feitiço, ele não pode fazer mais
 
 A duração de um feitiço é igual ao POW do feiticeiro em rodadas de combate.
 
-**Por exemplo, *um feiticeiro com POW 19 lança Hell's Razor (Navalha do Inferno). O feitiço leva uma rodada para ser lançado e, em seguida, entra em vigor na fase de Poderes da rodada seguinte. Ele dura por mais 18 rodadas de combate e expira na fase de Poderes da 20ª rodada.
+**Por exemplo,** *um feiticeiro com POW 19 lança Hell's Razor (Navalha do Inferno). O feitiço leva uma rodada para ser lançado e, em seguida, entra em vigor na fase de Poderes da rodada seguinte. Ele dura por mais 18 rodadas de combate e expira na fase de Poderes da 20ª rodada.
 
 Uma vez lançado, o feitiço não precisa de manutenção e continua em vigor mesmo que o alvo saia do alcance.
 
@@ -1583,9 +1583,9 @@ Um feiticeiro pode estender a duração de qualquer feitiço lançando-o novamen
 
 Como um feiticeiro se torna mais poderoso? Aqui estão três maneiras de aumentar o POW:
 
-- Exercício de poder:** Um feiticeiro que tenha derrotado com sucesso um oponente com POW igual ou maior em uma rolagem de resistência POW vs. POW pode marcar a caixa ao lado do POW em sua ficha de personagem. Ao verificar a experiência, consulte **Aumentos de POW**.
+- Exercício de poder**: Um feiticeiro que tenha derrotado com sucesso um oponente com POW igual ou maior em uma rolagem de resistência POW vs. POW pode marcar a caixa ao lado do POW em sua ficha de personagem. Ao verificar a experiência, consulte **Aumentos de POW**.
 - Herança de Feitiçaria: A critério do seu mestre de jogo, ao criar um feiticeiro, troque 2 pontos de outras características por 1 ponto de POW, sacrificando deliberadamente aspectos de si mesmo em troca de maior destreza com a feitiçaria. Cada troca requer uma rolagem de Sorte bem-sucedida com base em seu POW original. A falha em um lançamento de Sorte encerra a chance de qualquer outra troca. Um resultado de 00 é sempre uma falha. Esse método não é compatível com a geração de características baseadas em pontos.
-- Presente dos Deuses:** Durante o jogo, um feiticeiro pode barganhar ou implorar por um presente de POW de uma divindade favorável. Isso depende inteiramente do mestre de jogo e pode exigir promessas de serviço do feiticeiro, boa interpretação ou rolagens de comunicação bem-sucedidas. A concessão nunca é superior a 1D3 POW. Para cada ponto concedido, o recebedor deve realizar imediatamente alguma tarefa perigosa ou tentar alguma ação perigosa que promova a agenda da divindade.
+- Presente dos Deuses**: Durante o jogo, um feiticeiro pode barganhar ou implorar por um presente de POW de uma divindade favorável. Isso depende inteiramente do mestre de jogo e pode exigir promessas de serviço do feiticeiro, boa interpretação ou rolagens de comunicação bem-sucedidas. A concessão nunca é superior a 1D3 POW. Para cada ponto concedido, o recebedor deve realizar imediatamente alguma tarefa perigosa ou tentar alguma ação perigosa que promova a agenda da divindade.
 
 **Confiabilidade da feitiçaria
 
@@ -1602,111 +1602,111 @@ A seguir estão os feitiços de feitiçaria dessa seção, categorizados por tip
 
 **Feitiços de aumento**
 
-**Manto da Noite (1-4):** Adiciona +20% por nível a Esconder-se.
+**Manto da Noite (1-4)**: Adiciona +20% por nível a Esconder-se.
 
-**Salto (1-4):** Adiciona +20% por nível ao salto.
+**Salto (1-4)**: Adiciona +20% por nível ao salto.
 
-**Segurança (1-4):** Adiciona +20% por nível à Furtividade.
+**Segurança (1-4)**: Adiciona +20% por nível à Furtividade.
 
 **Feitiços de característica**
 
-**Fortalecer a alma (1-3):** Adiciona 3 pontos por nível ao POW.
+**Fortalecer a alma (1-3)**: Adiciona 3 pontos por nível ao POW.
 
-**Plasticidade Inumana (1-3):** Adiciona 3 pontos por nível ao SIZ.
+**Plasticidade Inumana (1-3)**: Adiciona 3 pontos por nível ao SIZ.
 
-**Velocidade do relâmpago (1-3):** Adiciona 1 ponto por nível ao MOV.
+**Velocidade do relâmpago (1-3)**: Adiciona 1 ponto por nível ao MOV.
 
-**Vitalidade implacável (1-3):** Adiciona 3 pontos por nível à CON.
+**Vitalidade implacável (1-3)**: Adiciona 3 pontos por nível à CON.
 
-**Suppleness of the Serpent (1-3):** Adiciona 3 pontos por nível à DEX.
+**Suppleness of the Serpent (1-3)**: Adiciona 3 pontos por nível à DEX.
 
-**Força do titã (1-3):** Adiciona 3 pontos por nível à força de resistência.
+**Força do titã (1-3)**: Adiciona 3 pontos por nível à força de resistência.
 
-**Unearthly Beauty (1-3):** Adiciona 3 pontos por nível ao CHA.
+**Unearthly Beauty (1-3)**: Adiciona 3 pontos por nível ao CHA.
 
-**Sabedoria do Sábio (1-3):** Adiciona 3 pontos por nível à INT.
+**Sabedoria do Sábio (1-3)**: Adiciona 3 pontos por nível à INT.
 
 **Feitiços de combate
 
-**Martelo dos Deuses (1-4):** Adiciona 1 ponto de dano por nível a armas contundentes.
+**Martelo dos Deuses (1-4)**: Adiciona 1 ponto de dano por nível a armas contundentes.
 
-**Hell's Razor (1-4):** Adiciona 1 ponto de dano por nível às armas cortantes.
+**Hell's Razor (1-4)**: Adiciona 1 ponto de dano por nível às armas cortantes.
 
-**Chama Afiada da Feitiçaria (1-4):** Adiciona 1 ponto de dano por nível às armas de empalamento.
+**Chama Afiada da Feitiçaria (1-4)**: Adiciona 1 ponto de dano por nível às armas de empalamento.
 
-**Armadura Sorcerosa (1-4):** Adiciona 1 ponto de armadura por nível.
+**Armadura Sorcerosa (1-4)**: Adiciona 1 ponto de armadura por nível.
 
-**Talons of the Beast (1-4):** Adiciona 1 ponto de dano por nível a armas desarmadas ou de combate.
+**Talons of the Beast (1-4)**: Adiciona 1 ponto de dano por nível a armas desarmadas ou de combate.
 
-**Baluarte inquebrável (1-4):** Adiciona 1 ponto de armadura por nível aos escudos.
+**Baluarte inquebrável (1-4)**: Adiciona 1 ponto de armadura por nível aos escudos.
 
 **Feitiços de aprimoramento
 
-**Make Fast (1):** Cola dois objetos inanimados.
+**Make Fast (1)**: Cola dois objetos inanimados.
 
-**Make Whole (3):** Conserta um item quebrado.
+**Make Whole (3)**: Conserta um item quebrado.
 
-**Meia-noite (1):** Cria uma área de escuridão.
+**Meia-noite (1)**: Cria uma área de escuridão.
 
-**Moonrise (1):** Cria um globo de luz flutuante.
+**Moonrise (1)**: Cria um globo de luz flutuante.
 
 **Feitiços elementares
 
-**Bounty of the Sea (4):** Enche uma área com água.
+**Bounty of the Sea (4)**: Enche uma área com água.
 
-**Fires of the Sun (4):** Enche uma área com chamas.
+**Fires of the Sun (4)**: Enche uma área com chamas.
 
-**Gift of the Earth (4):** Preenche uma área com sujeira.
+**Gift of the Earth (4)**: Preenche uma área com sujeira.
 
-**Wings of the Sky (4):** Preenche uma área com vento.
+**Wings of the Sky (4)**: Preenche uma área com vento.
 
 **Feitiços manipulativos
 
-**Maldição da Feitiçaria (4):** Faz com que o alvo sofra uma característica desfigurante.
+**Maldição da Feitiçaria (4)**: Faz com que o alvo sofra uma característica desfigurante.
 
-**Fúria (1):** Enfurece o alvo, acelerando seus ataques.
+**Fúria (1)**: Enfurece o alvo, acelerando seus ataques.
 
-**Laços Inescapáveis (3):** Imobiliza o alvo, requer uma rolagem de resistência.
+**Laços Inescapáveis (3)**: Imobiliza o alvo, requer uma rolagem de resistência.
 
-**Liken Shape (4):** Assumir a imagem de outra pessoa.
+**Liken Shape (4)**: Assumir a imagem de outra pessoa.
 
-**Muddle (1):** Desorienta o alvo.
+**Muddle (1)**: Desorienta o alvo.
 
-**Pox (1):** Reduz os pontos de energia do alvo, requer uma rolagem de resistência.
+**Pox (1)**: Reduz os pontos de energia do alvo, requer uma rolagem de resistência.
 
 **Feitiços de ocultismo
 
-**Braseiro do Poder (4):** Cria um reservatório de pontos de poder.
+**Braseiro do Poder (4)**: Cria um reservatório de pontos de poder.
 
-**Cadeia do Ser (4):** Cria um conjunto de pontos de energia.
+**Cadeia do Ser (4)**: Cria um conjunto de pontos de energia.
 
-**Anular Feitiçaria (1-4):** Cancela vários feitiços de feitiçaria.
+**Anular Feitiçaria (1-4)**: Cancela vários feitiços de feitiçaria.
 
-**Ward (3):** Cria um alarme mágico.
+**Ward (3)**: Cria um alarme mágico.
 
 **Feitiços de invocação
 
-**Invocar demônio (1):** Invoca um demônio.
+**Invocar demônio (1)**: Invoca um demônio.
 
-**Invocar Elemental (1):** Invoca um elemental.
+**Invocar Elemental (1)**: Invoca um elemental.
 
 **Feitiços de utilidade**
 
-**Visão de pássaro (1):** Controla um pássaro e enxerga pelos olhos dele.
+**Visão de pássaro (1)**: Controla um pássaro e enxerga pelos olhos dele.
 
-**Sopro da vida (1):** Fornece ar respirável debaixo d'água ou em qualquer outro lugar.
+**Sopro da vida (1)**: Fornece ar respirável debaixo d'água ou em qualquer outro lugar.
 
-**Visão de longe (1):** Dobra o alcance em que algo pode ser visto.
+**Visão de longe (1)**: Dobra o alcance em que algo pode ser visto.
 
-**Cura (2):** Restaura os pontos de vida perdidos.
+**Cura (2)**: Restaura os pontos de vida perdidos.
 
-**Ouvido de Keeen (1):** Transporta palavras faladas por grandes distâncias.
+**Ouvido de Keeen (1)**: Transporta palavras faladas por grandes distâncias.
 
-**Refutação (1-4):** Protege contra Desfazer Feitiçaria.
+**Refutação (1-4)**: Protege contra Desfazer Feitiçaria.
 
-**Visão de Vermes (1):** Controla os vermes e vê através de seus olhos.
+**Visão de Vermes (1)**: Controla os vermes e vê através de seus olhos.
 
-**Visão de bruxa (3):** Determina o POW do alvo.
+**Visão de bruxa (3)**: Determina o POW do alvo.
 
 **Regras pontuais para feitiçaria
 
@@ -1722,7 +1722,7 @@ Quando uma arma afetada por um feitiço é entregue a outro personagem, ou deixa
 
 **Dano máximo de ataque**
 
-Os feitiços de feitiçaria em armas geralmente aumentam o dano médio do ataque, mas não aumentam o dano máximo possível do ataque. O efeito do feitiço é aumentar o dano médio causado pelo ataque. **Por exemplo, uma espada larga normal causa 1D8+1 de dano. Com Hell's Razor 4, o dano mínimo é de 6 pontos (1 em um 1D8, +1 e +4 para o feitiço). O dano nunca pode ser superior a 9 pontos, pois 9 é o dano máximo que pode ser rolado para um ataque de espada larga. O Hell's Razor 4 garante que cada acerto cause entre 6 e 9 pontos de dano. O dano é 1D8+1+4, mas não causa mais do que 9 pontos de dano, mais o modificador de dano. O feitiço não altera o modificador de dano nem a chance de acerto. No caso de um sucesso especial ou crítico, cada rolagem de dano é tratada separadamente, com as mesmas restrições.*
+Os feitiços de feitiçaria em armas geralmente aumentam o dano médio do ataque, mas não aumentam o dano máximo possível do ataque. O efeito do feitiço é aumentar o dano médio causado pelo ataque. **Por exemplo,** uma espada larga normal causa 1D8+1 de dano. Com Hell's Razor 4, o dano mínimo é de 6 pontos (1 em um 1D8, +1 e +4 para o feitiço). O dano nunca pode ser superior a 9 pontos, pois 9 é o dano máximo que pode ser rolado para um ataque de espada larga. O Hell's Razor 4 garante que cada acerto cause entre 6 e 9 pontos de dano. O dano é 1D8+1+4, mas não causa mais do que 9 pontos de dano, mais o modificador de dano. O feitiço não altera o modificador de dano nem a chance de acerto. No caso de um sucesso especial ou crítico, cada rolagem de dano é tratada separadamente, com as mesmas restrições.*
 
 **Outros aviões
 
@@ -1745,7 +1745,7 @@ Se o alvo não resistir, o feiticeiro poderá transferir os efeitos da maioria d
 
 Os feitiços lançados em um objeto influenciam somente esse objeto. Por exemplo, se Hell's Razor for lançado em uma espada, ele não aumentará o dano causado por uma espada segurada na outra mão. Duas armas precisam de dois feitiços lançados.
 
-O objeto afetado pelo feitiço também é independente do feiticeiro. **Por exemplo, uma espada com o feitiço Hell's Razor lançado sobre ela e usada por outra pessoa recebe os benefícios do feitiço durante o restante da duração. Talons of the Beast é o único feitiço de aprimoramento de arma que pode ser lançado em uma pessoa.
+O objeto afetado pelo feitiço também é independente do feiticeiro. **Por exemplo,** uma espada com o feitiço Hell's Razor lançado sobre ela e usada por outra pessoa recebe os benefícios do feitiço durante o restante da duração. Talons of the Beast é o único feitiço de aprimoramento de arma que pode ser lançado em uma pessoa.
 
 **Feitiços por objeto
 
@@ -1761,20 +1761,20 @@ A lista de feitiços a seguir não é exaustiva, mas representa os feitiços mai
 
 Cada descrição de feitiço contém o seguinte:
 
-- **Nome e níveis:** Um título genérico para o feitiço. Crie nomes mais sugestivos conforme desejar. O número entre parênteses é a quantidade de níveis do feitiço. Um intervalo significa que o nível do feitiço é variável, e os jogadores podem escolher quantos níveis do feitiço o feiticeiro tem na memória e pode lançar. Conforme observado anteriormente, o nível de um feitiço também é o número de pontos de energia necessários para lançá-lo.
+- **Nome e níveis**: Um título genérico para o feitiço. Crie nomes mais sugestivos conforme desejar. O número entre parênteses é a quantidade de níveis do feitiço. Um intervalo significa que o nível do feitiço é variável, e os jogadores podem escolher quantos níveis do feitiço o feiticeiro tem na memória e pode lançar. Conforme observado anteriormente, o nível de um feitiço também é o número de pontos de energia necessários para lançá-lo.
 - Alcance: Pode ser o próprio (somente o lançador), o toque (o lançador ou qualquer pessoa ou coisa que ele possa tocar), a visão (qualquer coisa na linha de visão física, não transmitida por dispositivos mecânicos como câmeras) ou alguma outra definição de distância.
 
 Uma descrição dos efeitos reais do feitiço no mundo, com quaisquer efeitos de jogo definidos quando necessário.
 
 **Visão do Pássaro (1)**
 
-**Alcance:** Visão
+**Alcance**: Visão
 
 O feiticeiro pode controlar o campo de visão de um pássaro e ver através de seu ponto de vista. O pássaro (ou criatura semelhante a um pássaro) escolhido para esse feitiço deve estar à vista. Uma vez lançado, se o pássaro for perdido de vista, o feitiço continua e dura por toda a sua duração. Se nenhum pássaro estiver presente quando o feitiço for lançado, ele simplesmente não funcionará. Seu mestre de jogo deve anunciar antecipadamente se não há nada sobre o qual lançar o feitiço.
 
 **Fortalecer a Alma (1-3)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 O POW do alvo é aumentado em +3 por nível do feitiço, adicionando 3, 6 ou 9 ao POW durante a duração. Isso não aumenta os pontos de poder nem contribui para o treinamento ou qualquer determinação permanente que use o POW. Enquanto estiver em vigor, o aumento de POD aumenta a rolagem de Sorte e ajuda em qualquer rolagem de resistência de POD vs. POD, incluindo rolagens de amarração para demônios invocados (o ponto de POD gasto para amarrar um demônio deve ser real, não o POD temporário conferido pelo feitiço).
 
@@ -1782,31 +1782,31 @@ Ao conjurar Bolster the Soul 3 para obter o aumento máximo de +9 pontos, role D
 
 **Recompensa do mar (4)**
 
-**Alcance:** Visão
+**Alcance**: Visão
 
 Esse feitiço provoca uma torrente repentina em uma sala ou em uma pequena porção de espaço aberto. A água continua a cair em cascata na área durante todo o tempo. Ao final do feitiço, uma quantidade suficiente de água caiu do nada para encher um cômodo médio. Quando o feitiço termina, a água permanece e se comporta naturalmente, drenando ou permanecendo conforme apropriado. Se o feiticeiro estiver longe de um corpo d'água natural, ele deverá fazer uma rolagem de Sorte bem-sucedida antes que o feitiço possa entrar em vigor. Esse feitiço é um pré-requisito para poder invocar elementais da água com o feitiço Invocar Elemental. Esse feitiço pode ser anulado por um lançamento do feitiço Dádiva da Terra na mesma área. Esse feitiço também pode ser cancelado por um feitiço Undo Sorcery de 4 pontos, mas qualquer água já convocada para a área pelo feitiço não desaparece.
 
 **Braseiro do Poder (4)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 O feiticeiro pode criar um reservatório de pontos de poder pessoal para usar ao invocar entidades mais poderosas ou lançar muitos feitiços. O Brazier of Power é incompatível com Chain of Being e, se um deles for lançado em um alvo, o outro não terá efeito. Tradicionalmente, o foco do reservatório é um grande braseiro, mas pode ser qualquer lugar ou coisa sólida e resistente. Se o foco for movido ou destruído, a sintonização será perdida e um novo foco deverá ser estabelecido do zero.
 
 Na primeira vez em que o braseiro do poder é lançado, o feiticeiro deve sacrificar 4 pontos de poder e 1 ponto permanente de POW para sintonizar o foco. Uma vez bem-sucedido, o feiticeiro pode armazenar quaisquer pontos de poder restantes no foco. O foco aceita novos pontos de poder a qualquer momento, até o máximo de POW do feiticeiro quando o foco foi criado (após o sacrifício).
 
-**Por exemplo, se o POW de um feiticeiro for 17 após a conclusão do feitiço (1 ponto a menos do que o 18 original), ele poderá armazenar até 17 pontos de poder no braseiro do poder a qualquer momento. Sempre que desejar, o feiticeiro pode sacrificar os pontos de energia armazenados no braseiro de poder, juntamente com os pontos de energia que tiver regenerado. Os pontos de poder no foco são sempre os primeiros a serem gastos.*
+**Por exemplo,** se o POW de um feiticeiro for 17 após a conclusão do feitiço (1 ponto a menos do que o 18 original), ele poderá armazenar até 17 pontos de poder no braseiro do poder a qualquer momento. Sempre que desejar, o feiticeiro pode sacrificar os pontos de energia armazenados no braseiro de poder, juntamente com os pontos de energia que tiver regenerado. Os pontos de poder no foco são sempre os primeiros a serem gastos.*
 
 O feiticeiro deve estar em contato físico com o braseiro para extrair pontos de energia dele. Somente seu criador pode usar os pontos de energia diretamente. Entretanto, se ele tiver outro meio de transferir pontos de energia para outro personagem, os pontos de energia devem ser retirados primeiro do feiticeiro e depois do braseiro. Para criar um foco de maior capacidade, o feiticeiro deve lançar o feitiço novamente sobre o mesmo item, sacrificando outro ponto de POW e os pontos de energia necessários. Dessa forma, um braseiro de poder pode se tornar um imenso reservatório de pontos de poder. Muitos feiticeiros sérios usam braseiros de poder em seus covis ou santuários.
 
 **Sopro da vida (l)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 O feiticeiro pode respirar normalmente se estiver debaixo d'água ou em um meio semelhante. Se for submerso repentinamente, pode ser necessário fazer uma rolagem de Agilidade bem-sucedida para retirar o feitiço com antecedência. O feiticeiro também pode falar normalmente enquanto estiver embaixo d'água.
 
 **Cadeia do Ser (4)**
 
-**Alcance:** Toque, visão, etc.
+**Alcance**: Toque, visão, etc.
 
 Esse feitiço permite que até oito indivíduos juntem seus pontos de poder em um único recurso compartilhado, uma prática útil para invocar ou amarrar um demônio ou elemental ou lançar algum feitiço poderoso além do alcance dos pontos de poder de um único feiticeiro. Os participantes devem estar ligados pelo toque, geralmente de mãos dadas em um círculo. O círculo deve ser mantido enquanto os pontos de poder estiverem sendo gastos em qualquer conjuração. É necessária apenas uma única conjuração de Chain of Being por invocação. Apenas um participante do feitiço precisa conhecer esse feitiço para que ele funcione, e os 4 pontos de poder gastos para lançar o feitiço devem vir desse feiticeiro.
 
@@ -1816,31 +1816,31 @@ Esse feitiço é incompatível com o Braseiro do Poder. Se a entidade invocada (
 
 **Manto da Noite (1-4)**
 
-**Alcance:** Toque, visão, etc.
+**Alcance**: Toque, visão, etc.
 
 Cada nível aumenta a habilidade Hide do alvo em +20%, cumulativamente, durante a duração.
 
 **Maldição da Feitiçaria (4)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Com uma rolagem bem-sucedida de resistência de POW vs. POW, o feiticeiro pode dotar parte do corpo do alvo com alguma qualidade macabra ou demoníaca de sua escolha, como ser muito quente ao toque, viscoso, sempre molhado, escamoso, muito peludo, verrucoso, multicolorido etc. Com uma segunda rolagem bem-sucedida de POW vs. POW, a parte do corpo afetada assume a aparência física apropriada de um tentáculo, uma perna de caranguejo, uma asa de pássaro, um sensor de inseto etc., embora a aparência seja apenas cosmética - nenhum bônus ou habilidade é conferido por essa maldição. Se a área do corpo afetada for visível, ela pode causar uma perda de 1D3 pontos de CHA enquanto o feitiço estiver em vigor. O efeito do feitiço termina quando o lançador morre. Esse feitiço só pode ser lançado uma vez em um único alvo enquanto estiver em vigor, embora possa ser repetido se a duração tiver terminado. Lançar esse feitiço pode fazer com que o feiticeiro ganhe pontos de fidelidade a qualquer força que enfatize a crueldade ou o caos, e qualquer desfiguração desse tipo provavelmente se tornará uma característica distintiva.
 
 **Visão de longe (1)**
 
-**Alcance:** Visão
+**Alcance**: Visão
 
 O feiticeiro pode ver algo ou alguma coisa duas vezes mais perto do que está. Enquanto estiver ativo, cada lançamento adicional dobra cumulativamente a proximidade, permitindo uma ampliação maior.
 
 **Fires of the Sun (4)**
 
-**Alcance:** Visão
+**Alcance**: Visão
 
 Uma massa de fogo flutuante aparece e fica suspensa em qualquer posição dentro da linha de visão do feiticeiro. O fogo queima sem combustível durante toda a duração do feitiço. A chama agitada mede cerca de três metros de diâmetro e é quente o suficiente para incendiar materiais adjacentes, causando 1D6+2 de dano de fogo por rodada. Esse feitiço deve ser conhecido antes que os elementais de fogo possam ser convocados ou invocados com o feitiço Invocar Elemental. Esse feitiço pode ser anulado pelo feitiço Wings of the Sky lançado na área afetada. Um Undo Sorcery de 4 pontos dissipará esse feitiço; nesse caso, qualquer chama presente cairá no chão e se comportará naturalmente (fumegando, talvez pegando fogo em galhos e arbustos etc.).
 
 **Fúria (1)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Esse feitiço induz o alvo a uma fúria furiosa e descontrolada, fazendo-o lutar de forma imprudente e com abandono selvagem. Se o alvo não estiver disposto, faça uma rolagem de resistência de ponto de energia atual vs. ponto de energia atual. Se for bem-sucedido, o destinatário do feitiço (ele ou outra pessoa) lutará incessantemente, durante o tempo que durar o feitiço, contra qualquer alvo de sua escolha. O alvo do feitiço pode fazer um ataque adicional a cada rodada (além de qualquer restrição de habilidade), realizado no último nível de DEX da rodada. O feitiço não aumenta o nível da habilidade de ataque nem aumenta o dano causado.
 
@@ -1848,37 +1848,37 @@ Esse feitiço diminui o instinto de autopreservação do alvo e reduz em 30% a c
 
 **Presente da Terra (4)**
 
-**Alcance:** Visão
+**Alcance**: Visão
 
 Esse feitiço faz com que uma massa de poeira, terra e areia apareça de repente e se acumule rapidamente em um cômodo pequeno ou em uma área pequena de espaço aberto. Quando o feitiço termina, ele terá transmitido mais de 60 metros cúbicos de terra nova, o suficiente para encher um cômodo comum. Esse feitiço deve ser conhecido antes que os elementais da terra possam ser convocados ou invocados com o feitiço Summon Elemental. O uso de Undo Sorcery 4 anula esse feitiço, embora qualquer terra que já tenha chegado permaneça. O feitiço Bounty of the Sea anula o Gift of the Earth se for lançado na mesma área. Se estiver em um corpo d'água, no céu ou no espaço, será necessário um lançamento de Sorte bem-sucedido para que o feitiço funcione.
 
 **Martelo dos Deuses (1-4)
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Esse feitiço pode ser lançado em uma única arma contundente, como um bastão, clava, maça, martelo, etc. Os efeitos só se aplicam a golpes de armas contundentes; se for lançado em uma arma afiada ou pontiaguda, não terá efeito ou só se aplicará ao uso contundente da arma, como golpear com o punho. Cada nível aumenta a rolagem de dano em +1, até o dano máximo possível com essa arma. Isso não altera o modificador de dano do portador (rolado separadamente).
 
 **Cura (2)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Isso cura imediatamente 1D3 pontos de vida, até o máximo de pontos de vida do alvo. Pode ser lançado uma vez por ferimento. Além disso, pode ser usado para tratar um ferimento que já tenha sido tratado por Primeiros Socorros e é frequentemente usado em conjunto com Primeiros Socorros por curandeiros.
 
 **Navalha do Inferno (1-4)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Esse feitiço pode ser lançado em uma única arma cortante com uma ou mais bordas cortantes, como espadas, machados etc. Os efeitos só se aplicam a golpes de armas afiadas; se for lançado em uma arma romba ou empaladora, não terá efeito a menos que seja usado de forma cortante. Cada nível aumenta a rolagem de dano em +1, até o dano máximo possível com essa arma. Isso não altera o modificador de dano do portador (rolado separadamente).
 
 **Obrigações Inevitáveis (3)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Qualquer ser vivo sobre o qual esse feitiço é lançado é agarrado e mantido como se estivesse preso por correntes invisíveis. A pessoa ou coisa presa não pode mover significativamente nenhum membro, dedo, tentáculo, língua etc. enquanto o feitiço estiver em vigor. Isso só afeta seres vivos, alienígenas ou animais, sem efeito sobre mortos-vivos, robôs ou veículos. O alvo pode tentar se libertar uma vez por rodada de combate se for bem-sucedido em uma rolagem de resistência de sua força de resistência versus os pontos de poder atuais do feiticeiro. Se for bem-sucedido, os Inescapable Bonds serão rompidos. Se não for bem-sucedido, o alvo poderá tentar novamente na próxima rodada. Um feitiço Undo Sorcery de 3 pontos cancela os Inescapable Bonds.
 
 **Plasticidade Humana (1-3)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 A SIZ do alvo é aumentada ou diminuída em +3 pontos por nível, adicionando ou subtraindo 3, 6 ou 9 pontos à SIZ durante a duração do feitiço. Isso também pode aumentar ou diminuir temporariamente o modificador de dano e os pontos de vida. Consulte as regras para **Alvos grandes e pequenos** se for relevante. Quaisquer pontos de vida perdidos enquanto esse feitiço estiver em vigor serão removidos primeiro dos pontos de vida temporários. Esse feitiço pode afetar o MOV do alvo. O SIZ mínimo permitido é 1, portanto, quaisquer outros pontos são ignorados. As roupas e a armadura do alvo (mas não as armas) também mudam de tamanho durante o período.
 
@@ -1888,19 +1888,19 @@ Esse feitiço também pode ser lançado em insetos, pássaros e outros não huma
 
 **Keen Ear (1)**
 
-**Alcance:** Visão
+**Alcance**: Visão
 
 Esse feitiço permite que dois interlocutores sussurrem um para o outro em qualquer lugar dentro da linha de visão: paredes, rochas, florestas, etc. interferem no feitiço. Especifique a segunda parte da conversa quando o feitiço for lançado. Qualquer pessoa que esteja perto de uma das duas partes envolvidas ouve apenas essa parte da conversa. Entretanto, os personagens envolvidos se ouvem perfeitamente bem. Rolagens de habilidades de comunicação, percepção ou linguagem podem ser necessárias quando relevantes. Esse feitiço pode ser usado contra inimigos, sem rolagem de resistência para evitar seus efeitos.
 
 **Salto (1-4)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Cada nível aumenta a habilidade Jump (Salto) do alvo em +20%, cumulativamente, durante a duração. A distância que o feiticeiro pode saltar (consulte Jump) também aumenta em +1 metro para cada nível.
 
 **Velocidade do relâmpago (1-3)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 A MOV do alvo é aumentada em +1 por nível do feitiço enquanto o feitiço estiver em vigor. O feitiço pode ser lançado em outra espécie, como um cavalo. A Velocidade do Raio não afeta a DEX.
 
@@ -1908,11 +1908,11 @@ Ao lançar Lightning Speed 3 para obter o aumento máximo de +3 pontos, role D10
 
 **Forma semelhante (4)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 O alvo assume a aparência de outro ser humano ou criatura natural, assumindo a nova forma e os ataques correspondentes durante a duração do feitiço, mas deve manter seu TAM original, bem como quaisquer características aplicáveis. Essencialmente, esse feitiço permite uma mudança de aparência física e a capacidade de usar características físicas.
 
-**Por exemplo, um feiticeiro que se transforma em um canário será improvavelmente grande, mas terá um ataque de bico correspondentemente poderoso (devido ao seu modificador de dano de tamanho humano). Um feiticeiro que usa Liken Shape para se transformar em um urso será bem pequeno e fraco, no que diz respeito a ursos.*
+**Por exemplo,** um feiticeiro que se transforma em um canário será improvavelmente grande, mas terá um ataque de bico correspondentemente poderoso (devido ao seu modificador de dano de tamanho humano). Um feiticeiro que usa Liken Shape para se transformar em um urso será bem pequeno e fraco, no que diz respeito a ursos.*
 
 Seu mestre de jogo deve determinar quais aspectos das habilidades de um ser são naturais e podem ser assumidos com o feitiço, mas aqueles sem um ataque físico (garras, dentes) ou com uma origem mágica (olhar de pedra, etc.) não podem ser duplicados pelo feitiço. Isso pode variar de acordo com o cenário, como, por exemplo, em um cenário de alta fantasia, o sopro do dragão é mágico e, em um cenário de fantasia sombria, a saliva do dragão é ácida e inflamável.
 
@@ -1920,49 +1920,49 @@ O feitiço permite que o feiticeiro se transforme em outro ser vivo que tenha vi
 
 **Make Fast (1)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Esse feitiço faz com que um item específico, do tamanho de uma mão ou menor, fique grudado em outro item. Eles não podem ser separados por nenhum meio normal, a não ser pela destruição de um ou de ambos os itens. Esse feitiço não funciona em carne viva ou morta, nem em itens encantados ou mágicos.
 
 **Make Whole (3)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Esse feitiço conserta um item quebrado de tamanho e volume até SIZ 50 (consulte **Exemplos de SIZ de objeto**). O item deve ser composto principalmente do mesmo material ou de um número limitado de materiais (uma parede de tijolos funciona; um carro é muito complexo). Seu gamemaster deve determinar se um item é muito complexo ou composto de muitos tipos de materiais para que o feitiço funcione. A duração é maior do que o normal, durando 1D6 horas. Além disso, se o feiticeiro fizer uma rolagem de Sorte bem-sucedida imediatamente após lançar o feitiço, o efeito será permanente e o item será restaurado como se fosse novo. Esse feitiço não funciona em tecido vivo ou em criaturas sobrenaturais, itens mágicos ou outros tipos de encantamentos mágicos. Desfazer Feitiçaria 3 encerra esse feitiço.
 
 **Meia-noite (1)**
 
-**Alcance:** Visão
+**Alcance**: Visão
 
 Esse feitiço cria uma nuvem irregular de escuridão absoluta em uma área semelhante à de uma sala pequena, com cerca de quatro metros de lado. A visão normal não funciona dentro dessa área até que o feitiço termine. Caso contrário, não haverá nenhum outro efeito. Se o lançador desejar, ele poderá mover a escuridão agarrando-a. Somente o lançador pode movê-la dessa maneira. A habilidade Undo Sorcery 1 remove esse feitiço.
 
 **Moonrise (1)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Esse feitiço faz com que uma bola de luz de meio metro de diâmetro apareça e flutue no ar, brilhando o suficiente para iluminar uma sala. Se o Conjurador desejar, ele poderá agarrar a bola de luz e movê-la. Somente o lançador pode movê-la dessa maneira. Undo Sorcery 1 cancela esse feitiço.
 
 **Muddle (1)**
 
-**Alcance:** Visão
+**Alcance**: Visão
 
 Esse feitiço desorienta o alvo o suficiente para que ele não possa lançar feitiços ou executar planos coordenados se o feiticeiro for bem-sucedido em uma rolagem de resistência de ponto de energia atual vs. ponto de energia atual. Entretanto, o alvo pode se defender e se mover por vontade própria. Se o lançador for bem-sucedido em uma rolagem de Sorte *Difícil*, ele poderá convencer momentaneamente o alvo de algo como se estivesse usando a habilidade Fast Talk. O comando ou a desinformação deve ser falado em voz alta, e o alvo deve ser capaz de entender o idioma que está sendo falado. O alvo pode tentar rompê-la uma vez a cada rodada de combate se conseguir fazer uma rolagem de Ideia bem-sucedida (identificando a influência do feiticeiro). Se a rolagem de Ideia for bem-sucedida, o alvo pode tentar uma nova rolagem de resistência de ponto de poder atual vs. ponto de poder atual para se libertar. Se ainda estiver sob a influência do feitiço, uma nova rolagem de Ideia deve ser feita a cada rodada até que se liberte do feitiço.
 
 **Pox (1)**
 
-**Alcance:** Visão
+**Alcance**: Visão
 
 Esse feitiço ataca os pontos de energia do alvo, enfraquecendo-os magicamente ao superar o alvo com uma rolagem bem-sucedida de resistência de pontos de energia atuais vs. pontos de energia atuais. Se for bem-sucedido, o alvo perde 1D6 pontos de energia; esses pontos perdidos se regeneram normalmente. Com 0 pontos de energia, o alvo fica imediatamente inconsciente e não pode agir. Se a rolagem de resistência for bem-sucedida, o feitiço não terá efeito e os pontos de poder do alvo não serão perdidos.
 
 **Refutação (1-4)**
 
-**Faixa:** Autônomo
+**Faixa**: Autônomo
 
 O feiticeiro pode se defender contra o feitiço Undo Sorcery. A refutação pode ser lançada na mesma rodada que Undo Sorcery durante a fase de Poderes e é ativada no início da rodada seguinte. O feiticeiro deve fazer uma rolagem de resistência de Refutation contra quaisquer níveis de Undo Sorcery que estejam sendo lançados. Se Refutation vencer, todos os pontos de poder gastos em Undo Sorcery serão perdidos e o feitiço não terá efeito. Se Undo Sorcery vencer, Refutation não tem efeito, seus pontos de poder são perdidos e Undo Sorcery funciona como se não tivesse sido afetado. Se Undo Sorcery puder atacar mais de um feitiço de feitiçaria, escolha o tipo de feitiço a ser negado (consulte os grupos de tipos de feitiço), mas o lançador não pode especificar o feitiço exato.
 
 **Vitalidade implacável (1-3)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 A CON do alvo é aumentada em +3 pontos por nível, adicionando assim 3, 6 ou 9 à CON durante a duração do feitiço. O aumento temporário de CON também aumenta os pontos de vida e ajuda a combater certos venenos, doenças, etc., além de aumentar a rolagem de Stamina. Isso também afeta os pontos de fadiga e os bônus de características, se usados.
 
@@ -1972,19 +1972,19 @@ Ao lançar Relentless Vitality 3 para obter o aumento máximo de +9 pontos, role
 
 **Sorcery's Sharp Flame (1-4)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Esse feitiço pode ser lançado em uma única arma de empalamento, e somente em armas de empalamento. Ele não tem efeito se for lançado em outro tipo de arma. Cada nível aumenta o resultado da rolagem de dano em +1, até o máximo de dano rolado possível. O modificador de dano do portador é rolado separadamente e não é afetado por esse feitiço. Esse feitiço não funciona com arcos, estilingues ou armas, mas funciona com flechas, pedras de estilingue e balas. Se a rolagem modificada resultar no dano máximo da arma, a ponta da arma se tornará incandescente e poderá incendiar um alvo inflamável, causando 1D6 de dano de fogo como resultado (consulte **Fogo e Calor**).
 
 **Armadura de Sorcerous (1-4)
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 A Sorcerous Armor conta como armadura mágica adicionada ao valor total de armadura do alvo (ou os níveis adicionados a uma rolagem de armadura aleatória, até o valor máximo da armadura). Ela age como uma armadura normal em todos os outros aspectos.
 
 **Suficiência da Serpente (1-3)
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 A DEX do alvo é aumentada em +3 pontos por nível, adicionando assim 3, 6 ou 9 pontos à DEX durante a duração do feitiço. Além disso, cada nível também aumenta a Esquiva do alvo em +6% temporariamente. O aumento da DEX também aumenta temporariamente a rolagem de Agilidade e os modificadores de categoria de habilidade, se usados.
 
@@ -1992,7 +1992,7 @@ Ao lançar Suppleness of the Serpent 3 para obter o aumento máximo de +9 pontos
 
 **Invocar demônio (1)**
 
-**Alcance:** Próprio, visão
+**Alcance**: Próprio, visão
 
 Esse feitiço abre um canal de comunicação com os outros planos (ou lugares ocultos dentro deste plano, conforme o caso), permitindo a comunicação com uma entidade demoníaca e a capacidade de trazê-la para o plano natal do feiticeiro. Normalmente, os demônios têm um nome geral e um nome verdadeiro. O demônio é convocado sob o primeiro; o segundo é guardado com cuidado, pois dá poder sobre o demônio (consulte o *Capítulo 11: Criaturas* para obter exemplos de demônios menores e maiores). O feitiço é relativamente curto, mas a transmissão das exigências do demônio a ser convocado e a negociação com essa entidade levam 1D8 horas para serem feitas corretamente. A invocação de um demônio custa 9 pontos de poder (no total), pagos quando o demônio aparece.
 
@@ -2000,7 +2000,7 @@ Como alternativa, ao final de 1D8 horas após a especificação do demônio, o f
 
 Quando um demônio é amarrado, o feiticeiro pode controlar suas ações. Se a rolagem falhar, o demônio escapa e nunca mais lidará com esse feiticeiro. Normalmente, um feiticeiro está limitado à sua INT em D6s de POW de demônio, contando contra o limite de feitiços de feitiçaria.
 
-**Por exemplo, *um demônio com POW 3D8 conta como 3 níveis de INT que um feiticeiro não pode preencher com magias de feitiçaria*.
+**Por exemplo,** *um demônio com POW 3D8 conta como 3 níveis de INT que um feiticeiro não pode preencher com magias de feitiçaria*.
 
 Existem vários tipos de vinculações. Um demônio pode ser vinculado à carne, aparecendo como em seu plano de origem; ou pode ser vinculado a um objeto ou lugar. Uma amarração comum dura enquanto o feiticeiro estiver vivo ou até que ele dispense o demônio. A ligação permanente de um demônio cria um item ou local exclusivo com poderes e qualidades demoníacas que duram muito tempo após a morte do feiticeiro ou até que o objeto ou local seja destruído. Um demônio vinculado responde apenas ao seu vinculador. Se o demônio estiver vinculado a um objeto, esse objeto aparecerá e funcionará normalmente para qualquer pessoa, exceto para o vinculador. Se o objeto de ligação for quebrado, o demônio morre.
 
@@ -2039,7 +2039,7 @@ O feiticeiro também pode dizer ao demônio para retornar ao seu próprio plano 
 
 **Invocar Elemental (1)**
 
-**Faixa:** Autônomo
+**Faixa**: Autônomo
 
 Esse feitiço abre um canal de comunicação com vários planos elementais de existência ou permite falar com espíritos elementais no plano natal do feiticeiro. Embora o feitiço em si seja relativamente curto, listar os requisitos para o elemental desejado requer 1D8 rodadas de combate. Além disso, o feiticeiro deve conhecer o feitiço associado ao elemento específico desejado - Recompensa do Mar, Chamas do Sol, Dádiva da Terra e Asas do Céu. Conhecer esses feitiços é suficiente: eles não precisam ser lançados nesse momento. Depois que o feitiço Summon Elemental é lançado, o elemental chega 1D6 rodadas de combate depois, pronto para realizar uma única tarefa que lhe for solicitada. Em geral, os elementais são mais agradáveis do que os demônios e não são tão complicados ou hostis. Um elemental pode ser amarrado, embora isso possa incorrer na ira de quaisquer outros espíritos elementais. Exemplos de tipos de quatro elementais primários estão em **Criaturas invocadas**, e outros tipos podem existir.
 
@@ -2051,19 +2051,19 @@ Um feiticeiro pode implorar respeitosamente a uma divindade que apareça depois 
 
 **Segurança (1-4)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Cada nível aumenta a habilidade de Furtividade do alvo em +20%, cumulativamente, durante a duração do feitiço.
 
 **Talons of the Beast (1-4)
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Cada nível aumenta a rolagem de dano em +1 para uma única arma que aumente a mão do atacante (soqueiras, cestus) ou aumenta o dano com Brawl ou Grapple. Talons of the Beast não aumenta o dano acima do máximo. O modificador de dano do portador é rolado separadamente e não é afetado por esse feitiço. O feitiço precisa ser conjurado em um único alvo e não pode ser empilhado - um alvo com esse feitiço conjurado nele não recebe nenhum bônus em qualquer arma de mão inadequada que ele use. Se também for lançado em uma arma de mão apropriada que o alvo estiver usando, o bônus não será aplicado duas vezes.
 
 **Força do titã (1-3)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 A característica de força de resistência do alvo é aumentada em +3 pontos por nível do feitiço, adicionando 3, 6 ou 9 pontos à força de resistência durante o período. Esse aumento também pode aumentar temporariamente o modificador de dano e a rolagem de esforço do alvo.
 
@@ -2071,7 +2071,7 @@ Se um feiticeiro lançar Titan's Strength 3 para obter o aumento máximo de +9 p
 
 **Beleza Terrestre (1-3)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 A característica CHA do alvo é aumentada em +3 pontos por nível, adicionando assim 3, 6 ou 9 pontos ao CHA durante a duração do feitiço. Esse aumento também pode aumentar temporariamente as características distintivas do personagem e a rolagem de Charme.
 
@@ -2079,37 +2079,37 @@ Quando Unearthly Beauty 3 for lançada para o aumento máximo de +9 pontos, role
 
 **Baluarte inquebrável (1-4)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Esse feitiço adiciona +1 por nível ao valor de proteção de armadura dos escudos e de quaisquer objetos usados como escudos. Cada lançamento do feitiço deve ser feito em um único escudo ou item semelhante a um escudo, incluindo itens usados como escudos improvisados.
 
 **Feitiçaria Undo (1-4)**
 
-**Alcance:** Toque
+**Alcance**: Toque
 
 Cada nível de Desfazer Feitiçaria lançado em outro feitiço ou item afetado por feitiço nega um nível desse feitiço. Se os níveis de Desfazer Feitiçaria forem menores do que o feitiço sobre o qual foi lançado, os níveis de Desfazer Feitiçaria serão subtraídos do feitiço em andamento, enfraquecendo-o, mas permitindo que continue em vigor.
 
 **Visão dos Vermes (1)**
 
-**Alcance:** Toque, visão, etc.
+**Alcance**: Toque, visão, etc.
 
 O feiticeiro pode compartilhar e controlar a visão de um rato, camundongo ou verme semelhante, escolhido dentro do campo de visão. Se o animal-alvo for perdido de vista, o feitiço continua pelo resto de sua duração e pode ser estendido com lançamentos subsequentes do mesmo feitiço. Se nenhum verme estiver presente quando o feitiço for lançado, ele não funcionará. Seu mestre de jogo deve anunciar com antecedência quando não houver nenhum verme à vista.
 
 **Ward (3)**
 
-**Alcance:** Toque, visão, etc.
+**Alcance**: Toque, visão, etc.
 
 Quando esse feitiço é lançado, o feiticeiro deve caminhar e definir uma linha de 15 metros ou menos de comprimento ou um círculo de 15 metros ou menos de diâmetro. Depois disso, o feiticeiro se tornará automaticamente consciente na primeira vez que qualquer inimigo cruzar a linha ou entrar no círculo. Quando o feitiço é lançado, ele está pronto para ser usado, mas não é ativado de fato até que a linha seja cruzada. Não é necessário nenhum esforço adicional para manter o feitiço e, em um caminho ou área pouco percorrida, pode levar anos até que alguém o ative e alerte o lançador. Feitiços como Witch Sight ou outros meios de detecção de feitiçaria ou magia podem identificar uma Ward. Desfazer Feitiçaria 3 elimina uma Ala.
 
 **Wings of the Sky (4)**
 
-**Alcance:** Visão
+**Alcance**: Visão
 
 Esse feitiço faz com que uma massa turbulenta de ar apareça repentinamente em uma pequena sala ou em uma pequena área aberta durante a duração do feitiço. Ela tem uma força de vento de STR 2D6+6; aqueles que forem pegos por ela devem ser bem-sucedidos em uma rolagem de Agilidade *Difícil* para permanecerem de pé. Esse feitiço deve ser conhecido antes que os elementais do ar possam ser convocados ou invocados com o feitiço Summon Elemental. Undo Sorcery 4 pode anular esse feitiço, mas qualquer ar que tenha chegado permanecerá. Fires of the Sun cancela esse feitiço se for lançado na mesma área.
 
 **Sabedoria do Sábio (1-3)
 
-**Alcance:** Toque, visão, etc.
+**Alcance**: Toque, visão, etc.
 
 A INT atual do alvo é aumentada em +3 pontos por nível, além de modificar quaisquer rolagens de características relevantes ou outros atributos aplicáveis.
 
@@ -2117,7 +2117,7 @@ Quando Wisdom of the Sage 3 for lançado para o aumento máximo de +9 pontos, ro
 
 **Visão da Bruxa (3)**
 
-**Alcance:** Próprio, 100 metros de visão
+**Alcance**: Próprio, 100 metros de visão
 
 O feiticeiro aprende a força aproximada do POW de um alvo em comparação com o seu, definido como: muito mais forte (mais que o dobro do POW do lançador); mais forte (até o dobro); igual (dentro de um ou dois pontos); mais fraco (até a metade); ou muito mais fraco (menos da metade).
 
@@ -2149,10 +2149,10 @@ Os superpoderes que precisam ser direcionados ao alvo usam Brawl, Throw ou Proje
 
 Após determinar as características iniciais, determine o orçamento inicial de pontos de personagem de seu personagem, com base nas características ainda não modificadas de seu personagem (STR, DEX, INT, etc.), da seguinte forma:
 
-- Normal:** Característica mais alta ×½ (arredondar para cima).
-- Heroico:** Não modificado.
-- Épico:** Característica mais alta ×2.
-- Super-humano:** Adicione todas as características juntas.
+- Normal**: Característica mais alta ×½ (arredondar para cima).
+- Heroico**: Não modificado.
+- Épico**: Característica mais alta ×2.
+- Super-humano**: Adicione todas as características juntas.
 
 Como alternativa, seu mestre de jogo pode simplesmente determinar que o orçamento inicial de pontos de personagem seja algo como 10 para um jogo de poder inferior, 20 para um jogo heroico, 35 para um jogo épico e 75+ para o nível de poder sobre-humano. Isso pode ser modificado por meio de falhas de personagem ou modificadores de poder (consulte as seções relevantes abaixo).
 
@@ -2253,10 +2253,10 @@ Se houver pontos remanescentes do seu orçamento de pontos de personagem, eles n
 
 Os superpoderes são tratados de forma diferente da habilidade e da experiência característica. Eles não melhoram como as habilidades normais (a habilidade Projeção é uma exceção) e seguem métodos diferentes de avanço.
 
-- Aprimoramento de característica:** Quando a experiência é determinada, qualquer rolagem de aprimoramento de característica bem-sucedida pode ser atribuída a qualquer outra característica que possa ser aprimorada por experiência, totalmente ou dividida entre várias características. Consulte **Aumento de características** para obter mais informações. Esses pontos de característica também podem ser transformados em uma quantidade equivalente de pontos de orçamento de poder do personagem (consulte **Super Característica**) em vez de serem usados para melhorar uma característica.
-- Treinamento:** Seu personagem pode passar o tempo entre as aventuras treinando um poder (supondo que haja um treinador ou uma instalação adequada disponível). O treinador deve ter o poder desejado em um nível mais alto ou algum conhecimento equivalente e apropriado. Consulte **Características crescentes**. Na conclusão do treinamento, role como se uma característica de sua escolha estivesse sendo aprimorada (geralmente 1D3-1) e transforme esses pontos em pontos de orçamento de poder de personagem, conforme descrito acima.
-- Prêmios de orçamento de pontos de personagem:** Seu mestre de jogo pode optar por recompensar pontos de orçamento de poder de personagem na conclusão de uma aventura ou na resolução de uma trama importante. Os valores sugeridos são de 1 ou 2 pontos para uma aventura menor ou média, até 5 a 10 pontos para uma vitória importante, ajustados pelo nível de poder do jogo. Esses pontos podem ser gastos imediatamente ou armazenados para uso posterior.
-- Novas falhas de personagem ou modificadores de poder:** Você também pode ganhar pontos adicionais ao assumir novas falhas de personagem ou modificadores de poder, muitas vezes motivados por eventos no jogo ou por ameaças emergentes. Seu gamemaster pode limitar o número máximo de pontos ganhos dessa forma ou aprovar quaisquer elementos baseados em forças externas (personagens não jogadores, organizações etc.).
+- Aprimoramento de característica**: Quando a experiência é determinada, qualquer rolagem de aprimoramento de característica bem-sucedida pode ser atribuída a qualquer outra característica que possa ser aprimorada por experiência, totalmente ou dividida entre várias características. Consulte **Aumento de características** para obter mais informações. Esses pontos de característica também podem ser transformados em uma quantidade equivalente de pontos de orçamento de poder do personagem (consulte **Super Característica**) em vez de serem usados para melhorar uma característica.
+- Treinamento**: Seu personagem pode passar o tempo entre as aventuras treinando um poder (supondo que haja um treinador ou uma instalação adequada disponível). O treinador deve ter o poder desejado em um nível mais alto ou algum conhecimento equivalente e apropriado. Consulte **Características crescentes**. Na conclusão do treinamento, role como se uma característica de sua escolha estivesse sendo aprimorada (geralmente 1D3-1) e transforme esses pontos em pontos de orçamento de poder de personagem, conforme descrito acima.
+- Prêmios de orçamento de pontos de personagem**: Seu mestre de jogo pode optar por recompensar pontos de orçamento de poder de personagem na conclusão de uma aventura ou na resolução de uma trama importante. Os valores sugeridos são de 1 ou 2 pontos para uma aventura menor ou média, até 5 a 10 pontos para uma vitória importante, ajustados pelo nível de poder do jogo. Esses pontos podem ser gastos imediatamente ou armazenados para uso posterior.
+- Novas falhas de personagem ou modificadores de poder**: Você também pode ganhar pontos adicionais ao assumir novas falhas de personagem ou modificadores de poder, muitas vezes motivados por eventos no jogo ou por ameaças emergentes. Seu gamemaster pode limitar o número máximo de pontos ganhos dessa forma ou aprovar quaisquer elementos baseados em forças externas (personagens não jogadores, organizações etc.).
 
 Outros métodos de adicionar pontos de orçamento podem ser sugeridos pelo seu mestre de jogo, conforme apropriado.
 
@@ -2282,83 +2282,83 @@ Essa habilidade opcional é usada pelos super-heróis para "disparar" ou direcio
 
 **Projeção**
 
-**Chance base:** DEX×2 Categoria: Físico
+**Chance base**: DEX×2 Categoria: Físico
 
 Use essa habilidade para direcionar ataques potentes a um alvo usando poderes como Energy Projection (Projeção de energia), Snare Projection (Projeção de laço) e outros. Escolha como seu personagem emite esse poder - mãos, olhos ou de um dispositivo. Quando o poder é usado, em uma falha, os pontos de poder são perdidos; consulte a **Tabela de falhas de armas de mísseis** para obter orientação adicional (interpretada conforme necessário). A falha passa longe do alvo: role 1D4 para ver se a projeção cai na frente, atrás, à direita ou à esquerda do alvo. Faça um teste de Sorte para evitar danos colaterais, como atingir um espectador inocente, um aliado ou causar danos estruturais. O sucesso atinge o alvo, e um sucesso especial o atinge com precisão adicional e pode causar dano adicional ou ter um efeito aumentado. Um crítico, como sempre, é perfeitamente executado para obter o efeito máximo. Se for um poder de combate, use a orientação para sucessos especiais e críticos.
 
-**Notas do sistema:** O modificador de dano do seu personagem nunca é incluído em nenhum superpoder projetado. A linha de visão é necessária para a projeção. Os modificadores que se aplicam a ataques de mísseis ou de longo alcance também se aplicam. A projeção pode ser usada para **Ataques com mira**. A projeção pode ser desviada, como uma arma de mísseis, embora a rolagem de esquiva possa ser *difícil* (consulte **Desviar de armas de mísseis**).
+**Notas do sistema**: O modificador de dano do seu personagem nunca é incluído em nenhum superpoder projetado. A linha de visão é necessária para a projeção. Os modificadores que se aplicam a ataques de mísseis ou de longo alcance também se aplicam. A projeção pode ser usada para **Ataques com mira**. A projeção pode ser desviada, como uma arma de mísseis, embora a rolagem de esquiva possa ser *difícil* (consulte **Desviar de armas de mísseis**).
 
 **Resumo dos superpoderes**
 
 Esses são os superpoderes desta seção.
 
-**Absorção:** Absorve a energia de um ataque e a transforma em pontos de energia.
+**Absorção**: Absorve a energia de um ataque e a transforma em pontos de energia.
 
-**Adaptação:** Cada nível permite a sobrevivência em um ambiente hostil.
+**Adaptação**: Cada nível permite a sobrevivência em um ambiente hostil.
 
-**Forma alternativa:** Cada nível é um corpo alternativo para o qual se pode mudar.
+**Forma alternativa**: Cada nível é um corpo alternativo para o qual se pode mudar.
 
-**Armadura:** Cada nível fornece 1 ponto de proteção contra um tipo específico de energia.
+**Armadura**: Cada nível fornece 1 ponto de proteção contra um tipo específico de energia.
 
-**Barreira:** Cada nível cria uma seção de 1 metro quadrado de parede protetora.
+**Barreira**: Cada nível cria uma seção de 1 metro quadrado de parede protetora.
 
-**Defesa:** Reduz a chance de ser atingido em -1% por nível.
+**Defesa**: Reduz a chance de ser atingido em -1% por nível.
 
-**Controle de densidade:** Cada nível adiciona ou subtrai 1 ponto de densidade (SIZ).
+**Controle de densidade**: Cada nível adiciona ou subtrai 1 ponto de densidade (SIZ).
 
 **Diminuir/Aumentar característica**: Diminui ou aumenta uma característica em 1D6 por nível.
 
-**Drenagem:** Cada nível drena 1 ponto de vida, ponto de energia, ponto de fadiga ou ponto de sanidade de um alvo.
+**Drenagem**: Cada nível drena 1 ponto de vida, ponto de energia, ponto de fadiga ou ponto de sanidade de um alvo.
 
-**Controle de energia:** Permite a criação e o controle de um tipo específico de energia.
+**Controle de energia**: Permite a criação e o controle de um tipo específico de energia.
 
-**Projeção de energia:** Permite a projeção de um feixe focalizado de energia prejudicial.
+**Projeção de energia**: Permite a projeção de um feixe focalizado de energia prejudicial.
 
 **Energia extra**: Cada nível fornece +10 pontos de energia adicionais.
 
-**Pontos de vida extras:** Cada nível fornece +1 ponto de vida adicional.
+**Pontos de vida extras**: Cada nível fornece +1 ponto de vida adicional.
 
-**Voo:** Cada nível permite o voo autônomo por 1 ponto de SIZ.
+**Voo**: Cada nível permite o voo autônomo por 1 ponto de SIZ.
 
 **Campo de força: Cada nível oferece 1 ponto de proteção contra um tipo específico de energia.
 
-**Intangibilidade:** Permite a movimentação através de objetos sólidos.
+**Intangibilidade**: Permite a movimentação através de objetos sólidos.
 
-**Invisibilidade:** Cada nível torna 1 ponto de SIZ invisível.
+**Invisibilidade**: Cada nível torna 1 ponto de SIZ invisível.
 
-**Salto:** Aumenta a distância normal de salto, horizontal e verticalmente.
+**Salto**: Aumenta a distância normal de salto, horizontal e verticalmente.
 
-**Proteção:** Cada nível reduz o nível de um tipo de energia de ataque.
+**Proteção**: Cada nível reduz o nível de um tipo de energia de ataque.
 
-**Regeneração:** Cada nível devolve 1 ponto de vida perdido por rodada de combate.
+**Regeneração**: Cada nível devolve 1 ponto de vida perdido por rodada de combate.
 
-**Resistência:** Cada nível resiste a 1 ponto de dano de um único tipo de energia.
+**Resistência**: Cada nível resiste a 1 ponto de dano de um único tipo de energia.
 
-**Sidekick:** Um personagem associado leal.
+**Sidekick**: Um personagem associado leal.
 
-**Mudança de tamanho:** Cada nível adiciona ou subtrai 1 ponto de SIZ.
+**Mudança de tamanho**: Cada nível adiciona ou subtrai 1 ponto de SIZ.
 
-**Projeção de laço:** Cada nível equivale a 1 STR e/ou SIZ de uma rede, teia, corda ou outro laço de confinamento.
+**Projeção de laço**: Cada nível equivale a 1 STR e/ou SIZ de uma rede, teia, corda ou outro laço de confinamento.
 
-**Alongamento:** Alongar o corpo em diferentes tamanhos e formas.
+**Alongamento**: Alongar o corpo em diferentes tamanhos e formas.
 
-**Supercaracterística:** Pontos extras em STR, CON, SIZ, INT, POW, DEX, CHA ou EDU.
+**Supercaracterística**: Pontos extras em STR, CON, SIZ, INT, POW, DEX, CHA ou EDU.
 
-**Super Movimento:** Cada tipo envolve um método único de movimento.
+**Super Movimento**: Cada tipo envolve um método único de movimento.
 
-**Super senso:** Cada tipo melhora um senso existente ou adiciona um aspecto extraordinário ao senso.
+**Super senso**: Cada tipo melhora um senso existente ou adiciona um aspecto extraordinário ao senso.
 
-**Super-habilidade:** Cada nível adiciona +20% a uma habilidade específica.
+**Super-habilidade**: Cada nível adiciona +20% a uma habilidade específica.
 
-**Supervelocidade:** Cada nível acrescenta uma ação ou movimento adicional a cada rodada de combate.
+**Supervelocidade**: Cada nível acrescenta uma ação ou movimento adicional a cada rodada de combate.
 
-**Teletransporte:** Cada nível permite o teletransporte instantâneo de 1 ponto de SIZ de um objeto ou alvo.
+**Teletransporte**: Cada nível permite o teletransporte instantâneo de 1 ponto de SIZ de um objeto ou alvo.
 
-**Transferência:** Cada nível permite a transferência de 1 ponto de vida, ponto de energia, ponto de fadiga ou ponto de sanidade para um alvo.
+**Transferência**: Cada nível permite a transferência de 1 ponto de vida, ponto de energia, ponto de fadiga ou ponto de sanidade para um alvo.
 
-**Combate desarmado:** Aumenta a habilidade em combate desarmado.
+**Combate desarmado**: Aumenta a habilidade em combate desarmado.
 
-**Controle do clima:** Altera ou cria o clima em uma área.
+**Controle do clima**: Altera ou cria o clima em uma área.
 
 **Tipos de energia**
 
@@ -2370,16 +2370,16 @@ Ao adquirir superpoderes, é aconselhável comprar níveis do mesmo superpoder, 
 
 Todos os principais tipos de energia estão resumidos abaixo para referência, bem como qualquer tipo de energia oposta.
 
-- Frio:** Temperaturas congelantes, desde o frio radiante até a neve, o granizo ou o gelo. O oposto é o calor.
-- Escuridão:** Representa a escuridão como um elemento que viola as leis da física. A energia da escuridão se comporta quase exatamente como a luz - pode formar feixes ou raios e preencher uma área, livrando-a da luz. A escuridão e a luz são opostas.
-- Elétrica:** Qualquer corrente galvânica, seja um raio ou uma corrente doméstica comum. A maioria dos dispositivos de armazenamento de energia (baterias) armazena eletricidade.
+- Frio**: Temperaturas congelantes, desde o frio radiante até a neve, o granizo ou o gelo. O oposto é o calor.
+- Escuridão**: Representa a escuridão como um elemento que viola as leis da física. A energia da escuridão se comporta quase exatamente como a luz - pode formar feixes ou raios e preencher uma área, livrando-a da luz. A escuridão e a luz são opostas.
+- Elétrica**: Qualquer corrente galvânica, seja um raio ou uma corrente doméstica comum. A maioria dos dispositivos de armazenamento de energia (baterias) armazena eletricidade.
 - Gravidade: Tanto a força quanto a capacidade de manipulá-la. Isso pode ser uma alteração da gravidade normal ou gerá-la onde ela quase não existe, como no espaço profundo.
-- Calor:** Calor radiante até o fogo intenso que se transforma em plasma. Calor e frio são opostos.
+- Calor**: Calor radiante até o fogo intenso que se transforma em plasma. Calor e frio são opostos.
 - Cinética: Qualquer força física, desde um soco, um tiro, um golpe de espada até o impacto de uma queda. A energia cinética é a mais comum, pois é a mais fácil de gerar.
-- Luz:** Seja ambiente ou laser, ela abrange toda a luz. Ela também se estende aos espectros ultravioleta e infravermelho. Luz e escuridão são opostos.
-- Magnética:** A força que atrai ou repele objetos ou substâncias metálicas.
-- Radiação:** Termo geral para qualquer radiação atômica, nuclear, de fusão, beta, gama, de micro-ondas, cósmica ou outro tipo de radiação.
-- Som:** Ondas sonoras, de inaudíveis a ensurdecedoras. Embora o poder Silence cancele a energia sonora, ele não é um tipo de energia em si.
+- Luz**: Seja ambiente ou laser, ela abrange toda a luz. Ela também se estende aos espectros ultravioleta e infravermelho. Luz e escuridão são opostos.
+- Magnética**: A força que atrai ou repele objetos ou substâncias metálicas.
+- Radiação**: Termo geral para qualquer radiação atômica, nuclear, de fusão, beta, gama, de micro-ondas, cósmica ou outro tipo de radiação.
+- Som**: Ondas sonoras, de inaudíveis a ensurdecedoras. Embora o poder Silence cancele a energia sonora, ele não é um tipo de energia em si.
 - Vento: Correntes de ar concentradas fortes o suficiente para impedir ou prejudicar um alvo.
 
 Sua configuração pode ter tipos de energia adicionais. Use as descrições acima como diretrizes.
@@ -2399,20 +2399,20 @@ Quando mais de um desses quatro superpoderes estiver em vigor, trate-os em ordem
 
 Ao contrário das habilidades, o uso de superpoderes é sempre claro para ser interpretado. Muitos têm efeitos que são "ativados" ou "desativados", sem diferença entre um sucesso crítico, especial ou normal. As diretrizes abaixo podem ajudar o seu mestre de jogo a decidir os resultados da rolagem da habilidade de superpoder.
 
-- Fumble:** Os pontos de poder são perdidos e o personagem não pode usar esse superpoder por uma rodada de combate após a rodada do fumble. Se o superpoder normalmente causa dano, faça uma rolagem de Sorte. O sucesso significa que o poder simplesmente não funciona. Falha significa que o superpoder atingiu um alvo não intencional (espectador inocente, equipamento valioso, etc.), causando danos colaterais e potencialmente complicando a situação. Alguns superpoderes podem ter consequências adicionais para falhas.
-- Falha:** O poder é bem-sucedido e falha ou não funciona. Ele não causa nenhum dano ou complicação. Os pontos de poder são perdidos.
-- Sucesso:** O superpoder funciona conforme descrito e os pontos de poder são gastos.
-- Especial:** O superpoder funciona com eficácia aumentada. Se um tipo de dano especial de sucesso (esmagamento, emaranhamento, empalamento, repulsão ou corte) for apropriado, incorpore-o ao resultado. A critério do seu mestre de jogo, outro aspecto do poder (alcance, influência etc.) pode ter efeito dobrado. Alternativamente, se o poder envolver uma rolagem de resistência, aumente o nível do superpoder pela metade novamente ou a característica (arredondando para cima) para a rolagem de resistência.
-- Crítico:** O superpoder funciona perfeitamente. Se normalmente causar dano, ele ignora qualquer armadura que o alvo possua e tem o efeito de um sucesso especial (acima). Se normalmente não causar dano, o mestre do jogo deve determinar um aspecto (ou aspectos) apropriado(s) do superpoder e dobrar sua eficácia. Como alternativa, se for necessária uma rolagem de resistência, dobre o nível do superpoder ou a característica relevante para a rolagem de resistência.
+- Fumble**: Os pontos de poder são perdidos e o personagem não pode usar esse superpoder por uma rodada de combate após a rodada do fumble. Se o superpoder normalmente causa dano, faça uma rolagem de Sorte. O sucesso significa que o poder simplesmente não funciona. Falha significa que o superpoder atingiu um alvo não intencional (espectador inocente, equipamento valioso, etc.), causando danos colaterais e potencialmente complicando a situação. Alguns superpoderes podem ter consequências adicionais para falhas.
+- Falha**: O poder é bem-sucedido e falha ou não funciona. Ele não causa nenhum dano ou complicação. Os pontos de poder são perdidos.
+- Sucesso**: O superpoder funciona conforme descrito e os pontos de poder são gastos.
+- Especial**: O superpoder funciona com eficácia aumentada. Se um tipo de dano especial de sucesso (esmagamento, emaranhamento, empalamento, repulsão ou corte) for apropriado, incorpore-o ao resultado. A critério do seu mestre de jogo, outro aspecto do poder (alcance, influência etc.) pode ter efeito dobrado. Alternativamente, se o poder envolver uma rolagem de resistência, aumente o nível do superpoder pela metade novamente ou a característica (arredondando para cima) para a rolagem de resistência.
+- Crítico**: O superpoder funciona perfeitamente. Se normalmente causar dano, ele ignora qualquer armadura que o alvo possua e tem o efeito de um sucesso especial (acima). Se normalmente não causar dano, o mestre do jogo deve determinar um aspecto (ou aspectos) apropriado(s) do superpoder e dobrar sua eficácia. Como alternativa, se for necessária uma rolagem de resistência, dobre o nível do superpoder ou a característica relevante para a rolagem de resistência.
 
 Esses resultados podem exigir interpretação adicional, ou o mestre de jogo pode simplesmente usar os resultados dos lançamentos de dados sem nenhum ajuste para os graus de sucesso.
 
 Cada potência nesta seção é descrita da seguinte maneira:
 
-- Alcance básico:** "Self" é interno ao super-herói, "Touch" indica alcance próximo e "15 metros" é o alcance padrão. Muitos superpoderes de longo alcance ganham alcance adicional com níveis adicionais.
-- Duração:** Os superpoderes "instantâneos" funcionam imediatamente no nível de DEX (ou ataque) em que são usados. Outros superpoderes funcionam por uma ou mais rodadas de combate, desde o momento em que são usados até o final da rodada de combate especificada. "Sempre ligado" significa que o poder está ativo até ser desativado. Esses poderes são reativados automaticamente sempre que desejado.
-- Custo do poder:** O custo por nível.
-- Custo em pontos de poder:** O número de pontos de poder que o superpoder custa para ser ativado e/ou mantido ativo.
+- Alcance básico**: "Self" é interno ao super-herói, "Touch" indica alcance próximo e "15 metros" é o alcance padrão. Muitos superpoderes de longo alcance ganham alcance adicional com níveis adicionais.
+- Duração**: Os superpoderes "instantâneos" funcionam imediatamente no nível de DEX (ou ataque) em que são usados. Outros superpoderes funcionam por uma ou mais rodadas de combate, desde o momento em que são usados até o final da rodada de combate especificada. "Sempre ligado" significa que o poder está ativo até ser desativado. Esses poderes são reativados automaticamente sempre que desejado.
+- Custo do poder**: O custo por nível.
+- Custo em pontos de poder**: O número de pontos de poder que o superpoder custa para ser ativado e/ou mantido ativo.
 
 Uma descrição do superpoder e de seus efeitos. Essa descrição refere-se a outros sistemas de jogo com os quais o superpoder interage ou dos quais depende.
 
@@ -2420,13 +2420,13 @@ Conforme observado anteriormente, esses poderes têm títulos genéricos: você 
 
 **Absorção
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Sempre ligado
+**Duração**: Sempre ligado
 
-**Custo de pontos de personagem:** 3 por nível
+**Custo de pontos de personagem**: 3 por nível
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 Cada nível absorve 1 ponto de dano de um tipo de energia (consulte **Tipos de energia**) e o armazena na própria fonte de pontos de energia do super-herói ou em alguma "bateria" ou dispositivo. A capacidade de pontos de energia do super-herói e/ou da bateria deve ter espaço suficiente para os pontos de energia, ou o excesso de dano afetará o super-herói.
 
@@ -2436,13 +2436,13 @@ A energia absorvida com esse poder não pode ser retirada de uma bateria externa
 
 **Adaptação
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** 1 volta completa
+**Duração**: 1 volta completa
 
-**Custo de pontos de personagem:** 3 por nível
+**Custo de pontos de personagem**: 3 por nível
 
-**Custo de pontos de energia:** 1 ponto de energia por SIZ para ativar, depois 1 ponto de energia por turno completo
+**Custo de pontos de energia**: 1 ponto de energia por SIZ para ativar, depois 1 ponto de energia por turno completo
 
 Cada nível permite a sobrevivência em um outro ambiente, como debaixo d'água ou no vácuo. A critério do seu mestre de jogo, a adaptação a um ambiente pode oferecer proteção limitada ou total contra ambientes relacionados (a sobrevivência no vácuo pode oferecer alguma proteção contra o frio intenso). O equipamento geralmente é protegido contra os efeitos adversos do ambiente, se apropriado. Escreva assim: 'Adaptação (ambiente)'.
 
@@ -2464,13 +2464,13 @@ Os ambientes adversos são descritos no *Capítulo 7: Spot Rules*. Em caso de d�
 
 **Formulário alternativo
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de personagem:** 20 por formulário
+**Custo de pontos de personagem**: 20 por formulário
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 Cada nível fornece um corpo alternativo para ser trocado, geralmente um mais adequado para a aventura. Esse corpo substitui o corpo natural do personagem e pode representar uma transformação (como um lobisomem) ou uma troca total de lugar (um corpo de super-herói). Essa transformação é instantânea ou quase instantânea, sendo concluída em uma única rodada de combate.
 
@@ -2492,13 +2492,13 @@ Esse poder é mais bem empregado com os vários modificadores de poder e falhas 
 
 **Armadura
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Sempre ativo ou 10 rodadas de combate
+**Duração**: Sempre ativo ou 10 rodadas de combate
 
-**Custo de pontos de personagem:** 1 por nível e por tipo
+**Custo de pontos de personagem**: 1 por nível e por tipo
 
-**Custo em pontos de energia:** Nenhum, ou 1 por nível a cada 10 rodadas de combate
+**Custo em pontos de energia**: Nenhum, ou 1 por nível a cada 10 rodadas de combate
 
 Cada nível fornece 1 ponto de armadura contra um tipo específico de ataque. Essa proteção pode ser pele resistente, escamas endurecidas, chapa de aço etc. Quando comprada, o tipo de energia contra o qual se destina a proteger deve ser escolhido entre **Energy Types** e listado como "Armor (Kinetic)". A compra de armadura contra vários tipos de dano custa igualmente o nível multiplicado pelo número de tipos de energia contra os quais ela protege.
 
@@ -2508,17 +2508,17 @@ A armadura que funciona como um campo de força que precisa de pontos de energia
 
 **Barreira
 
-**Alcance da base:** 15 metros
+**Alcance da base**: 15 metros
 
-**Duração:** 15 minutos
+**Duração**: 15 minutos
 
-**Custo de pontos de personagem:** 3 por nível
+**Custo de pontos de personagem**: 3 por nível
 
-**Custo de pontos de energia:** 3 por nível
+**Custo de pontos de energia**: 3 por nível
 
 Isso cria uma obstrução semelhante a uma parede a partir do solo ou a forma com o material disponível. Como alternativa, a barreira pode ser formada por um tipo de energia gerada por outro poder - embora esse poder deva ser usado previamente. A barreira geralmente é colocada para proteger contra ataques ou atacantes, embora possa aparecer em qualquer lugar dentro do alcance. Cada nível fornece uma barreira de 1 metro de espessura, 1 metro de largura e 1 metro de altura. Esses metros quadrados podem ser distribuídos como você desejar ao longo das dimensões de largura, altura e comprimento, ou podem ser mais finos. Essa barreira pode ser moldada em qualquer forma simples: uma parede reta ou curva, meia-esfera etc. Qualquer que seja a configuração, a base deve estar apoiada no chão. Ao criar a barreira, decida o tamanho dela, usando altura × espessura × comprimento em metros para determinar os níveis e o custo do ponto de energia. Quaisquer múltiplos extras podem ser distribuídos conforme desejado em qualquer lugar ao longo do comprimento da barreira.
 
-**Por exemplo, a *Barreira 9 pode criar uma barreira de 1 metro de espessura, 3 metros de altura e 3 metros de comprimento (1×3×3=9).
+**Por exemplo,** a *Barreira 9 pode criar uma barreira de 1 metro de espessura, 3 metros de altura e 3 metros de comprimento (1×3×3=9).
 
 Uma barreira não pode ser criada no ar para cair sobre um oponente, embora uma barreira alta e fina possa ser derrubada sobre um inimigo. Se usada dessa forma, ela causa 1D6 pontos de dano por seção de 1 metro que atinge um oponente (se ele não se esquivar com sucesso). Uma barreira composta por um tipo de energia (consulte **Tipos de energia**) pode ter propriedades adicionais, como uma barreira de fogo que causa dano incendiário àqueles que tentarem contorná-la.
 
@@ -2526,25 +2526,25 @@ Independentemente de sua substância, uma barreira tem 30 pontos de vida. Cada m
 
 **Defesa
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Sempre ligado
+**Duração**: Sempre ligado
 
-**Custo de pontos de personagem:** 1 por nível
+**Custo de pontos de personagem**: 1 por nível
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 Esse poder modifica todos os ataques feitos contra o personagem em -5% por nível. Isso não aumenta com a experiência, mas se acumula com outros fatores que reduzem a chance de um atacante atingir o personagem, como o Unarmed Combat (Combate desarmado). Os níveis são limitados à DEX+POW do personagem, mas se forem permitidas classificações de habilidade de ataque acima de 100%, ignore essa restrição.
 
 **Controle de densidade**
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Variável
+**Duração**: Variável
 
-**Custo de pontos de personagem:** 1 por nível
+**Custo de pontos de personagem**: 1 por nível
 
-**Custo de pontos de energia:** 1 por nível por rodada de combate
+**Custo de pontos de energia**: 1 por nível por rodada de combate
 
 Esse poder permite que o personagem aumente ou diminua sua densidade em ±1 SIZ por nível (para esse poder, SIZ é o peso e não a massa física real). O Controle de Densidade permite tanto o aumento quanto a diminuição da densidade, ao contrário da Mudança de Tamanho, e não confere Intangibilidade.
 
@@ -2556,13 +2556,13 @@ Consulte **Exemplos de tamanho de objeto** para obter informações sobre o peso
 
 **Diminuir/Aumentar característica**
 
-**Alcance de base:** Toque
+**Alcance de base**: Toque
 
-**Duração:** 10 rodadas de combate
+**Duração**: 10 rodadas de combate
 
-**Custo de pontos de personagem:** 5 por nível
+**Custo de pontos de personagem**: 5 por nível
 
-**Custo de pontos de energia:** 1 por nível
+**Custo de pontos de energia**: 1 por nível
 
 Esse poder diminui ou aumenta uma característica (STR, CON, DEX, INT, POW ou CHA) em 1D6 por nível. Se o alvo não estiver disposto, vença-o com uma rolagem de resistência de ponto de poder atual vs. ponto de poder atual. Não é necessário rolar para um alvo disposto. Os efeitos são temporários (exceto para pontos de vida, veja abaixo) e afetam o modificador de dano, as rolagens de características, o nível de DEX, os pontos de energia ou os pontos de fadiga do alvo, conforme apropriado. As características aprimoradas ultrapassam o máximo normal permitido para as características roladas (geralmente 21 para humanos). Se os modificadores de características forem usados, esses modificadores serão afetados.
 
@@ -2574,22 +2574,22 @@ Qualquer pessoa reduzida a CON 0 fica em coma durante a duração do poder, e um
 
 **Drenagem
 
-**Alcance de base:** Toque
+**Alcance de base**: Toque
 
-**Duração:** 1 rodada de combate
+**Duração**: 1 rodada de combate
 
-**Custo de Pontos de Personagem:** 10 por nível para pontos de vida, 5 por nível para outros (fadiga, poder ou pontos de sanidade)
+**Custo de Pontos de Personagem**: 10 por nível para pontos de vida, 5 por nível para outros (fadiga, poder ou pontos de sanidade)
 
-**Custo de pontos de energia:** 1 por nível por rodada de combate
+**Custo de pontos de energia**: 1 por nível por rodada de combate
 
 O Drain permite que o personagem drene pontos de vida, pontos de energia, pontos de fadiga ou pontos de sanidade de outro personagem e os adicione aos seus próprios pontos. Quando esse poder for adquirido, designe o recurso que ele drena, como "Drain (Hit Points)". Para drenar mais de um recurso, é necessário usar o poder várias vezes.
 
 O método de drenagem pode variar bastante (agarrar, morder, apertar a mão etc.), mas deve envolver contato físico por pelo menos uma rodada completa de combate. Isso pode exigir uma tentativa bem-sucedida de Grapple em combate ou uma rolagem de Agility se estiver fora de combate. Nenhum rolamento é necessário para um alvo imóvel ou disposto, e contra um alvo desavisado o rolamento é *Fácil*. Para continuar a drenar um alvo em rodadas sucessivas, a manobra necessária (Grapple, etc.) deve ser rolada novamente. Depois que o contato for estabelecido, derrote o alvo em uma rolagem de resistência de ponto de energia atual vs. ponto de energia atual. A falha significa que a manobra não tem efeito e o alvo pode tentar se libertar. Para um alvo disposto, não é necessário rolar a resistência. Se for bem-sucedido, o recurso drenado é transferido do alvo para o personagem na fase de Poderes da próxima rodada. A taxa dessa transferência é de 1D6 pontos por nível por rodada de combate, com níveis adicionais drenando mais pontos (o nível 2 drena 2D6, o nível 3 drena 3D6 etc.).
 
-- Pontos de vida:** Enquanto estiver sendo drenado, o alvo deve fazer uma rolagem de esforço bem-sucedida para agir. Se o total de pontos de vida do alvo chegar a 1 ou 2, ele ficará inconsciente. Se o total de pontos de vida chegar a 0, ele morrerá no início da próxima rodada de combate (consulte Hit Points). Quaisquer pontos de vida acima do total normal de pontos de vida do drenador são perdidos. Os pontos de vida drenados retornam normalmente.
-- Pontos de poder:** Enquanto estiver sendo drenado, o alvo deve fazer uma rolagem de Sorte bem-sucedida para agir. Se o total de pontos de energia do alvo chegar a 0, ele ficará inconsciente. O drenador pode armazenar pontos de energia acima e além do máximo de pontos de energia normal: esses pontos são temporários. Eles não são recuperados quando gastos e se dissipam quando o total normal de pontos de energia é restaurado. O máximo de pontos de energia "extras" é igual ao máximo de pontos de energia do drenador mais os níveis de Drain. Os pontos de energia drenados retornam normalmente.
-- Pontos de fadiga:** Os pontos de fadiga são opcionais, portanto, se não forem usados, essa escolha não poderá ser feita. Enquanto estiver sendo drenado, o alvo deve fazer uma rolagem de Stamina bem-sucedida para agir. Se o total de pontos de fadiga do alvo ficar abaixo de 0, ele sofrerá penalidades (consulte **Fadiga**). Quaisquer pontos de fadiga acima do total normal de pontos de fadiga do drenador são perdidos. Os pontos de fadiga drenados retornam normalmente.
-- Pontos de Sanidade:** Enquanto estiver sendo drenado, o alvo deve fazer uma rolagem de Ideia bem-sucedida para agir. Um alvo que ficar com menos de 0 pontos de sanidade agora está irremediavelmente insano e deve se tornar um personagem não-jogador (se ainda não o for). Consulte as regras para perda de pontos de sanidade. O drenador pode transferir quantos pontos de sanidade desejar, até o máximo permitido (consulte **Sanidade máxima**). Os pontos de sanidade drenados não retornam.
+- Pontos de vida**: Enquanto estiver sendo drenado, o alvo deve fazer uma rolagem de esforço bem-sucedida para agir. Se o total de pontos de vida do alvo chegar a 1 ou 2, ele ficará inconsciente. Se o total de pontos de vida chegar a 0, ele morrerá no início da próxima rodada de combate (consulte Hit Points). Quaisquer pontos de vida acima do total normal de pontos de vida do drenador são perdidos. Os pontos de vida drenados retornam normalmente.
+- Pontos de poder**: Enquanto estiver sendo drenado, o alvo deve fazer uma rolagem de Sorte bem-sucedida para agir. Se o total de pontos de energia do alvo chegar a 0, ele ficará inconsciente. O drenador pode armazenar pontos de energia acima e além do máximo de pontos de energia normal: esses pontos são temporários. Eles não são recuperados quando gastos e se dissipam quando o total normal de pontos de energia é restaurado. O máximo de pontos de energia "extras" é igual ao máximo de pontos de energia do drenador mais os níveis de Drain. Os pontos de energia drenados retornam normalmente.
+- Pontos de fadiga**: Os pontos de fadiga são opcionais, portanto, se não forem usados, essa escolha não poderá ser feita. Enquanto estiver sendo drenado, o alvo deve fazer uma rolagem de Stamina bem-sucedida para agir. Se o total de pontos de fadiga do alvo ficar abaixo de 0, ele sofrerá penalidades (consulte **Fadiga**). Quaisquer pontos de fadiga acima do total normal de pontos de fadiga do drenador são perdidos. Os pontos de fadiga drenados retornam normalmente.
+- Pontos de Sanidade**: Enquanto estiver sendo drenado, o alvo deve fazer uma rolagem de Ideia bem-sucedida para agir. Um alvo que ficar com menos de 0 pontos de sanidade agora está irremediavelmente insano e deve se tornar um personagem não-jogador (se ainda não o for). Consulte as regras para perda de pontos de sanidade. O drenador pode transferir quantos pontos de sanidade desejar, até o máximo permitido (consulte **Sanidade máxima**). Os pontos de sanidade drenados não retornam.
 
 O drenador não precisa transferir os pontos drenados para si mesmo: ele pode permitir que eles se dissipem, sem receber nenhum benefício. Um personagem que drena vários recursos (pontos de vida e pontos de energia, por exemplo) pode tentar fazer isso no mesmo contato, mas deve fazer um teste de resistência separado para cada recurso drenado. Cada tipo de recurso adicional leva uma rodada de combate adicional: os alvos não podem ser drenados de vários recursos simultaneamente, embora o drenador possa alternar turno a turno.
 
@@ -2599,11 +2599,11 @@ Esse superpoder é o oposto da transferência.
 
 **Alcance básico: 15 metros ou toque (quando estiver atacando)
 
-**Duração:** 1 rodada de combate
+**Duração**: 1 rodada de combate
 
-**Custo de pontos de personagem:** 3 por nível
+**Custo de pontos de personagem**: 3 por nível
 
-**Custo de pontos de energia:** 1 por nível a cada rodada de combate para ativar, 1 por rodada de combate para manter ativo
+**Custo de pontos de energia**: 1 por nível a cada rodada de combate para ativar, 1 por rodada de combate para manter ativo
 
 O Controle de Energia permite a manipulação de um único tipo de energia, gerando-a se ela ainda não estiver presente (consulte **Tipos de energia**). Cada tipo é um superpoder separado, escolhido quando o poder é adquirido e especificado como "Energy Control (Cold)" (Controle de energia (Cold)), "Energy Control (Darkness)" (Controle de energia (Darkness)) etc. Vários tipos de Controle de Energia devem ser comprados separadamente. Um conceito óbvio é adquirir vários poderes relacionados a um único tipo de energia, como Absorção, Armadura, Projeção de Energia, Resistência e Projeção de Laços, todos baseados no mesmo tipo.
 
@@ -2626,12 +2626,12 @@ A seguir, apresentamos diretrizes específicas para cada tipo de energia:
 - Controle de calor: Cada nível preenche 1 SIZ de uma área com chamas ou extingue a mesma quantidade de chamas existentes. Ela pode ser moldada e manipulada de outra forma, usada para incendiar um objeto, fornecer luz ou aquecer uma área. Se for direcionado contra um ser vivo, o alvo deve ser superado pelos níveis do superpoder versus seus pontos de poder em uma rolagem de resistência. O Heat Control causa 1D6 de dano por 10 níveis (arredondado para cima) ao alvo contra o qual é direcionado. O Heat Control também pode ser usado para derreter itens, usando o nível do poder versus o SIZ do objeto ou pontos de vida em uma rolagem de resistência, ajustando o SIZ do objeto com base em sua capacidade de derretimento. Cada rolagem de resistência bem-sucedida que derrete um objeto causa o nível do poder em dano ao objeto e reduz sua SIZ na mesma quantidade. Quando os pontos de vida ou o SIZ chegam a 0, o objeto é completamente derretido. O Heat Control cancela os efeitos do Cold Control em uma base de nível por nível.
 - Controle cinético: Exerça força esmagadora sobre um item ou oponente alvo, afetando uma área igual a 1 SIZ por nível. Se a CON do alvo for superada pelos níveis do superpoder em uma rolagem de resistência, ele sofrerá 1D6 de dano por 10 níveis (arredondado para cima) de força cinética pura. Se for direcionado contra um alvo não vivo, os pontos de vida atuais do objeto serão usados para a rolagem de resistência. Ele também pode inibir a força cinética em uma área, criando uma forma de armadura contra ataques ou ações físicas. Isso pode diminuir o dano de uma queda ou duplicar os efeitos da Armadura (Cinética), embora deva ser direcionada especificamente e dure apenas uma rodada de combate. Se não tiver certeza do que o Kinetic Control pode fazer, presuma que é o equivalente a um movimento rápido ou vigoroso, não sutil ou hábil.
 - Controle de luz: Cada nível preenche 1 ponto de SIZ de uma área ou ilumina 1 ponto de SIZ de um objeto com o brilho de uma lâmpada. A luz pode ser de qualquer cor desejada e pode ser estroboscópica, pulsar ou irradiar de qualquer fonte dentro do alcance. O Controle de Luz pode potencialmente cegar um alvo se atingi-lo nos olhos com um golpe bem-sucedido e ele for superado em uma rolagem de resistência dos níveis da superpotência vs. seus pontos de poder. Todas as ações baseadas na visão de um personagem cego tornam-se **difíceis** por uma rodada de combate, após a qual a cegueira desaparece. O controle da luz não causa dano. Formas adicionais de luz (infravermelha, ultravioleta, etc.) também podem ser criadas e usadas por esse poder, com efeitos a serem determinados por você e pelo seu mestre de jogo, usando os níveis do superpoder como diretriz. O Controle da Luz cancela os efeitos do Controle da Escuridão em uma base de nível por nível. Para saber a intensidade do laser, consulte Projeção de energia (luz).
-- Controle Magnético:** Afeta, magnetiza e manipula 1 SIZ por nível de metal ou substâncias metálicas, move-os usando magnetismo ou fixa um objeto metálico a outro magneticamente. O Magnetic Control não causa danos à maioria dos seres vivos, embora possa ser usado para danificar qualquer item mecânico com partes metálicas (use o SIZ do objeto em uma rolagem de resistência) e para interromper equipamentos eletrônicos ou apagar mídias eletrônicas armazenadas magneticamente (cartões de memória, discos rígidos, discos etc.). Se estiver usando o Magnetic Control contra uma força contrária, use o SIZ do objeto para um rolamento de resistência.
+- Controle Magnético**: Afeta, magnetiza e manipula 1 SIZ por nível de metal ou substâncias metálicas, move-os usando magnetismo ou fixa um objeto metálico a outro magneticamente. O Magnetic Control não causa danos à maioria dos seres vivos, embora possa ser usado para danificar qualquer item mecânico com partes metálicas (use o SIZ do objeto em uma rolagem de resistência) e para interromper equipamentos eletrônicos ou apagar mídias eletrônicas armazenadas magneticamente (cartões de memória, discos rígidos, discos etc.). Se estiver usando o Magnetic Control contra uma força contrária, use o SIZ do objeto para um rolamento de resistência.
 - Controle de radiação: Inunde uma área de 1 SIZ por nível com radiação equivalente a 1 potência (POT) por nível ou elimine-a na mesma área. Quando usado contra um ser vivo, derrote a CON do alvo na rolagem de resistência vs. o nível do superpoder. O Controle de Radiação inflige 1D6 de dano por 10 níveis (arredondado para cima) ao alvo. Para causar envenenamento por radiação, supere a CON+POW do alvo contra o nível do poder em uma rolagem de resistência. A natureza dessa radiação deve ser aprovada pelo seu gamemaster (consulte **Radiação**).
-- Controle de som:** Afeta 1 SIZ por nível de um objeto ou do som em uma área, silenciando-o, aumentando seu volume etc. Esse poder também pode duplicar formas sônicas ou ultrassônicas de som. Em combate, crie uma cacofonia ou uma explosão alta de som doloroso, usando o nível do superpoder versus a CON do alvo em uma rolagem de resistência. O sucesso significa que o alvo fica atordoado por 1D3 rodadas (consulte **Atordoar ou subjugar**). Além disso, enquanto durar o estado de atordoamento, os rolamentos da habilidade Ouvir do alvo serão Impossíveis e os rolamentos da habilidade mental serão *Difíceis*. Para usos menos ofensivos, crie ruídos fantasmas, imite sons, transfira o som de um lugar para outro (dentro do alcance) e até mesmo duplique qualquer som ouvido anteriormente (use uma rolagem de Ideia para determinar o quão corretamente o som é lembrado). O Controle do Som também pode destruir objetos inanimados, causando 1D6 pontos de dano por 10 níveis (arredondado para cima) a um objeto cujos pontos de vida ou CON sejam superados em uma rolagem de resistência. O Controle de Som pode se opor a si mesmo, bem como a outros ataques baseados em som, como a Projeção de Som.
+- Controle de som**: Afeta 1 SIZ por nível de um objeto ou do som em uma área, silenciando-o, aumentando seu volume etc. Esse poder também pode duplicar formas sônicas ou ultrassônicas de som. Em combate, crie uma cacofonia ou uma explosão alta de som doloroso, usando o nível do superpoder versus a CON do alvo em uma rolagem de resistência. O sucesso significa que o alvo fica atordoado por 1D3 rodadas (consulte **Atordoar ou subjugar**). Além disso, enquanto durar o estado de atordoamento, os rolamentos da habilidade Ouvir do alvo serão Impossíveis e os rolamentos da habilidade mental serão *Difíceis*. Para usos menos ofensivos, crie ruídos fantasmas, imite sons, transfira o som de um lugar para outro (dentro do alcance) e até mesmo duplique qualquer som ouvido anteriormente (use uma rolagem de Ideia para determinar o quão corretamente o som é lembrado). O Controle do Som também pode destruir objetos inanimados, causando 1D6 pontos de dano por 10 níveis (arredondado para cima) a um objeto cujos pontos de vida ou CON sejam superados em uma rolagem de resistência. O Controle de Som pode se opor a si mesmo, bem como a outros ataques baseados em som, como a Projeção de Som.
 - Controle do vento: Controle o vento, agitando as correntes de ar com uma força incrível, seja em linha reta ou em um redemoinho. Embora o Controle do Vento não cause danos diretos, ele pode se opor ao movimento dos inimigos, manter um alvo no lugar em um vórtice de vento, soprar algo sobre um alvo, impedir armas de mísseis usadas ao alcance, criar um tornado, encher uma vela com vento, atiçar um fogo até transformá-lo em um inferno ou apagar um incêndio. Use as regras de repulsão, usando o nível do poder, quando aplicável. O controle do vento não é sutil e seus efeitos costumam ser difíceis de controlar. Quando apropriado, use os níveis do poder em comparação com o tamanho ou a força de resistência do alvo em uma rolagem de resistência. **Condições climáticas** inclui outros efeitos que podem ser simulados usando o controle do vento.
 - Outra forma de controle de energia: Esta categoria abrange qualquer tipo indefinido ou novo de controle de energia que você e seu mestre de jogo possam criar. As diretrizes para os outros tipos de Controle de energia podem ser usadas para determinar os parâmetros para novos tipos de energia, com as seguintes diretrizes: 1 nível equivale a 1 ponto de SIZ de energia a ser manipulada ou gerada; se apropriado, o poder causará 1D6 pontos de dano por 10 níveis do poder (arredondado para cima); o alcance básico é de 15 metros. Em caso de dúvida, determine um meio pelo qual o superpoder possa ser usado em uma rolagem de resistência.
-- Controle de energia combinado:** Seu personagem pode combinar esses superpoderes se pagar o valor total de cada tipo de controle de energia. Cada aspecto do poder terá eficácia total, embora o dano seja rolado separadamente para cada tipo, pois o alvo pode ter diferentes tipos de Absorção, Armadura, Proteção ou Resistência. Os níveis dos tipos de Controle de Energia combinados não precisam ser equivalentes. Todos os efeitos especiais de cada tipo de Controle de Energia são adicionados a esse ataque. Para ataques combinados, cada uso custa a quantidade total de pontos de energia necessários para o poder.
+- Controle de energia combinado**: Seu personagem pode combinar esses superpoderes se pagar o valor total de cada tipo de controle de energia. Cada aspecto do poder terá eficácia total, embora o dano seja rolado separadamente para cada tipo, pois o alvo pode ter diferentes tipos de Absorção, Armadura, Proteção ou Resistência. Os níveis dos tipos de Controle de Energia combinados não precisam ser equivalentes. Todos os efeitos especiais de cada tipo de Controle de Energia são adicionados a esse ataque. Para ataques combinados, cada uso custa a quantidade total de pontos de energia necessários para o poder.
 
 Você e seu mestre de jogo devem discutir outros usos potenciais para cada tipo de energia, embora sempre que o uso do superpoder pareça duplicar outro poder, esse superpoder deve ser adquirido em seu lugar. Esse superpoder não concede imunidade ao tipo de energia que está sendo usado - em vez disso, o personagem é imune à liberação inicial da energia, mas é suscetível a ela posteriormente. Adquira níveis de Absorção, Armadura, Proteção ou Resistência, se desejar.
 
@@ -2639,43 +2639,43 @@ Muitos desses tipos de energia podem ser usados para duplicar ou imitar os efeit
 
 **Projeção de energia**
 
-**Alcance da base:** 15 metros
+**Alcance da base**: 15 metros
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de personagem:** 10 por nível
+**Custo de pontos de personagem**: 10 por nível
 
-**Custo de pontos de energia:** 1 por nível
+**Custo de pontos de energia**: 1 por nível
 
 A Projeção de energia permite a projeção de um feixe de energia concentrada de algum tipo (consulte **Tipos de energia**) em um alvo. Cada tipo é um poder separado e deve ser adquirido separadamente: escolha quando o superpoder for adquirido e anote-o como Cold Projection (Projeção de frio), Darkness Projection (Projeção de escuridão) etc. Vários tipos de Projeção de Energia devem ser comprados separadamente. Cada um causa 1D6 de dano por nível com alcance de 15 metros, e cada nível adicional aumenta o dano em +1D6 e o alcance em +15 metros. Para atingir um alvo em combate, use a habilidade Projection (Projeção), embora a Projeção não seja definida separadamente para cada tipo de energia.
 
 A seguir estão os tipos de projeção de energia comumente usados e alguns possíveis efeitos colaterais. Trabalhe com seu mestre de jogo para desenvolver efeitos colaterais adicionais apropriados para esses ou quaisquer novos tipos de projeção de energia.
 
-- Projeção de frio:** Gera um raio de frio intenso ou gelo, causando 1D6 de dano por nível. Quando usado contra um objeto físico, uma chance de POW×nível faz com que o objeto se torne quebradiço, reduzindo pela metade seu valor de armadura e pontos de vida por uma rodada de combate.
-- Projeção de escuridão:** Dispara um raio nocivo de escuridão intensa, causando 1D6 de dano por nível. Se for direcionado aos olhos de um inimigo, pode cegá-lo por 1D3 rodadas de combate (consulte **Escuridão**).
-- Projeção elétrica:** Um raio (ou bola de raio) que causa 1D6 de dano por nível. Quando usado em um objeto metálico, tem uma chance de POW × nível de viajar (e saltar) ao longo de qualquer superfície metálica conectada ou próxima para atingir qualquer outro alvo que toque a superfície metálica. Alvos sucessivos recebem ½ do dano original (arredondado para cima). Além disso, ele pode embaralhar qualquer equipamento elétrico ou eletrônico que atingir, usando seu nível de potência contra os pontos de vida do item em uma rolagem de resistência.
-- Projeção de gravidade:** Uma onda pura de energia gravitacional que faz com que tudo o que atinge se torne incrivelmente pesado ou leve, conforme desejado, causando 1D6 de dano por nível. Além do dano, ela pode varrer itens para o lado ou fazer com que caiam no chão, sofrendo o dano apropriado (veja **Knockback** ou **Falling**).
+- Projeção de frio**: Gera um raio de frio intenso ou gelo, causando 1D6 de dano por nível. Quando usado contra um objeto físico, uma chance de POW×nível faz com que o objeto se torne quebradiço, reduzindo pela metade seu valor de armadura e pontos de vida por uma rodada de combate.
+- Projeção de escuridão**: Dispara um raio nocivo de escuridão intensa, causando 1D6 de dano por nível. Se for direcionado aos olhos de um inimigo, pode cegá-lo por 1D3 rodadas de combate (consulte **Escuridão**).
+- Projeção elétrica**: Um raio (ou bola de raio) que causa 1D6 de dano por nível. Quando usado em um objeto metálico, tem uma chance de POW × nível de viajar (e saltar) ao longo de qualquer superfície metálica conectada ou próxima para atingir qualquer outro alvo que toque a superfície metálica. Alvos sucessivos recebem ½ do dano original (arredondado para cima). Além disso, ele pode embaralhar qualquer equipamento elétrico ou eletrônico que atingir, usando seu nível de potência contra os pontos de vida do item em uma rolagem de resistência.
+- Projeção de gravidade**: Uma onda pura de energia gravitacional que faz com que tudo o que atinge se torne incrivelmente pesado ou leve, conforme desejado, causando 1D6 de dano por nível. Além do dano, ela pode varrer itens para o lado ou fazer com que caiam no chão, sofrendo o dano apropriado (veja **Knockback** ou **Falling**).
 - Projeção de calor: Uma linha de chamas ou calor intenso, causando 1D6 de dano por nível, com uma chance de POW × nível de incendiar um objeto inflamável, além de qualquer dano causado.
 - Projeção cinética: um feixe de força concussiva que causa 1D6 de dano por nível e que, em um sucesso especial, também inflige os efeitos de um sucesso especial de esmagamento ou de um recuo (escolha do jogador).
-- Projeção de luz:** Um raio de luz semelhante a um laser, causando 1D6 de dano por nível. Ele pode cegar temporariamente um oponente por 1D3 rodadas de combate se atingi-lo nos olhos (consulte **Ataques com mira**) e o poder ilumina intensamente a área quando é usado. Se for direcionado contra um objeto inanimado (como uma parede ou um cofre) por várias rodadas, ele pode cortá-lo, causando o dano normal.
-- Projeção magnética:** Essa onda de força magnética causa 1D6 de dano por nível a circuitos eletrônicos ou máquinas feitas de materiais ferrosos. Use o nível do poder como a força ativa contra o total de pontos de vida do objeto em uma rolagem de resistência. Se usado contra objetos metálicos, ele pode empurrá-los de volta para outros alvos, causando o dano apropriado ao TAM.
+- Projeção de luz**: Um raio de luz semelhante a um laser, causando 1D6 de dano por nível. Ele pode cegar temporariamente um oponente por 1D3 rodadas de combate se atingi-lo nos olhos (consulte **Ataques com mira**) e o poder ilumina intensamente a área quando é usado. Se for direcionado contra um objeto inanimado (como uma parede ou um cofre) por várias rodadas, ele pode cortá-lo, causando o dano normal.
+- Projeção magnética**: Essa onda de força magnética causa 1D6 de dano por nível a circuitos eletrônicos ou máquinas feitas de materiais ferrosos. Use o nível do poder como a força ativa contra o total de pontos de vida do objeto em uma rolagem de resistência. Se usado contra objetos metálicos, ele pode empurrá-los de volta para outros alvos, causando o dano apropriado ao TAM.
 - Projeção de radiação: Esse feixe de energia radioativa causa 1D6 de dano por nível e pode irradiar qualquer coisa que atingir, causando possíveis reações radiológicas (exposição de filmes, etc.) ou até mesmo doença por radiação, usando o dano causado como sua potência (POT) (consulte **Radiação**).
-- **Projeção de som:** Uma onda de choque que se irradia ao longo de um caminho em direção ao alvo, causando 1D6 de dano por nível. Se for direcionada à cabeça ou às orelhas de um alvo, pode ensurdecê-lo temporariamente por 1D3 rodadas de combate se o nível de potência superar sua CON em uma rolagem de resistência. Todas as ações baseadas na audição de um personagem ensurdecido se tornam *difíceis* até que a surdez passe.
-- Projeção de vento:** Uma intensa rajada de vento que causa 1D6 de dano por nível e um sucesso especial de repulsão se a rolagem de dados indicar isso. Também pode ser usada para arremessar itens contra outros alvos, causando o dano apropriado ao tamanho e, em uma rolagem de projeção *difícil*, pode desviar de armas de mísseis de baixa velocidade (arremessos, flechas etc.).
-- Projeção de outras energias:** Consulte **Controle de outras energias** para obter sugestões sobre a criação de novos tipos de energia.
-- Projeção de energia combinada:** Esses ataques podem ser combinados se cada tipo de Projeção de energia for comprado separadamente. Os níveis não precisam ser equivalentes. Uma única rolagem de Projeção bem-sucedida significa que todos os tipos de Projeção de Energia atingem o alvo. Cada tipo de Projeção de Energia tem sua eficácia normal, embora as rolagens de resistência e os efeitos colaterais devam ser determinados separadamente. O dano é rolado separadamente para cada tipo, pois o alvo pode ter diferentes tipos de Absorção, Armadura, Proteção ou Resistência. Para ataques combinados de Projeção de Energia, cada ataque custa a quantidade total de pontos de energia para todos os níveis e todos os tipos de energia usados.
+- **Projeção de som**: Uma onda de choque que se irradia ao longo de um caminho em direção ao alvo, causando 1D6 de dano por nível. Se for direcionada à cabeça ou às orelhas de um alvo, pode ensurdecê-lo temporariamente por 1D3 rodadas de combate se o nível de potência superar sua CON em uma rolagem de resistência. Todas as ações baseadas na audição de um personagem ensurdecido se tornam *difíceis* até que a surdez passe.
+- Projeção de vento**: Uma intensa rajada de vento que causa 1D6 de dano por nível e um sucesso especial de repulsão se a rolagem de dados indicar isso. Também pode ser usada para arremessar itens contra outros alvos, causando o dano apropriado ao tamanho e, em uma rolagem de projeção *difícil*, pode desviar de armas de mísseis de baixa velocidade (arremessos, flechas etc.).
+- Projeção de outras energias**: Consulte **Controle de outras energias** para obter sugestões sobre a criação de novos tipos de energia.
+- Projeção de energia combinada**: Esses ataques podem ser combinados se cada tipo de Projeção de energia for comprado separadamente. Os níveis não precisam ser equivalentes. Uma única rolagem de Projeção bem-sucedida significa que todos os tipos de Projeção de Energia atingem o alvo. Cada tipo de Projeção de Energia tem sua eficácia normal, embora as rolagens de resistência e os efeitos colaterais devam ser determinados separadamente. O dano é rolado separadamente para cada tipo, pois o alvo pode ter diferentes tipos de Absorção, Armadura, Proteção ou Resistência. Para ataques combinados de Projeção de Energia, cada ataque custa a quantidade total de pontos de energia para todos os níveis e todos os tipos de energia usados.
 
 Muitas delas têm eficácia variável contra certos tipos de defesas, como uma Projeção de Fogo que é fraca contra defesas baseadas no frio ou uma Projeção Magnética que é especialmente poderosa contra defesas metálicas. A critério do seu mestre de jogo, o nível de poder da Projeção de Energia pode ser verificado em uma rolagem de resistência contra a força de resistência para ver se tem algum efeito: os superpoderes que seriam fracos contra uma determinada defesa têm -5 em seu nível para o propósito da rolagem de resistência, enquanto os poderes especialmente potentes contra uma defesa têm +5 em seu nível de poder para a rolagem de resistência (como se fosse um sucesso especial - se um sucesso especial ou crítico for rolado, esses bônus se acumulam).
 
 **Energia extra
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Sempre ligado
+**Duração**: Sempre ligado
 
-**Custo em pontos de personagem:** 1 para cada 10 pontos de pontos de poder adicionais
+**Custo em pontos de personagem**: 1 para cada 10 pontos de pontos de poder adicionais
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 *Isso deve ser tomado por todo personagem que deseja usar superpoderes. Essa é uma reserva de energia adicional além dos pontos de poder concedidos pelo POW. Cada nível corresponde a +10 pontos de energia adicionais (não há efeito no POW). A fonte de energia pode ser do próprio corpo do personagem ou de um item externo, como uma bateria. As fontes de energia internas podem alimentar poderes pessoais e as baterias externas podem alimentar itens externos. O mestre de jogo pode permitir que seu personagem use qualquer uma delas. A fonte é relevante, pois uma bateria externa pode ser alvo. Vários suprimentos de energia também podem ser usados, cada um alimentando poderes diferentes ou sendo usado pelos mesmos poderes.
 
@@ -2687,25 +2687,25 @@ Alguns superpoderes não precisam de pontos de energia para serem ativados, embo
 
 **Pontos de vida extras
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Sempre ligado
+**Duração**: Sempre ligado
 
-**Custo de pontos de personagem:** 1 por nível
+**Custo de pontos de personagem**: 1 por nível
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 Pontos de vida adicionais além do que CON e SIZ fornecem. Seu personagem não pode adquirir mais níveis de pontos de vida extras do que a CON inicial, a menos que o seu mestre de jogo permita. Esses pontos de vida são adicionados aos pontos de vida normais, e o limite de ferimentos graves é ajustado ao novo total. A cura ocorre normalmente. Se forem usados locais de acerto, o total combinado de pontos de acerto será usado para determinar os pontos de acerto por local.
 
 **Voo
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Variável
+**Duração**: Variável
 
-**Custo de pontos de personagem:** 1 por nível
+**Custo de pontos de personagem**: 1 por nível
 
-**Custo de pontos de energia:** 1 ponto de energia para cada 3 pontos de SIZ para ativar, depois 1 ponto de energia por turno para manter
+**Custo de pontos de energia**: 1 ponto de energia para cada 3 pontos de SIZ para ativar, depois 1 ponto de energia por turno para manter
 
 Quando esse poder for ativado, use a habilidade Fly para voar 3 SIZ por nível a uma velocidade de 500 metros por rodada de combate ou a qualquer velocidade inferior a essa, incluindo pairar. Seu personagem deve adquirir níveis suficientes de Flight para acomodar seu SIZ. A capacidade de carregar qualquer outra coisa enquanto estiver voando depende de STR e de quaisquer níveis adicionais de Flight acima dos necessários para permanecer no ar. Em situações que não sejam de combate, seu mestre de jogo pode permitir que cada ponto de poder gasto para manter o voo dure uma hora em vez de um turno. Depois que os pontos de poder iniciais forem gastos, o personagem poderá aterrissar e voar à vontade durante a duração do poder sem precisar gastar o custo inicial de pontos de poder novamente.
 
@@ -2715,17 +2715,17 @@ Se usado em conjunto com a supervelocidade, o número de metros adicionais forne
 
 **Campo de força
 
-**Alcance da base:** Auto a 15 metros
+**Alcance da base**: Auto a 15 metros
 
-**Duração:** Variável
+**Duração**: Variável
 
-**Custo em pontos de personagem:** 1 por nível, por tipo de energia e por ponto de SIZ
+**Custo em pontos de personagem**: 1 por nível, por tipo de energia e por ponto de SIZ
 
-**Custo de pontos de energia:** 1 por rodada de combate, mais 1 por ponto de dano absorvido
+**Custo de pontos de energia**: 1 por rodada de combate, mais 1 por ponto de dano absorvido
 
 A capacidade de projetar um campo defensivo que fornece 10 pontos de armadura por nível a 1 SIZ contra ferimentos recebidos com base em um tipo específico de energia ou ataque.
 
-**Por exemplo, um personagem de tamanho 14 deve pagar 14 pontos pelo Campo de Força 1, 28 pontos pelo Campo de Força 2, etc.
+**Por exemplo,** um personagem de tamanho 14 deve pagar 14 pontos pelo Campo de Força 1, 28 pontos pelo Campo de Força 2, etc.
 
 O tipo de energia contra o qual o Force Field protege deve ser especificado quando o superpoder for comprado, selecionado na lista **Energy Types** (Tipos de energia**). Um Force Field pode proteger contra vários tipos de energia, embora cada tipo de energia deva ser comprado separadamente.
 
@@ -2735,25 +2735,25 @@ Normalmente, o campo de força é centralizado no personagem, embora ele possa p
 
 **Intangibilidade**
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Variável
+**Duração**: Variável
 
-**Custo de pontos de personagem:** 2 por nível
+**Custo de pontos de personagem**: 2 por nível
 
-**Custo de pontos de energia:** 1 por ponto de SIZ por nível, depois 1 ponto de energia por rodada de combate
+**Custo de pontos de energia**: 1 por ponto de SIZ por nível, depois 1 ponto de energia por rodada de combate
 
 Cada nível permite o movimento de 1 SIZ através de 10 centímetros de parede ou outros materiais por rodada de combate e permite que o personagem "voe" andando no ar a uma velocidade normal de caminhada. Enquanto intangível, seu personagem não pode ser afetado por forças cinéticas ou térmicas (frio e calor) de nenhum tipo e não pode usar nenhum ataque que resulte nas mesmas forças. Seu personagem ainda pode ser afetado por radiação ou outras forças não cinéticas e também pode usá-las. Cada nível extra acrescenta mais 10 centímetros à distância que pode ser percorrida em uma rodada de combate (até a taxa de movimento normal) ou pode ser usado para afetar outro ponto de SIZ fora de seu próprio SIZ. Uma vez ativa, a intangibilidade pode ser mantida ao custo de 1 ponto de energia por rodada de combate, embora termine se o personagem ficar inconsciente ou ficar sem pontos de energia. Se o personagem sofrer dano em uma rodada de combate, o mestre de jogo pode exigir uma rolagem de Ideia bem-sucedida para manter a intangibilidade. Se desejar, o mestre de jogo pode determinar que certos materiais são mais fáceis de atravessar do que outros, com base nas diretrizes apresentadas no *Capítulo 8: Equipamento*. Materiais mais densos podem retardar ou até mesmo impedir a passagem de um personagem intangível.
 
 **Visibilidade
 
-**Alcance da base:** 15 metros
+**Alcance da base**: 15 metros
 
-**Duração:** 1 rodada de combate
+**Duração**: 1 rodada de combate
 
-**Custo em pontos do personagem:** 1 por nível e por ponto de SIZ
+**Custo em pontos do personagem**: 1 por nível e por ponto de SIZ
 
-**Custo de pontos de energia:** 1 por ponto de SIZ para ativar, depois 1 ponto de energia por rodada de combate
+**Custo de pontos de energia**: 1 por ponto de SIZ para ativar, depois 1 ponto de energia por rodada de combate
 
 Cada nível permite que seu personagem torne invisível 1 TAMANHO de si mesmo, de outro personagem ou de um objeto ou parte de um objeto. Seu personagem deve se concentrar no superpoder e não fazer mais do que andar ou falar. Lutar, usar outros superpoderes ou sofrer distrações semelhantes (ferimentos, atividade física intensa) interrompe os efeitos e faz com que o sujeito invisível se torne visível. Todos os ataques contra um personagem ou objeto invisível são feitos com 1/5 da classificação de habilidade normal. Quaisquer defesas são igualmente difíceis, exigindo uma rolagem bem-sucedida de Escuta, Sentido ou Mancha para tentar se defender. Uma rolagem bem-sucedida de uma dessas habilidades para superar a Invisibilidade reduz a penalidade dos ataques para *Difícil* em vez de 1/5.
 
@@ -2761,13 +2761,13 @@ Há poucas limitações quanto às ações que podem ser executadas enquanto se 
 
 **Salto
 
-**Alcance da base:** 2 metros por nível
+**Alcance da base**: 2 metros por nível
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de personagem:** 1 por nível
+**Custo de pontos de personagem**: 1 por nível
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 Cada nível acrescenta mais 2 metros horizontais ou 1 metro vertical ao alcance normal do salto. O Leap só aumenta o alcance da habilidade Jump e não requer rolagem ou pontos de energia para ser usado. A habilidade Jump (Salto) ainda deve ser usada com sucesso quando apropriado (em combate, não durante o movimento normal). Um salto conta como uma ação de movimento normal durante uma rodada de combate. Assim como no Jump, a aterrissagem bem-sucedida é automática, independentemente do tamanho do salto controlado. No entanto, uma rolagem de Agilidade bem-sucedida pode ser necessária se estiver tentando alcançar a borda de um edifício ou aterrissar em algum lugar pequeno ou que exija equilíbrio. Esse rolamento pode ser *difícil* para poleiros especialmente pequenos ou estreitos (parapeito de janela, linha de energia elétrica ou em cima de um poste de luz).
 
@@ -2781,11 +2781,11 @@ Consulte a tabela de modificadores de dano e a habilidade Jump para obter mais i
 
 **Alcance básico: auto ou toque
 
-**Duração:** 1 rodada de combate
+**Duração**: 1 rodada de combate
 
-**Custo em pontos de personagem:** 1 por nível e por tipo de energia
+**Custo em pontos de personagem**: 1 por nível e por tipo de energia
 
-**Custo de pontos de energia:** 1 ponto por nível por rodada de combate
+**Custo de pontos de energia**: 1 ponto por nível por rodada de combate
 
 Quando comprada, a proteção deve ser especificada para um tipo específico de energia, como Protection (Kinetic). Cada nível de proteção reduz o nível do superpoder apropriado direcionado ao seu personagem. Isso pode reduzir o nível do superpoder atacante a 0, o que significa que ele não tem efeito. Vários tipos de proteção podem ser adquiridos. Não é necessário que todos os tipos de proteção tenham o mesmo nível, portanto seu personagem pode ter Proteção (Cinética) 2 e Proteção (Calor) 5. Se um ataque usar vários tipos de energia, somente os tipos aplicáveis do superpoder serão reduzidos por meio do poder de Proteção.
 
@@ -2793,13 +2793,13 @@ Muitos tipos de armaduras e equipamentos incorporam o poder de proteção (consu
 
 **Regeneração
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Sempre ligado
+**Duração**: Sempre ligado
 
-**Custo de pontos de personagem:** 3 por nível
+**Custo de pontos de personagem**: 3 por nível
 
-**Custo em pontos de energia:** 1 por ponto de vida curado por rodada de combate
+**Custo em pontos de energia**: 1 por ponto de vida curado por rodada de combate
 
 Esse superpoder proporciona a capacidade de se curar extremamente rápido, utilizando as energias naturais do corpo para acelerar o processo natural de cura. Cada nível de Regeneração cura 1 ponto de vida de dano a cada rodada de combate no final da rodada de combate (nível 0 de DEX), se houver pontos de energia restantes. A regeneração não precisa ser ativada para funcionar, embora possa ser desativada à vontade. Esse superpoder não trará seu personagem de volta dos mortos, mas curará danos que normalmente exigiriam hospitalização. A regeneração também cura os efeitos de qualquer ferimento grave, embora os efeitos dessa cura ocorram quando todos os pontos de vida do ferimento tiverem sido completamente restaurados. Seu mestre de jogo determinará se partes do corpo cortadas podem ser restauradas. Seu personagem não pode adquirir mais níveis de Regeneração do que ½ de sua CON (arredondado para cima). Vários equipamentos podem conferir esse poder, conforme descrito no *Capítulo 8: Equipamentos*.
 
@@ -2807,11 +2807,11 @@ Esse superpoder proporciona a capacidade de se curar extremamente rápido, utili
 
 **Alcance básico: auto ou toque
 
-**Duração:** Sempre ligado, ou 1 volta completa (5 minutos)
+**Duração**: Sempre ligado, ou 1 volta completa (5 minutos)
 
-**Custo de pontos de personagem:** 1 por nível para base de turnos, 3 por nível se for permanente
+**Custo de pontos de personagem**: 1 por nível para base de turnos, 3 por nível se for permanente
 
-**Custo de pontos de energia:** 1 por nível usado se for por turnos, nenhum se for permanente
+**Custo de pontos de energia**: 1 por nível usado se for por turnos, nenhum se for permanente
 
 A resistência funciona como um escudo artificial que permite uma chance maior de resistir a ataques de um determinado tipo de energia. Cada nível de Resistência deve ser especificado em relação a um tipo de energia (consulte **Tipos de energia**) e é adicionado a uma característica passiva em uma rolagem de resistência ou fornece um valor de resistência se não houver uma característica aplicável.
 
@@ -2819,20 +2819,20 @@ A resistência é um poder do tipo tudo ou nada. Se a Resistência superar o tip
 
 Outros tipos de resistência podem ser introduzidos, além dos tipos de energia, como
 
-- Doença:** Aumenta a resistência a doenças, aumentando a CON em rolagens de resistência contra doenças, infecções ou outras enfermidades. A resistência (doença) também se aplica a qualquer outra característica (como STR) contra a qual a doença atue em uma rolagem de resistência.
-- Veneno:** Aumenta a resistência a venenos, sejam eles toxinas naturais ou alguns compostos químicos manufaturados. Também oferece resistência a influências químicas não venenosas, como drogas, álcool ou outras substâncias não letais. Em todos os casos, os níveis de Resistência (Veneno) são adicionados à CON ou à característica aplicável.
+- Doença**: Aumenta a resistência a doenças, aumentando a CON em rolagens de resistência contra doenças, infecções ou outras enfermidades. A resistência (doença) também se aplica a qualquer outra característica (como STR) contra a qual a doença atue em uma rolagem de resistência.
+- Veneno**: Aumenta a resistência a venenos, sejam eles toxinas naturais ou alguns compostos químicos manufaturados. Também oferece resistência a influências químicas não venenosas, como drogas, álcool ou outras substâncias não letais. Em todos os casos, os níveis de Resistência (Veneno) são adicionados à CON ou à característica aplicável.
 
 Esse poder funciona bem em conjunto com Armadura e/ou Proteção. A critério do seu mestre de jogo, a Resistência pode ser expandida para abranger conjuntos inteiros de poderes, como Resistência (Mágica) ou Resistência (Psíquica), mas sugere-se que essa Resistência generalizada seja significativamente mais cara, como 10 pontos por nível.
 
 **Sidekick**
 
-**Faixa de base:** Não aplicável
+**Faixa de base**: Não aplicável
 
-**Duração:** Sempre ligado
+**Duração**: Sempre ligado
 
-**Custo de pontos de personagem:** Variável
+**Custo de pontos de personagem**: Variável
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 Um ajudante é um personagem secundário controlado junto com seu próprio personagem. O ajudante é leal e pode ter habilidades e poderes semelhantes. Você e seu mestre de jogo devem criar o ajudante como se fosse um novo personagem, embora o ajudante não precise ser humano. As características e habilidades do ajudante devem ser adquiridas como se fossem Supercaracterísticas e Superhabilidades, com o orçamento de pontos de seu personagem. Se o ajudante for um animal natural, determine suas características e habilidades normalmente, ajustando-as conforme desejado, e depois pague por elas, usando os poderes acima. O Ajudante pode ter poderes e equipamentos, mas eles também devem ser pagos com o orçamento de pontos de seu personagem.
 
@@ -2850,13 +2850,13 @@ Normalmente, seu personagem só pode ter um ajudante por vez, embora o mestre do
 
 **Mudança de tamanho**
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Variável
+**Duração**: Variável
 
-**Custo de pontos de personagem:** 1 por nível
+**Custo de pontos de personagem**: 1 por nível
 
-**Custo de pontos de energia:** 1 por nível para ativar, sem custo para manter ativo
+**Custo de pontos de energia**: 1 por nível para ativar, sem custo para manter ativo
 
 A alteração de tamanho permite um aumento ou redução de SIZ em ±1 ponto por nível (sem máximo, mínimo 0). Quando esse poder é adquirido, você deve especificar se é para aumentar ou diminuir. Para fazer ambos, compre o superpoder duas vezes.
 
@@ -2885,13 +2885,13 @@ As regras locais para **Alvos grandes e pequenos** podem ser úteis. Consulte a 
 
 **Projeção de laço**
 
-**Alcance da base:** 15 metros
+**Alcance da base**: 15 metros
 
-**Duração:** Até ser destruído ou até 10 rodadas de combate
+**Duração**: Até ser destruído ou até 10 rodadas de combate
 
-**Custo de pontos de personagem:** 1 por nível
+**Custo de pontos de personagem**: 1 por nível
 
-**Custo de pontos de energia:** 1 ponto por uso
+**Custo de pontos de energia**: 1 ponto por uso
 
 A Projeção de Laço cria uma força de aprisionamento (teia, laço, gaiola de energia, gota de adesivo, membro extensível etc.) que pode ser usada contra um alvo dentro do alcance. A armadilha tem STR igual ao nível do superpoder. O uso do poder é automático, embora seu direcionamento possa envolver uma verificação de habilidade (veja abaixo). Ser aprisionado pela Projeção de Laço força o alvo a fazer uma rolagem de resistência de FÍS vs. FÍS ou ser mantido como se estivesse enredado (veja o sucesso especial enredar). Se a rolagem de resistência superar a FÍS do laço, o laço se dissipa (se for o caso) ou é ignorado de outra forma. Se for usado contra vários oponentes, os níveis de Snare Projection (Projeção de Laço) são distribuídos igualmente entre os alvos, cabendo ao usuário escolher qual inimigo ficará com os níveis restantes. Cada alvo deve fazer um rolamento de resistência de STR vs. STR para se libertar do laço.
 
@@ -2901,13 +2901,13 @@ A Projeção de Laço pode exigir as habilidades de Arremesso ou Projeção. Per
 
 **Alongamento
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Variável
+**Duração**: Variável
 
-**Custo de pontos de personagem:** 3 por nível
+**Custo de pontos de personagem**: 3 por nível
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 Cada nível permite que seu personagem estique o corpo inteiro (ou alguma parte dele) por 1 metro em qualquer direção. Além disso, se o total de níveis de Alongamento for igual a duas vezes a CON do seu personagem, ele será capaz de se esticar de maneiras ainda mais notáveis, passando por buracos de fechadura, por baixo de portas, deslizando como uma pipa ao vento, imitando itens de mobília ou outros objetos ou outros exemplos de plasticidade extraordinária. A expansão em SIZ sempre será limitada ao SIZ normal do personagem mais os níveis de Alongamento, e o personagem pode contrair o corpo até um SIZ igual à característica de SIZ menos os níveis do superpoder (mínimo de SIZ 1). Cada metro esticado reduz o STR atual em 1, o que pode reduzir o modificador de dano.
 
@@ -2917,71 +2917,71 @@ Seu personagem pode usar Stretching para improvisar os efeitos de outro superpod
 
 **Super Característica
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Sempre ligado
+**Duração**: Sempre ligado
 
-**Custo de pontos do personagem:** 1 por ponto de STR, CON, SIZ ou CHA; 3 pontos para cada ponto de DEX, INT, POW e EDU
+**Custo de pontos do personagem**: 1 por ponto de STR, CON, SIZ ou CHA; 3 pontos para cada ponto de DEX, INT, POW e EDU
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 Cada nível adiciona +1 de STR, CON, SIZ, INT, POW, DEX, CHA ou EDU às características originais de seu personagem. Todas as rolagens de características e habilidades figuradas (pontos de vida, pontos de fadiga, pontos de energia e pontos de sanidade) podem aumentar. Se STR e/ou SIZ forem aumentados, o modificador de dano também poderá aumentar. Os aumentos de INT e EDU concedem pontos de habilidade iniciais mais altos, conforme descrito na **Step Seven** da criação do personagem.
 
 **Super Movimento
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Variável
+**Duração**: Variável
 
-**Custo de pontos de personagem:** 10 por tipo
+**Custo de pontos de personagem**: 10 por tipo
 
-**Custo de pontos de energia:** 1 por rodada de combate
+**Custo de pontos de energia**: 1 por rodada de combate
 
 Cada tipo permite que seu personagem se mova em sua velocidade normal de MOV de uma maneira não convencional ou que desafie a física. Cada tipo deve ser adquirido separadamente, mas não há níveis - o movimento simplesmente funciona se os pontos de energia forem gastos. A capacidade de carga é baseada na STR normal, e pesos pesados são manuseados com uma rolagem de resistência. Veja a seguir alguns tipos comuns de supermovimento. Você e seu mestre de jogo podem criar outros usando esses como exemplos.
 
-- Andar no ar:** Andar no próprio ar, como em passarelas e escadas invisíveis, imaterial para qualquer outra pessoa. Seu personagem pode carregar outras pessoas, como se estivesse em solo normal.
-- Irresistível:** Movimentar-se pela água ou por qualquer condição ambiental como se não tivesse resistência. Os perigos que normalmente retardariam o movimento (água, lama, etc.) não são um obstáculo, permitindo a taxa de movimento total. Isso também se aplica à velocidade de movimento fora de combate, ignorando os efeitos do clima ou do terreno, mas não se aplica à resistência de condições não naturais, como a Snare Projection ou uma barreira física.
-- Lightfoot:** O Lightfoot permite uma velocidade de movimento normal no ar, saltando de uma superfície para outra, deslizando, pulando ou fazendo movimentos leves sobre superfícies sólidas para manter o movimento. O Lightfoot permite que seu personagem fique em pé em superfícies que normalmente não suportariam seu peso, como uma cana de bambu, um galho fino de árvore, a ponta de uma espada ou até mesmo um castelo de cartas, movendo-se como se a gravidade não tivesse efeito. Seu personagem pode correr levemente por paredes ásperas ou árvores, ou até mesmo saltar sobre a água ou a superfície da neve. Ele não pode permanecer no ar indefinidamente e, para mudar de direção (direita, esquerda ou até mesmo para cima ou para baixo), é necessário fazer uma rolagem de Agilidade bem-sucedida e gastar pontos de poder adicionais.
+- Andar no ar**: Andar no próprio ar, como em passarelas e escadas invisíveis, imaterial para qualquer outra pessoa. Seu personagem pode carregar outras pessoas, como se estivesse em solo normal.
+- Irresistível**: Movimentar-se pela água ou por qualquer condição ambiental como se não tivesse resistência. Os perigos que normalmente retardariam o movimento (água, lama, etc.) não são um obstáculo, permitindo a taxa de movimento total. Isso também se aplica à velocidade de movimento fora de combate, ignorando os efeitos do clima ou do terreno, mas não se aplica à resistência de condições não naturais, como a Snare Projection ou uma barreira física.
+- Lightfoot**: O Lightfoot permite uma velocidade de movimento normal no ar, saltando de uma superfície para outra, deslizando, pulando ou fazendo movimentos leves sobre superfícies sólidas para manter o movimento. O Lightfoot permite que seu personagem fique em pé em superfícies que normalmente não suportariam seu peso, como uma cana de bambu, um galho fino de árvore, a ponta de uma espada ou até mesmo um castelo de cartas, movendo-se como se a gravidade não tivesse efeito. Seu personagem pode correr levemente por paredes ásperas ou árvores, ou até mesmo saltar sobre a água ou a superfície da neve. Ele não pode permanecer no ar indefinidamente e, para mudar de direção (direita, esquerda ou até mesmo para cima ou para baixo), é necessário fazer uma rolagem de Agilidade bem-sucedida e gastar pontos de poder adicionais.
 - Sem trilhas**: Mover-se pelo chão ou pela superfície da neve e não deixar absolutamente nenhum rastro, a menos que desejado. Somente sucessos especiais em rolagens de Track podem encontrar uma trilha Trackless, e o resultado será apenas um sucesso padrão. Seu personagem pode ficar parado ou até mesmo dar cambalhotas em uma superfície e não deixará rastros. Esse poder é intrínseco e não pode ser compartilhado. Carregar mais do que uma carga normal o anula completamente.
 - Andar na parede: Andar em paredes e tetos, seja de quatro ou em pé. Seu personagem pode ficar parado em superfícies verticais ou de cabeça para baixo como se estivesse no chão, e pular os mantém no mesmo plano. O transporte de peso adicional deve ser feito por meio de uma rolagem normal de resistência de STR.
-- Caminhada na água:** Caminhar ou correr pela água como se fosse um terreno sólido, sem encontrar resistência das ondas e sem afundar. Ao contrário de Lightfoot, seu personagem pode ficar parado na superfície da água, embora a água turbulenta faça com que ele balance com os movimentos das ondas. Seu personagem também pode surfar em águas de movimento rápido, seguindo a correnteza e sendo arrastado como se estivesse em uma prancha de surfe ou em uma esteira rolante. Seu mestre de jogo deve determinar a velocidade da água e pode exigir jogadas de Agilidade ou Salto para superar obstáculos, como pedras aflorantes em corredeiras de rios.
-- Gravidade zero:** Seu personagem pode ignorar os efeitos da gravidade zero, orientando o corpo em relação a qualquer objeto ou plano no espaço tridimensional que ele habita. Seu personagem pode se mover facilmente em ambientes de gravidade zero, sem sofrer penalidades nas ações e, mesmo quando estiver no espaço profundo, sempre será capaz de encontrar uma orientação confortável. Ele pode usar o Super Movimento (Gravidade Zero) para orientar outros personagens em gravidade zero por meio do toque.
+- Caminhada na água**: Caminhar ou correr pela água como se fosse um terreno sólido, sem encontrar resistência das ondas e sem afundar. Ao contrário de Lightfoot, seu personagem pode ficar parado na superfície da água, embora a água turbulenta faça com que ele balance com os movimentos das ondas. Seu personagem também pode surfar em águas de movimento rápido, seguindo a correnteza e sendo arrastado como se estivesse em uma prancha de surfe ou em uma esteira rolante. Seu mestre de jogo deve determinar a velocidade da água e pode exigir jogadas de Agilidade ou Salto para superar obstáculos, como pedras aflorantes em corredeiras de rios.
+- Gravidade zero**: Seu personagem pode ignorar os efeitos da gravidade zero, orientando o corpo em relação a qualquer objeto ou plano no espaço tridimensional que ele habita. Seu personagem pode se mover facilmente em ambientes de gravidade zero, sem sofrer penalidades nas ações e, mesmo quando estiver no espaço profundo, sempre será capaz de encontrar uma orientação confortável. Ele pode usar o Super Movimento (Gravidade Zero) para orientar outros personagens em gravidade zero por meio do toque.
 
 Ao usar o Super Movimento, se um personagem consciente cair, ele poderá tentar um rolamento de Ideia para permanecer na superfície em que estiver (ar, água, teto, parede etc.) em vez de afundar ou cair na terra. Se o seu personagem ficar inconsciente ou ficar sem pontos de energia enquanto estiver usando o Super Movimento, ele cairá no chão, afundará na água etc., conforme apropriado. Se o seu personagem estiver usando o movimento normal e tiver uma oportunidade, ele poderá fazer um rolamento de Agilidade *difícil* para mudar para o Supermovimento, como ser arremessado pelo ar em direção a uma parede e usar Pé Ligeiro ou Andar na Parede para aterrissar na parede, sob controle e ileso.
 
 **Super Sense
 
-**Faixa de base:** Variável
+**Faixa de base**: Variável
 
-**Duração:** Sempre ligado
+**Duração**: Sempre ligado
 
-**Custo de pontos de personagem:** 3 por nível
+**Custo de pontos de personagem**: 3 por nível
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 O Super Sense representa uma variedade de superpoderes, cada um associado a um sentido principal. Cada um deve ser comprado separadamente e deve ser anotado como "Super Sense (Dark Vision)". Super sentidos diferentes podem ser combinados, usando a mesma rolagem de habilidade, ou podem ser usados separadamente. A seguir estão os super sentidos mais comuns, embora você e seu mestre de jogo possam introduzir outros:
 
 - Visão no escuro: enxerga 15 metros na escuridão absoluta, cancelando quaisquer modificadores negativos para as habilidades de Spot ou de combate devido à escuridão. A detecção de cores é quase inexistente, e a visão de longo alcance é extremamente limitada. Cada nível extra aumenta o alcance em 15 metros.
 - Visão Microscópica: Veja objetos microscópicos com detalhes consideráveis. No nível 1, a taxa de ampliação é de 25× (25 vezes o tamanho normal). Para cada nível adicional, dobre a ampliação existente (25× torna-se 50×, depois 100×, depois 200× etc.) ou adicione um alcance adicional de 15 metros. O uso da Microscopic Vision é incompatível com a visão normal - ela deve ser desativada para perceber o mundo normalmente. Isso pode ser feito instantaneamente, mas deve ser reativado para ser usado novamente.
 - Visão noturna: Se houver uma fonte de luz (mesmo que fraca), seu personagem poderá ver com perfeita clareza por 15 metros. Isso cancela qualquer modificador negativo para Spot ou combate devido à escuridão parcial. A Visão Noturna permite alguma diferenciação entre cores e proporciona a forma mais nítida de visão em condições de quase escuridão. Cada nível adicional aumenta o alcance em mais 15 metros.
-- Detecção de sonar:** Ouve sons ambientes (ou os cria) e os usa para ecolocalização, determinando a presença de outros seres, obstáculos e o terreno ao alcance. Cada nível fornece um campo de detecção de sonar de 15 metros e 360 graus, projetado a partir da cabeça. Use a habilidade Ouvir para perceber uma característica específica e um teste de Ideia para identificá-la. Cada nível adicional desse poder acrescenta 15 metros ao alcance.
-- Superaudição:** Cada nível dobra o alcance efetivo da habilidade Ouvir. O alcance normal da audição é de 15 metros, supondo que não haja nenhum obstáculo intermediário (como uma parede) ou interferência de ruído. Isso também pode ser usado para ouvir coisas fora do alcance da percepção humana, como o batimento cardíaco de um oponente. Esse superpoder também permite que seu personagem ouça os oponentes mesmo que eles tenham usado com sucesso a habilidade Furtividade. Se um oponente tiver um sucesso médio em uma rolagem de Furtividade, uma rolagem de **Escuta Fácil** o detectará. Se o oponente tiver um sucesso especial, um sucesso de Listen não modificado o ouvirá. Até mesmo um sucesso crítico com Furtividade é ouvido com um sucesso especial.
-- Super Olfato/Gosto:** Use sua habilidade de Sentido para detectar o gosto de algo que um humano normal seria incapaz de discernir, como um veneno sem gosto. Cada nível aumenta o alcance do olfato em mais 15 metros, de modo que seu personagem pode sentir o cheiro de algo fraco a grande distância. O paladar aumenta em 1 metro por nível, de modo que seu personagem pode até mesmo sentir o gosto de algo que esteja ao alcance sem precisar consumi-lo.
-- S**uper Touch:** Cada nível permite que a habilidade Sense detecte mudanças sutis na textura por meio da ponta dos dedos ou de outras partes do corpo. Também dá a capacidade de "ver" com a pele exposta, agindo na escuridão como se estivesse à luz do dia normal, ignorando quaisquer penalidades da escuridão (use a habilidade Listen). Por fim, oferece uma chance de POW×nível de detectar armas de mísseis que se aproximam ou outros ataques corpo a corpo que poderiam não ser detectados de outra forma (uma emboscada ou facada nas costas). O alcance é de 15 metros. Cada nível adicional aumenta o alcance em 15 metros.
-- Super Visão:** Cada nível dobra a distância em que seu personagem pode ver detalhes, dobrando o alcance em que ele pode usar habilidades como Spot. Ela também aumenta a ampliação que seu personagem é capaz de fazer, permitindo que ele execute habilidades como Appraise (Avaliação) a longa distância.
-- Visão Térmica:** Detecta padrões de calor dentro do alcance, permitindo que ele veja seres vivos no escuro por meio do calor corporal. As fontes de calor aparecem como borrões vermelhos em um fundo preto-azulado. Tudo o que estiver fora do alcance do poder é um borrão indistinto, e o superpoder não permite a detecção de objetos que não emitem calor, como móveis ou paredes, a menos que estejam conectados para isso. Cada nível adicional aumenta o alcance em mais 15 metros.
-- Audição Ultrassônica:** Ouça sons que seriam inaudíveis para um ser humano normal, acima ou abaixo das frequências audíveis. Use a habilidade Ouvir do seu personagem para ver se o som é percebido. Uma parede ou outra barreira de 10 centímetros de espessura impedirá a passagem da maioria dos sons, mas esse superpoder anula esse bloqueio. Cada nível adicional aumenta o alcance em 15 metros e aumenta a capacidade de ouvir através de barreiras que normalmente bloqueariam os sons (2 níveis permitem ouvir através de 20 centímetros de barreira, 3 níveis através de 30 centímetros de barreira etc.). A Ultrasonic Hearing (Audição Ultrassônica) não proporciona ao seu personagem a detecção de sonar (conforme descrito acima).
+- Detecção de sonar**: Ouve sons ambientes (ou os cria) e os usa para ecolocalização, determinando a presença de outros seres, obstáculos e o terreno ao alcance. Cada nível fornece um campo de detecção de sonar de 15 metros e 360 graus, projetado a partir da cabeça. Use a habilidade Ouvir para perceber uma característica específica e um teste de Ideia para identificá-la. Cada nível adicional desse poder acrescenta 15 metros ao alcance.
+- Superaudição**: Cada nível dobra o alcance efetivo da habilidade Ouvir. O alcance normal da audição é de 15 metros, supondo que não haja nenhum obstáculo intermediário (como uma parede) ou interferência de ruído. Isso também pode ser usado para ouvir coisas fora do alcance da percepção humana, como o batimento cardíaco de um oponente. Esse superpoder também permite que seu personagem ouça os oponentes mesmo que eles tenham usado com sucesso a habilidade Furtividade. Se um oponente tiver um sucesso médio em uma rolagem de Furtividade, uma rolagem de **Escuta Fácil** o detectará. Se o oponente tiver um sucesso especial, um sucesso de Listen não modificado o ouvirá. Até mesmo um sucesso crítico com Furtividade é ouvido com um sucesso especial.
+- Super Olfato/Gosto**: Use sua habilidade de Sentido para detectar o gosto de algo que um humano normal seria incapaz de discernir, como um veneno sem gosto. Cada nível aumenta o alcance do olfato em mais 15 metros, de modo que seu personagem pode sentir o cheiro de algo fraco a grande distância. O paladar aumenta em 1 metro por nível, de modo que seu personagem pode até mesmo sentir o gosto de algo que esteja ao alcance sem precisar consumi-lo.
+- S**uper Touch**: Cada nível permite que a habilidade Sense detecte mudanças sutis na textura por meio da ponta dos dedos ou de outras partes do corpo. Também dá a capacidade de "ver" com a pele exposta, agindo na escuridão como se estivesse à luz do dia normal, ignorando quaisquer penalidades da escuridão (use a habilidade Listen). Por fim, oferece uma chance de POW×nível de detectar armas de mísseis que se aproximam ou outros ataques corpo a corpo que poderiam não ser detectados de outra forma (uma emboscada ou facada nas costas). O alcance é de 15 metros. Cada nível adicional aumenta o alcance em 15 metros.
+- Super Visão**: Cada nível dobra a distância em que seu personagem pode ver detalhes, dobrando o alcance em que ele pode usar habilidades como Spot. Ela também aumenta a ampliação que seu personagem é capaz de fazer, permitindo que ele execute habilidades como Appraise (Avaliação) a longa distância.
+- Visão Térmica**: Detecta padrões de calor dentro do alcance, permitindo que ele veja seres vivos no escuro por meio do calor corporal. As fontes de calor aparecem como borrões vermelhos em um fundo preto-azulado. Tudo o que estiver fora do alcance do poder é um borrão indistinto, e o superpoder não permite a detecção de objetos que não emitem calor, como móveis ou paredes, a menos que estejam conectados para isso. Cada nível adicional aumenta o alcance em mais 15 metros.
+- Audição Ultrassônica**: Ouça sons que seriam inaudíveis para um ser humano normal, acima ou abaixo das frequências audíveis. Use a habilidade Ouvir do seu personagem para ver se o som é percebido. Uma parede ou outra barreira de 10 centímetros de espessura impedirá a passagem da maioria dos sons, mas esse superpoder anula esse bloqueio. Cada nível adicional aumenta o alcance em 15 metros e aumenta a capacidade de ouvir através de barreiras que normalmente bloqueariam os sons (2 níveis permitem ouvir através de 20 centímetros de barreira, 3 níveis através de 30 centímetros de barreira etc.). A Ultrasonic Hearing (Audição Ultrassônica) não proporciona ao seu personagem a detecção de sonar (conforme descrito acima).
 - Visão de raio X: Veja através de 10 centímetros de qualquer substância por nível, bloqueada apenas por uma única substância, como chumbo, ouro ou alguma outra substância de maior densidade (escolha do jogador). O alcance é de 15 metros. Cada nível adicional aumenta o alcance em 15 metros e o valor de penetração do poder em mais 10 centímetros. Com níveis suficientes, faça lançamentos de habilidade de percepção visual sem ser prejudicado, mesmo quando obstruído por uma barreira.
 
 **Super Habilidade
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Sempre ligado
+**Duração**: Sempre ligado
 
-**Custo de pontos de personagem:** 2 por nível
+**Custo de pontos de personagem**: 2 por nível
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 Cada nível de super-habilidade adiciona +20% a uma única classificação de habilidade, além dos pontos de habilidade gastos durante a criação do personagem. Níveis adicionais podem ser acumulados para obter bônus maiores. O aumento da classificação da habilidade também melhora a probabilidade de sucessos especiais e resultados críticos. A super-habilidade pode aumentar com a experiência normalmente: o bônus não é computado na rolagem de experiência.
 
@@ -2989,13 +2989,13 @@ Com base no nível de poder do jogo, seu mestre de jogo pode querer limitar o to
 
 **Super velocidade
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Variável
+**Duração**: Variável
 
-**Custo de pontos de personagem:** 20 por nível
+**Custo de pontos de personagem**: 20 por nível
 
-**Custo de pontos de energia:** 1 por nível usado por rodada de combate
+**Custo de pontos de energia**: 1 por nível usado por rodada de combate
 
 A supervelocidade aumenta a taxa de movimento para 10×MOV por nível e permite tanto o movimento completo em uma rodada de combate quanto a execução de uma ação de combate. Normalmente, seu personagem está restrito a apenas uma dessas ações. Cada nível adicional permite outra rodada completa de movimento ou outra ação que não seja de combate. O movimento completo extra pode ser feito antes, depois ou no nível normal de DEX do seu personagem mais os níveis de Supervelocidade. Ao realizar uma ação normal usando a Supervelocidade, seu personagem age com o nível normal de DEX mais os níveis de Supervelocidade. Como alternativa, seu personagem pode correr o tempo todo, executando um movimento completo para cada nível de Supervelocidade, além de seu movimento completo normal sem executar outra ação além de movimento durante a rodada de combate. Se o seu personagem estiver correndo o tempo todo, ele não poderá realizar uma ação na rodada de combate.
 
@@ -3009,13 +3009,13 @@ Se estiver fazendo um ataque físico ao final de uma carga de Supervelocidade, c
 
 **Teleporte**
 
-**Alcance da base:** 1.000 metros
+**Alcance da base**: 1.000 metros
 
-**Duração:** Instantânea
+**Duração**: Instantânea
 
-**Custo de pontos de personagem:** 1 por nível
+**Custo de pontos de personagem**: 1 por nível
 
-**Custo de pontos de energia:** 1 por nível
+**Custo de pontos de energia**: 1 por nível
 
 O teletransporte permite o teletransporte instantâneo de 1 SIZ por nível de um lugar para outro dentro do alcance. O teletransporte pode ser usado em coisas que não sejam o seu personagem, seja junto com ele ou independentemente, desde que haja níveis adequados. O teletransporte não precisa de uma rolagem de alvo e pode ser usado em qualquer coisa dentro do alcance. Se o alvo estiver afixado a algo ou não quiser ser transportado, seu personagem também deverá superar com sucesso os pontos de vida do item (ou o valor da armadura) em relação aos seus pontos de poder em uma rolagem de resistência. Roupas e equipamentos pessoais em contato próximo com o sujeito o acompanham quando teletransportados. Para um sujeito que não esteja disposto, faça uma rolagem de resistência que corresponda ao nível do poder com os pontos de poder atuais do sujeito. Um sujeito disposto não precisa de uma rolagem de resistência.
 
@@ -3034,13 +3034,13 @@ Consulte a seção sobre objetos no *Capítulo 8: Equipamentos* para obter amost
 
 **Transferência**
 
-**Alcance de base:** Toque
+**Alcance de base**: Toque
 
-**Duração:** 1 rodada de combate
+**Duração**: 1 rodada de combate
 
-**Custo de pontos do personagem:** 3 por nível para pontos de vida, 1 por nível para outros recursos (pontos de fadiga, pontos de poder, pontos de sanidade)
+**Custo de pontos do personagem**: 3 por nível para pontos de vida, 1 por nível para outros recursos (pontos de fadiga, pontos de poder, pontos de sanidade)
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 A transferência move um recurso interno (pontos de vida, pontos de energia, pontos de fadiga, pontos de sanidade) do seu personagem para outro. Funciona de modo semelhante à drenagem, embora na direção oposta. A taxa dessa transferência é de 1 ponto por nível por rodada de combate, com níveis adicionais aumentando os pontos transferíveis (o nível 2 transfere 2 pontos etc.). O meio pode ser um agarrão, uma mordida, um aperto de mão, etc., mas deve envolver contato físico por pelo menos uma rodada de combate completa. Isso pode exigir uma tentativa bem-sucedida de Grapple (agarrar) se estiver em combate, ou uma rolagem de Agility (agilidade) se estiver fora de combate. Não é necessário nenhum rolamento para um alvo imóvel ou disposto, e uma tentativa contra um alvo incauto é *Fácil*. Para continuar a transferir pontos para um alvo relutante em rodadas sucessivas, a manobra (Grapple, etc.) deve ser rolada com sucesso a cada rodada de combate. A falha interrompe o contato.
 
@@ -3054,22 +3054,22 @@ O poder funciona da mesma forma para qualquer recurso:
 
 Esses quatro recursos podem ser transferidos, com as seguintes diretrizes:
 
-- Pontos de vida:** Se o seu personagem reduzir o total atual de pontos de vida para 1 ou 2 pontos de vida, ele ficará inconsciente. É possível transferir todos os pontos de vida de seu personagem para o destinatário, mas isso requer uma rolagem bem-sucedida de POW×1 para ficar abaixo de 1 ponto de vida antes de ficar inconsciente. Com 0 hit points, seu personagem fica inconsciente e começa a morrer, conforme descrito em H**it Points***. Seu personagem não pode transferir pontos de vida suficientes para ficar com pontos de vida negativos. O destinatário pode resistir com uma rolagem de Stamina.
-- Pontos de energia:** Se o total de pontos de energia do seu personagem chegar a 0, ele ficará inconsciente. O destinatário pode resistir com um rolamento de Luck.
-- Pontos de Fadiga:** Se os pontos de fadiga de seu personagem chegarem a 0, consulte as regras de **Fadiga**. O destinatário pode resistir com uma rolagem de Stamina.
-- Pontos de Sanidade:** Adicionar pontos de sanidade não elimina qualquer insanidade temporária ou indefinida que o alvo sofra - apenas aumenta a chance de sucesso em futuras rolagens de sanidade. Insanidades específicas devem ser tratadas por meio de psicoterapia e tratamento. Um personagem cujos pontos de sanidade chegam a 0 é irremediavelmente insano e está fora do controle do jogador. Consulte as regras de sanidade. Seu personagem pode transferir quantos SAN desejar até o máximo permitido de SAN do alvo (consulte **Sanidade máxima**). Se o alvo desejar agir contra seu personagem, ele deverá fazer uma rolagem de Sorte bem-sucedida para fazê-lo.
+- Pontos de vida**: Se o seu personagem reduzir o total atual de pontos de vida para 1 ou 2 pontos de vida, ele ficará inconsciente. É possível transferir todos os pontos de vida de seu personagem para o destinatário, mas isso requer uma rolagem bem-sucedida de POW×1 para ficar abaixo de 1 ponto de vida antes de ficar inconsciente. Com 0 hit points, seu personagem fica inconsciente e começa a morrer, conforme descrito em H**it Points***. Seu personagem não pode transferir pontos de vida suficientes para ficar com pontos de vida negativos. O destinatário pode resistir com uma rolagem de Stamina.
+- Pontos de energia**: Se o total de pontos de energia do seu personagem chegar a 0, ele ficará inconsciente. O destinatário pode resistir com um rolamento de Luck.
+- Pontos de Fadiga**: Se os pontos de fadiga de seu personagem chegarem a 0, consulte as regras de **Fadiga**. O destinatário pode resistir com uma rolagem de Stamina.
+- Pontos de Sanidade**: Adicionar pontos de sanidade não elimina qualquer insanidade temporária ou indefinida que o alvo sofra - apenas aumenta a chance de sucesso em futuras rolagens de sanidade. Insanidades específicas devem ser tratadas por meio de psicoterapia e tratamento. Um personagem cujos pontos de sanidade chegam a 0 é irremediavelmente insano e está fora do controle do jogador. Consulte as regras de sanidade. Seu personagem pode transferir quantos SAN desejar até o máximo permitido de SAN do alvo (consulte **Sanidade máxima**). Se o alvo desejar agir contra seu personagem, ele deverá fazer uma rolagem de Sorte bem-sucedida para fazê-lo.
 
 Esse superpoder funciona bem com Drenagem, permitindo que um personagem restaure pontos de recursos que transferiu para outros, ou que drene de um personagem e transfira para outro, tendo-o como condutor.
 
 **Combate desarmado
 
-**Faixa de base:** Autônomo
+**Faixa de base**: Autônomo
 
-**Duração:** Sempre ativo ou 5 rodadas de combate
+**Duração**: Sempre ativo ou 5 rodadas de combate
 
 Custo de energia: 20 por nível
 
-**Custo em pontos de energia:** Nenhum
+**Custo em pontos de energia**: Nenhum
 
 Isso representa um nível excepcional de treinamento em combate corpo a corpo, seja em técnicas secretas, ninjutsu, estilos de luta místicos ou golpes de luta hiperavançados. Não é necessário nenhum rolamento ou pontos de poder - seu personagem deve anunciar que está usando Unarmed Combat (Combate desarmado).
 
@@ -3086,13 +3086,13 @@ O Unarmed Combat (Combate desarmado) funciona em conjunto com a habilidade Marti
 
 **Controle do clima**
 
-**Alcance da base:** 15 metros por nível
+**Alcance da base**: 15 metros por nível
 
-**Duração:** 1 rodada de combate
+**Duração**: 1 rodada de combate
 
 Custo de energia: 3 por nível
 
-**Custo de pontos de energia:** 3 por nível para ativar, 1 por rodada de combate para manter
+**Custo de pontos de energia**: 3 por nível para ativar, 1 por rodada de combate para manter
 
 O Weather Control permite o controle do clima na área imediata, a criação de novas condições atmosféricas, a manipulação da temperatura ambiente, o aumento ou a diminuição da precipitação e a manifestação de uma variedade de condições climáticas não prejudiciais, como neblina, chuva congelante etc. Cada nível aumenta o alcance em mais 15 metros. Embora os efeitos afetem apenas as pessoas dentro do alcance do poder, a extensão real do clima é mais ampla, conforme apropriado.
 

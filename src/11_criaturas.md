@@ -8,16 +8,16 @@ Todos os registros são descritos como "criaturas" por conveniência, embora pos
 
 Quase todas as criaturas e personagens não jogadores seguem o mesmo formato, embora os animais naturais estejam em uma tabela abreviada.
 
-- **Nome:** Um título genérico.
-- Descrição:** Informações breves sobre a entrada.
-- Características:** As características são apresentadas em um intervalo rolado e em uma média (abaixo). Algumas entradas podem ter características ausentes: elas são insignificantes ou não se aplicam (consulte Criaturas sem características).
-- Pontos de vida (HP):** Normalmente a média de SIZ e CON, para alguns registros, os pontos de vida podem ser calculados de forma diferente, como por POW ou outra característica. Com 2 pontos de vida, uma criatura viva fica inconsciente ou incapacitada de outra forma e, quando atinge ou fica abaixo de 0, ela morre.
-- Taxa de movimento (MOV):** O meio primário de movimento é listado primeiro. As criaturas que estão imóveis não têm taxa de MOV.
-- Modificador de dano (DM):** A média para a criatura média, se houver. Recalcule, se necessário, para espécimes maiores ou menores.
+- **Nome**: Um título genérico.
+- Descrição**: Informações breves sobre a entrada.
+- Características**: As características são apresentadas em um intervalo rolado e em uma média (abaixo). Algumas entradas podem ter características ausentes: elas são insignificantes ou não se aplicam (consulte Criaturas sem características).
+- Pontos de vida (HP)**: Normalmente a média de SIZ e CON, para alguns registros, os pontos de vida podem ser calculados de forma diferente, como por POW ou outra característica. Com 2 pontos de vida, uma criatura viva fica inconsciente ou incapacitada de outra forma e, quando atinge ou fica abaixo de 0, ela morre.
+- Taxa de movimento (MOV)**: O meio primário de movimento é listado primeiro. As criaturas que estão imóveis não têm taxa de MOV.
+- Modificador de dano (DM)**: A média para a criatura média, se houver. Recalcule, se necessário, para espécimes maiores ou menores.
 - Armadura: O valor da armadura e o tipo de armadura, se houver.
-- Ataques:** O tipo de ataque, a classificação da habilidade e a rolagem de dano. Para ataques, "+dm" significa que está incluído, e "+½dm" significa que o modificador de dano é reduzido à metade. As habilidades ou condições especiais de combate são registradas aqui. Todos os ataques disponíveis ocorrem no mesmo nível de ataque de DEX, a menos que especificado de outra forma. Geralmente, um ataque de garra causa 1D6+dm, e uma mordida ou chifre causa 1D3+dm.
-- Habilidades:** As habilidades mais relevantes para um encontro comum. Para as habilidades não listadas, os humanos têm as chances básicas como padrão, e as habilidades adicionais devem ser determinadas pelo gamemaster conforme apropriado (consulte Medição de classificações de habilidades).
-- Poderes:** Quaisquer poderes que um espécime médio possua, com tipos especificados, se necessário.
+- Ataques**: O tipo de ataque, a classificação da habilidade e a rolagem de dano. Para ataques, "+dm" significa que está incluído, e "+½dm" significa que o modificador de dano é reduzido à metade. As habilidades ou condições especiais de combate são registradas aqui. Todos os ataques disponíveis ocorrem no mesmo nível de ataque de DEX, a menos que especificado de outra forma. Geralmente, um ataque de garra causa 1D6+dm, e uma mordida ou chifre causa 1D3+dm.
+- Habilidades**: As habilidades mais relevantes para um encontro comum. Para as habilidades não listadas, os humanos têm as chances básicas como padrão, e as habilidades adicionais devem ser determinadas pelo gamemaster conforme apropriado (consulte Medição de classificações de habilidades).
+- Poderes**: Quaisquer poderes que um espécime médio possua, com tipos especificados, se necessário.
 
 Os pontos de energia não estão listados, mas são equivalentes a POW, quando aplicável.
 
@@ -25,13 +25,13 @@ Os pontos de energia não estão listados, mas são equivalentes a POW, quando a
 
 Algumas criaturas têm um "-" no lugar de certas características, o que significa que não se aplica ou tem valor 0. Uma criatura sem uma característica não pode ser afetada por ataques ou condições que afetem essa característica. A seguir estão as diretrizes para criaturas que não possuem características específicas:
 
-- Força (STR):** Uma criatura sem força (STR) não pode interagir com objetos físicos, a não ser se movimentar ao redor deles.
-- Constituição (CON):** Uma criatura sem CON é imune a doenças, radiação, veneno e outros ataques que exijam uma rolagem de resistência contra CON. Ela nunca fica cansada ou fatigada. Se tiver SIZ e uma presença material, seus pontos de vida são baseados em uma característica diferente.
-- Tamanho (SIZ):** Uma criatura sem um SIZ não tem um corpo físico ou tem um corpo microscópico. Normalmente, ela não pode interagir com objetos físicos. Seus pontos de vida são provavelmente baseados em CON, caso tenha algum ponto de vida convencional.
-- Inteligência (INT):** Criaturas inteligentes e sencientes têm a faixa normal de INT, enquanto os animais e outras criaturas não sencientes possuem INT "fixa", geralmente uma classificação de 3 a 5, e são governados pelo instinto, não pela razão. Uma criatura com INT fixa ou sem INT não é afetada por poderes que afetam o pensamento racional, embora possa ser afetada por poderes que manipulam as emoções.
-- Poder (POW):** Mesmo sem POW, uma criatura ainda pode ter pontos de poder, mas não os regenera normalmente. Em vez disso, ela tem algum poder ou habilidade especial que lhe permite ganhar pontos de energia. Como as criaturas vivas, quando chega a 0, ela fica "inconsciente" até que, de alguma forma, recupere pelo menos 1 ponto de energia.
-- Destreza (DEX):** Uma criatura sem DEX fica imóvel ou essencialmente parada. Se ela tiver um ataque, esse ataque ocorre no nível 1 de DEX.
-- Carisma (CHA):** Embora todas as criaturas tenham alguma forma de CHA, isso raramente é relevante para aquelas que não são da mesma espécie. Se necessário, atribua CHA com base em 1D6 para criaturas simples e sem características, até 6D6+ para seres de beleza divina. Se for relevante, modifique temporariamente a CHA de uma criatura de outra espécie em -10 quando estiver lidando com pessoas de fora de sua espécie.
+- Força (STR)**: Uma criatura sem força (STR) não pode interagir com objetos físicos, a não ser se movimentar ao redor deles.
+- Constituição (CON)**: Uma criatura sem CON é imune a doenças, radiação, veneno e outros ataques que exijam uma rolagem de resistência contra CON. Ela nunca fica cansada ou fatigada. Se tiver SIZ e uma presença material, seus pontos de vida são baseados em uma característica diferente.
+- Tamanho (SIZ)**: Uma criatura sem um SIZ não tem um corpo físico ou tem um corpo microscópico. Normalmente, ela não pode interagir com objetos físicos. Seus pontos de vida são provavelmente baseados em CON, caso tenha algum ponto de vida convencional.
+- Inteligência (INT)**: Criaturas inteligentes e sencientes têm a faixa normal de INT, enquanto os animais e outras criaturas não sencientes possuem INT "fixa", geralmente uma classificação de 3 a 5, e são governados pelo instinto, não pela razão. Uma criatura com INT fixa ou sem INT não é afetada por poderes que afetam o pensamento racional, embora possa ser afetada por poderes que manipulam as emoções.
+- Poder (POW)**: Mesmo sem POW, uma criatura ainda pode ter pontos de poder, mas não os regenera normalmente. Em vez disso, ela tem algum poder ou habilidade especial que lhe permite ganhar pontos de energia. Como as criaturas vivas, quando chega a 0, ela fica "inconsciente" até que, de alguma forma, recupere pelo menos 1 ponto de energia.
+- Destreza (DEX)**: Uma criatura sem DEX fica imóvel ou essencialmente parada. Se ela tiver um ataque, esse ataque ocorre no nível 1 de DEX.
+- Carisma (CHA)**: Embora todas as criaturas tenham alguma forma de CHA, isso raramente é relevante para aquelas que não são da mesma espécie. Se necessário, atribua CHA com base em 1D6 para criaturas simples e sem características, até 6D6+ para seres de beleza divina. Se for relevante, modifique temporariamente a CHA de uma criatura de outra espécie em -10 quando estiver lidando com pessoas de fora de sua espécie.
 
 **Criaturas como personagens do jogador**
 
@@ -39,7 +39,7 @@ Os jogadores podem querer vivenciar o jogo interpretando membros de raças não 
 
 As criaturas incompletas (aquelas sem valor em uma ou mais características) geralmente são muito limitadas para serem apreciadas. Além disso, pode ser menos agradável para um jogador tentar interpretar uma criatura cuja característica INT é gerada com um rolamento inferior a 3D6 (ou 2D6+6).
 
-O mestre de jogo também pode desencorajar os jogadores a tentar interpretar seres extremamente poderosos ou filosoficamente desagradáveis, com base no cenário e na campanha específica. **Por exemplo, em um cenário de fantasia em que a maioria dos personagens jogadores interpreta elfos, o mestre de jogo pode não permitir que os jogadores criem trolls ou personagens jogadores anões devido ao conflito que esses inimigos elfos (tradicionais) trarão para o grupo. Da mesma forma, se a criatura criar dificuldades indevidas devido à sua própria natureza, como tamanho extremo, inimizade social ou elementos culturais, o mestre de jogo não deve permitir que os jogadores escolham usá-la como uma raça de personagem de jogador. Todas essas decisões ficam a critério do mestre de jogo, e o jogador deve perguntar ao mestre de jogo se tem permissão para usar um tipo específico de criatura na campanha.
+O mestre de jogo também pode desencorajar os jogadores a tentar interpretar seres extremamente poderosos ou filosoficamente desagradáveis, com base no cenário e na campanha específica. **Por exemplo,** em um cenário de fantasia em que a maioria dos personagens jogadores interpreta elfos, o mestre de jogo pode não permitir que os jogadores criem trolls ou personagens jogadores anões devido ao conflito que esses inimigos elfos (tradicionais) trarão para o grupo. Da mesma forma, se a criatura criar dificuldades indevidas devido à sua própria natureza, como tamanho extremo, inimizade social ou elementos culturais, o mestre de jogo não deve permitir que os jogadores escolham usá-la como uma raça de personagem de jogador. Todas essas decisões ficam a critério do mestre de jogo, e o jogador deve perguntar ao mestre de jogo se tem permissão para usar um tipo específico de criatura na campanha.
 
 Deixando essas advertências de lado, todas as criaturas deste capítulo são apresentadas com o máximo de detalhes necessários para serem usadas como personagens jogadores, embora o mestre de jogo possa querer expandir essas entradas para se adequar ao seu cenário e campanha específicos. Na maioria dos casos, supõe-se que essas estatísticas representem versões adultas ou maduras das criaturas, o que significa que o mestre de jogo deve ser capaz de limitar a gama de poderes disponíveis para uma versão da criatura para o personagem do jogador, com a suposição de que, com o tempo, a criatura do personagem do jogador possa aprender esses poderes adicionais e habilidades especiais.
 
@@ -109,41 +109,41 @@ Enxame de insetos | - | - | - | - | - | Voar 12 Andar 10 | - | - | - | - | Veja 
 
 A maioria dos animais naturais tem inteligência rudimentar (INT 3-5), raramente luta até a morte e, em geral, tem comportamento territorial. Se um sucesso especial for rolado para qualquer ataque, mordidas e garras são cortantes (raramente empalam), tentáculos e constrições são emaranhados e esmagadores, pisoteamentos ou chutes são esmagadores e potencialmente causam repulsões (com base no tamanho da criatura). Para criaturas com veneno, isso é abordado em **Poisons** no *Capítulo 7: Spot Rules*. Os ataques são apresentados na ordem de preferência. As criaturas sem habilidade de Esquiva ou não se esquivam ou a habilidade não é aplicável. Os modificadores de dano são médios; modifique se o STR ou o SIZ indicarem isso.
 
-**Jacaré ou crocodilo:** Os jacarés são menores e mais fracos (-1D6 para FOR e TAM), têm mandíbulas menores (1D8+dm) e são menos agressivos que os crocodilos.
+**Jacaré ou crocodilo**: Os jacarés são menores e mais fracos (-1D6 para FOR e TAM), têm mandíbulas menores (1D8+dm) e são menos agressivos que os crocodilos.
 
-**Urso:** Os ursos podem atacar duas vezes em uma rodada, usando dois ataques de garra separados ou um ataque de garra e um de mordida. Os ursos-pardos são maiores, mais fortes (STR +1D6, CON +2, SIZ +2, +1 armadura) e mais ferozes (+10% nas habilidades de combate). Os ursos polares são maiores e mais poderosos (STR +2D6, CON +1D6+2, SIZ +2D6, +3 armadura, +20% para habilidades de ataque, Swim 80%).
+**Urso**: Os ursos podem atacar duas vezes em uma rodada, usando dois ataques de garra separados ou um ataque de garra e um de mordida. Os ursos-pardos são maiores, mais fortes (STR +1D6, CON +2, SIZ +2, +1 armadura) e mais ferozes (+10% nas habilidades de combate). Os ursos polares são maiores e mais poderosos (STR +2D6, CON +1D6+2, SIZ +2D6, +3 armadura, +20% para habilidades de ataque, Swim 80%).
 
-**Brontosaur:** Os brontossauros podem atacar uma vez por rodada, usando um chicote de cauda ou um atropelamento se estiverem em movimento. O chicote de cauda é um ataque de varredura com efeito de área. O atropelamento só é usado contra alvos que estejam deitados ou que tenham um tamanho inferior a 1/3 do tamanho do brontossauro.
+**Brontosaur**: Os brontossauros podem atacar uma vez por rodada, usando um chicote de cauda ou um atropelamento se estiverem em movimento. O chicote de cauda é um ataque de varredura com efeito de área. O atropelamento só é usado contra alvos que estejam deitados ou que tenham um tamanho inferior a 1/3 do tamanho do brontossauro.
 
-**Cão:** Os cães selvagens formam matilhas de 1D8+3 ou mais. Para cães maiores, use as estatísticas para lobos.
+**Cão**: Os cães selvagens formam matilhas de 1D8+3 ou mais. Para cães maiores, use as estatísticas para lobos.
 
-**Elefante:** Embora prefira simplesmente atacar ou pisotear, o elefante pode atacar com a tromba. Nesse caso, nenhum dano é causado. Em vez disso, o alvo deve fazer uma rolagem de resistência de sua força de resistência contra metade da força de resistência do elefante. Se falhar, ele será colocado em posição de ser automaticamente pisoteado na próxima rodada. Como alternativa, o elefante pode arremessar a vítima para longe, causando dano de queda com base em um metro para cada 3 pontos de força de resistência do elefante. Para cada 6 pontos de SIZ que a vítima tiver acima de 16, ela cairá dois metros mais perto e sofrerá menos dano.
+**Elefante**: Embora prefira simplesmente atacar ou pisotear, o elefante pode atacar com a tromba. Nesse caso, nenhum dano é causado. Em vez disso, o alvo deve fazer uma rolagem de resistência de sua força de resistência contra metade da força de resistência do elefante. Se falhar, ele será colocado em posição de ser automaticamente pisoteado na próxima rodada. Como alternativa, o elefante pode arremessar a vítima para longe, causando dano de queda com base em um metro para cada 3 pontos de força de resistência do elefante. Para cada 6 pontos de SIZ que a vítima tiver acima de 16, ela cairá dois metros mais perto e sofrerá menos dano.
 
-**Gorila:** Um gorila pode atacar duas vezes por rodada. Ele pode atacar duas vezes com os punhos, morder e atacar ou morder e agarrar. Se o agarramento for bem-sucedido, ele agarra o alvo e causa seu modificador de dano total a cada rodada. Se estiver agarrando, ele pode continuar a morder, um ataque *Fácil*. As gorilas fêmeas são menores do que os machos (-1D6 para FÍS e TAM).
+**Gorila**: Um gorila pode atacar duas vezes por rodada. Ele pode atacar duas vezes com os punhos, morder e atacar ou morder e agarrar. Se o agarramento for bem-sucedido, ele agarra o alvo e causa seu modificador de dano total a cada rodada. Se estiver agarrando, ele pode continuar a morder, um ataque *Fácil*. As gorilas fêmeas são menores do que os machos (-1D6 para FÍS e TAM).
 
-**Falcão:** Um falcão ataca com as duas garras simultaneamente e morde 5 fileiras depois.
+**Falcão**: Um falcão ataca com as duas garras simultaneamente e morde 5 fileiras depois.
 
-**Cavalo:** Cavalos não treinados para combate fogem ao se depararem com sangue, fogo, tiros, gritos ou explosões. Os cavalos de guerra são treinados para a violência e se mantêm firmes se o cavaleiro for bem-sucedido em um teste de cavalgada. Os cavalos de guerra geralmente são criados para serem robustos (+2 para STR, CON e SIZ).
+**Cavalo**: Cavalos não treinados para combate fogem ao se depararem com sangue, fogo, tiros, gritos ou explosões. Os cavalos de guerra são treinados para a violência e se mantêm firmes se o cavaleiro for bem-sucedido em um teste de cavalgada. Os cavalos de guerra geralmente são criados para serem robustos (+2 para STR, CON e SIZ).
 
-**Enxame de insetos:** O tamanho da colmeia determina o número de ferroadas infligidas a cada rodada. Um pequeno ninho de vespas pode picar 1D6 vezes por rodada, chegando a 8D6 em uma enorme colmeia ou formigueiro. O tipo de dado pode ser ajustado com base na gravidade do veneno (1 pt. para irritação leve até D10 para insetos predadores ferozes). Cada personagem atacado pelo enxame é automaticamente picado o número rolado de vezes a cada rodada de combate até que escape, detenha ou destrua o enxame. Um enxame de insetos ataca por 2D6 rodadas de combate antes de desistir. A menos que os alvos estejam completamente cobertos ou fechados, não há proteção contra um enxame de insetos. Uma rolagem de Esquiva *difícil* pode evitar um enxame de insetos, ou outros meios (fogo, fumaça, veneno, etc.) podem ser usados para afastá-los. Qualquer equipamento de proteção que o personagem esteja usando reduzirá o número de picadas por D6, com equipamentos leves reduzindo cada dado em -1, equipamentos de apicultor em -4 e cobertura completa significando nenhuma picada. Uma vez picado, o fator de veneno é baseado no tipo de inseto: abelhas são 20, vespas 15, formigas do exército 10. Divida o número total de picadas pelo fator de veneno para obter a potência do veneno (POT). Após 1D6 horas, cada personagem picado deve fazer uma rolagem de resistência de CON contra a POT do veneno. Se for bem-sucedido, ele resistirá ao POT do veneno e sofrerá metade do POT do veneno (arredondado para cima) em pontos de dano. Se falharem na rolagem de resistência, receberão a potência total do veneno como dano em pontos de vida. Uma intervenção bem-sucedida com um antiveneno ou tratamento equivalente pode reduzir o número de picadas em mais 1D4-1 por 1D6, com uma rolagem bem-sucedida de Primeiros Socorros e os suprimentos médicos adequados. Um personagem com uma verificação de Primeiros Socorros bem-sucedida pode fazer uma segunda rolagem de Química *difícil* para improvisar um antiveneno a partir de produtos químicos ou substâncias disponíveis (consulte **Antídotos contra veneno**).
+**Enxame de insetos**: O tamanho da colmeia determina o número de ferroadas infligidas a cada rodada. Um pequeno ninho de vespas pode picar 1D6 vezes por rodada, chegando a 8D6 em uma enorme colmeia ou formigueiro. O tipo de dado pode ser ajustado com base na gravidade do veneno (1 pt. para irritação leve até D10 para insetos predadores ferozes). Cada personagem atacado pelo enxame é automaticamente picado o número rolado de vezes a cada rodada de combate até que escape, detenha ou destrua o enxame. Um enxame de insetos ataca por 2D6 rodadas de combate antes de desistir. A menos que os alvos estejam completamente cobertos ou fechados, não há proteção contra um enxame de insetos. Uma rolagem de Esquiva *difícil* pode evitar um enxame de insetos, ou outros meios (fogo, fumaça, veneno, etc.) podem ser usados para afastá-los. Qualquer equipamento de proteção que o personagem esteja usando reduzirá o número de picadas por D6, com equipamentos leves reduzindo cada dado em -1, equipamentos de apicultor em -4 e cobertura completa significando nenhuma picada. Uma vez picado, o fator de veneno é baseado no tipo de inseto: abelhas são 20, vespas 15, formigas do exército 10. Divida o número total de picadas pelo fator de veneno para obter a potência do veneno (POT). Após 1D6 horas, cada personagem picado deve fazer uma rolagem de resistência de CON contra a POT do veneno. Se for bem-sucedido, ele resistirá ao POT do veneno e sofrerá metade do POT do veneno (arredondado para cima) em pontos de dano. Se falharem na rolagem de resistência, receberão a potência total do veneno como dano em pontos de vida. Uma intervenção bem-sucedida com um antiveneno ou tratamento equivalente pode reduzir o número de picadas em mais 1D4-1 por 1D6, com uma rolagem bem-sucedida de Primeiros Socorros e os suprimentos médicos adequados. Um personagem com uma verificação de Primeiros Socorros bem-sucedida pode fazer uma segunda rolagem de Química *difícil* para improvisar um antiveneno a partir de produtos químicos ou substâncias disponíveis (consulte **Antídotos contra veneno**).
 
-**Leão:** Um leão pode fazer um ataque de garra e um ataque de mordida a cada rodada de combate. Se ambos os ataques forem bem-sucedidos, o leão permanece na próxima rodada, continuando a morder. Em vez de arranhar, ele golpeia com suas garras traseiras.
+**Leão**: Um leão pode fazer um ataque de garra e um ataque de mordida a cada rodada de combate. Se ambos os ataques forem bem-sucedidos, o leão permanece na próxima rodada, continuando a morder. Em vez de arranhar, ele golpeia com suas garras traseiras.
 
-**Matilha de ratos:** Cada "matilha" consiste em dez ratos. Multiplique o número de matilhas de ratos por ×5: esse resultado é a chance de ataque de cada matilha a cada rodada de combate (role para cada matilha). Cada ataque bem-sucedido causa 1D3 de dano aos locais de acerto da perna e/ou do abdome (se forem usados locais de acerto). Os sucessos especiais causam dano cortante. Um ataque de matilha de ratos pode ser esquivado, mas não aparado. Os ataques contra eles são *difíceis*, mas um ataque bem-sucedido mata automaticamente um rato e afugenta o restante da matilha, reduzindo a eficácia de outros ataques. As mordidas de rato também podem causar doenças (consulte Doenças).
+**Matilha de ratos**: Cada "matilha" consiste em dez ratos. Multiplique o número de matilhas de ratos por ×5: esse resultado é a chance de ataque de cada matilha a cada rodada de combate (role para cada matilha). Cada ataque bem-sucedido causa 1D3 de dano aos locais de acerto da perna e/ou do abdome (se forem usados locais de acerto). Os sucessos especiais causam dano cortante. Um ataque de matilha de ratos pode ser esquivado, mas não aparado. Os ataques contra eles são *difíceis*, mas um ataque bem-sucedido mata automaticamente um rato e afugenta o restante da matilha, reduzindo a eficácia de outros ataques. As mordidas de rato também podem causar doenças (consulte Doenças).
 
-**Tubarão:** Se a mordida do tubarão falhar ou for esquivada, ele tentará um golpe de barbatana cinco níveis de DEX depois. Se a mordida de um tubarão for aparada ou atingida, ele não tentará um golpe de barbatana. Após um ataque de mordida bem-sucedido, alguns tubarões (como os grandes tubarões) continuam mordendo e se debatendo nas rodadas de combate subsequentes (um ataque *Easy* com o mesmo dano) até serem desalojados ou até a morte do alvo. Um tubarão gigante tem STR e SIZ 6D6+24, CON 4D6+18, 39 pontos de vida e um modificador de dano +5D6.
+**Tubarão**: Se a mordida do tubarão falhar ou for esquivada, ele tentará um golpe de barbatana cinco níveis de DEX depois. Se a mordida de um tubarão for aparada ou atingida, ele não tentará um golpe de barbatana. Após um ataque de mordida bem-sucedido, alguns tubarões (como os grandes tubarões) continuam mordendo e se debatendo nas rodadas de combate subsequentes (um ataque *Easy* com o mesmo dano) até serem desalojados ou até a morte do alvo. Um tubarão gigante tem STR e SIZ 6D6+24, CON 4D6+18, 39 pontos de vida e um modificador de dano +5D6.
 
-**Serpente (Constritora):** Uma constritora pode atacar duas vezes em uma rodada de combate, primeiro mordendo e depois tentando a constrição 5 níveis de DEX mais tarde. Se o ataque de constrição for bem-sucedido, o alvo será enrolado nas espirais da constritora. O alvo pode ofegar, mas não pode gritar ou berrar. Cada rodada de constrição causa dano aos pontos de vida do alvo (local de vida no peito). Somente a armadura rígida no peito (se a armadura por local de acerto estiver sendo usada) reduz esse dano. Se um membro estiver livre, o alvo poderá fazer ataques *difíceis* contra o constritor. Se nenhum membro estiver livre, o alvo não poderá atacar na maioria das circunstâncias (a critério do gamemaster). Para ficar completamente livre da constrição, o alvo deve fazer uma rolagem de resistência bem-sucedida de sua força de resistência contra a força de resistência da constritora, em vez de atacar em uma rodada. Para liberdade parcial, uma rolagem de Agilidade *Difícil* libera um único braço ou outro membro. Um alvo constrito deve ser bem-sucedido em uma rolagem de resistência ou cair inconsciente. Quando o alvo estiver inconsciente ou morto, a constritora o engole inteiro. A menos que esteja usando um aparelho de respiração que tenha sobrevivido ao esmagamento, o alvo sufoca. Uma constritora gigante adiciona +2D6 à FÍS e ao TAM, tem 19 pontos de vida, um modificador de dano de +2D6 e 4 pontos de pele em escala.
+**Serpente (Constritora)**: Uma constritora pode atacar duas vezes em uma rodada de combate, primeiro mordendo e depois tentando a constrição 5 níveis de DEX mais tarde. Se o ataque de constrição for bem-sucedido, o alvo será enrolado nas espirais da constritora. O alvo pode ofegar, mas não pode gritar ou berrar. Cada rodada de constrição causa dano aos pontos de vida do alvo (local de vida no peito). Somente a armadura rígida no peito (se a armadura por local de acerto estiver sendo usada) reduz esse dano. Se um membro estiver livre, o alvo poderá fazer ataques *difíceis* contra o constritor. Se nenhum membro estiver livre, o alvo não poderá atacar na maioria das circunstâncias (a critério do gamemaster). Para ficar completamente livre da constrição, o alvo deve fazer uma rolagem de resistência bem-sucedida de sua força de resistência contra a força de resistência da constritora, em vez de atacar em uma rodada. Para liberdade parcial, uma rolagem de Agilidade *Difícil* libera um único braço ou outro membro. Um alvo constrito deve ser bem-sucedido em uma rolagem de resistência ou cair inconsciente. Quando o alvo estiver inconsciente ou morto, a constritora o engole inteiro. A menos que esteja usando um aparelho de respiração que tenha sobrevivido ao esmagamento, o alvo sufoca. Uma constritora gigante adiciona +2D6 à FÍS e ao TAM, tem 19 pontos de vida, um modificador de dano de +2D6 e 4 pontos de pele em escala.
 
-**Cobra (venenosa):** Consulte as seções **Poisons** e **Sample Poisons** para obter mais informações sobre vários tipos de cobras venenosas. Uma cobra venenosa gigante tem STR e SIZ 4D6+12, 17 pontos de vida e um modificador de dano +2D6.
+**Cobra (venenosa)**: Consulte as seções **Poisons** e **Sample Poisons** para obter mais informações sobre vários tipos de cobras venenosas. Uma cobra venenosa gigante tem STR e SIZ 4D6+12, 17 pontos de vida e um modificador de dano +2D6.
 
-**Lula (Gigante):** Uma lula pode atacar até cinco alvos diferentes simultaneamente com seu bico e dez tentáculos. O veneno de uma lula tem um POT equivalente à sua CON. O primeiro tentáculo que atinge um alvo com sucesso se prende a ele e, quando um segundo tentáculo se conecta, os dois constringem o alvo até que ele possa escapar ou se libertar (cada tentáculo tem 2 pontos de vida). Cada tentáculo que permanece ao redor do alvo causa dano normal a cada rodada de combate. Para escapar de um tentáculo, faça uma rolagem de resistência bem-sucedida de FÍS vs. FÍS da lula ou uma rolagem de Esforço *Difícil* para liberar uma mão para atacar. Os ataques contra uma lula enquanto ela estiver presa por seus tentáculos são *difíceis*. Uma lula do tamanho de um leviatã, capaz de enfrentar barcos e baleias, tem SIZ e STR +1D6 por metro de extensão aumentada de ponta a ponta do tentáculo, aumentando os pontos de vida e o modificador de dano de acordo.
+**Lula (Gigante)**: Uma lula pode atacar até cinco alvos diferentes simultaneamente com seu bico e dez tentáculos. O veneno de uma lula tem um POT equivalente à sua CON. O primeiro tentáculo que atinge um alvo com sucesso se prende a ele e, quando um segundo tentáculo se conecta, os dois constringem o alvo até que ele possa escapar ou se libertar (cada tentáculo tem 2 pontos de vida). Cada tentáculo que permanece ao redor do alvo causa dano normal a cada rodada de combate. Para escapar de um tentáculo, faça uma rolagem de resistência bem-sucedida de FÍS vs. FÍS da lula ou uma rolagem de Esforço *Difícil* para liberar uma mão para atacar. Os ataques contra uma lula enquanto ela estiver presa por seus tentáculos são *difíceis*. Uma lula do tamanho de um leviatã, capaz de enfrentar barcos e baleias, tem SIZ e STR +1D6 por metro de extensão aumentada de ponta a ponta do tentáculo, aumentando os pontos de vida e o modificador de dano de acordo.
 
-**Tigre:** Um tigre pode fazer duas garras simultâneas e uma mordida a cada rodada de combate. A mordida vem 5 níveis de DEX após os ataques de garra. Se ambas as garras atingirem o alvo com sucesso, o tigre se segura e rasga com suas garras traseiras na próxima rodada, enquanto continua a morder.
+**Tigre**: Um tigre pode fazer duas garras simultâneas e uma mordida a cada rodada de combate. A mordida vem 5 níveis de DEX após os ataques de garra. Se ambas as garras atingirem o alvo com sucesso, o tigre se segura e rasga com suas garras traseiras na próxima rodada, enquanto continua a morder.
 
-**Tiranossauro Rex:** O tiranossauro ataca primeiro com uma mordida. Se for bem-sucedido, 5 rodadas de DEX depois, ele ataca com as duas garras dianteiras para agarrar o alvo e rasgá-lo ainda mais. Para alvos maiores, ele substitui os ataques com as garras dianteiras por um único ataque de chute, às vezes até subindo no alvo e atacando com uma mordida e dois chutes na próxima rodada de combate.
+**Tiranossauro Rex**: O tiranossauro ataca primeiro com uma mordida. Se for bem-sucedido, 5 rodadas de DEX depois, ele ataca com as duas garras dianteiras para agarrar o alvo e rasgá-lo ainda mais. Para alvos maiores, ele substitui os ataques com as garras dianteiras por um único ataque de chute, às vezes até subindo no alvo e atacando com uma mordida e dois chutes na próxima rodada de combate.
 
-**Lobo:** Os lobos caçam em matilhas que variam de uma dúzia a 40 ou mais. Em combate, os lobos geralmente lutam de forma cooperativa. Vários lobos podem atacar o mesmo alvo simultaneamente, garantindo que alguns não sejam aparados ou esquivados. Um ou dois lobos grandes podem tentar derrubar o alvo (consulte Knockdown). Quando o alvo está caído, os outros lobos correm para atacá-lo. O mestre de jogo também pode usar essas estatísticas para representar um cão grande.
+**Lobo**: Os lobos caçam em matilhas que variam de uma dúzia a 40 ou mais. Em combate, os lobos geralmente lutam de forma cooperativa. Vários lobos podem atacar o mesmo alvo simultaneamente, garantindo que alguns não sejam aparados ou esquivados. Um ou dois lobos grandes podem tentar derrubar o alvo (consulte Knockdown). Quando o alvo está caído, os outros lobos correm para atacá-lo. O mestre de jogo também pode usar essas estatísticas para representar um cão grande.
 
 **Criaturas de fantasia
 
@@ -161,9 +161,9 @@ Metade humano, metade cavalo, são seres sábios e pastorais, guardiões da sabe
 | | |
 |-------------------------------------------------|-----------------------------------------|
 | Movimentação: 12 Pontos de vida: 19
-| Modificador de dano:** +1D4 (humano); +2D6 (cavalo) | **Armadura** 1 ponto de couro (pode usar armadura) |
+| Modificador de dano**: +1D4 (humano); +2D6 (cavalo) | **Armadura** 1 ponto de couro (pode usar armadura) |
 
-**Ataques:**
+**Ataques**:
 
 - Arco composto 45%, 1D8+1+½dm (empalamento)
 - Lança 35%, 1D10+1+dm (empalamento)
@@ -175,9 +175,9 @@ Metade humano, metade cavalo, são seres sábios e pastorais, guardiões da sabe
 
 Um centauro pode chutar 5 fileiras de DEX depois de golpear com uma arma corpo a corpo, mas não ao atacar com uma lança. Seu modificador de dano com armas brancas é baseado em STR × 2, mas é normal para chutes, atropelamentos ou cargas.
 
-**Poderes:** Os centauros preferem a magia à feitiçaria. Um centauro com POW suficiente para magia tem os seguintes feitiços: Enhance (aprimoramento) 35%, Heal (cura) 60%, Illusion (ilusão) 45%, Perception (percepção) 40% e Vision (visão) 50%.
+**Poderes**: Os centauros preferem a magia à feitiçaria. Um centauro com POW suficiente para magia tem os seguintes feitiços: Enhance (aprimoramento) 35%, Heal (cura) 60%, Illusion (ilusão) 45%, Perception (percepção) 40% e Vision (visão) 50%.
 
-**Habilidades:** Avaliar 50%, Barganhar 35%, Comandar 25%, Esquivar-se 35%, Etiqueta 35%, Perspicácia 40%, Primeiros Socorros 40%, Saltar 60%, Conhecimento (História) 50%, Ouvir 35%, Executar (Lira) 35%, Sentir 50%, Localizar 40%, Nadar 35%, Rastrear 25%.
+**Habilidades**: Avaliar 50%, Barganhar 35%, Comandar 25%, Esquivar-se 35%, Etiqueta 35%, Perspicácia 40%, Primeiros Socorros 40%, Saltar 60%, Conhecimento (História) 50%, Ouvir 35%, Executar (Lira) 35%, Sentir 50%, Localizar 40%, Nadar 35%, Rastrear 25%.
 
 **Dragão
 
@@ -191,9 +191,9 @@ Répteis voadores gigantescos, que cospem chamas, com garras e dentes enormes e 
 | | |
 |---------------------------|---------------------------|
 | Movimento: 4 (10 voando) Pontos de Golpe: 53
-| Modificador de dano:** +8D6 | **Armadura** Escala de 12 pontos |
+| Modificador de dano**: +8D6 | **Armadura** Escala de 12 pontos |
 
-**Ataques:**
+**Ataques**:
 
 - Soprar chamas 75%, 4D6+especial (veja abaixo)
 - Mordida 65%, 3D6+dm (empalamento)
@@ -204,9 +204,9 @@ Os dragões atacam voando por cima e lançando fogo em seus alvos. O fogo de um 
 
 Quando estiver no chão, o dragão pode fazer dois ataques a cada rodada de combate: ele pode morder ou soprar chamas em um ataque e usar um golpe de garra ou uma varredura de cauda no outro. O segundo ataque é 5 níveis de DEX após o primeiro. O ataque de varredura da cauda de um dragão é tratado como um ataque de varredura de efeito de área (consulte o *Capítulo 7: Regras de local*.
 
-**Habilidades:** Esquivar-se 35%, Voar 100%, Ouvir 65%, Sentir 50%, Localizar 60%, Rastrear 45%.
+**Habilidades**: Esquivar-se 35%, Voar 100%, Ouvir 65%, Sentir 50%, Localizar 60%, Rastrear 45%.
 
-**Poderes:** Os dragões são seres intensamente mágicos. Os dragões inteligentes têm INT de 4D6 e conhecem magia ou feitiçaria. Se for o caso, o dragão tem habilidades adicionais, como Falar Idiomas, vários Conhecimentos e até mesmo Avaliação. Os dragões também podem ter armas de sopro que não sejam de fogo (consulte Projeção de energia).
+**Poderes**: Os dragões são seres intensamente mágicos. Os dragões inteligentes têm INT de 4D6 e conhecem magia ou feitiçaria. Se for o caso, o dragão tem habilidades adicionais, como Falar Idiomas, vários Conhecimentos e até mesmo Avaliação. Os dragões também podem ter armas de sopro que não sejam de fogo (consulte Projeção de energia).
 
 **Anão
 
@@ -220,18 +220,18 @@ Os anões vivem tradicionalmente no subsolo, em cavernas e catacumbas subterrân
 | | |
 |---------------------------|---------------------------------------------|
 | Movimento: 6 Pontos de Golpe: 12
-| Modificador de Dano:** Nenhum ** Armadura** 8 pontos (corrente e elmo leve)
+| Modificador de Dano**: Nenhum ** Armadura** 8 pontos (corrente e elmo leve)
 
-**Ataques:**
+**Ataques**:
 
 - Martelo 35%, 1D6+dm (esmagamento)
 - Machado de batalha 50%, 1D8+2+dm (sangramento)
 - Besta pesada 40%, 2D4+2 (empalamento)
 - Fivela 50%, 1D2+dm (repulsão)
 
-**Habilidades:** Avaliar 50%, Pechinchar 45%, Brigar 50%, Artesanato (ferraria) 45%, Esquivar-se 40%, Lutar 45%, Conhecimento (cultura anã) 35%, Idioma (humano) 35%, Idioma (anão) 65%, Ouvir 45%, Consertar (armas e armaduras) 35%, Localizar 45%, Status 35%, Arremessar 35%.
+**Habilidades**: Avaliar 50%, Pechinchar 45%, Brigar 50%, Artesanato (ferraria) 45%, Esquivar-se 40%, Lutar 45%, Conhecimento (cultura anã) 35%, Idioma (humano) 35%, Idioma (anão) 65%, Ouvir 45%, Consertar (armas e armaduras) 35%, Localizar 45%, Status 35%, Arremessar 35%.
 
-**Poderes:** Tradicionalmente, os anões evitam a magia, embora alguns usem magia ou feitiçaria. Os anões têm uma habilidade natural como Super Sense (Dark Vision), com níveis equivalentes a ½ (arredondado para cima) de seu POW.
+**Poderes**: Tradicionalmente, os anões evitam a magia, embora alguns usem magia ou feitiçaria. Os anões têm uma habilidade natural como Super Sense (Dark Vision), com níveis equivalentes a ½ (arredondado para cima) de seu POW.
 
 **Elfo
 
@@ -247,18 +247,18 @@ Os humanos e os elfos às vezes formam relacionamentos, embora a prole seja inco
 | | |
 |---------------------------|----------------------------------|
 | Movimento: 11 Pontos de Golpe: 10
-| Modificador de dano:** Nenhum | **Armadura** 1 ponto (couro macio) |
+| Modificador de dano**: Nenhum | **Armadura** 1 ponto (couro macio) |
 
-**Ataques:**
+**Ataques**:
 
 - Arco longo 55%, 1D8+1+½dm (empalamento)
 - Espada curta 45%, 1D6+1+dm (sangramento)
 - Lança curta 40%, 1D6+1+dm (empalamento)
 - Lança curta (arremessada) 55%, 1D6+1+½dm (empalamento)
 
-**Habilidades:** Escalar 65%, Esquivar-se 55%, Primeiros Socorros 45%, Esconder-se 35%, Saltar 45%, Conhecimento (Elfos) 45%, Linguagem (Humana) 40%, Linguagem (Élfica) 85%, Ouvir 55%, Executar (Cantar) 35%, Sentir 30%, Localizar 45%, Furtividade 45%, Nadar 35%, Rastrear 40%.
+**Habilidades**: Escalar 65%, Esquivar-se 55%, Primeiros Socorros 45%, Esconder-se 35%, Saltar 45%, Conhecimento (Elfos) 45%, Linguagem (Humana) 40%, Linguagem (Élfica) 85%, Ouvir 55%, Executar (Cantar) 35%, Sentir 30%, Localizar 45%, Furtividade 45%, Nadar 35%, Rastrear 40%.
 
-**Poderes:** Os elfos normalmente usam magia e têm uma habilidade natural como Super Sense (Visão Noturna) com níveis iguais a ½ de seu POW (arredondado para cima). As magias comuns para um elfo são Dispel 45%, Heal 50%, Illusion 35%, Perception 60%, Resistance 50% e Vision 60%.
+**Poderes**: Os elfos normalmente usam magia e têm uma habilidade natural como Super Sense (Visão Noturna) com níveis iguais a ½ de seu POW (arredondado para cima). As magias comuns para um elfo são Dispel 45%, Heal 50%, Illusion 35%, Perception 60%, Resistance 50% e Vision 60%.
 
 **Fantasma
 
@@ -283,18 +283,18 @@ Os fantasmas geralmente possuem apenas INT e POW, embora alguns fantasmas possam
 
 | | |
 |-----------------------------|-----------------------------------------|
-| Movimento:** 14 (igual ao POW) Pontos de vida** Nenhum
-| Modificador de dano:** Nenhum | **Armadura** Nenhuma (imaterial, veja abaixo). |
+| Movimento**: 14 (igual ao POW) Pontos de vida** Nenhum
+| Modificador de dano**: Nenhum | **Armadura** Nenhuma (imaterial, veja abaixo). |
 
-**Ataques:**
+**Ataques**:
 
 - Combate Fantasmagórico POW vs. POW, 1D3 pontos de poder (veja abaixo).
 
-**Poderes:** Os fantasmas podem atacar em um combate fantasmagórico, uma rolagem de resistência POW vs. POW. Isso parece como se o fantasma estivesse arranhando, envolvendo ou atacando fisicamente o alvo. Se o fantasma superar o POW do alvo, ele perderá 1D3 pontos de energia (alguns fantasmas podem infligir dano em pontos de vida em vez disso). Se o fantasma for vencido, ele perderá 1D3 pontos de energia. Fantasmas mais poderosos podem drenar 1D6 pontos de energia (ou mais) de um alvo, mas só perdem 1D3 pontos de energia se forem vencidos pelo alvo pretendido. Esse combate continua a cada rodada de combate até que o alvo fique inconsciente ou que um dos lados tenha fugido. Ao contrário dos vampiros, os pontos de energia drenados são simplesmente perdidos. Um fantasma foge antes de chegar a 0 pontos de energia. Se um fantasma reduzir um alvo a 0 pontos de energia, ele poderá possuí-lo, geralmente fazendo com que o alvo cometa suicídio ou prejudique outra pessoa. Mesmo que um fantasma possua um alvo, ele permanece ligado ao local de sua assombração e não pode sair.
+**Poderes**: Os fantasmas podem atacar em um combate fantasmagórico, uma rolagem de resistência POW vs. POW. Isso parece como se o fantasma estivesse arranhando, envolvendo ou atacando fisicamente o alvo. Se o fantasma superar o POW do alvo, ele perderá 1D3 pontos de energia (alguns fantasmas podem infligir dano em pontos de vida em vez disso). Se o fantasma for vencido, ele perderá 1D3 pontos de energia. Fantasmas mais poderosos podem drenar 1D6 pontos de energia (ou mais) de um alvo, mas só perdem 1D3 pontos de energia se forem vencidos pelo alvo pretendido. Esse combate continua a cada rodada de combate até que o alvo fique inconsciente ou que um dos lados tenha fugido. Ao contrário dos vampiros, os pontos de energia drenados são simplesmente perdidos. Um fantasma foge antes de chegar a 0 pontos de energia. Se um fantasma reduzir um alvo a 0 pontos de energia, ele poderá possuí-lo, geralmente fazendo com que o alvo cometa suicídio ou prejudique outra pessoa. Mesmo que um fantasma possua um alvo, ele permanece ligado ao local de sua assombração e não pode sair.
 
 Além do combate fantasmagórico, um fantasma pode ter outros poderes adequados à sua existência anterior e ao seu papel no cenário. Os fantasmas são imateriais e não estão sujeitos às limitações do superpoder de Intangibilidade. Os poderes tradicionais incluem poderes psíquicos como Criocinese, Explosão Mental, Controle Mental, Pirocinese, Telecinese ou superpoderes como Drenagem, Controle de Energia, Invisibilidade, Teletransporte e Controle do Tempo. Os fantasmas podem ser vulneráveis a magia, feitiçaria, poderes psíquicos ou superpoderes.
 
-**Habilidades:** Conforme apropriado.
+**Habilidades**: Conforme apropriado.
 
 **Ghoul**
 
@@ -310,9 +310,9 @@ Os ghouls ganham pontos de poder ao consumir cadáveres, na proporção de 1 pon
 | | |
 |---------------------------|---------------------------------|
 | Movimento: 8 Pontos de Golpe: 12
-| Modificador de Dano:** +1D4 | **Armadura** Nenhuma (pode usar armadura) |
+| Modificador de Dano**: +1D4 | **Armadura** Nenhuma (pode usar armadura) |
 
-**Ataques:**
+**Ataques**:
 
 - Garra 30%, 1D6+dm (sangramento)
 - Mordida 30%, 1D6+dm (sangramento) + veneno (veja abaixo)
@@ -322,9 +322,9 @@ Um carniçal ataca simultaneamente com garras e uma mordida. Quando morde, o gho
 
 Os carniçais usam um uivo de gelar o sangue em combate contra qualquer pessoa em um raio de ½ CON do carniçal em metros (arredondado para cima). Quando um carniçal uiva, faça uma rolagem de resistência de seus pontos de poder atuais contra a INT de cada alvo. Se mais de um ghoul uivar, use o total de pontos de energia do ghoul com mais pontos de energia. Se um alvo for vencido, ele ficará atordoado até que todo o uivo pare. Se um personagem resistir aos efeitos do uivo, ele deverá tentar novamente na rodada seguinte. Um personagem que resistir com sucesso por cinco rodadas de combate sucessivas torna-se temporariamente imune aos seus efeitos (a critério do gamemaster). O uivo do ghoul custa 1 ponto de poder para ser usado. Os feitiços de magia Contramágica e Resistir à Magia não protegem contra o uivo macabro.
 
-**Habilidades:** Escalar 60%, Esquivar-se 45%, Agarrar 50%, Esconder-se 35%, Saltar 50%, Ouvir 60%, Sentir 40%, Localizar 50%, Furtividade 60%.
+**Habilidades**: Escalar 60%, Esquivar-se 45%, Agarrar 50%, Esconder-se 35%, Saltar 50%, Ouvir 60%, Sentir 40%, Localizar 50%, Furtividade 60%.
 
-**Poderes:** Os ghouls mais inteligentes podem saber feitiçaria. Todos os ghouls têm uma habilidade natural como Super Sense (Visão Noturna) com níveis iguais a ½ da INT do ghoul (arredondado para cima).
+**Poderes**: Os ghouls mais inteligentes podem saber feitiçaria. Todos os ghouls têm uma habilidade natural como Super Sense (Visão Noturna) com níveis iguais a ½ da INT do ghoul (arredondado para cima).
 
 **Gigante
 
@@ -340,9 +340,9 @@ O seguinte é um gigante "genérico" de 8 metros de altura, totalmente crescido,
 | | |
 |---------------------------|----------------------------------------|
 | Movimento: 18 Pontos de vida: 42
-| Modificador de Dano:** +6D6 | **Armadura** Pele de 12 pontos (ver ao lado) |
+| Modificador de Dano**: +6D6 | **Armadura** Pele de 12 pontos (ver ao lado) |
 
-**Ataques:**
+**Ataques**:
 
 - Pancada 35%, 3D6+dm (esmagamento + repulsão)
 - Chute/Pisada 35%, 1D6+dm (esmagamento + repulsão)
@@ -350,9 +350,9 @@ O seguinte é um gigante "genérico" de 8 metros de altura, totalmente crescido,
 
 Os gigantes usam enormes clavas ou troncos de árvores em batalha e são especializados em **Ataques de Varredura**. A clava de um gigante tem pontos de vida iguais a 10+ seus dados de modificador de dano.
 
-**Poderes:** Alguns gigantes poderosos e mais velhos usam magia ou feitiçaria.
+**Poderes**: Alguns gigantes poderosos e mais velhos usam magia ou feitiçaria.
 
-**Habilidades:** Sentir 60%, Localizar 40%, Arremessar 35%.
+**Habilidades**: Sentir 60%, Localizar 40%, Arremessar 35%.
 
 Os gigantes têm uma pele resistente que vale 6 pontos mais seu modificador de dano em D6s, portanto, um gigante com um modificador de dano 6D6 tem uma pele de 12 pontos. Alguns gigantes usam armadura nas pernas (geralmente de placa), o que aumenta o valor da armadura nesses locais. Se forem usados locais de acerto, os personagens de tamanho normal que lutam contra gigantes devem rolar apenas 1D10 para determinar o local atingido, a menos que estejam usando armas de mísseis.
 
@@ -368,16 +368,16 @@ Os grifos são criaturas quiméricas, combinadas com o corpo e as patas traseira
 | | |
 |---------------------------|------------------------|
 | Movimento: 8 (12 voando) Pontos de Golpe: 29
-| Modificador de dano:** +3D6 | **Armadura** 6-point hide |
+| Modificador de dano**: +3D6 | **Armadura** 6-point hide |
 
-**Ataques:**
+**Ataques**:
 
 - Mordida 70%, 1D6+dm (empalamento)
 - Garra 70%, 1D6+dm (sangramento)
 
 Um grifo ataca com duas garras simultaneamente e morde 5 níveis de DEX depois.
 
-**Habilidades:** Esquivar-se 30%, Voar 100%, Ouvir 50%, Sentir 65%, Localizar 75%.
+**Habilidades**: Esquivar-se 30%, Voar 100%, Ouvir 50%, Sentir 65%, Localizar 75%.
 
 **Halfling**
 
@@ -391,18 +391,18 @@ Os halflings são pequenos seres semelhantes aos humanos, geralmente pacíficos 
 | | |
 |---------------------------|---------------------------------|
 | Movimentação: 6 Pontos de vida: 12
-| Modificador de dano:** -1D6 | **Armadura** Nenhuma (pode usar armadura) |
+| Modificador de dano**: -1D6 | **Armadura** Nenhuma (pode usar armadura) |
 
-**Ataques:**
+**Ataques**:
 
 - Espada curta 35%, 1D6+1+dm (sangramento)
 - Funda 35%, 1D8+½dm (esmagamento)
 - Pedra arremessada 50%, 1D4 (sem modificador de dano, esmagamento)
 - Os halflings são especialistas em arremessar pedras e não sofrem seu modificador de dano negativo.
 
-**Habilidades:** Avaliar 35%, Pechinchar 35%, Artesanato (agricultura) 75%, Esquivar-se 60%, Dirigir (carroça) 45%, Agarrar 35%, Esconder-se 65%, Conhecimento (Halfling-lore) 35%, Idioma (Halfling) 75%, Idioma (humano) 65%, Ouvir 65%, Sentir 45%, Localizar 50%, Arremessar 50%.
+**Habilidades**: Avaliar 35%, Pechinchar 35%, Artesanato (agricultura) 75%, Esquivar-se 60%, Dirigir (carroça) 45%, Agarrar 35%, Esconder-se 65%, Conhecimento (Halfling-lore) 35%, Idioma (Halfling) 75%, Idioma (humano) 65%, Ouvir 65%, Sentir 45%, Localizar 50%, Arremessar 50%.
 
-**Poderes:** Tradicionalmente, os halflings evitam a magia, embora alguns raros usem magia. Um número menor ainda usa feitiçaria.
+**Poderes**: Tradicionalmente, os halflings evitam a magia, embora alguns raros usem magia. Um número menor ainda usa feitiçaria.
 
 **Minotauro
 
@@ -416,9 +416,9 @@ Os minotauros são humanoides com cabeça de touro e pés com cascos. Surdos e v
 | | |
 |---------------------------|----------------------------------------------------------------|
 | Movimentação: 6 Pontos de vida: 19
-| Modificador de Dano:** +2D6 | **Armadura** Couro de 3 pontos (pode usar outra armadura, geralmente de couro) |
+| Modificador de Dano**: +2D6 | **Armadura** Couro de 3 pontos (pode usar outra armadura, geralmente de couro) |
 
-**Ataques:**
+**Ataques**:
 
 - Grande Machado 55%, 3D6+dm (sangramento)
 - Cabeçada 35%, 1D6+dm (repulsão)
@@ -426,9 +426,9 @@ Os minotauros são humanoides com cabeça de touro e pés com cascos. Surdos e v
 
 Um minotauro pode usar tanto uma cabeçada quanto um ataque com arma na rodada de combate. Um minotauro só pode usar ambos em uma rodada se for capaz de fazer dois ataques em uma rodada.
 
-**Habilidades:** Esquivar-se 40%, Ouvir 35%, Sentir 30%, Localizar 35%, Rastrear 55%.
+**Habilidades**: Esquivar-se 40%, Ouvir 35%, Sentir 30%, Localizar 35%, Rastrear 55%.
 
-**Poderes:** Os minotauros normalmente desprezam qualquer tipo de magia e somente os mais raros conhecem algum feitiço. Se um minotauro for ferido ou obtiver um sucesso especial ao golpear um oponente, ele ficará furioso por 24 turnos CON. Isso é como o feitiço Fury (Fúria). Um minotauro furioso pode tentar se livrar da fúria fazendo uma rolagem bem-sucedida de INT×1. Depois desse ataque de fúria, ele é considerado fatigado (se a fadiga não for usada, todas as rolagens serão *difíceis*) até que tenha a chance de descansar.
+**Poderes**: Os minotauros normalmente desprezam qualquer tipo de magia e somente os mais raros conhecem algum feitiço. Se um minotauro for ferido ou obtiver um sucesso especial ao golpear um oponente, ele ficará furioso por 24 turnos CON. Isso é como o feitiço Fury (Fúria). Um minotauro furioso pode tentar se livrar da fúria fazendo uma rolagem bem-sucedida de INT×1. Depois desse ataque de fúria, ele é considerado fatigado (se a fadiga não for usada, todas as rolagens serão *difíceis*) até que tenha a chance de descansar.
 
 **Mamãe
 
@@ -444,9 +444,9 @@ Devido ao estado seco e dessecado de sua carne, o fogo é particularmente eficaz
 | | |
 |---------------------------|-----------------------------------------|
 | Movimentação: 8 Pontos de Golpe: 15
-| Modificador de Dano:** +1D6 | **Armadura** Pele de 3 pontos (pode usar armadura) |
+| Modificador de Dano**: +1D6 | **Armadura** Pele de 3 pontos (pode usar armadura) |
 
-**Ataques:**
+**Ataques**:
 
 - Punho 70%, 1D3+dm (esmagamento)
 - Agarrar 25%, especial
@@ -454,9 +454,9 @@ Devido ao estado seco e dessecado de sua carne, o fogo é particularmente eficaz
 
 Uma múmia pode atacar com dois ataques de punho a cada rodada de combate. Se for bem-sucedida em ambos os ataques, ela tentará agarrar e estrangular seu alvo na rodada seguinte. Uma múmia pode usar armas antigas apropriadas para a era de sua vida anterior.
 
-**Habilidades:** Idioma (língua antiga) 90%, Ouvir 50%, Sentir 45%, Localizar 50%, Furtividade 50%.
+**Habilidades**: Idioma (língua antiga) 90%, Ouvir 50%, Sentir 45%, Localizar 50%, Furtividade 50%.
 
-**Poderes:** As múmias podem se lembrar de feitiços de sua existência anterior. Um feiticeiro múmia pode ter esses feitiços na memória: Brazier of Power (4), Gift of the Earth (4), Pox (1), Sorcerer's Talons (2). Se a tumba de uma múmia estiver intacta, ela provavelmente terá acesso a seu grimório, pergaminhos de feitiços e muitos itens mágicos.
+**Poderes**: As múmias podem se lembrar de feitiços de sua existência anterior. Um feiticeiro múmia pode ter esses feitiços na memória: Brazier of Power (4), Gift of the Earth (4), Pox (1), Sorcerer's Talons (2). Se a tumba de uma múmia estiver intacta, ela provavelmente terá acesso a seu grimório, pergaminhos de feitiços e muitos itens mágicos.
 
 **Orc**
 
@@ -470,9 +470,9 @@ Os orcs são humanoides selvagens e bestiais que desprezam a humanidade, os elfo
 | | |
 |---------------------------|-----------------------------------------|
 | Movimento: 8 Pontos de Golpe: 10
-| Modificador de Dano:** Nenhum | **Armadura** Anel de 6 pontos e capacete leve |
+| Modificador de Dano**: Nenhum | **Armadura** Anel de 6 pontos e capacete leve |
 
-**Ataques:**
+**Ataques**:
 
 - Cimitarra 35%, 1D8+1+dm (sangramento)
 - Arco Composto 35%, 1D8+1+½dm (empalamento)
@@ -480,9 +480,9 @@ Os orcs são humanoides selvagens e bestiais que desprezam a humanidade, os elfo
 - Lança Curta (arremessada) 35%, 1D6+1+½dm (empalamento)
 - Escudo com espinhos 35%, 1D3+dm (empalamento)
 
-**Habilidades:** Escalar 55%, Esquivar-se 40%, Esconder-se 35%, Conhecimento (Orc-lore) 35%, Linguagem (Humana) 25%, Linguagem (Orcish) 60%, Ouvir 50%, Cavalgar (lobo) 50%, Sentir 35%, Localizar 45%, Furtividade 40%, Rastrear 30%
+**Habilidades**: Escalar 55%, Esquivar-se 40%, Esconder-se 35%, Conhecimento (Orc-lore) 35%, Linguagem (Humana) 25%, Linguagem (Orcish) 60%, Ouvir 50%, Cavalgar (lobo) 50%, Sentir 35%, Localizar 45%, Furtividade 40%, Rastrear 30%
 
-**Poderes:** A feitiçaria é o poder mais temível na sociedade orc, com os feiticeiros orc servindo frequentemente como sacerdotes ou líderes. Um orc que usa feitiçaria tem um POW de 16+ e pode conhecer os seguintes feitiços: Cloak of Night (2), Pox (1), Rat's Vision (1), Sorcerer's Razor (1), Sorcerer's Speed (2), Ward (3).
+**Poderes**: A feitiçaria é o poder mais temível na sociedade orc, com os feiticeiros orc servindo frequentemente como sacerdotes ou líderes. Um orc que usa feitiçaria tem um POW de 16+ e pode conhecer os seguintes feitiços: Cloak of Night (2), Pox (1), Rat's Vision (1), Sorcerer's Razor (1), Sorcerer's Speed (2), Ward (3).
 
 **Esqueleto
 
@@ -496,15 +496,15 @@ Os esqueletos animados são criados ou invocados por magia ou são o resultado d
 | | |
 |---------------------------|----------------------------------------------------------------|
 | Movimento: 10 Pontos de Golpe: 13 (veja abaixo)
-| Modificador de dano:** Nenhum | **Armadura** Nenhuma (pode usar armadura, veja também abaixo as imunidades) |
+| Modificador de dano**: Nenhum | **Armadura** Nenhuma (pode usar armadura, veja também abaixo as imunidades) |
 
-**Ataques:**
+**Ataques**:
 
 - Espada Larga 55%, 1D8+1+dm (sangramento)
 - Arco Próprio 50%, 1D6+1+½dm (empalamento)
 - Escudo redondo grande 55%, 1D4+dm (repulsão)
 
-**Habilidades:** Esquivar 40%
+**Habilidades**: Esquivar 40%
 
 Os esqueletos não têm CON e seus pontos de vida são iguais ao seu tamanho. Eles são imunes aos efeitos especiais de golpes de sangramento e empalamento. Eles não recebem nenhum dano de armas de empuxo, a menos que o golpe tenha sido um sucesso especial ou um golpe crítico; nesse caso, o dano é recebido, mas os efeitos secundários são ignorados.
 
@@ -524,9 +524,9 @@ A maioria dos trolls encontrados são machos, enquanto as fêmeas (chamadas de t
 | | |
 |---------------------------|------------------------|
 | Movimentação: 6 Pontos de Golpe: 20
-| Modificador de dano:** +2D6 | **Armadura** Pele de 3 pontos |
+| Modificador de dano**: +2D6 | **Armadura** Pele de 3 pontos |
 
-**Ataques:**
+**Ataques**:
 
 - Porrete de tronco de árvore 45%, 1D10+2+dm (esmagamento)
 - Garra 50%, 1D6+dm (sangramento)
@@ -534,9 +534,9 @@ A maioria dos trolls encontrados são machos, enquanto as fêmeas (chamadas de t
 
 A tática usual de um troll é atacar com sua clava e depois acertar com uma garra, mas o troll não pode se defender se fizer isso. Como a clava de um gigante, a clava de tronco de árvore de um troll tem pontos de vida iguais a 10+ seus dados no modificador de dano.
 
-**Poderes:** Os trolls se regeneram rapidamente dos ferimentos, curando 1D3 pontos de vida por rodada de combate, a menos que estejam mortos. Se os locais de acerto forem usados, os trolls curam 1 ponto de vida por local de acerto ferido por rodada de combate. Se um troll estiver sob a luz do sol ou se o dano tiver sido causado por fogo, esses ferimentos não se regeneram. Os trolls podem enxergar no escuro como se tivessem o poder Super Sense (Visão Noturna) com níveis iguais a ½ do POW do troll (arredondado para cima). As esposas de trolls são quase sempre bruxas que usam feitiçaria, equipadas com feitiços como Curse of Sorcery (4), Pox (1), Undo Sorcery (2) e Witch Sight (3).
+**Poderes**: Os trolls se regeneram rapidamente dos ferimentos, curando 1D3 pontos de vida por rodada de combate, a menos que estejam mortos. Se os locais de acerto forem usados, os trolls curam 1 ponto de vida por local de acerto ferido por rodada de combate. Se um troll estiver sob a luz do sol ou se o dano tiver sido causado por fogo, esses ferimentos não se regeneram. Os trolls podem enxergar no escuro como se tivessem o poder Super Sense (Visão Noturna) com níveis iguais a ½ do POW do troll (arredondado para cima). As esposas de trolls são quase sempre bruxas que usam feitiçaria, equipadas com feitiços como Curse of Sorcery (4), Pox (1), Undo Sorcery (2) e Witch Sight (3).
 
-**Habilidades:** Esquiva 35%, Sensoriamento 55%, Detecção 55%.
+**Habilidades**: Esquiva 35%, Sensoriamento 55%, Detecção 55%.
 
 **Unicórnio
 
@@ -550,9 +550,9 @@ O unicórnio é um animal mágico parecido com um cavalo, com cascos pequenos e 
 | | |
 |---------------------------|-------------------|
 | Movimento: 12 Pontos de Golpe: 19
-| Modificador de dano:** +2D6 | **Armadura** Nenhuma |
+| Modificador de dano**: +2D6 | **Armadura** Nenhuma |
 
-**Ataques:**
+**Ataques**:
 
 - Chifre 75%, 1D10+dm (empalamento)
 - Chute 40%, 1D8+dm (esmagamento)
@@ -561,9 +561,9 @@ O unicórnio é um animal mágico parecido com um cavalo, com cascos pequenos e 
 
 Um unicórnio pode atacar uma vez por rodada, preferindo usar seu chifre. Um unicórnio pode se defender com o chifre, bem como chutar ou dilacerar simultaneamente com o chifre.
 
-**Habilidades:** Esquivar-se 35%, Esconder-se 65%, Perspicácia 50%, Saltar 90%, Ouvir 70%, Sentir 80%, Localizar 75%, Furtividade 50%.
+**Habilidades**: Esquivar-se 35%, Esconder-se 65%, Perspicácia 50%, Saltar 90%, Ouvir 70%, Sentir 80%, Localizar 75%, Furtividade 50%.
 
-**Poderes:** Um unicórnio pode curar ferimentos com seu chifre tocando o ferimento e gastando 1 ponto de poder por ponto de vida a ser restaurado. Essa cura pode até mesmo recolocar um membro decepado, se forem gastos pelo menos 6 pontos de poder. Os pontos de atributo perdidos por veneno ou doença também podem ser curados, mas isso exige 1 ponto de POW permanente por ponto curado, por isso os unicórnios relutam em fazer isso. Além disso, um unicórnio pode detectar veneno com um toque de seu chifre. Se um chifre de unicórnio for transformado em uma xícara, ela se estilhaça se for colocado veneno nela.
+**Poderes**: Um unicórnio pode curar ferimentos com seu chifre tocando o ferimento e gastando 1 ponto de poder por ponto de vida a ser restaurado. Essa cura pode até mesmo recolocar um membro decepado, se forem gastos pelo menos 6 pontos de poder. Os pontos de atributo perdidos por veneno ou doença também podem ser curados, mas isso exige 1 ponto de POW permanente por ponto curado, por isso os unicórnios relutam em fazer isso. Além disso, um unicórnio pode detectar veneno com um toque de seu chifre. Se um chifre de unicórnio for transformado em uma xícara, ela se estilhaça se for colocado veneno nela.
 
 **Vampiro
 
@@ -590,9 +590,9 @@ Alguns vampiros se organizam em clãs, cada um com diferentes aparências, tend�
 | | |
 |---------------------------|---------------------------------|
 | Movimento: 12 Pontos de Golpe: 15-17
-| Modificador de dano:** +1D6 | **Armadura** Nenhuma (pode usar armadura) |
+| Modificador de dano**: +1D6 | **Armadura** Nenhuma (pode usar armadura) |
 
-**Ataques:**
+**Ataques**:
 
 - Mordida 50%, 1D4+½dm (sangramento) + Drenagem de Sangue (veja abaixo)
 - Garra 50%, 1D4+dm (sangramento) + Toque de Frio (veja abaixo)
@@ -601,33 +601,33 @@ Alguns vampiros se organizam em clãs, cada um com diferentes aparências, tend�
 
 Um vampiro pode fazer um ataque de mordida e dois ataques de garra por rodada, ou pode tentar um único ataque de garra e um ataque de olhar hipnótico. Se for bem-sucedido em ambos os ataques de garra e em um ataque de mordida, ele agarra seu alvo e drena seu sangue a cada rodada até que o alvo fique incapacitado. Um vampiro não pode tentar se esquivar durante uma rodada em que morde ou usa o olhar hipnótico. Esses poderes são descritos a seguir.
 
-**Habilidades:** Esquivar-se 50%, Etiqueta 50%, Voar 90%, Esconder-se 70%, Perspicácia 60%, Saltar 75%, Conhecimento (História) 75%, Linguagem (antiga) 75%, Linguagem (moderna) 50%, Ouvir 60%, Persuadir 60%, Sentir 75%, Localizar 75%, Furtividade 80%, Rastrear 75%.
+**Habilidades**: Esquivar-se 50%, Etiqueta 50%, Voar 90%, Esconder-se 70%, Perspicácia 60%, Saltar 75%, Conhecimento (História) 75%, Linguagem (antiga) 75%, Linguagem (moderna) 50%, Ouvir 60%, Persuadir 60%, Sentir 75%, Localizar 75%, Furtividade 80%, Rastrear 75%.
 
-**Poderes:** Os vampiros têm uma ampla gama de poderes atribuídos a eles. Os seguintes são os que quase todos os vampiros têm.
+**Poderes**: Os vampiros têm uma ampla gama de poderes atribuídos a eles. Os seguintes são os que quase todos os vampiros têm.
 
 - Drenagem de sangue: Um vampiro que morder e causar dano a um alvo com sucesso pode drenar 1D6 de força de resistência ou 1D6 de pontos de poder desse alvo em cada rodada subsequente em que permanecer preso, lutando com ele. Se o alvo tiver perdido toda a sua FOR, o vampiro pode optar por drenar CON. Com 0 CON, a vítima morre. Se a vítima sobreviver, esses pontos característicos se regeneram 1 ponto por dia de descanso, ou o dobro desse tempo se estiverem ativos. Se mais de uma característica for drenada, alterne a recuperação a cada dia para recuperar 1 ponto de STR, depois 1 ponto de CON, etc. Os pontos de energia são regenerados normalmente. Um vampiro usa Drenagem de Sangue para recuperar seus próprios pontos de energia - ele não tem POW próprio e não pode regenerá-los normalmente. Os pontos de força STR, CON ou drenados são transferidos pelo vampiro como um número igual de pontos de força. Um vampiro não pode armazenar mais pontos de energia do que sua CON. Quaisquer pontos além desse valor são perdidos.
-- Toque frio:** Um vampiro que toca um alvo pode drenar pontos de energia em vez de sangue. O vampiro deve ter sido bem-sucedido em um ataque de garra contra o alvo (ou tocado um alvo incapacitado ou inconsciente). Na rodada seguinte, ele faz uma rolagem de resistência de seus pontos de energia atuais contra os pontos de energia atuais do alvo. A armadura não protege contra esse ataque. Se o vampiro for bem-sucedido, ele drena 1D3 pontos de energia do alvo, que são transferidos para seu total atual de pontos de energia. O vampiro deve permanecer em contato com o alvo a cada rodada para continuar essa drenagem e deve ser bem-sucedido em uma rolagem de resistência a cada rodada de combate. O alvo recupera esses pontos de energia perdidos normalmente.
+- Toque frio**: Um vampiro que toca um alvo pode drenar pontos de energia em vez de sangue. O vampiro deve ter sido bem-sucedido em um ataque de garra contra o alvo (ou tocado um alvo incapacitado ou inconsciente). Na rodada seguinte, ele faz uma rolagem de resistência de seus pontos de energia atuais contra os pontos de energia atuais do alvo. A armadura não protege contra esse ataque. Se o vampiro for bem-sucedido, ele drena 1D3 pontos de energia do alvo, que são transferidos para seu total atual de pontos de energia. O vampiro deve permanecer em contato com o alvo a cada rodada para continuar essa drenagem e deve ser bem-sucedido em uma rolagem de resistência a cada rodada de combate. O alvo recupera esses pontos de energia perdidos normalmente.
 - Olhar Hipnótico: Se um vampiro superar o POW de um alvo com seus pontos de poder atuais em uma rolagem de resistência, o alvo é hipnotizado e pode ser obrigado a seguir instruções simples. Se essas instruções forem autodestrutivas, no início da rodada o alvo pode tentar uma rolagem de Ideia para sair dessa situação.
-- Visão Noturna:** Os vampiros têm uma habilidade natural que combina os Super Sentidos de Visão Escura, Visão Infravermelha e Visão Noturna em um nível igual à metade da INT do vampiro (arredondado para cima).
-- Regeneração:** A menos que seja morto por um método tradicional (veja abaixo), um vampiro regenera 1D3 pontos de vida por rodada de combate. Se estiver sob a luz direta do sol ou na presença de um símbolo sagrado, ele não regenera esse dano e deve se curar normalmente (ele também recebe dano dessas fontes, veja Fraquezas, a seguir). Além disso, o dano causado pela água benta, por um símbolo sagrado, pela luz do sol ou pelo fogo não pode ser regenerado e deve ser curado de acordo com a taxa de cura normal do vampiro.
+- Visão Noturna**: Os vampiros têm uma habilidade natural que combina os Super Sentidos de Visão Escura, Visão Infravermelha e Visão Noturna em um nível igual à metade da INT do vampiro (arredondado para cima).
+- Regeneração**: A menos que seja morto por um método tradicional (veja abaixo), um vampiro regenera 1D3 pontos de vida por rodada de combate. Se estiver sob a luz direta do sol ou na presença de um símbolo sagrado, ele não regenera esse dano e deve se curar normalmente (ele também recebe dano dessas fontes, veja Fraquezas, a seguir). Além disso, o dano causado pela água benta, por um símbolo sagrado, pela luz do sol ou pelo fogo não pode ser regenerado e deve ser curado de acordo com a taxa de cura normal do vampiro.
 
 Além dos itens acima, diz-se que os vampiros têm outros poderes, que podem ou não ser verdadeiros.
 
-- Legiões da Noite:** Os vampiros podem controlar criaturas menores, como morcegos, ratos e lobos. O vampiro pode convocar 1D6 enxames de ratos ou morcegos (tratando os enxames de morcegos como enxames de ratos, mas com Fly 100%) ou 1D6 lobos. Cada enxame custa 1 ponto de poder para ser convocado e controlado, e cada lobo custa 3 pontos de poder para ser convocado e controlado. Essas criaturas podem ser criadas como ajudantes, mas usam o total de pontos de poder atual do vampiro em vez de POW ao determinar o controle ou podem ser manipuladas por meio de feitiços como Bird's Vision (substitua um morcego por um pássaro) e Rat's Vision.
-- Forma de névoa:** O vampiro pode se transformar em uma névoa, capaz de passar pelas menores fendas e flutuar no ar sem esforço. Um vampiro com esse poder pode ser forçado a assumir a forma de névoa quando é reduzido a 0 pontos de vida, mas não é morto da maneira tradicional. Isso pode ser feito com o feitiço mágico Mudança ou com os superpoderes Forma Alternativa ou Intangibilidade. Enquanto estiver na forma de névoa, o vampiro tem MOV 5 e é imune à maioria das formas de dano físico, embora a magia ainda possa afetá-lo.
-- Mudança de forma:** O vampiro pode se transformar em um lobo, um morcego ou até mesmo em um enxame de ratos ao custo de 3 pontos de poder. Assim como na Forma de Névoa, o poder é idêntico ao da Mudança ou da Forma Alternativa. Use as estatísticas de um lobo ou enxame de ratos para as habilidades do vampiro em qualquer uma dessas formas, usando os mesmos efeitos de jogo para ratos e morcegos (embora com Fly 100%).
-- Feitiços:** Os vampiros são feiticeiros poderosos, com uma variedade de feitiços prontos para uso. Com sua incrível expectativa de vida e seu acesso a tomos proibidos, pergaminhos e conhecimentos profanos, os vampiros conhecem muitos feitiços ou magias. Um vampiro pode conhecer até o dobro da capacidade humana normal para feitiços de magia ou feitiçaria. Os vampiros usam seu total atual de pontos de poder para superar alvos ou para suas magias.
+- Legiões da Noite**: Os vampiros podem controlar criaturas menores, como morcegos, ratos e lobos. O vampiro pode convocar 1D6 enxames de ratos ou morcegos (tratando os enxames de morcegos como enxames de ratos, mas com Fly 100%) ou 1D6 lobos. Cada enxame custa 1 ponto de poder para ser convocado e controlado, e cada lobo custa 3 pontos de poder para ser convocado e controlado. Essas criaturas podem ser criadas como ajudantes, mas usam o total de pontos de poder atual do vampiro em vez de POW ao determinar o controle ou podem ser manipuladas por meio de feitiços como Bird's Vision (substitua um morcego por um pássaro) e Rat's Vision.
+- Forma de névoa**: O vampiro pode se transformar em uma névoa, capaz de passar pelas menores fendas e flutuar no ar sem esforço. Um vampiro com esse poder pode ser forçado a assumir a forma de névoa quando é reduzido a 0 pontos de vida, mas não é morto da maneira tradicional. Isso pode ser feito com o feitiço mágico Mudança ou com os superpoderes Forma Alternativa ou Intangibilidade. Enquanto estiver na forma de névoa, o vampiro tem MOV 5 e é imune à maioria das formas de dano físico, embora a magia ainda possa afetá-lo.
+- Mudança de forma**: O vampiro pode se transformar em um lobo, um morcego ou até mesmo em um enxame de ratos ao custo de 3 pontos de poder. Assim como na Forma de Névoa, o poder é idêntico ao da Mudança ou da Forma Alternativa. Use as estatísticas de um lobo ou enxame de ratos para as habilidades do vampiro em qualquer uma dessas formas, usando os mesmos efeitos de jogo para ratos e morcegos (embora com Fly 100%).
+- Feitiços**: Os vampiros são feiticeiros poderosos, com uma variedade de feitiços prontos para uso. Com sua incrível expectativa de vida e seu acesso a tomos proibidos, pergaminhos e conhecimentos profanos, os vampiros conhecem muitos feitiços ou magias. Um vampiro pode conhecer até o dobro da capacidade humana normal para feitiços de magia ou feitiçaria. Os vampiros usam seu total atual de pontos de poder para superar alvos ou para suas magias.
 
-**Fraquezas:** Os vampiros, como mortos-vivos amaldiçoados e profanos, têm muitas fraquezas que os diferenciam dos vivos e de outras formas de mortos-vivos. A seguir estão as fraquezas tradicionais dos vampiros, das quais todas, muitas ou nenhuma podem ser verdadeiras.
+**Fraquezas**: Os vampiros, como mortos-vivos amaldiçoados e profanos, têm muitas fraquezas que os diferenciam dos vivos e de outras formas de mortos-vivos. A seguir estão as fraquezas tradicionais dos vampiros, das quais todas, muitas ou nenhuma podem ser verdadeiras.
 
-- Sede de sangue:** Um vampiro perde 1D6 pontos de poder todos os dias pelo simples fato de existir, gastos quando o vampiro surge pela primeira vez. Se o vampiro atingir 1 ou 2 pontos de poder, todas as suas rolagens serão *difíceis* devido à sua fraqueza e à sua sede estrondosa.
-- Luz do dia:** Os vampiros sofrem 1 de dano por rodada de combate de exposição à luz solar direta. Enquanto estiver sob a luz direta do sol, o vampiro não pode se regenerar, mudar de forma, transformar-se em névoa ou usar seu olhar hipnótico. A luz solar pode causar problemas adicionais para os vampiros, como tornar todas as rolagens de habilidade *difíceis*. Por esse motivo, os vampiros são tradicionalmente noturnos.
+- Sede de sangue**: Um vampiro perde 1D6 pontos de poder todos os dias pelo simples fato de existir, gastos quando o vampiro surge pela primeira vez. Se o vampiro atingir 1 ou 2 pontos de poder, todas as suas rolagens serão *difíceis* devido à sua fraqueza e à sua sede estrondosa.
+- Luz do dia**: Os vampiros sofrem 1 de dano por rodada de combate de exposição à luz solar direta. Enquanto estiver sob a luz direta do sol, o vampiro não pode se regenerar, mudar de forma, transformar-se em névoa ou usar seu olhar hipnótico. A luz solar pode causar problemas adicionais para os vampiros, como tornar todas as rolagens de habilidade *difíceis*. Por esse motivo, os vampiros são tradicionalmente noturnos.
 - Decapitação: Um vampiro que tenha sido decapitado está morto, não se regenera e nunca pode ressuscitar.
-- Fogo:** Os vampiros recebem o dobro de dano do fogo, seja qual for a fonte. Os vampiros são inflamáveis, se houver tentativas de incendiá-los.
-- Símbolos sagrados:** Os vampiros que se depararem com um símbolo sagrado nas mãos de um personagem com fé verdadeira (talvez a Devoção Passionária em 80% ou mais ou 50 de lealdade a um deus alinhado com o "bem") são infligidos com dor intensa, perdendo 1D3 pontos de poder para cada rodada em que o personagem com o símbolo sagrado for bem-sucedido em uma rolagem de resistência de POW vs. os pontos de poder atuais do vampiro. O personagem deve estar concentrado nisso e não pode realizar nenhum outro ataque a cada rodada. O vampiro sofre 1D3 pontos de dano para cada rodada se entrar em contato físico real com o símbolo sagrado. Um vampiro não pode tentar seu poder de olhar hipnótico contra um personagem que vença essa rolagem de resistência.
-- Água benta:** A água benta conta como ácido forte contra vampiros (consulte Ácido), causando 1D4 de dano por rodada de combate. Um personagem com pelo menos 50 Allegiance \\\ a uma divindade benevolente pode criar água benta gastando um turno inteiro em oração e gastando 1 ponto de poder sobre essa água. A quantidade de água a ser abençoada é limitada pelo POW do personagem em SIZ.
-- Terra Sagrada:** Um vampiro perde 3D6 pontos de poder a cada dia que não passa pelo menos quatro horas em um caixão (ou equivalente) forrado com terra de sua terra natal; uma penalidade cobrada ao pôr do sol. Assim, um vampiro mal preparado poderia perder 4D6 pontos de poder a cada noite se lhe fosse negada a terra sagrada e devido à sede de sangue (veja acima). Se um vampiro chegar a 0 pontos de energia, ele se tornará comatoso, não morto, mas incapaz de se mover ou funcionar até que alguém transfira pontos de energia para ele usando um poder.
-- Estacas:** Se uma estaca de madeira for cravada no coração de um vampiro e causar pelo menos 1 ponto de dano, o vampiro se desintegra imediatamente em pó. Em combate, isso ocorre sempre que uma arma de madeira obtém um resultado de empalamento ou crítico em um ataque *Difícil* ou um tiro direcionado ao local de acerto no peito. Uma estaca de madeira tradicional causa 1D3+dm e tem 6 pontos de vida, com uma chance básica de 15%. Alternativamente, isso apenas impede que o vampiro aja e se regenere, e o vampiro deve ser decapitado, a cabeça e o corpo queimados separadamente para serem totalmente destruídos.
+- Fogo**: Os vampiros recebem o dobro de dano do fogo, seja qual for a fonte. Os vampiros são inflamáveis, se houver tentativas de incendiá-los.
+- Símbolos sagrados**: Os vampiros que se depararem com um símbolo sagrado nas mãos de um personagem com fé verdadeira (talvez a Devoção Passionária em 80% ou mais ou 50 de lealdade a um deus alinhado com o "bem") são infligidos com dor intensa, perdendo 1D3 pontos de poder para cada rodada em que o personagem com o símbolo sagrado for bem-sucedido em uma rolagem de resistência de POW vs. os pontos de poder atuais do vampiro. O personagem deve estar concentrado nisso e não pode realizar nenhum outro ataque a cada rodada. O vampiro sofre 1D3 pontos de dano para cada rodada se entrar em contato físico real com o símbolo sagrado. Um vampiro não pode tentar seu poder de olhar hipnótico contra um personagem que vença essa rolagem de resistência.
+- Água benta**: A água benta conta como ácido forte contra vampiros (consulte Ácido), causando 1D4 de dano por rodada de combate. Um personagem com pelo menos 50 Allegiance \\\ a uma divindade benevolente pode criar água benta gastando um turno inteiro em oração e gastando 1 ponto de poder sobre essa água. A quantidade de água a ser abençoada é limitada pelo POW do personagem em SIZ.
+- Terra Sagrada**: Um vampiro perde 3D6 pontos de poder a cada dia que não passa pelo menos quatro horas em um caixão (ou equivalente) forrado com terra de sua terra natal; uma penalidade cobrada ao pôr do sol. Assim, um vampiro mal preparado poderia perder 4D6 pontos de poder a cada noite se lhe fosse negada a terra sagrada e devido à sede de sangue (veja acima). Se um vampiro chegar a 0 pontos de energia, ele se tornará comatoso, não morto, mas incapaz de se mover ou funcionar até que alguém transfira pontos de energia para ele usando um poder.
+- Estacas**: Se uma estaca de madeira for cravada no coração de um vampiro e causar pelo menos 1 ponto de dano, o vampiro se desintegra imediatamente em pó. Em combate, isso ocorre sempre que uma arma de madeira obtém um resultado de empalamento ou crítico em um ataque *Difícil* ou um tiro direcionado ao local de acerto no peito. Uma estaca de madeira tradicional causa 1D3+dm e tem 6 pontos de vida, com uma chance básica de 15%. Alternativamente, isso apenas impede que o vampiro aja e se regenere, e o vampiro deve ser decapitado, a cabeça e o corpo queimados separadamente para serem totalmente destruídos.
 
 **Lobisomem
 
@@ -651,28 +651,28 @@ Na forma humana, o lobisomem é exteriormente normal e tem características huma
 
 | | |
 |----------------------------------|---------------------------------------------------------------|
-| Movimentação:** 12 / 13 ** Pontos de vida** 12 / 12-13
-| Modificador de Dano:** +1D4 / +1D6 | **Armadura** 1 ponto de pele (imunidade a armas normais, veja abaixo) |
+| Movimentação**: 12 / 13 ** Pontos de vida** 12 / 12-13
+| Modificador de Dano**: +1D4 / +1D6 | **Armadura** 1 ponto de pele (imunidade a armas normais, veja abaixo) |
 
-**Ataques (forma híbrida):**
+**Ataques (forma híbrida)**:
 
 - Mordida 50%, 1D4+½dm (sangramento)
 - Garras 65%, 1D6+dm (sangramento)
 
-**Ataques (forma de lobo):**
+**Ataques (forma de lobo)**:
 
 - Mordida 65%, 1D8+½dm (sangramento)
 - Garras 45%, 1D6+dm (sangramento)
 
 Em ambas as formas, o lobisomem pode fazer um ataque de mordida e dois ataques de garra a cada rodada de combate.
 
-**Poderes:** Os lobisomens têm os seguintes poderes:
+**Poderes**: Os lobisomens têm os seguintes poderes:
 
-- Imunidade:** Os lobisomens são imunes à maioria das formas de dano que não sejam magia, fogo ou prata. Outros ataques simplesmente ricocheteiam, independentemente do resultado. Armas mágicas, de fogo e prateadas causam dano total. Uma arma com um feitiço lançado sobre ela, como Sorcerer's Razor, causa seu dano mágico, mas não o dano da arma ou o modificador de dano do atacante. Uma arma totalmente mágica causa dano normal. O mestre de jogo deve determinar se as armas de energia ou outros ataques semelhantes podem causar dano a um lobisomem.
-- Regeneração:** Os lobisomens podem regenerar 1 ponto de vida a cada rodada de combate, a menos que o dano tenha sido causado por uma arma de prata. Os lobisomens se curam do dano infligido por uma arma de prata em sua taxa de cura normal.
-- Transformação:** Os lobisomens podem assumir uma de três formas diferentes: humana, híbrida e de lobo. A mudança de uma forma para outra requer 5 ranks de DEX e não custa pontos de poder. O lobisomem pode mudar de qualquer uma dessas formas para outra.
+- Imunidade**: Os lobisomens são imunes à maioria das formas de dano que não sejam magia, fogo ou prata. Outros ataques simplesmente ricocheteiam, independentemente do resultado. Armas mágicas, de fogo e prateadas causam dano total. Uma arma com um feitiço lançado sobre ela, como Sorcerer's Razor, causa seu dano mágico, mas não o dano da arma ou o modificador de dano do atacante. Uma arma totalmente mágica causa dano normal. O mestre de jogo deve determinar se as armas de energia ou outros ataques semelhantes podem causar dano a um lobisomem.
+- Regeneração**: Os lobisomens podem regenerar 1 ponto de vida a cada rodada de combate, a menos que o dano tenha sido causado por uma arma de prata. Os lobisomens se curam do dano infligido por uma arma de prata em sua taxa de cura normal.
+- Transformação**: Os lobisomens podem assumir uma de três formas diferentes: humana, híbrida e de lobo. A mudança de uma forma para outra requer 5 ranks de DEX e não custa pontos de poder. O lobisomem pode mudar de qualquer uma dessas formas para outra.
 
-**Habilidades:** Escalar 75%, Esquivar-se 65%, Esconder-se 60%, Saltar 80%, Ouvir 70%, Sentir 90%, Localizar 70%, Rastrear 90%.
+**Habilidades**: Escalar 75%, Esquivar-se 65%, Esconder-se 60%, Saltar 80%, Ouvir 70%, Sentir 90%, Localizar 70%, Rastrear 90%.
 
 **Zumbi
 
@@ -686,9 +686,9 @@ Os zumbis são cadáveres animados ressuscitados por necromancia, vodu, possess�
 | | |
 |---------------------------|----------------------------|
 | Movimento: 4 Pontos de Golpe: 14-15
-| Modificador de Dano:** +1D4 | **Armadura** Nenhuma (veja abaixo) |
+| Modificador de Dano**: +1D4 | **Armadura** Nenhuma (veja abaixo) |
 
-**Ataques:**
+**Ataques**:
 
 - Mordida 30%, 1D3+½dm (sangramento)
 - Garra 25%, 1D3+dm (sangramento)
@@ -697,9 +697,9 @@ Os zumbis são cadáveres animados ressuscitados por necromancia, vodu, possess�
 
 A habilidade de um zumbi com uma arma é igual à sua DEX×5. Os zumbis nunca tentam se esquivar ou se defender.
 
-**Poderes:** A maioria das armas de corte, esmagamento e empalamento causa apenas metade do dano aos zumbis. O fogo causa dano total. Alguns tipos de zumbis só podem ser mortos por um sucesso especial que danifique o crânio. Isso ocorre sempre que uma arma obtém um resultado especial ou crítico em um ataque *Difícil* ou um golpe na cabeça que causa dano suficiente para incapacitá-lo. Alguns tipos de zumbis são infecciosos - uma mordida bem-sucedida transforma a vítima em zumbi em um número de turnos igual à sua CON, sem exceção.
+**Poderes**: A maioria das armas de corte, esmagamento e empalamento causa apenas metade do dano aos zumbis. O fogo causa dano total. Alguns tipos de zumbis só podem ser mortos por um sucesso especial que danifique o crânio. Isso ocorre sempre que uma arma obtém um resultado especial ou crítico em um ataque *Difícil* ou um golpe na cabeça que causa dano suficiente para incapacitá-lo. Alguns tipos de zumbis são infecciosos - uma mordida bem-sucedida transforma a vítima em zumbi em um número de turnos igual à sua CON, sem exceção.
 
-**Habilidades:** Sentido 50%.
+**Habilidades**: Sentido 50%.
 
 **Criaturas invocadas
 
@@ -721,7 +721,7 @@ Conforme observado em Perda de sanidade e criaturas, um personagem piedoso pode 
 | Movimento: 10 (12 voando) Pontos de Golpe: 22
 | Modificador de dano: +1D6 Armadura: peitoral de placa de 10 pontos + brilho divino de 10 pontos
 
-**Ataques:**
+**Ataques**:
 
 - Espada Larga Flamejante 200%, 1D8+1+dm (corte) +2D6 (fogo)
 - Holy Fire (Fogo Sagrado) 100%, 10D6 (fogo, veja abaixo)
@@ -729,18 +729,18 @@ Conforme observado em Perda de sanidade e criaturas, um personagem piedoso pode 
 
 Como seres divinos, os anjos são capazes de exceder os níveis de habilidade de 100%, mesmo que essa opção não seja usada para personagens jogadores (consulte Ataques e defesas acima de 100%). Um anjo nunca pode ser separado de sua espada, e a espada não pode ser quebrada.
 
-**Poderes:** Diz-se que os anjos têm uma série de poderes, dos quais qualquer anjo individual pode ter alguns, todos ou nenhum:
+**Poderes**: Diz-se que os anjos têm uma série de poderes, dos quais qualquer anjo individual pode ter alguns, todos ou nenhum:
 
-- Radiância divina:** Os anjos podem emitir uma radiância de luz que os protege de ferimentos, servindo como uma armadura de 10 pontos contra qualquer fonte de dano, inclusive de poderes.
-- Flight:** Seja com ou sem asas, os anjos podem voar em grande velocidade. Os anjos possuem o superpoder Flight (Voo) em níveis iguais ao seu POW (Poder de Força), embora ele não custe nenhum ponto de poder para ser usado. Um anjo pode parecer sem asas e, em seguida, manifestar grandes asas semelhantes a pássaros que crescem e se desdobram repentinamente de suas costas.
-- Toque de cura:** Os anjos podem impor as mãos e curar os doentes, enfermos e feridos. Além de restaurar os pontos de vida a um custo de 1 ponto de vida por ponto de poder, o anjo pode remover qualquer doença, enfermidade, ferimento grave ou enfermidade gastando 1 ponto de seu próprio POW permanente por enfermidade. Se os pontos de poder do anjo chegarem a 0, ele retornará ao seu plano de origem até que seja ordenado ou autorizado a retornar (pelo menos uma semana, após a qual ele será totalmente restaurado).
-- Fogo sagrado:** Os anjos podem invocar o fogo sagrado, um ataque de chama vindo de cima com uma área de efeito de três metros quadrados. Se forem pegos por essa chama, os personagens piedosos cuja lealdade se alinha com o anjo podem fazer um rolamento de sua lealdade como uma porcentagem. Se for bem-sucedido, o personagem não sofrerá dano do fogo sagrado. Se falharem, ou não forem piedosos, os alvos são engolfados pela chama, causando 10D6 de dano (dividido entre os locais de acerto, se usado). Diferentemente do fogo normal, o fogo sagrado não se prolonga. Seus efeitos são quase instantâneos, desaparecendo no final da rodada de combate em que foi convocado. Isso custa 10 pontos de poder e pode ser convocado uma vez por dia.
-- Invisibilidade:** Os anjos podem se tornar invisíveis à vontade, conforme o superpoder, com o equivalente à metade de seu POW em níveis (arredondado para cima). Isso custa apenas 3 pontos de poder por uso.
-- Voz do Céu:** Um anjo pode falar com a voz do Céu (ou equivalente). Esse é um ataque em área de efeito com dez metros de diâmetro a partir do anjo, que pode alertar as pessoas dentro do alcance para que tapem os ouvidos, e quem obedecer será poupado. Essa voz, estrondosa e majestosa, atordoa qualquer pessoa ao alcance se ela falhar em uma rolagem de resistência de seu POW contra o POW do anjo. Se for bem-sucedida, ela não será afetada nessa rodada de combate. Esse poder custa 3 pontos de poder e substitui qualquer ataque físico.
+- Radiância divina**: Os anjos podem emitir uma radiância de luz que os protege de ferimentos, servindo como uma armadura de 10 pontos contra qualquer fonte de dano, inclusive de poderes.
+- Flight**: Seja com ou sem asas, os anjos podem voar em grande velocidade. Os anjos possuem o superpoder Flight (Voo) em níveis iguais ao seu POW (Poder de Força), embora ele não custe nenhum ponto de poder para ser usado. Um anjo pode parecer sem asas e, em seguida, manifestar grandes asas semelhantes a pássaros que crescem e se desdobram repentinamente de suas costas.
+- Toque de cura**: Os anjos podem impor as mãos e curar os doentes, enfermos e feridos. Além de restaurar os pontos de vida a um custo de 1 ponto de vida por ponto de poder, o anjo pode remover qualquer doença, enfermidade, ferimento grave ou enfermidade gastando 1 ponto de seu próprio POW permanente por enfermidade. Se os pontos de poder do anjo chegarem a 0, ele retornará ao seu plano de origem até que seja ordenado ou autorizado a retornar (pelo menos uma semana, após a qual ele será totalmente restaurado).
+- Fogo sagrado**: Os anjos podem invocar o fogo sagrado, um ataque de chama vindo de cima com uma área de efeito de três metros quadrados. Se forem pegos por essa chama, os personagens piedosos cuja lealdade se alinha com o anjo podem fazer um rolamento de sua lealdade como uma porcentagem. Se for bem-sucedido, o personagem não sofrerá dano do fogo sagrado. Se falharem, ou não forem piedosos, os alvos são engolfados pela chama, causando 10D6 de dano (dividido entre os locais de acerto, se usado). Diferentemente do fogo normal, o fogo sagrado não se prolonga. Seus efeitos são quase instantâneos, desaparecendo no final da rodada de combate em que foi convocado. Isso custa 10 pontos de poder e pode ser convocado uma vez por dia.
+- Invisibilidade**: Os anjos podem se tornar invisíveis à vontade, conforme o superpoder, com o equivalente à metade de seu POW em níveis (arredondado para cima). Isso custa apenas 3 pontos de poder por uso.
+- Voz do Céu**: Um anjo pode falar com a voz do Céu (ou equivalente). Esse é um ataque em área de efeito com dez metros de diâmetro a partir do anjo, que pode alertar as pessoas dentro do alcance para que tapem os ouvidos, e quem obedecer será poupado. Essa voz, estrondosa e majestosa, atordoa qualquer pessoa ao alcance se ela falhar em uma rolagem de resistência de seu POW contra o POW do anjo. Se for bem-sucedida, ela não será afetada nessa rodada de combate. Esse poder custa 3 pontos de poder e substitui qualquer ataque físico.
 
-**Feitiços:** Os anjos podem usar magia ou superpoderes. Os feitiços mágicos comumente usados são Contramágica, Dissipar, Aprimorar, Luz, Falar com a mente e Teletransporte, todos com 100%. Os anjos raramente usam feitiçaria e nunca são mutantes. Eles podem ter poderes psíquicos ou equivalentes.
+**Feitiços**: Os anjos podem usar magia ou superpoderes. Os feitiços mágicos comumente usados são Contramágica, Dissipar, Aprimorar, Luz, Falar com a mente e Teletransporte, todos com 100%. Os anjos raramente usam feitiçaria e nunca são mutantes. Eles podem ter poderes psíquicos ou equivalentes.
 
-**Habilidades:** Comando 100%, Esquiva 100%, Voo 100%, Perspicácia 75%, Conhecimento (qualquer) 100%, Linguagem (qualquer) 100%, Sentido 90%, Localizar 90%, Ensinar 90%.
+**Habilidades**: Comando 100%, Esquiva 100%, Voo 100%, Perspicácia 75%, Conhecimento (qualquer) 100%, Linguagem (qualquer) 100%, Sentido 90%, Localizar 90%, Ensinar 90%.
 
 **Demônio, Maior
 
@@ -755,10 +755,10 @@ Embora a visualização de um anjo possa restaurar pontos de SAN de um crente pi
 
 | | |
 |---------------------------|---------------------------------------------|
-| Movimento:** 10 (12 voando) Pontos de Golpe** 22-23
-| Modificador de dano:** +2D6 | **Armadura** 8-pt. couro resistente (pode usar armadura) |
+| Movimento**: 10 (12 voando) Pontos de Golpe** 22-23
+| Modificador de dano**: +2D6 | **Armadura** 8-pt. couro resistente (pode usar armadura) |
 
-**Ataques:**
+**Ataques**:
 
 - Great Sword (usada com uma mão) 150%, 2D8+dm (sangramento) +2D6 chamas (especial)
 - Chicote 90%, 1D3-1+½dm (emaranhamento) +1D6 fogo (especial)
@@ -768,16 +768,16 @@ Embora a visualização de um anjo possa restaurar pontos de SAN de um crente pi
 
 Um demônio maior geralmente começa com uma explosão de fogo pela boca antes de entrar em combate físico. Ele pode fazer dois (ou mais) ataques por rodada, preferindo usar o chicote primeiro para imobilizar um inimigo e depois atacar com a grande espada 5 níveis de DEX. Sua grande espada flamejante pode incendiar materiais inflamáveis. Ele luta com duas mãos com um chicote longo, também em chamas. Se uma das armas for perdida, ele recorre ao uso de suas garras ou ao agarramento. Diferentemente das armas de um anjo, as armas de um demônio maior têm o dobro de pontos de vida, mas podem ser quebradas ou destruídas de outra forma (no entanto, são imunes ao fogo).
 
-**Habilidades:** Escalar 90%, Esquivar-se 75%, Voar 100%, Saltar 75%, Sentir 75%, Localizar 75%, Arremessar 75%.
+**Habilidades**: Escalar 90%, Esquivar-se 75%, Voar 100%, Saltar 75%, Sentir 75%, Localizar 75%, Arremessar 75%.
 
-**Poderes:** Diz-se que os demônios têm uma série de poderes, dos quais qualquer demônio individual pode ter alguns, todos ou nenhum:
+**Poderes**: Diz-se que os demônios têm uma série de poderes, dos quais qualquer demônio individual pode ter alguns, todos ou nenhum:
 
-- **Aura de terror:** O demônio maior tem um brilho de malevolência e ódio que se manifesta em uma aura de terror. Qualquer pessoa que se aproxime do POW do demônio em metros deve fazer um teste de resistência de POW vs. POW para evitar ser dominado pelo terror. Se falhar, o personagem é atingido pelo medo e todos os ataques e outras ações se tornam *difíceis*. Os personagens afetados podem tentar uma nova rolagem de resistência no início da próxima rodada de combate, embora para essa rolagem de resistência seu POW seja reduzido à metade (arredondado para cima). O demônio pode ativar essa aura por 1 ponto de poder e ela dura o POW do demônio em rodadas de combate ou até que o demônio decida interromper o poder. Qualquer pessoa do "lado" do demônio ou que tenha a mesma lealdade está isenta desse poder, a menos que o demônio deseje que ele afete aliados. Se um personagem falhar na rolagem de resistência e a sanidade for usada, o personagem perderá a quantidade total de SAN possível por ver o demônio maior.
-- Blight:** A presença geral do demônio faz com que uma área fique manchada, distorcida com o mal sombrio da alma do demônio. Isso não é útil em combate, mas contamina uma área com o passar do tempo, até que ela tenha uma presença agourenta e persistente de maldade e malícia. As plantas vivas murcham ou ficam retorcidas e amargas, o solo fica seco e sombrio e a própria atmosfera assume um aspecto doentio. O raio desse efeito é igual ao POW do demônio maior × 100 metros. Não custa pontos de poder para ser ativado, é automático e está além do controle do demônio (a presença não pode ser mascarada ou escondida). São necessários 30 dias menos o POW do demônio para que essa presença se manifeste, e o POW do demônio em meses para que uma área se recupere depois de ter sido destruída.
+- **Aura de terror**: O demônio maior tem um brilho de malevolência e ódio que se manifesta em uma aura de terror. Qualquer pessoa que se aproxime do POW do demônio em metros deve fazer um teste de resistência de POW vs. POW para evitar ser dominado pelo terror. Se falhar, o personagem é atingido pelo medo e todos os ataques e outras ações se tornam *difíceis*. Os personagens afetados podem tentar uma nova rolagem de resistência no início da próxima rodada de combate, embora para essa rolagem de resistência seu POW seja reduzido à metade (arredondado para cima). O demônio pode ativar essa aura por 1 ponto de poder e ela dura o POW do demônio em rodadas de combate ou até que o demônio decida interromper o poder. Qualquer pessoa do "lado" do demônio ou que tenha a mesma lealdade está isenta desse poder, a menos que o demônio deseje que ele afete aliados. Se um personagem falhar na rolagem de resistência e a sanidade for usada, o personagem perderá a quantidade total de SAN possível por ver o demônio maior.
+- Blight**: A presença geral do demônio faz com que uma área fique manchada, distorcida com o mal sombrio da alma do demônio. Isso não é útil em combate, mas contamina uma área com o passar do tempo, até que ela tenha uma presença agourenta e persistente de maldade e malícia. As plantas vivas murcham ou ficam retorcidas e amargas, o solo fica seco e sombrio e a própria atmosfera assume um aspecto doentio. O raio desse efeito é igual ao POW do demônio maior × 100 metros. Não custa pontos de poder para ser ativado, é automático e está além do controle do demônio (a presença não pode ser mascarada ou escondida). São necessários 30 dias menos o POW do demônio para que essa presença se manifeste, e o POW do demônio em meses para que uma área se recupere depois de ter sido destruída.
 - Sopro de chamas: Um demônio pode soprar uma rajada de fogo com um alcance igual à sua CON em metros. Essa explosão é um ataque em área de três metros quadrados. Qualquer pessoa apanhada dentro dessa explosão sofrerá 6D6 de dano de fogo (independentemente de sua lealdade), dano dividido entre todos os locais atingidos, se usado. Esse fogo perdura e continua queimando por três rodadas subsequentes. Consulte as regras de fogo para obter mais detalhes. Essa explosão ardente custa 6 pontos de poder por explosão.
-- Voo:** O demônio maior tem enormes asas de morcego e pode voar, incansavelmente e sem esforço.
+- Voo**: O demônio maior tem enormes asas de morcego e pode voar, incansavelmente e sem esforço.
 - Regeneração: Um demônio tem vitalidade infernal e pode regenerar 1D6 pontos de vida por rodada de combate sem custo de pontos de energia. Se forem usados locais de acerto, o demônio cura 1D3 pontos de acerto por local de acerto por rodada de combate.
-- Bainha de fumaça e fogo:** O demônio pode se revestir de um brilho flamejante que causa 1D6 pontos de fogo por rodada de combate a qualquer criatura que esteja a menos de dois metros dele, como em um combate físico. Essa bainha pode incendiar qualquer substância inflamável ao redor do demônio. Ela serve como 1 ponto de armadura adicional contra qualquer arma de mísseis de madeira direcionada a ele, como uma flecha ou um projétil de besta. Essa bainha pode ser ativada à vontade e custa 1 ponto de energia por rodada para ser mantida.
+- Bainha de fumaça e fogo**: O demônio pode se revestir de um brilho flamejante que causa 1D6 pontos de fogo por rodada de combate a qualquer criatura que esteja a menos de dois metros dele, como em um combate físico. Essa bainha pode incendiar qualquer substância inflamável ao redor do demônio. Ela serve como 1 ponto de armadura adicional contra qualquer arma de mísseis de madeira direcionada a ele, como uma flecha ou um projétil de besta. Essa bainha pode ser ativada à vontade e custa 1 ponto de energia por rodada para ser mantida.
 
 Um demônio maior também pode ter uma ou mais características caóticas.
 
@@ -792,10 +792,10 @@ Um demônio menor é muito menor do que um demônio maior e foi convocado por um
 
 | | |
 |---------------------------|-----------------------------|
-| Movimento:** 8 (12 voando) Pontos de Golpe** 10
+| Movimento**: 8 (12 voando) Pontos de Golpe** 10
 | Modificador de dano: nenhum Armadura: 1 pt. de couro em escala
 
-**Ataques:**
+**Ataques**:
 
 - Garra 50%, 1D3+dm (sangramento)
 - Mordida 35%, 1D3+½ dm (sangramento)
@@ -803,9 +803,9 @@ Um demônio menor é muito menor do que um demônio maior e foi convocado por um
 
 Um demônio pode fazer dois ataques de garra em uma rodada de combate. Se for bem-sucedido em ambos, ele tentará agarrar e morder na próxima rodada de combate.
 
-**Habilidades:** Barganhar 55%, Escalar 65%, Esquivar-se 50%, Falar rápido 40%, Voar 75%, Esconder-se 45%, Conhecimento (Região: Inferno) 35%, Ouvir 40%, Sentir 35%, Localizar 50%, Furtividade 35%.
+**Habilidades**: Barganhar 55%, Escalar 65%, Esquivar-se 50%, Falar rápido 40%, Voar 75%, Esconder-se 45%, Conhecimento (Região: Inferno) 35%, Ouvir 40%, Sentir 35%, Localizar 50%, Furtividade 35%.
 
-**Poderes:** Os demônios menores não são particularmente poderosos, embora um deles possa ter alguns feitiços de feitiçaria se seu POW for alto o suficiente. Os feitiços mais comuns são Curse of Sorcery (4), Flames of the Sun (4), Midnight (1) e Pox (1). Um feiticeiro que convoca um demônio menor pode escolher quais feitiços o demônio conhece se tiver feito uma pesquisa adequada com antecedência. O demônio também pode ter uma ou mais características caóticas.
+**Poderes**: Os demônios menores não são particularmente poderosos, embora um deles possa ter alguns feitiços de feitiçaria se seu POW for alto o suficiente. Os feitiços mais comuns são Curse of Sorcery (4), Flames of the Sun (4), Midnight (1) e Pox (1). Um feiticeiro que convoca um demônio menor pode escolher quais feitiços o demônio conhece se tiver feito uma pesquisa adequada com antecedência. O demônio também pode ter uma ou mais características caóticas.
 
 **Elementais**
 
@@ -829,19 +829,19 @@ Os elementais do ar geralmente aparecem como mulheres humanas flutuantes e trans
 | | |
 |---------------------------|----------------------------------------------------|
 | Movimentação: 10 (12 voando)
-| Modificador de dano:** Nenhum ** Armadura** Nenhuma, mas invulnerável a ataques normais
+| Modificador de dano**: Nenhum ** Armadura** Nenhuma, mas invulnerável a ataques normais
 
-**Ataques:**
+**Ataques**:
 
 - Scouring Wind 50%, 1D10 (repulsão, alcance é POW em metros)
 
-**Habilidades:** Esquivar-se 75%, Voar 100%, Linguagem (invocador) 100%, Ouvir 75%, Ciência (Meteorologia) 100%, Sentir 75%, Localizar 75%.
+**Habilidades**: Esquivar-se 75%, Voar 100%, Linguagem (invocador) 100%, Ouvir 75%, Ciência (Meteorologia) 100%, Sentir 75%, Localizar 75%.
 
-**Poderes:** Um elemental do ar tem controle sobre seu elemento, usando qualquer um desses tipos de poder:
+**Poderes**: Um elemental do ar tem controle sobre seu elemento, usando qualquer um desses tipos de poder:
 
-- Magia:** Pode lançar os feitiços Lift e Lightning em seu POW×3% pelo custo normal de pontos de energia.
-- Feitiçaria:** Pode lançar Wings of the Sky (4) à vontade, sem custo de pontos de energia.
-- Superpoderes:** Ele tem o equivalente a ¼ do seu POW (arredondado para cima) em níveis dos superpoderes Controle de Energia (Vento) e Projeção de Energia (Vento).
+- Magia**: Pode lançar os feitiços Lift e Lightning em seu POW×3% pelo custo normal de pontos de energia.
+- Feitiçaria**: Pode lançar Wings of the Sky (4) à vontade, sem custo de pontos de energia.
+- Superpoderes**: Ele tem o equivalente a ¼ do seu POW (arredondado para cima) em níveis dos superpoderes Controle de Energia (Vento) e Projeção de Energia (Vento).
 - Um elemental do ar pode, ao custo de sua própria vida, destruir um elemental do fogo de força equivalente.
 - Ele também pode fornecer ar respirável para um personagem, ao custo de 1 ponto de vida por rodada.
 - Os elementais do ar podem se tornar invisíveis à vontade ao custo de 1 ponto de poder, embora reapareçam se forem comandados por seu invocador ou se atacarem alguém.
@@ -858,19 +858,19 @@ Os elementais da terra aparecem como formas humanoides de corpo grosso, feitas d
 | | |
 |-----------------------------------|----------------------------------------------------------------|
 | Movimento: 6 Pontos de vida: 26-28
-| Modificador de Dano:** +1D6 ou +2D6 | **Armadura** Nenhuma, mas invulnerável a ataques normais (veja abaixo) |
+| Modificador de Dano**: +1D6 ou +2D6 | **Armadura** Nenhuma, mas invulnerável a ataques normais (veja abaixo) |
 
-**Ataques:**
+**Ataques**:
 
 - Punho 50%, 1D6+dm (esmagamento)
 
-**Habilidades:** Avaliação 50%, Artesanato (ferraria) 75%, Idioma (invocador) 25%, Ciência (metalurgia) 100%.
+**Habilidades**: Avaliação 50%, Artesanato (ferraria) 75%, Idioma (invocador) 25%, Ciência (metalurgia) 100%.
 
-**Poderes:** Um elemental da terra tem controle sobre seu elemento, usando qualquer um desses tipos de poder:
+**Poderes**: Um elemental da terra tem controle sobre seu elemento, usando qualquer um desses tipos de poder:
 
 - Mágica: Pode conjurar os feitiços Entorpecimento e Muralha em seu POW×3% pelo custo normal de pontos de energia.
-- Feitiçaria:** Pode lançar Gift of the Earth (4) à vontade, sem custo de pontos de energia.
-- Superpoderes:** Ele tem o equivalente a ¼ do seu POW (arredondado para cima) em níveis do superpoder Barrier.
+- Feitiçaria**: Pode lançar Gift of the Earth (4) à vontade, sem custo de pontos de energia.
+- Superpoderes**: Ele tem o equivalente a ¼ do seu POW (arredondado para cima) em níveis do superpoder Barrier.
 - Um elemental da terra pode, ao custo de sua própria vida, destruir um elemental do ar de força equivalente.
 - Ele também pode se afundar no solo e se mover em velocidade normal, emergindo quando desejar. Ele pode estender essa habilidade a um personagem de seu tamanho ou menor, engolindo-o e movendo-o pela terra ileso na velocidade de movimento normal do elemental. Ele só fará isso com um personagem disposto, mas não fornecerá oxigênio para a viagem (consulte Asfixia, afogamento e asfixia).
 - Além de ser invulnerável a ataques normais, um elemental da terra tem uma chance de quebrar qualquer arma normal feita de metal. Se um personagem atingir com sucesso um elemental da terra com uma arma metálica, ele deve fazer um teste de resistência dos pontos de vida da arma contra a CON do elemental da terra. Se a rolagem da arma falhar, ela se quebra automaticamente. Se for bem-sucedida, ela não se quebra. Essa rolagem só precisa ser feita uma vez no primeiro ataque bem-sucedido em uma rodada e se aplica a armas com feitiços ou magias lançados temporariamente sobre elas, mas não a armas mágicas.
@@ -887,21 +887,21 @@ Os elementais do fogo aparecem como répteis de quatro patas feitos de plasma ar
 
 | | |
 |---------------------------|----------------------------------------------------|
-| Movimento:** 10 Pontos de Golpe** 26-28
-| Modificador de Dano:** +1D4 | **Armadura** Nenhuma, mas invulnerável a ataques normais |
+| Movimento**: 10 Pontos de Golpe** 26-28
+| Modificador de Dano**: +1D4 | **Armadura** Nenhuma, mas invulnerável a ataques normais |
 
-**Ataques:**
+**Ataques**:
 
 - Flame Breath 50%, 1D10 por rodada (fogo, alcance é POW em metros)
 - Grapple 50%, especial + 1D6 por rodada (fogo)
 
-**Habilidades:** Demolição 75%, Esquiva 50%, Linguagem (de invocador) 50%, Ouvir 50%, Sentir 50%, Localizar 50%.
+**Habilidades**: Demolição 75%, Esquiva 50%, Linguagem (de invocador) 50%, Ouvir 50%, Sentir 50%, Localizar 50%.
 
-**Poderes:** Um elemental do fogo tem controle sobre seu elemento, usando qualquer um desses tipos de poder:
+**Poderes**: Um elemental do fogo tem controle sobre seu elemento, usando qualquer um desses tipos de poder:
 
 - Magia: Pode lançar os feitiços mágicos Chama e Resistência em seu POW×3% pelo custo normal de pontos de energia.
 - Feitiçaria: lança Flames of the Sun (4) à vontade, sem custo de pontos de energia.
-- Superpoderes:** Tem o equivalente a ¼ do seu POW (arredondado para cima) em níveis dos superpoderes Controle de Energia (Calor) e Projeção de Energia (Calor).
+- Superpoderes**: Tem o equivalente a ¼ do seu POW (arredondado para cima) em níveis dos superpoderes Controle de Energia (Calor) e Projeção de Energia (Calor).
 - Um elemental do fogo pode, ao custo de sua própria vida, destruir um elemental da água de força equivalente.
 - Ele pode inflamar qualquer material inflamável pelo toque, mas nunca extinguirá ou evitará um incêndio.
 
@@ -917,21 +917,21 @@ Os elementais da água aparecem como belas fêmeas humanas aquáticas, vagamente
 | | |
 |----------------------------|----------------------------------------------------------------|
 | Movimentação: 10 (12 natação)
-| Modificador de dano:** Nenhum ** Armadura** Nenhuma, mas invulnerável a ataques normais (veja abaixo)
+| Modificador de dano**: Nenhum ** Armadura** Nenhuma, mas invulnerável a ataques normais (veja abaixo)
 
-**Ataques:**
+**Ataques**:
 
 - Afogamento 50%, especial (veja abaixo)
 
-**Habilidades:** Esquiva 75%, Idioma (invocador) 75%, Navegar 100%, Ciência (Oceanografia) 100%, Sentido 50%, Localizar
+**Habilidades**: Esquiva 75%, Idioma (invocador) 75%, Navegar 100%, Ciência (Oceanografia) 100%, Sentido 50%, Localizar
 
 50%, Swim 100%.
 
-**Poderes:** Um elemental da água tem controle sobre seu elemento, usando qualquer um desses tipos de poder:
+**Poderes**: Um elemental da água tem controle sobre seu elemento, usando qualquer um desses tipos de poder:
 
 - Magia: Um elemental da água pode conjurar os feitiços mágicos Curar e Desvincular em seu POW×3% pelo custo normal de pontos de energia.
 - Feitiçaria: um elemental da água pode lançar Bounty of the Sea (4) à vontade, sem custo de pontos de energia.
-- Superpoderes:** O elemental da água tem o equivalente a ¼ de seu POW (arredondado para cima) em níveis dos superpoderes Drain (drenar) e Super Movement (caminhar na água).
+- Superpoderes**: O elemental da água tem o equivalente a ¼ de seu POW (arredondado para cima) em níveis dos superpoderes Drain (drenar) e Super Movement (caminhar na água).
 - Um elemental da água pode, ao custo de sua própria vida, destruir um elemental da terra de força equivalente.
 - Para afogar um oponente, um elemental da água envolve a boca e o nariz do alvo em uma bolha de água. Se tiver sido bem-sucedido em um ataque de toque, todos os outros ataques de afogamento contra o alvo serão *Fáceis* até que o alvo se liberte ou esteja morto (consulte as regras para afogamento). Esse ataque custa ao elemental da água um número de pontos de vida equivalente ao dano infligido ao alvo. Ele pode interromper a tentativa de afogamento a qualquer momento.
 - Além de ser invulnerável a ataques normais, um elemental da água tem uma chance de enferrujar qualquer arma de metal normal ou deformar qualquer arma de madeira que o atinja. Se um personagem atingir com sucesso um elemental da água com uma arma metálica, ele deve fazer um teste de resistência dos pontos de vida da arma contra a CON do elemental da água. Se a rolagem da arma falhar, ela enferruja (perde 2 pontos de vida, -1 de dano) ou deforma (-1 ponto de vida, -5% de dano). Se for bem-sucedida, ela não será afetada. Essa rolagem só precisa ser feita uma vez no primeiro ataque bem-sucedido em uma rodada e se aplica a armas com feitiços ou magias lançados temporariamente sobre elas, mas não a armas mágicas.
@@ -1014,16 +1014,16 @@ Os alienígenas cinzentos às vezes são encontrados em locais de queda de OVNIs
 | | |
 |---------------------------|------------------|
 | Movimento: 7 Pontos de Golpe: 7
-| Modificador de Dano:** -1D4 | **Armadura** Nenhuma |
+| Modificador de Dano**: -1D4 | **Armadura** Nenhuma |
 
-**Ataques:**
+**Ataques**:
 
 - Pistola de atordoamento 50%, 2D6 (atordoa, veja a descrição da arma)
 - Rifle Desintegrador 35%, 3D6+2 (veja a descrição da arma)
 
-**Habilidades:** Esquivar-se 40%, Manipulação Fina 75%, Primeiros Socorros 75%, Esconder-se 60%, Conhecimento (Cultura Humana) 55%, Conhecimento (Região: Via Láctea) 85%, Linguagem (Área) 20%, Linguagem (Zeta Reticulan) 100%, Ouvir 55%, Medicina 100%, Navegar 70%, Piloto (OVNI) 80%, Reparo (Quantum) 50%, Ciência (Astronomia) 75%, Ciência (Planetologia) 95%, Ciência (Zoologia) 50%, Sentido 60%, Localizar 50%, Furtividade 50%, Habilidade Técnica (Sensores de OVNI) 50%
+**Habilidades**: Esquivar-se 40%, Manipulação Fina 75%, Primeiros Socorros 75%, Esconder-se 60%, Conhecimento (Cultura Humana) 55%, Conhecimento (Região: Via Láctea) 85%, Linguagem (Área) 20%, Linguagem (Zeta Reticulan) 100%, Ouvir 55%, Medicina 100%, Navegar 70%, Piloto (OVNI) 80%, Reparo (Quantum) 50%, Ciência (Astronomia) 75%, Ciência (Planetologia) 95%, Ciência (Zoologia) 50%, Sentido 60%, Localizar 50%, Furtividade 50%, Habilidade Técnica (Sensores de OVNI) 50%
 
-**Poderes:** Os alienígenas cinzentos usam o que os humanos acreditam ser poderes psíquicos. Os poderes psíquicos mais comuns são Controle de Emoção, Controle da Mente, Escudo da Mente, Telecinesia e Telepatia. Cada um deles está em seu POW×2% ou mais.
+**Poderes**: Os alienígenas cinzentos usam o que os humanos acreditam ser poderes psíquicos. Os poderes psíquicos mais comuns são Controle de Emoção, Controle da Mente, Escudo da Mente, Telecinesia e Telepatia. Cada um deles está em seu POW×2% ou mais.
 
 **Alienígena, Xenomorfo
 
@@ -1037,9 +1037,9 @@ Descobertos nos confins do espaço, esses xenomorfos são vorazes por carne, dev
 | | |
 |---------------------------|----------------------------------------------------------|
 | Movimento: 12 Pontos de Golpe: 12-13
-| Modificador de Dano:** +1D4 | **Armadura** Carapaça de 2 pt. (expele sangue ácido, veja abaixo) |
+| Modificador de Dano**: +1D4 | **Armadura** Carapaça de 2 pt. (expele sangue ácido, veja abaixo) |
 
-**Ataques:**
+**Ataques**:
 
 - Garra 50%, 1D6+dm (sangramento)
 - Mordida 35%, 1D6+dm (sangramento)
@@ -1048,9 +1048,9 @@ Descobertos nos confins do espaço, esses xenomorfos são vorazes por carne, dev
 
 A cada rodada, o xenomorfo pode atacar duas vezes com garras e uma vez com um ataque de mordida 5 níveis de DEX depois. Se for bem-sucedido em ambos os ataques de garras, ele tentará agarrar e morder na próxima rodada. Se apropriado, ele substitui sua mordida por um ataque de chicote de cauda.
 
-**Habilidades:** Escalar 75%, Esquivar-se 50%, Esconder-se 60%, Saltar 50%, Ouvir 35%, Sentir 50%, Localizar 35%, Furtividade 50%, Rastrear 75%.
+**Habilidades**: Escalar 75%, Esquivar-se 50%, Esconder-se 60%, Saltar 50%, Ouvir 35%, Sentir 50%, Localizar 35%, Furtividade 50%, Rastrear 75%.
 
-**Poderes:** Os xenomorfos têm uma defesa especial: sangue ácido. Esse ácido biológico é intensamente poderoso e jorra de qualquer ferimento físico sofrido pelo xenomorfo, corrosivo ativamente por 1D6+2 rodadas de combate. Qualquer alvo a um metro do xenomorfo deve fazer um teste de Sorte para evitar ser respingado. A falha indica que o personagem sofre 1D3 pontos do ácido. A armadura inicialmente protege contra esse ácido, mas não por muito tempo. Ele continua a corroer a armadura, causando dano a cada rodada de combate até atravessar a armadura. O mestre de jogo deve registrar o dano do ácido a cada rodada até que o valor da armadura seja superado. Nesse ponto, ele queima o personagem. Para remover a armadura sem ser queimado, é necessária uma rodada de combate completa e um teste de agilidade *difícil*. Se forem usados locais de acerto, somente a armadura no(s) local(is) de acerto afetado(s) precisa ser removida. A falha indica que a armadura ainda está vestida. Um fumble indica que o ácido entrou no personagem. Quando um personagem está sendo queimado pelo ácido, ele continua queimando até ser neutralizado por alguma força ou o ácido deixa de ser corrosivo ao final de 1D6+2 rodadas.
+**Poderes**: Os xenomorfos têm uma defesa especial: sangue ácido. Esse ácido biológico é intensamente poderoso e jorra de qualquer ferimento físico sofrido pelo xenomorfo, corrosivo ativamente por 1D6+2 rodadas de combate. Qualquer alvo a um metro do xenomorfo deve fazer um teste de Sorte para evitar ser respingado. A falha indica que o personagem sofre 1D3 pontos do ácido. A armadura inicialmente protege contra esse ácido, mas não por muito tempo. Ele continua a corroer a armadura, causando dano a cada rodada de combate até atravessar a armadura. O mestre de jogo deve registrar o dano do ácido a cada rodada até que o valor da armadura seja superado. Nesse ponto, ele queima o personagem. Para remover a armadura sem ser queimado, é necessária uma rodada de combate completa e um teste de agilidade *difícil*. Se forem usados locais de acerto, somente a armadura no(s) local(is) de acerto afetado(s) precisa ser removida. A falha indica que a armadura ainda está vestida. Um fumble indica que o ácido entrou no personagem. Quando um personagem está sendo queimado pelo ácido, ele continua queimando até ser neutralizado por alguma força ou o ácido deixa de ser corrosivo ao final de 1D6+2 rodadas.
 
 **Bloqueio**
 
@@ -1064,17 +1064,17 @@ Uma massa grotesca de matéria protoplasmática viscosa. Essa criatura é horrí
 | | |
 |---------------------------|-------------------------------|
 | Movimento: 10 Pontos de vida: 63
-| Modificador de Dano:** +8D6 | **Armadura** Nenhuma, mas veja abaixo |
+| Modificador de Dano**: +8D6 | **Armadura** Nenhuma, mas veja abaixo |
 
-**Ataques:**
+**Ataques**:
 
 - Engolfar 70%, engolfar + dm (veja abaixo)
 
-**Habilidades:** Escalar 50%, Esconder-se 25%, Sentir 25%, Furtividade 25%, Rastrear 25%.
+**Habilidades**: Escalar 50%, Esconder-se 25%, Sentir 25%, Furtividade 25%, Rastrear 25%.
 
 Uma bolha não tem armadura, mas ataques elétricos e de fogo causam apenas ½ de dano (arredondado para cima) e armas físicas, como armas de fogo, causam apenas 1 ponto de dano.
 
-**Poderes:** Uma bolha envolve o alvo em um ataque bem-sucedido. Seu modificador de dano é aplicado a um personagem engolfado e, na rodada seguinte, o personagem começa a ser digerido. Se estiver usando locais de acerto, o dano é dividido entre todos os locais de acerto simultaneamente. Isso causa 1D3-1 pontos de dano a cada rodada de combate. O equipamento de proteção não funciona, a menos que esteja totalmente fechado, e só dura dentro de uma bolha por rodadas de combate iguais ao seu valor de armadura. Sair de uma bolha é extremamente difícil, exigindo uma rolagem de esforço *Difícil* bem-sucedida. As bolhas também regeneram 1 ponto de vida por rodada de combate até atingirem o máximo de pontos de vida.
+**Poderes**: Uma bolha envolve o alvo em um ataque bem-sucedido. Seu modificador de dano é aplicado a um personagem engolfado e, na rodada seguinte, o personagem começa a ser digerido. Se estiver usando locais de acerto, o dano é dividido entre todos os locais de acerto simultaneamente. Isso causa 1D3-1 pontos de dano a cada rodada de combate. O equipamento de proteção não funciona, a menos que esteja totalmente fechado, e só dura dentro de uma bolha por rodadas de combate iguais ao seu valor de armadura. Sair de uma bolha é extremamente difícil, exigindo uma rolagem de esforço *Difícil* bem-sucedida. As bolhas também regeneram 1 ponto de vida por rodada de combate até atingirem o máximo de pontos de vida.
 
 **Robô, gigante
 
@@ -1087,10 +1087,10 @@ O robô gigante foi construído por uma organização governamental ultrassecret
 
 | | |
 |----------------------------|------------------------------------------------------|
-| Movimento:** 24 (176 voando) Pontos de vida** 188 (+100 do poder de Ponto de Vida Extra)
-| Modificador de dano:** +10D6 | **Armadura** Casco blindado de 30 pt.
+| Movimento**: 24 (176 voando) Pontos de vida** 188 (+100 do poder de Ponto de Vida Extra)
+| Modificador de dano**: +10D6 | **Armadura** Casco blindado de 30 pt.
 
-**Ataques:**
+**Ataques**:
 
 - Canhão de energia 100%, 10D6 (esmagamento)
 - Cápsula de mísseis 100%, 8D6+8 (empalamento + repulsão)
@@ -1100,9 +1100,9 @@ O robô gigante foi construído por uma organização governamental ultrassecret
 - Pisão 75%, 2D6+dm (esmagamento)
 - Agarrar 75%, especial
 
-**Poderes:** O robô gigante tem uma variedade de componentes melhor representados com superpoderes, incluindo: Absorção (elétrica) 20; Adaptação (alta pressão, vácuo, sempre ligado, sem custo de pontos de energia) 30; Armadura (calor, cinética, radiação) 30 cada; Projeção de energia (cinética) 10; Energia extra +200; Pontos de vida extras +100; Voo 30; Resistência (Radiação, Som) 10 cada; Super Sentido (Visão Escura, Visão Infravermelha, Visão Noturna, Super Audição, Super Visão) 10 cada; Super Habilidade 15 (Artilharia +60%, Briga +40%, Voar +60%, Navegar +20%, Reparar +20%, Local +40%). Além desses poderes, o robô gigante tem um módulo de mísseis e uma espada de energia gigante embutidos em sua estrutura.
+**Poderes**: O robô gigante tem uma variedade de componentes melhor representados com superpoderes, incluindo: Absorção (elétrica) 20; Adaptação (alta pressão, vácuo, sempre ligado, sem custo de pontos de energia) 30; Armadura (calor, cinética, radiação) 30 cada; Projeção de energia (cinética) 10; Energia extra +200; Pontos de vida extras +100; Voo 30; Resistência (Radiação, Som) 10 cada; Super Sentido (Visão Escura, Visão Infravermelha, Visão Noturna, Super Audição, Super Visão) 10 cada; Super Habilidade 15 (Artilharia +60%, Briga +40%, Voar +60%, Navegar +20%, Reparar +20%, Local +40%). Além desses poderes, o robô gigante tem um módulo de mísseis e uma espada de energia gigante embutidos em sua estrutura.
 
-**Habilidades:** Artilharia 75%, Esquiva 40%, Manipulação Fina 35%, Voar (Foguetes Internos) 90%, Pular 55%, Conhecimento (Kaiju) 50%, Idioma (Inglês) 30%, Idioma (Japonês) 75%, Ouvir 65%, Artes Marciais 40%, Navegar 50%, Reparo (Mecânico) 55%, Localizar 65%, Arremessar 55%
+**Habilidades**: Artilharia 75%, Esquiva 40%, Manipulação Fina 35%, Voar (Foguetes Internos) 90%, Pular 55%, Conhecimento (Kaiju) 50%, Idioma (Inglês) 30%, Idioma (Japonês) 75%, Ouvir 65%, Artes Marciais 40%, Navegar 50%, Reparo (Mecânico) 55%, Localizar 65%, Arremessar 55%
 
 **Robô, assassino
 
@@ -1116,9 +1116,9 @@ Os robôs assassinos têm muitas origens diferentes. Eles podem ter sido constru
 | | |
 |---------------------------|-----------------------------------|
 | Movimento: 10 Pontos de Golpe: 21
-| Modificador de Dano:** +2D6 | **Armadura** Revestimento interno de 20-pt.
+| Modificador de Dano**: +2D6 | **Armadura** Revestimento interno de 20-pt.
 
-**Ataques:**
+**Ataques**:
 
 - Rifle de Plasma 80%, 2D10+4 (empalamento)
 - Rifle de assalto 80%, 2D6+2 (empalamento)
@@ -1128,9 +1128,9 @@ Os robôs assassinos têm muitas origens diferentes. Eles podem ter sido constru
 
 Dependendo de onde e quando é encontrado, o robô assassino é equipado com armamento avançado ou armamentos apropriados para o cenário.
 
-**Habilidades:** Artilharia 80%, Briga 80%, Escalada 50%, Demolição 50%, Esquiva 40%, Dirigir (Motocicleta) 75%, Dirigir (Caminhão) 60%, Agarrar 80%, Pular 50%, Conhecimento (História Futura) 65%, Conhecimento (Região: Local) 50%, Idioma (Binário) 100%, Idioma (Local) 60%, Ouvir 65%, Piloto (Helicóptero) 50%, Reparo (Eletrônicos) 75%, Reparo (Mecânico) 95%, Local 75%, Estratégia 40%, Arremesso 55%.
+**Habilidades**: Artilharia 80%, Briga 80%, Escalada 50%, Demolição 50%, Esquiva 40%, Dirigir (Motocicleta) 75%, Dirigir (Caminhão) 60%, Agarrar 80%, Pular 50%, Conhecimento (História Futura) 65%, Conhecimento (Região: Local) 50%, Idioma (Binário) 100%, Idioma (Local) 60%, Ouvir 65%, Piloto (Helicóptero) 50%, Reparo (Eletrônicos) 75%, Reparo (Mecânico) 95%, Local 75%, Estratégia 40%, Arremesso 55%.
 
-**Poderes:** O robô assassino geralmente tem alguns superpoderes, como o Super Sense (Visão Infravermelha, Super Audição, Super Visão, Audição Ultrassônica) com 5 cada. Ele pode usar esses poderes sem nenhum custo de pontos de energia. Alguns robôs assassinos podem mudar de forma, se esticar ou estão armados com armamento integral, como garras, lâminas, olhos de laser ou armas de fogo internas.
+**Poderes**: O robô assassino geralmente tem alguns superpoderes, como o Super Sense (Visão Infravermelha, Super Audição, Super Visão, Audição Ultrassônica) com 5 cada. Ele pode usar esses poderes sem nenhum custo de pontos de energia. Alguns robôs assassinos podem mudar de forma, se esticar ou estão armados com armamento integral, como garras, lâminas, olhos de laser ou armas de fogo internas.
 
 **Robô, utilitário
 
@@ -1146,7 +1146,7 @@ Um servo de confiança da humanidade, o robô utilitário foi projetado para aju
 | Movimento: 8 Pontos de Golpe: 10-11
 | Modificador de dano: Nenhum Armadura: Revestimento de 4 pontos
 
-**Ataques:**
+**Ataques**:
 
 - Brawl 30%, 1D3+dm (esmagamento)
 - Ferramentas elétricas 50%, 1D6 (fogo ou elétrica, veja abaixo)
@@ -1171,10 +1171,10 @@ Um ser humano primitivo de uma época da história há muito desaparecida, o hab
 
 | | |
 |---------------------------|----------------------|
-| Movimento:** 10 Pontos de Golpe** 13
-| Modificador de Dano:** +1D4 | **Armadura** 1 pt. hide |
+| Movimento**: 10 Pontos de Golpe** 13
+| Modificador de Dano**: +1D4 | **Armadura** 1 pt. hide |
 
-**Ataques:**
+**Ataques**:
 
 - Lança curta 50%, 1D6+1+dm (empalamento)
 - Lança curta (arremessada) 50%, 1D6+1+½dm (empalamento)
@@ -1182,9 +1182,9 @@ Um ser humano primitivo de uma época da história há muito desaparecida, o hab
 - Pedra (arremessada) 50%, 1D2+½dm (esmagamento)
 - Grapple 50%, especial
 
-**Habilidades:** Lutar 50%, Escalar 60%, Artesanato (entalhe em madeira) 25%, Esquivar-se 35%, Esconder-se 35%, Saltar 50%, Idioma (próprio) 40%, Ouvir 55%, Sentir 50%, Localizar 65%, Furtividade 30%, Arremessar 50%, Rastrear 40%
+**Habilidades**: Lutar 50%, Escalar 60%, Artesanato (entalhe em madeira) 25%, Esquivar-se 35%, Esconder-se 35%, Saltar 50%, Idioma (próprio) 40%, Ouvir 55%, Sentir 50%, Localizar 65%, Furtividade 30%, Arremessar 50%, Rastrear 40%
 
-**Poderes:** Os habitantes das cavernas raramente têm poderes, embora alguns xamãs primitivos possam ter alguns feitiços mágicos ou poderes psíquicos se seu POW for alto o suficiente.
+**Poderes**: Os habitantes das cavernas raramente têm poderes, embora alguns xamãs primitivos possam ter alguns feitiços mágicos ou poderes psíquicos se seu POW for alto o suficiente.
 
 **Mente criminosa
 
@@ -1196,18 +1196,18 @@ O mentor do crime é o líder de uma gangue ou um membro de alto escalão de uma
 
 | | |
 |---------------------------|-------------------|
-| Movimento:** 10 Pontos de Golpe** 12
-| Modificador de Dano:** Nenhum | **Armadura** Nenhum |
+| Movimento**: 10 Pontos de Golpe** 12
+| Modificador de Dano**: Nenhum | **Armadura** Nenhum |
 
-**Ataques:**
+**Ataques**:
 
 - Pistola Média 75%, 1D8 (empalamento)
 - Navalha reta 65%, 1D4+dm (sangramento)
 - Metralhadora 55%, 2D6+4 (empalamento)
 
-**Habilidades:** Avaliar 55%, Pechinchar 65%, Comandar 65%, Artesanato (Culinária) 55%, Artesanato (Placas de Veículos) 35%, Demolição 35%, Disfarce 25%, Esquiva 50%, Dirigir (Carro de Fuga) 45%, Etiqueta 45%, Conversa Rápida 55%, Jogos 60%, Esconder-se 35%, Percepção 75%, Conhecimento (Direito) 55%, Idioma (Local) 75%, Idioma (Próprio) 75%, Ouvir 55%, Medicina (Farmacologia) 35%, Interpretação (Canto) 50%, Persuadir 75%, Sentido 40%, Perícia 35%, Localizar 45%, Status 55%, Furtividade 55%, Estratégia 60%, Arremesso 45%.
+**Habilidades**: Avaliar 55%, Pechinchar 65%, Comandar 65%, Artesanato (Culinária) 55%, Artesanato (Placas de Veículos) 35%, Demolição 35%, Disfarce 25%, Esquiva 50%, Dirigir (Carro de Fuga) 45%, Etiqueta 45%, Conversa Rápida 55%, Jogos 60%, Esconder-se 35%, Percepção 75%, Conhecimento (Direito) 55%, Idioma (Local) 75%, Idioma (Próprio) 75%, Ouvir 55%, Medicina (Farmacologia) 35%, Interpretação (Canto) 50%, Persuadir 75%, Sentido 40%, Perícia 35%, Localizar 45%, Status 55%, Furtividade 55%, Estratégia 60%, Arremesso 45%.
 
-**Poderes:** Os gênios do crime raramente têm poderes e geralmente são inimigos daqueles que têm superpoderes.
+**Poderes**: Os gênios do crime raramente têm poderes e geralmente são inimigos daqueles que têm superpoderes.
 
 **Cyborg
 
@@ -1219,23 +1219,23 @@ O ciborgue é um ser humano aumentado com elementos tecnológicos, seja como mei
 
 | | |
 |----------------------|---------------------|
-| Movimento:** 10 Pontos de Golpe** 19
-| Modificador de dano:** +2D6 **Armadura** Nenhuma
+| Movimento**: 10 Pontos de Golpe** 19
+| Modificador de dano**: +2D6 **Armadura** Nenhuma
 
-**Ataques:**
+**Ataques**:
 
 - Briga 90%, 1D3+10+dm (esmagamento)
 
-**Habilidades:** Escalar 40%, Esquivar-se 65%, Dirigir (carro) 55%, Esconder-se 40%, Saltar 75%, Idioma (próprio) 85%, Ouvir 75%, Pilotar (jatos experimentais) 75%, Consertar (eletrônicos) 55%, Ciência (cibernética) 40%, Localizar 85%, Furtividade 40%, Arremessar 65%.
+**Habilidades**: Escalar 40%, Esquivar-se 65%, Dirigir (carro) 55%, Esconder-se 40%, Saltar 75%, Idioma (próprio) 85%, Ouvir 75%, Pilotar (jatos experimentais) 75%, Consertar (eletrônicos) 55%, Ciência (cibernética) 40%, Localizar 85%, Furtividade 40%, Arremessar 65%.
 
-**Poderes:** O aumento do ciborgue é melhor representado com superpoderes, como os seguintes:
+**Poderes**: O aumento do ciborgue é melhor representado com superpoderes, como os seguintes:
 
-- **Sistemas defensivos:** Armadura 5 (contra energia elétrica) Bateria interna: Energia extra 5 (+50 pontos de energia)
+- **Sistemas defensivos**: Armadura 5 (contra energia elétrica) Bateria interna: Energia extra 5 (+50 pontos de energia)
 - Melhorias físicas**: Salto 5 (+10 metros), Super Características 40 (+20 STR, +10 CON, +10 DEX), Super Velocidade 2 (1 movimento extra, 1 ação extra)
-- Aprimoramentos Sensoriais:** Super Sentido (Super Audição 10, Super Visão 10, Visão Infravermelha 5, Audição Ultrassônica 5)
-- **Modificações táticas:** Defesa 2 (-10% para ser atingido), Super Skill 8 (Jump +40%, Listen +40%, Spot +60%, Throw +25%), Unarmed Combat 5 (+10 de dano, -25% para a chance de acerto de um alvo, +25% para a habilidade Brawl)
+- Aprimoramentos Sensoriais**: Super Sentido (Super Audição 10, Super Visão 10, Visão Infravermelha 5, Audição Ultrassônica 5)
+- **Modificações táticas**: Defesa 2 (-10% para ser atingido), Super Skill 8 (Jump +40%, Listen +40%, Spot +60%, Throw +25%), Unarmed Combat 5 (+10 de dano, -25% para a chance de acerto de um alvo, +25% para a habilidade Brawl)
 
-**Fraquezas:** O ciborgue tem as seguintes fraquezas para equilibrar esse incrível poder:
+**Fraquezas**: O ciborgue tem as seguintes fraquezas para equilibrar esse incrível poder:
 
 - A identidade ciborgue torna a vida normal impossível.
 - Envolvimento significativo com a agência governamental responsável pelas modificações dos ciborgues.
@@ -1252,22 +1252,22 @@ Filho de um deus e de uma mortal, o semideus se aventura pelo mundo, lutando con
 | | |
 |---------------------------|----------------------------------|
 | Movimento: 10 Pontos de Golpe: 25
-| Modificador de dano:** +2D6 | **Armadura** Armadura 20-pt. (Cinética) |
+| Modificador de dano**: +2D6 | **Armadura** Armadura 20-pt. (Cinética) |
 
-**Ataques:**
+**Ataques**:
 
 - Brawl 110%, 1D3+dm (esmagamento)
 - Grapple 110%, especial
 - Espada curta 100%, 1D6+1+dm (sangramento)
 - Round Shield (Escudo redondo) 80%, 1D3+dm (repulsão)
 
-**Habilidades:** Brigar 110%, Escalar 80%, Comandar 45%, Esquivar 65%, Dirigir (Carruagem) 65%, Etiqueta 25%, Agarrar 110%, Perspicácia 55%, Saltar 75%, Conhecimento (Mitologia) 85%, Idioma (Antigo) 100%, Idioma (Local) 90%, Ouvir 65%, Navegar 60%, Executar (Harpa) 50%, Persuadir 45%, Cavalgar (Cavalo) 45%, Sentir 70%, Localizar 60%, Status 45%, Furtividade 50%, Estratégia 60%, Nadar 75%, Arremessar 85%
+**Habilidades**: Brigar 110%, Escalar 80%, Comandar 45%, Esquivar 65%, Dirigir (Carruagem) 65%, Etiqueta 25%, Agarrar 110%, Perspicácia 55%, Saltar 75%, Conhecimento (Mitologia) 85%, Idioma (Antigo) 100%, Idioma (Local) 90%, Ouvir 65%, Navegar 60%, Executar (Harpa) 50%, Persuadir 45%, Cavalgar (Cavalo) 45%, Sentir 70%, Localizar 60%, Status 45%, Furtividade 50%, Estratégia 60%, Nadar 75%, Arremessar 85%
 
-**Poderes:** O semideus tem uma variedade de poderes de origem divina, como os seguintes superpoderes:
+**Poderes**: O semideus tem uma variedade de poderes de origem divina, como os seguintes superpoderes:
 
 - Adaptação (Radiação, Subaquática, Vácuo) 5 cada; Armadura (Cinética) 20; Energia Extra 20 (+200 pontos de energia); Pontos de Vida Extra 30 (+30 PV); Salto 10 (+20 metros para distância de salto); Regeneração 3 (cura 3 PV por rodada de combate); Ajudante (veja abaixo); Supercaracterísticas 50 (STR +20, CON +20, POW +5, CHA +5); Superhabilidades 20 (Brawl +40%, Grapple +40%, Knowledge [Mythology] +40%, Sense +40%, Shield +80%, Strategy +40%, Sword +80%, Throw +40%), Unarmed Combat 5 (+10 brawl damage, -25% para a habilidade de um atacante, Brawl/Grapple skill +25%).
 
-**Pontos fracos:** As falhas de caráter do semideus são:
+**Pontos fracos**: As falhas de caráter do semideus são:
 
 - Incapacidade de viver uma vida normal.
 - Caçado por inimigos dos deuses.
@@ -1286,18 +1286,18 @@ Seja como detetive de polícia, perito forense, detetive particular ou criminolo
 
 | | |
 |---------------------------|-------------------|
-| Movimento:** 10 Pontos de Golpe** 13
-| Modificador de Dano:** +1D4 | **Armadura** Nenhuma |
+| Movimento**: 10 Pontos de Golpe** 13
+| Modificador de Dano**: +1D4 | **Armadura** Nenhuma |
 
-**Ataques:**
+**Ataques**:
 
 - Pistola média 75%, 1D8 (empalamento)
 - Punho 65%, 1D3+dm (esmagamento)
 - Agarrar 50%, especial
 
-**Habilidades:** Avaliação 35%, Barganha 35%, Escalar 55%, Disfarce 35%, Esquiva 40%, Dirigir (Sedan) 55%, Etiqueta 25%, Conversa Rápida 65%, Esconder-se 40%, Percepção 55%, Conhecimento (Lei) 65%, Conhecimento (Região: Local) 55%, Conhecimento (Inteligência de Rua) 50%, Idioma (Local) 75%, Ouvir 45%, Persuadir 45%, Pesquisar 75%, Sentido 50%, Perícia 25%, Localizar 65%, Furtividade 50%, Rastrear 35%
+**Habilidades**: Avaliação 35%, Barganha 35%, Escalar 55%, Disfarce 35%, Esquiva 40%, Dirigir (Sedan) 55%, Etiqueta 25%, Conversa Rápida 65%, Esconder-se 40%, Percepção 55%, Conhecimento (Lei) 65%, Conhecimento (Região: Local) 55%, Conhecimento (Inteligência de Rua) 50%, Idioma (Local) 75%, Ouvir 45%, Persuadir 45%, Pesquisar 75%, Sentido 50%, Perícia 25%, Localizar 65%, Furtividade 50%, Rastrear 35%
 
-**Poderes:** Os detetives raramente têm poderes, embora alguns poucos mágicos ou feiticeiros se tornem detetives.
+**Poderes**: Os detetives raramente têm poderes, embora alguns poucos mágicos ou feiticeiros se tornem detetives.
 
 **Cavaleiro Galáctico
 
@@ -1309,16 +1309,16 @@ Esse paladino viajante do espaço segue uma tradição mística que proporciona 
 
 | | |
 |---------------------------|-------------------|
-| Movimento:** 10 Pontos de Golpe** 15
-| Modificador de Dano:** +1D4 | **Armadura** Nenhuma |
+| Movimento**: 10 Pontos de Golpe** 15
+| Modificador de Dano**: +1D4 | **Armadura** Nenhuma |
 
-**Ataques:**
+**Ataques**:
 
 Energy Sword 150%, 2D10+dm (sangramento) Brawl 80%, 1D3+dm (esmagamento)
 
-**Habilidades:** Escalar 75%, Comandar 50%, Esquivar-se 75%, Esconder-se 45%, Perspicácia 75%, Saltar 65%, Conhecimento (Região: Galáxia) 35%, Idioma (Alienígena) 70%, Idioma (Próprio) 105%, Ouvir 65%, Artes Marciais 80%, Navegar 50%, Persuadir 35%, Piloto (Guerreiro das Estrelas) 65%, Conserto (Mecânico) 55%, Sentido 70%, Localizar 65%, Furtividade 70%, Estratégia 50%, Arremessar 60%.
+**Habilidades**: Escalar 75%, Comandar 50%, Esquivar-se 75%, Esconder-se 45%, Perspicácia 75%, Saltar 65%, Conhecimento (Região: Galáxia) 35%, Idioma (Alienígena) 70%, Idioma (Próprio) 105%, Ouvir 65%, Artes Marciais 80%, Navegar 50%, Persuadir 35%, Piloto (Guerreiro das Estrelas) 65%, Conserto (Mecânico) 55%, Sentido 70%, Localizar 65%, Furtividade 70%, Estratégia 50%, Arremessar 60%.
 
-**Poderes:** O cavaleiro galáctico é hábil em uma tradição mística que fornece várias habilidades psíquicas, entre elas Sentido de Perigo 60%, Empatia 55%, Controle Mental 35%, Precognição 40%, Telecinesia 45% e Telepatia 50%.
+**Poderes**: O cavaleiro galáctico é hábil em uma tradição mística que fornece várias habilidades psíquicas, entre elas Sentido de Perigo 60%, Empatia 55%, Controle Mental 35%, Precognição 40%, Telecinesia 45% e Telepatia 50%.
 
 **Pistoleiro**
 
@@ -1331,9 +1331,9 @@ O pistoleiro ganha a vida matando pessoas, especializando-se em combate rápido 
 | | |
 |---------------------------|--------------------------------|
 | Movimento: 10 Pontos de Golpe: 15
-| Modificador de Dano:** +1D4 | **Armadura** Roupa pesada de 1 pt.
+| Modificador de Dano**: +1D4 | **Armadura** Roupa pesada de 1 pt.
 
-**Ataques:**
+**Ataques**:
 
 - Revólver médio 95%, 1D8 (empalamento)
 - Rifle esportivo 85%, 2D6 (empalamento)
@@ -1341,9 +1341,9 @@ O pistoleiro ganha a vida matando pessoas, especializando-se em combate rápido 
 - Faca 75%, 1D4+2+dm (empalamento)
 - Punho 75%, 1D3+dm (esmagamento)
 
-**Habilidades:** Brigar 75%, Escalar 60%, Demolir 30%, Esquivar-se 60%, Primeiros Socorros 40%, Jogar 65%, Lutar 50%, Perspicácia 65%, Conhecimento (Região: Local) 65%, Idioma (Próprio) 70%, Ouvir 65%, Cavalgar 75%, Sentido 50%, Perícia 35%, Localizar 75%, Furtividade 50%, Arremessar 55%, Rastrear 40%.
+**Habilidades**: Brigar 75%, Escalar 60%, Demolir 30%, Esquivar-se 60%, Primeiros Socorros 40%, Jogar 65%, Lutar 50%, Perspicácia 65%, Conhecimento (Região: Local) 65%, Idioma (Próprio) 70%, Ouvir 65%, Cavalgar 75%, Sentido 50%, Perícia 35%, Localizar 75%, Furtividade 50%, Arremessar 55%, Rastrear 40%.
 
-**Poderes:** Os pistoleiros raramente têm poderes.
+**Poderes**: Os pistoleiros raramente têm poderes.
 
 **Cavaleiro
 
@@ -1356,9 +1356,9 @@ Guerreiro montado e com armadura, hábil no manejo de espadas, em justas e na et
 | | |
 |---------------------------|---------------------------------------|
 | Movimento: 10 Pontos de Golpe: 15
-| Modificador de Dano:** +1D4 | **Armadura** Placa de 10 pt. e elmo pesado |
+| Modificador de Dano**: +1D4 | **Armadura** Placa de 10 pt. e elmo pesado |
 
-**Ataques:**
+**Ataques**:
 
 - Espada longa 75%, 1D8+dm (sangramento)
 - Escudo de pipa 65%, 1D4+dm (repulsão)
@@ -1369,9 +1369,9 @@ Guerreiro montado e com armadura, hábil no manejo de espadas, em justas e na et
 - Manopla blindada 50%, 1D3+1+dm (esmagamento)
 - As lanças de torneio causam dano por esmagamento.
 
-**Habilidades:** Comando 45%, Esquiva 50%, Etiqueta 65%, Conhecimento (Heráldica) 50%, Idioma (Outro) 35%, Idioma (Próprio) 60%, Ouvir 45%, Cavalgar (Cavalo) 75%, Sentido 20%, Localizar 45%, Status 60%, Estratégia 30%.
+**Habilidades**: Comando 45%, Esquiva 50%, Etiqueta 65%, Conhecimento (Heráldica) 50%, Idioma (Outro) 35%, Idioma (Próprio) 60%, Ouvir 45%, Cavalgar (Cavalo) 75%, Sentido 20%, Localizar 45%, Status 60%, Estratégia 30%.
 
-**Poderes:** Os cavaleiros geralmente não têm poderes, embora alguns raros conheçam magia. No entanto, um cavaleiro pode ter acesso a um artefato mágico, seja uma arma abençoada, uma relíquia sagrada ou uma armadura com alguma virtude. Há rumores de que os elfos têm suas próprias ordens de cavalaria, e esses cavaleiros naturalmente usariam magia livremente. Cavaleiros malignos que juraram lealdade a poderes sombrios podem usar feitiçaria.
+**Poderes**: Os cavaleiros geralmente não têm poderes, embora alguns raros conheçam magia. No entanto, um cavaleiro pode ter acesso a um artefato mágico, seja uma arma abençoada, uma relíquia sagrada ou uma armadura com alguma virtude. Há rumores de que os elfos têm suas próprias ordens de cavalaria, e esses cavaleiros naturalmente usariam magia livremente. Cavaleiros malignos que juraram lealdade a poderes sombrios podem usar feitiçaria.
 
 **Maníaco
 
@@ -1383,10 +1383,10 @@ Uma pessoa aparentemente normal que se tornou violenta e homicidamente insana, o
 
 | | |
 |---------------------------|-------------------|
-| Movimento:** 10 Pontos de Golpe** 14
-| Modificador de Dano:** +1D4 | **Armadura** Nenhuma |
+| Movimento**: 10 Pontos de Golpe** 14
+| Modificador de Dano**: +1D4 | **Armadura** Nenhuma |
 
-**Ataques:**
+**Ataques**:
 
 - Faca de açougueiro 75%, 1D6+dm (empalamento)
 - Machado de madeira 75%, 1D8+2+dm (sangramento)
@@ -1395,9 +1395,9 @@ Uma pessoa aparentemente normal que se tornou violenta e homicidamente insana, o
 - Machete 65%, 1D6+dm (sangramento)
 - Agarrar 75%, especial
 
-**Habilidades:** Brigar 75%, Esquivar-se 50%, Dirigir (Van) 65%, Esconder-se 60%, Idioma (próprio) 60%, Ouvir 45%, Sentir 40%, Localizar 65%, Furtividade 80%, Arremessar 50%, Rastrear 40%
+**Habilidades**: Brigar 75%, Esquivar-se 50%, Dirigir (Van) 65%, Esconder-se 60%, Idioma (próprio) 60%, Ouvir 45%, Sentir 40%, Localizar 65%, Furtividade 80%, Arremessar 50%, Rastrear 40%
 
-**Poderes:** A maioria dos maníacos não tem nenhum poder, embora alguns possuam resistência e resiliência excepcionais. Esses poderes geralmente são causados por uma mutação de algum tipo, e as mutações apropriadas incluem Hardy, Increased Characteristic, Regeneration ou até mesmo Natural Weapon (dentes).
+**Poderes**: A maioria dos maníacos não tem nenhum poder, embora alguns possuam resistência e resiliência excepcionais. Esses poderes geralmente são causados por uma mutação de algum tipo, e as mutações apropriadas incluem Hardy, Increased Characteristic, Regeneration ou até mesmo Natural Weapon (dentes).
 
 **Mutante**
 
@@ -1412,13 +1412,13 @@ Essa alma desafortunada sofreu mutação por exposição a algum agente radioati
 | Movimento: 10 Pontos de Golpe: 11
 | Modificador de dano: +1D4 Armadura: botões ósseos de 7 pontos na pele
 
-**Ataques:**
+**Ataques**:
 
 - Brawl 55%, 1D3+1D6+dm (esmagamento)
 
-**Habilidades:** Disfarce 25%, Esquiva 40%, Dirigir (Dune Buggy) 40%, Conversa Rápida 25%, Primeiros Socorros 40%, Esconder-se 40%, Idioma (próprio) 55%, Ouvir 35%, Sentir 25%, Localizar 30%, Furtividade 25%, Rastrear 25%.
+**Habilidades**: Disfarce 25%, Esquiva 40%, Dirigir (Dune Buggy) 40%, Conversa Rápida 25%, Primeiros Socorros 40%, Esconder-se 40%, Idioma (próprio) 55%, Ouvir 35%, Sentir 25%, Localizar 30%, Furtividade 25%, Rastrear 25%.
 
-**Poderes:** Esse mutante desenvolveu as seguintes mutações: Doença congênita (hemofilia, CON -5), Característica aumentada (STR +6), Armamento natural (botões ósseos nas mãos, +1D6 de dano), Sensibilidade (sangue), Melhoria estrutural (botões ósseos na pele, +7 pontos de armadura natural).
+**Poderes**: Esse mutante desenvolveu as seguintes mutações: Doença congênita (hemofilia, CON -5), Característica aumentada (STR +6), Armamento natural (botões ósseos nas mãos, +1D6 de dano), Sensibilidade (sangue), Melhoria estrutural (botões ósseos na pele, +7 pontos de armadura natural).
 
 **Ninja**
 
@@ -1431,9 +1431,9 @@ O ninja é um temido assassino sombrio da antiguidade e até mesmo do mundo mode
 | | |
 |---------------------------|-------------------------------------------|
 | Movimento: 10 Pontos de Golpe: 12
-| Modificador de Dano:** Nenhum | **Armadura** Nenhuma, ou cota de malha leve de 2 pt.
+| Modificador de Dano**: Nenhum | **Armadura** Nenhuma, ou cota de malha leve de 2 pt.
 
-**Ataques:**
+**Ataques**:
 
 - Katana 65%, 1D10+1+dm (sangramento)
 - Adaga 65%, 1D4+2+dm (empalamento)
@@ -1444,9 +1444,9 @@ O ninja é um temido assassino sombrio da antiguidade e até mesmo do mundo mode
 
 Os zarabatanas de um ninja geralmente são cobertos por um veneno paralisante de POT 15 (consulte **Poisons**).
 
-**Habilidades:** Escalar 80%, Disfarçar 55%, Esquivar-se 65%, Manipulação Fina 45%, Esconder-se 70%, Saltar 65%, Linguagem (própria) 70%, Ouvir 65%, Artes Marciais 35%, Sentido 50%, Perícia 55%, Localizar 55%, Furtividade 75%, Nadar 55%, Arremessar 50%, Rastrear 35%.
+**Habilidades**: Escalar 80%, Disfarçar 55%, Esquivar-se 65%, Manipulação Fina 45%, Esconder-se 70%, Saltar 65%, Linguagem (própria) 70%, Ouvir 65%, Artes Marciais 35%, Sentido 50%, Perícia 55%, Localizar 55%, Furtividade 75%, Nadar 55%, Arremessar 50%, Rastrear 35%.
 
-**Poderes:** Em geral, os ninjas não têm poderes, embora, nos cenários em que os têm, eles possam ter feitiçaria ou superpoderes que se aproximam de artes marciais extraordinárias.
+**Poderes**: Em geral, os ninjas não têm poderes, embora, nos cenários em que os têm, eles possam ter feitiçaria ou superpoderes que se aproximam de artes marciais extraordinárias.
 
 **Pirata
 
@@ -1458,10 +1458,10 @@ Um predador colorido do alto mar, o pirata é um bandido do oceano, variando de 
 
 | | |
 |---------------------------|-------------------|
-| Movimento:** 10 Pontos de Golpe** 14
-| Modificador de Dano:** +1D4 | **Armadura** Nenhuma |
+| Movimento**: 10 Pontos de Golpe** 14
+| Modificador de Dano**: +1D4 | **Armadura** Nenhuma |
 
-**Ataques:**
+**Ataques**:
 
 - Cutelo (sabre) 55%, 1D8+1+dm (sangramento)
 - Faca 45%, 1D4+2+dm (empalamento)
@@ -1469,9 +1469,9 @@ Um predador colorido do alto mar, o pirata é um bandido do oceano, variando de 
 - Mosquete 40%, 1D10+4 (empalamento)
 - Punho 50%, 1D3+dm (esmagamento)
 
-**Habilidades:** Artilharia 30%, Brigar 50%, Escalar 80%, Artesanato (Carpintaria) 55%, Esquiva 40%, Manipulação Fina 45%, Jogos 35%, Agarrar 50%, Saltar 45%, Conhecimento (Região: Local) 40%, Idioma (Local) 40%, Idioma (Próprio) 55%, Ouvir 45%, Navegar 50%, Atuar (Cantar no Mar) 45%, Pilotar (Navio) 35%, Sentido 30%, Perícia 35%, Localizar 50%, Nadar 45%, Arremessar 50%.
+**Habilidades**: Artilharia 30%, Brigar 50%, Escalar 80%, Artesanato (Carpintaria) 55%, Esquiva 40%, Manipulação Fina 45%, Jogos 35%, Agarrar 50%, Saltar 45%, Conhecimento (Região: Local) 40%, Idioma (Local) 40%, Idioma (Próprio) 55%, Ouvir 45%, Navegar 50%, Atuar (Cantar no Mar) 45%, Pilotar (Navio) 35%, Sentido 30%, Perícia 35%, Localizar 50%, Nadar 45%, Arremessar 50%.
 
-**Poderes:** Na maioria dos cenários, os piratas não têm poderes. Alguns chefes piratas, no entanto, fazem pactos com a escuridão e aprendem feitiçaria se seu POW for alto o suficiente para se qualificar. Os feitiços apropriados são Bird's Vision (1), Breath of Life (1), Rat's Vision (1), Sorcerer's Razor (2), Sorcerer's Sureness (2) e Wings of the Sky (4).
+**Poderes**: Na maioria dos cenários, os piratas não têm poderes. Alguns chefes piratas, no entanto, fazem pactos com a escuridão e aprendem feitiçaria se seu POW for alto o suficiente para se qualificar. Os feitiços apropriados são Bird's Vision (1), Breath of Life (1), Rat's Vision (1), Sorcerer's Razor (2), Sorcerer's Sureness (2) e Wings of the Sky (4).
 
 **Policial
 
@@ -1484,9 +1484,9 @@ Trata-se de um policial de qualquer país moderno. Treinado em uma ampla varieda
 | | |
 |---------------------------|--------------------------------------------------------------------------------|
 | Movimento: 10 Pontos de Golpe: 14
-| Modificador de Dano:** +1D4 | **Armadura** Colete à prova de balas de 8 pontos (4 pontos contra armas brancas) ou equipamento antimotim de 12 pontos
+| Modificador de Dano**: +1D4 | **Armadura** Colete à prova de balas de 8 pontos (4 pontos contra armas brancas) ou equipamento antimotim de 12 pontos
 
-**Ataques:**
+**Ataques**:
 
 - Pistola média 70%, 1D8 (empalamento)
 - Espingarda 50%, 4D6/2D6/1D6 (empalamento)
@@ -1495,9 +1495,9 @@ Trata-se de um policial de qualquer país moderno. Treinado em uma ampla varieda
 - Taser 65%, especial (consulte Atordoar ou subjugar)
 - Grapple 65%, especial
 
-**Habilidades:** Brigar 65%, Esquivar-se 40%, Dirigir (Carro de Polícia) 55%, Perspicácia 35%, Conhecimento (Direito) 50%, Idioma (Espanhol) 30%, Idioma (Inglês) 80%, Ouvir 50%, Persuadir 50%, Montar (Cavalo) 45%, Sentir 30%, Localizar 45%, Furtividade 30%, Arremessar 45%.
+**Habilidades**: Brigar 65%, Esquivar-se 40%, Dirigir (Carro de Polícia) 55%, Perspicácia 35%, Conhecimento (Direito) 50%, Idioma (Espanhol) 30%, Idioma (Inglês) 80%, Ouvir 50%, Persuadir 50%, Montar (Cavalo) 45%, Sentir 30%, Localizar 45%, Furtividade 30%, Arremessar 45%.
 
-**Poderes:** Os policiais raramente têm poderes.
+**Poderes**: Os policiais raramente têm poderes.
 
 **Sacerdote
 
@@ -1510,18 +1510,18 @@ O sacerdote é um devoto adorador de sua divindade padroeira, que deixou a segur
 | | |
 |---------------------------|----------------------------------------|
 | Movimento: 10 Pontos de Golpe: 14
-| Modificador de Dano:** +1D4 | **Armadura** Corrente de 8 pontas e capacete leve |
+| Modificador de Dano**: +1D4 | **Armadura** Corrente de 8 pontas e capacete leve |
 
-**Ataques:**
+**Ataques**:
 
 - Morningstar Flail 50%, 1D10+1+dm (esmagamento)
 - Full Shield 45%, 1D4+dm (repulsão)
 - Sling 40%, 1D8+½dm (esmagamento)
 - Chute 40%, 1D3+dm (esmagamento)
 
-**Habilidades:** Arte (Manuscritos Iluminados) 35%, Comando 25%, Ofício (Confecção de Livros) 35%, Esquiva 40%, Primeiros Socorros 45%, Percepção 35%, Conhecimento (Religião) 70%, Linguagem (Própria) 70%, Ouvir 45%, Alfabetização (Comum) 70%, Execução (Hinos) 35%, Persuadir 45%, Cavalgar (Cavalo) 35%, Localizar 40%, Status 35%, Ensinar 30%
+**Habilidades**: Arte (Manuscritos Iluminados) 35%, Comando 25%, Ofício (Confecção de Livros) 35%, Esquiva 40%, Primeiros Socorros 45%, Percepção 35%, Conhecimento (Religião) 70%, Linguagem (Própria) 70%, Ouvir 45%, Alfabetização (Comum) 70%, Execução (Hinos) 35%, Persuadir 45%, Cavalgar (Cavalo) 35%, Localizar 40%, Status 35%, Ensinar 30%
 
-**Poderes:** O sacerdote tem habilidades psíquicas concedidas por sua divindade: Adivinhação, Escudo Mental, Precognição e Sensibilidade, todas com o POWx1% do sacerdote. Além disso, o sacerdote tem uma fidelidade de pelo menos 50 à sua divindade patronal, com todos os benefícios que isso possa acarretar. Consulte Fidelidade.
+**Poderes**: O sacerdote tem habilidades psíquicas concedidas por sua divindade: Adivinhação, Escudo Mental, Precognição e Sensibilidade, todas com o POWx1% do sacerdote. Além disso, o sacerdote tem uma fidelidade de pelo menos 50 à sua divindade patronal, com todos os benefícios que isso possa acarretar. Consulte Fidelidade.
 
 **Psíquico**
 
@@ -1533,15 +1533,15 @@ Nascido com um dom específico, os poderes do vidente se desenvolveram durante a
 
 | | |
 |---------------------------|-------------------|
-| Movimento:** 10 Pontos de Golpe** 14
-| Modificador de Dano:** +1D4 | **Armadura** Nenhuma |
+| Movimento**: 10 Pontos de Golpe** 14
+| Modificador de Dano**: +1D4 | **Armadura** Nenhuma |
 
-- Ataques:**
+- Ataques**:
 - Punho: 35%, 1D3+dm (esmagamento)
 
-**Habilidades:** Arte (Pintura) 35%, Pechinchar 35%, Esquivar-se 40%, Dirigir (Automóvel) 30%, Conversa Rápida 35%, Percepção 50%, Conhecimento (História da Arte) 45%, Idioma (Próprio) 90%, Ouvir 35%, Pesquisar 65%, Sentir 35%, Localizar 40%, Status 35%, Furtividade 30%.
+**Habilidades**: Arte (Pintura) 35%, Pechinchar 35%, Esquivar-se 40%, Dirigir (Automóvel) 30%, Conversa Rápida 35%, Percepção 50%, Conhecimento (História da Arte) 45%, Idioma (Próprio) 90%, Ouvir 35%, Pesquisar 65%, Sentir 35%, Localizar 40%, Status 35%, Furtividade 30%.
 
-**Poderes:** As habilidades psíquicas Detecção de Aura 35%, Precognição 25% e Psicometria 50%.
+**Poderes**: As habilidades psíquicas Detecção de Aura 35%, Precognição 25% e Psicometria 50%.
 
 **Soldado
 
@@ -1554,17 +1554,17 @@ O soldado é treinado nos princípios modernos de guerra, utilizando armamentos 
 | | |
 |---------------------------|---------------------------------------------------------------------------------|
 | Movimento: 10 Pontos de Golpe: 15
-| Modificador de Dano:** +1D4 | **Armadura** Colete à prova de balas de 8 pontos (4 pontos contra armas brancas) + capacete leve de 3 pontos
+| Modificador de Dano**: +1D4 | **Armadura** Colete à prova de balas de 8 pontos (4 pontos contra armas brancas) + capacete leve de 3 pontos
 
-**Ataques:**
+**Ataques**:
 
 - Rifle de assalto 65%, 2D6+2 (empalamento)
 - Faca de combate (adaga) 50%, 1D4+2+dm (empalamento)
 - Granada (Explosiva) 40%, 4D6 (repulsão)
 
-**Habilidades:** Artilharia 30%, Brigar 45%, Escalar 50%, Comandar 25%, Esquivar-se 40%, Dirigir (Humvee) 45%, Primeiros Socorros 40%, Agarrar 50%, Esconder-se 35%, Saltar 35%, Idioma (próprio) 65%, Ouvir 45%, Localizar 45%, Furtividade 40%, Estratégia 20%, Arremessar 40%
+**Habilidades**: Artilharia 30%, Brigar 45%, Escalar 50%, Comandar 25%, Esquivar-se 40%, Dirigir (Humvee) 45%, Primeiros Socorros 40%, Agarrar 50%, Esconder-se 35%, Saltar 35%, Idioma (próprio) 65%, Ouvir 45%, Localizar 45%, Furtividade 40%, Estratégia 20%, Arremessar 40%
 
-**Poderes:** Os soldados raramente, ou nunca, têm poderes.
+**Poderes**: Os soldados raramente, ou nunca, têm poderes.
 
 **Feiticeiro
 
@@ -1577,15 +1577,15 @@ Escolhido desde a juventude e aprendiz nas artes místicas, o feiticeiro lida co
 | | |
 |---------------------------|-------------------------------------------|
 | Movimento: 10 Pontos de Golpe: 13
-| Modificador de Dano:** Nenhum ** Armadura** Nenhuma, ou Armadura de Feiticeiro de 4 pontos
+| Modificador de Dano**: Nenhum ** Armadura** Nenhuma, ou Armadura de Feiticeiro de 4 pontos
 
-**Ataques:**
+**Ataques**:
 
 - Adaga 35%, 1D4+2+dm (empalamento)
 
-**Habilidades:** Avaliar 35%, Esquivar-se 40%, Etiqueta 35%, Conversa Rápida 45%, Esconder-se 30%, Percepção 35%, Conhecimento (Conhecimento Acadêmico) 50%, Conhecimento (Conhecimento Blasfemo) 20%, Conhecimento (Oculto) 70%, Linguagem (Demoníaca) 50%, Linguagem (Própria) 85%, Ouvir 35%, Persuadir 45%, Pesquisar 75%, Cavalgar 35%, Sentido 35%, Perícia 35%, Localizar 55%.
+**Habilidades**: Avaliar 35%, Esquivar-se 40%, Etiqueta 35%, Conversa Rápida 45%, Esconder-se 30%, Percepção 35%, Conhecimento (Conhecimento Acadêmico) 50%, Conhecimento (Conhecimento Blasfemo) 20%, Conhecimento (Oculto) 70%, Linguagem (Demoníaca) 50%, Linguagem (Própria) 85%, Ouvir 35%, Persuadir 45%, Pesquisar 75%, Cavalgar 35%, Sentido 35%, Perícia 35%, Localizar 55%.
 
-**Poderes:** Esses feitiços de feitiçaria estão na memória: Maldição de Feitiçaria (4), Armadura de Feitiçaria (4), Chama Afiada do Feiticeiro (3), Invocar Demônio (1), Desfazer Feitiçaria (2), Curar (2), Visão de Bruxa (3).
+**Poderes**: Esses feitiços de feitiçaria estão na memória: Maldição de Feitiçaria (4), Armadura de Feitiçaria (4), Chama Afiada do Feiticeiro (3), Invocar Demônio (1), Desfazer Feitiçaria (2), Curar (2), Visão de Bruxa (3).
 
 **Espionagem
 
@@ -1598,9 +1598,9 @@ Um agente secreto que trabalha clandestinamente para uma agência governamental,
 | | |
 |---------------------------|------------------------------------------------------------------|
 | Movimento: 10 Pontos de Golpe: 14
-| Modificador de Dano:** +1D4 | **Armadura** Smoking de tecido balístico de 5 pontos (3 pontos contra armas brancas)
+| Modificador de Dano**: +1D4 | **Armadura** Smoking de tecido balístico de 5 pontos (3 pontos contra armas brancas)
 
-**Ataques:**
+**Ataques**:
 
 - Pistola leve 75%, 1D6 (empalamento)
 - Rifle de Sniper 75%, 2D10+4 (empalamento)
@@ -1608,9 +1608,9 @@ Um agente secreto que trabalha clandestinamente para uma agência governamental,
 - Punho 80%, 1D3+dm (esmagamento)
 - Chute 65%, 1D3+dm (esmagamento)
 
-**Habilidades:** Avaliar 45%, Brigar 65%, Escalar 60%, Demolição 40%, Disfarce 60%, Esquivar-se 50%, Dirigir (Carro Esportivo) 85%, Etiqueta 65%, Conversa Rápida 75%, Manipulação Fina 75%, Primeiros Socorros 55%, Jogos 65%, Agarrar 65%, Esconder-se 75%, Perspicácia 65%, Saltar 50%, Conhecimento (Espionagem) 75%, Linguagem (própria) 90%, Linguagem (outra) 70%, Ouvir 65%, Artes marciais 45%, Persuadir 55%, Piloto (barco) 65%, Piloto (helicóptero) 45%, Pesquisar 45%, Cavalgar 45%, Sentido 60%, Perícia 55%, Localizar 65%, Furtividade 70%, Estratégia 50%, Nadar 65%, Arremessar 65%, Rastrear 35%.
+**Habilidades**: Avaliar 45%, Brigar 65%, Escalar 60%, Demolição 40%, Disfarce 60%, Esquivar-se 50%, Dirigir (Carro Esportivo) 85%, Etiqueta 65%, Conversa Rápida 75%, Manipulação Fina 75%, Primeiros Socorros 55%, Jogos 65%, Agarrar 65%, Esconder-se 75%, Perspicácia 65%, Saltar 50%, Conhecimento (Espionagem) 75%, Linguagem (própria) 90%, Linguagem (outra) 70%, Ouvir 65%, Artes marciais 45%, Persuadir 55%, Piloto (barco) 65%, Piloto (helicóptero) 45%, Pesquisar 45%, Cavalgar 45%, Sentido 60%, Perícia 55%, Localizar 65%, Furtividade 70%, Estratégia 50%, Nadar 65%, Arremessar 65%, Rastrear 35%.
 
-**Poderes:** Os espiões raramente, ou nunca, têm poderes.
+**Poderes**: Os espiões raramente, ou nunca, têm poderes.
 
 **Super-herói
 
@@ -1624,19 +1624,19 @@ Esse exemplo de super-herói é Stormcloud, um herói impetuoso (e inexperiente)
 
 | | |
 |---------------------------|---------------------------------------------|
-| Movimento:** 10 (62 voando) Pontos de Golpe** 16
-| Modificador de dano:** +1D6 Armadura** Armadura de 12 pontos (cinética, radiação)
+| Movimento**: 10 (62 voando) Pontos de Golpe** 16
+| Modificador de dano**: +1D6 Armadura** Armadura de 12 pontos (cinética, radiação)
 
-**Ataques:**
+**Ataques**:
 
 - Raio 45%, 6D6 (elétrico)
 - Brawl 50%, 1D3+dm (esmagamento)
 
-**Habilidades:** Arte (Fotografia) 70%, Brigar 50%, Esquivar-se 50%, Dirigir (Carro) 35%, Voar 80%, Agarrar 35%, Conhecimento (Região: Local) 35%, Idioma (outro) 00%, Idioma (Próprio) 85%, Apresentar (Notícias) 50%, Pesquisar 45%, Ciência (Meteorologia) 25%, Status 25%, Habilidade Técnica (Usar Computador) 35%.
+**Habilidades**: Arte (Fotografia) 70%, Brigar 50%, Esquivar-se 50%, Dirigir (Carro) 35%, Voar 80%, Agarrar 35%, Conhecimento (Região: Local) 35%, Idioma (outro) 00%, Idioma (Próprio) 85%, Apresentar (Notícias) 50%, Pesquisar 45%, Ciência (Meteorologia) 25%, Status 25%, Habilidade Técnica (Usar Computador) 35%.
 
-**Poderes:** Stormcloud tem os seguintes superpoderes: Absorção (Elétrica) 18; Armadura (Cinética, Radiação) 12 cada; Projeção de Energia (Elétrica) 6; Energia Extra 15 (+150 pontos de poder); Voo 10; e Super Características 30 (STR +14, CON +8, DEX +8).
+**Poderes**: Stormcloud tem os seguintes superpoderes: Absorção (Elétrica) 18; Armadura (Cinética, Radiação) 12 cada; Projeção de Energia (Elétrica) 6; Energia Extra 15 (+150 pontos de poder); Voo 10; e Super Características 30 (STR +14, CON +8, DEX +8).
 
-**Fraquezas:** A falha de caráter de Stormcloud é uma fraqueza à água, perdendo -2D6 pontos de energia a cada rodada molhada ou submersa.
+**Fraquezas**: A falha de caráter de Stormcloud é uma fraqueza à água, perdendo -2D6 pontos de energia a cada rodada molhada ou submersa.
 
 **Supervilão
 
@@ -1650,19 +1650,19 @@ Esse supervilão de amostra é o Doutor Dread, um ex-engenheiro do setor de defe
 
 | | |
 |---------------------------|-------------------------------------------------------------------------------------|
-| Movimento:** 10 (62 voando) Pontos de Golpe** 14
-| Modificador de dano:** Nenhum ** Armadura** Armadura de 4 pontos (cinética) + Campo de força de 20 pontos (elétrico, cinético, radiação)
+| Movimento**: 10 (62 voando) Pontos de Golpe** 14
+| Modificador de dano**: Nenhum ** Armadura** Armadura de 4 pontos (cinética) + Campo de força de 20 pontos (elétrico, cinético, radiação)
 
-**Ataques:**
+**Ataques**:
 
 - Projetor de calor 70%, 6D6 (fogo)
 - Brawl 50%, 1D3+dm (esmagamento)
 
-**Habilidades:** Comando 35%, Esquiva 40%, Dirigir (Van) 55%, Manipulação fina 65%, Pular 65%, Linguagem (própria) 125%, Ouvir 45%, Reparo (eletrônico) 85%, Reparo (quântico) 75%, Pesquisa 85%, Ciência (física) 95%, Localizar 50%, Habilidade técnica (usar computador) 95%.
+**Habilidades**: Comando 35%, Esquiva 40%, Dirigir (Van) 55%, Manipulação fina 65%, Pular 65%, Linguagem (própria) 125%, Ouvir 45%, Reparo (eletrônico) 85%, Reparo (quântico) 75%, Pesquisa 85%, Ciência (física) 95%, Localizar 50%, Habilidade técnica (usar computador) 95%.
 
-**Poderes:** A armadura do Dr. Dread oferece os seguintes superpoderes: Armadura (cinética) 4; Projeção de energia (calor) 6; Energia extra 15 (+150 pontos de energia); Voo 3; Campo de força (elétrico, cinético, radiação) 20 cada; Salto 10 (+20 metros para distância de salto); Super sentido (infravisão, audição ultrassônica) 1 cada.
+**Poderes**: A armadura do Dr. Dread oferece os seguintes superpoderes: Armadura (cinética) 4; Projeção de energia (calor) 6; Energia extra 15 (+150 pontos de energia); Voo 3; Campo de força (elétrico, cinético, radiação) 20 cada; Salto 10 (+20 metros para distância de salto); Super sentido (infravisão, audição ultrassônica) 1 cada.
 
-**Pontos fracos:** As falhas de caráter do Dr. Dread são: supervilão em tempo integral; fisicamente distinto (feio); falhas psicológicas (sanguinário, arrogante); identidade de supervilão ligada à armadura e não em tempo integral; a armadura pode ser desligada ou removida.
+**Pontos fracos**: As falhas de caráter do Dr. Dread são: supervilão em tempo integral; fisicamente distinto (feio); falhas psicológicas (sanguinário, arrogante); identidade de supervilão ligada à armadura e não em tempo integral; a armadura pode ser desligada ou removida.
 
 **Bandido
 
@@ -1675,9 +1675,9 @@ Um capanga de aluguel, geralmente trabalhando para um grupo criminoso ou, às ve
 | | |
 |---------------------------|--------------------------------|
 | Movimento: 10 Pontos de Golpe: 15
-| Modificador de Dano:** +1D4 | **Armadura** Jaqueta de couro de 1 pt.
+| Modificador de Dano**: +1D4 | **Armadura** Jaqueta de couro de 1 pt.
 
-**Ataques:**
+**Ataques**:
 
 - Pistola pesada 50%, 1D10+2 (empalamento)
 - Canivete 50%, 1D4+dm (empalamento)
@@ -1685,9 +1685,9 @@ Um capanga de aluguel, geralmente trabalhando para um grupo criminoso ou, às ve
 - Punho 50%, 1D3+dm (esmagamento)
 - Cabeçada 35%, 1D3+dm (esmagamento)
 
-**Habilidades:** Demolição 20%, Esquivar-se 35%, Dirigir (caminhão) 50%, Jogar 30%, Lutar 50%, Esconder-se 25%, Percepção 25%, Conhecimento (região: cidade natal) 35%, Idioma (próprio) 50%, Ouvir 35%, Persuadir 35%, Sentido 30%, Perícia 25%, Localizar 35%, Furtividade 25%, Arremessar 35%.
+**Habilidades**: Demolição 20%, Esquivar-se 35%, Dirigir (caminhão) 50%, Jogar 30%, Lutar 50%, Esconder-se 25%, Percepção 25%, Conhecimento (região: cidade natal) 35%, Idioma (próprio) 50%, Ouvir 35%, Persuadir 35%, Sentido 30%, Perícia 25%, Localizar 35%, Furtividade 25%, Arremessar 35%.
 
-**Poderes:** Os bandidos nunca têm poderes. Se tivessem, estariam se saindo melhor.
+**Poderes**: Os bandidos nunca têm poderes. Se tivessem, estariam se saindo melhor.
 
 **Guerreiro tribal
 
@@ -1700,9 +1700,9 @@ O guerreiro tribal é encontrado em qualquer área onde a civilização não ten
 | | |
 |---------------------------|----------------------------|
 | Movimento: 10 Pontos de Golpe: 15
-| Modificador de dano:** +1D4 | Armadura** Armadura de couro de 1 pt.
+| Modificador de dano**: +1D4 | Armadura** Armadura de couro de 1 pt.
 
-**Ataques:**
+**Ataques**:
 
 - Lança curta 65%, 1D6+1+dm (empalamento)
 - Lança curta (arremessada) 75%, 1D6+1+½dm (empalamento)
@@ -1716,9 +1716,9 @@ O guerreiro tribal é encontrado em qualquer área onde a civilização não ten
 
 Alguns guerreiros tribais adotam o uso de armas capturadas de homens civilizados, enquanto outros as evitam.
 
-**Habilidades:** Escalar 75%, Esquivar-se 40%, Esconder-se 45%, Saltar 45%, Linguagem (própria) 60%, Ouvir 55%, Sentir 60%, Localizar 65%, Furtividade 60%, Nadar 55%, Arremessar 65%, Rastrear 70%.
+**Habilidades**: Escalar 75%, Esquivar-se 40%, Esconder-se 45%, Saltar 45%, Linguagem (própria) 60%, Ouvir 55%, Sentir 60%, Localizar 65%, Furtividade 60%, Nadar 55%, Arremessar 65%, Rastrear 70%.
 
-**Poderes:** Os guerreiros tribais raramente têm poderes. Entretanto, as tribos geralmente são aliadas de um xamã ou sábio que pode ter poderes. Esses poderes geralmente são habilidades psíquicas ou feitiços mágicos, às vezes feitiçaria.
+**Poderes**: Os guerreiros tribais raramente têm poderes. Entretanto, as tribos geralmente são aliadas de um xamã ou sábio que pode ter poderes. Esses poderes geralmente são habilidades psíquicas ou feitiços mágicos, às vezes feitiçaria.
 
 **Viking
 
@@ -1731,9 +1731,9 @@ Os vikings são guerreiros do norte que realizam longas viagens marítimas para 
 | | |
 |---------------------------|----------------------------------------|
 | Movimentação: 10 Pontos de Golpe: 15
-| Modificador de Dano:** +1D4 | **Armadura** Escama de 7 pt. e capacete leve |
+| Modificador de Dano**: +1D4 | **Armadura** Escama de 7 pt. e capacete leve |
 
-**Ataques:**
+**Ataques**:
 
 - Espada Larga 65%, 1D8+1+dm (sangramento)
 - Machado de mão 55%, 1D6+1+dm (sangramento)
@@ -1742,9 +1742,9 @@ Os vikings são guerreiros do norte que realizam longas viagens marítimas para 
 - Large Round Shield (escudo redondo grande) 50%, 1D4+dm (knockback)
 - Brawl 55%, 1D3+dm (esmagamento)
 
-**Habilidades:** Avaliar 45%, Pechinchar 35%, Brigar 25%, Artesanato (tipo) 05%, Esquivar-se 40%, Jogar 40%, Agarrar 35%, Perspicácia 15%, Saltar 25%, Idioma (próprio) 55%, Ouvir 40%, Navegar 35%, Pilotar (navio) 25%, Cavalgar (tipo) 05%, Localizar 35%, Status 25%.
+**Habilidades**: Avaliar 45%, Pechinchar 35%, Brigar 25%, Artesanato (tipo) 05%, Esquivar-se 40%, Jogar 40%, Agarrar 35%, Perspicácia 15%, Saltar 25%, Idioma (próprio) 55%, Ouvir 40%, Navegar 35%, Pilotar (navio) 25%, Cavalgar (tipo) 05%, Localizar 35%, Status 25%.
 
-**Poderes:** Os vikings raramente têm poderes. Alguns feiticeiros usam uma variedade de tipos de magia, desde magia de runas, mudança de forma ou feitiçaria. Dependendo do cenário, um viking rico ou favorecido pode ter armas, armaduras ou outros artefatos mágicos.
+**Poderes**: Os vikings raramente têm poderes. Alguns feiticeiros usam uma variedade de tipos de magia, desde magia de runas, mudança de forma ou feitiçaria. Dependendo do cenário, um viking rico ou favorecido pode ter armas, armaduras ou outros artefatos mágicos.
 
 **Personalização de criaturas e personagens não-jogadores**
 
@@ -1806,17 +1806,17 @@ Os locais de acerto permitem um grande detalhamento para determinar onde um ataq
 
 Esta seção apresenta uma variedade de tabelas de locais de acerto e fórmulas rápidas para determinar os pontos de acerto por local para qualquer criatura desejada. Para determinar qual tabela usar, escolha a mais apropriada para a criatura desejada.
 
-- Humanoide:** Humano, Alienígena (Cinzento), Anjo (asas ocultas), Ciborgue, Anão, Elfo, Fantasma, Ghoul, Gigante, Halfling, Minotauro, Múmia, Mutante, Orc, Robôs (Gigante, Assassino, Utilitário), Esqueleto, Troll, Vampiro (em forma humana), Elementais (Terra, Água), Lobisomem (em forma híbrida), Zumbi
-- Sem-fim:** Blob
-- Humanoide de quatro patas:** Centauro
+- Humanoide**: Humano, Alienígena (Cinzento), Anjo (asas ocultas), Ciborgue, Anão, Elfo, Fantasma, Ghoul, Gigante, Halfling, Minotauro, Múmia, Mutante, Orc, Robôs (Gigante, Assassino, Utilitário), Esqueleto, Troll, Vampiro (em forma humana), Elementais (Terra, Água), Lobisomem (em forma híbrida), Zumbi
+- Sem-fim**: Blob
+- Humanoide de quatro patas**: Centauro
 - Quatro patas: Urso, Cão, Gorila, Cavalo, Leão, Tigre, Unicórnio, Lobo
 - Quatro patas com cauda**: Alienígena (Xenomorfo), Jacaré ou Crocodilo, Elemental (Fogo)
-- Gigante de quatro patas com cauda:** Brontossauro
+- Gigante de quatro patas com cauda**: Brontossauro
 - Múltiplos membros**: Lula (gigante)
-- Serpente:** Serpentes (Constritoras, Venenosas)
+- Serpente**: Serpentes (Constritoras, Venenosas)
 - Com duas pernas e cauda: Tiranossauro Rex
-- Alado:** Falcão
-- Alado com quatro patas:** Grifo
+- Alado**: Falcão
+- Alado com quatro patas**: Grifo
 
 Para determinar os pontos de vida por local, use a fórmula de pontos de vida ou a tabela de pontos de vida por local.
 
